@@ -1,0 +1,32 @@
+{
+  "1abb1gcw7arw1nkbuxnccjca1": {
+    "name": "Ibrahim Sangaré",
+    "key_fotmob": "795371",
+    "key_sofascore": "843754",
+    "verified": "2026-11-11",
+    "sources": [
+      "https://www.fotmob.com/players/795371/ibrahim-sangare",
+      "https://www.sofascore.com/football/player/ibrahim-sangare/843754"
+    ]
+  },
+  "bhi4ivjgojkot4d7za72gu2nd": {
+    "name": "Nikola Milenković",
+    "key_fotmob": "766611",
+    "key_sofascore": "836168",
+    "verified": "2026-11-11",
+    "sources": [
+      "https://www.fotmob.com/players/766611",
+      "https://www.sofascore.com/football/player/nikola-milenkovic/836168"
+    ]
+  },
+  "3yb66hal4fvr04bawz0y3efhl": {
+    "name": "Daniel Muñoz",
+    "key_fotmob": "859282",
+    "key_sofascore": "870360",
+    "verified": "2026-11-11",
+    "sources": [
+      "https://www.fotmob.com/players/859282/daniel-munoz",
+      "https://www.sofascore.com/football/player/daniel-munoz/870360"
+    ]
+  }
+}
