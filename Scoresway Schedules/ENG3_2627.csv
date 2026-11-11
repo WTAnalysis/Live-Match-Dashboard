@@ -1,0 +1,553 @@
+id,description,date,time,Home_Team,Away_Team,Home_Team_ID,Away_Team_ID
+5ehxr0x9e9xttvykvazyg1qtw,Wycombe Wanderers vs Barnsley,08/05/2027,11:30:00Z,Wycombe Wanderers,Barnsley,jv3jh5m5t7qy5t37vwwmnj16,9db4t34qy4owglhvvgwf5l22i
+5e695t3048nlg4lwxfcxo01zo,Wigan Athletic vs Burton Albion,08/05/2027,11:30:00Z,Wigan Athletic,Burton Albion,dmypntcdsl5w8w8pcqs0b8mpj,8mbtyq0has0uu0565fm9t5cdo
+5duph2qqdpksga8jgi4leqcyc,Stockport County vs Mansfield Town,08/05/2027,11:30:00Z,Stockport County,Mansfield Town,5adikbrse2tjc3zthxrx8ic2k,4hcdmgl41o4blqpbeelu56h7y
+5dj0smehiv1jknwr0mzc4w55g,Stevenage vs Huddersfield Town,08/05/2027,11:30:00Z,Stevenage,Huddersfield Town,6xhqd6it53k2s5n7veo817ga4,5n5baro467i8s8efkra3nhgux
+5d7jwyfp2mph5dutginae2a6s,Sheffield Wednesday vs Oxford United,08/05/2027,11:30:00Z,Sheffield Wednesday,Oxford United,1musyruv2ufjrjnj6gvdbr8kt,ahm0t06rup1bkd9z0mxl2lmph
+5cvyoq3rbgxbakli7cgytuk2c,Peterborough United vs Leyton Orient,08/05/2027,11:30:00Z,Peterborough United,Leyton Orient,5jjqm8h6qm1w4s5f93uubhdrj,2fhm98swvvbztf9cy67juhpas
+5ck9l515sovgih0jydawipe6s,MK Dons vs Bradford City,08/05/2027,11:30:00Z,MK Dons,Bradford City,8w89tsles26jm12aoelwvlttt,2b5k2yusdx2ctd5cdv739p3il
+5c85dct7qwhhtgw76j6i1iy38,Luton Town vs Blackpool,08/05/2027,11:30:00Z,Luton Town,Blackpool,aksa492u5hf93giwcn2zt1nzz,f1ni8k09kpdcwmkasi69rl0bz
+5bwkpnlahbko7j21ea9pybod0,Leicester City vs Cambridge United,08/05/2027,11:30:00Z,Leicester City,Cambridge United,avxknfz4f6ob0rv9dbnxdzde0,dmz37633qbsvl7gncq5s51yjw
+5bl2dzisrkbg6ov1oncxoqqs4,Doncaster Rovers vs Reading,08/05/2027,11:30:00Z,Doncaster Rovers,Reading,6dryhu9wer42nt1dxoophpk96,egm6z8hhksfg8f6a49jigczxh
+5b9egh5qab4hdei63bua2ye50,Bromley vs Plymouth Argyle,08/05/2027,11:30:00Z,Bromley,Plymouth Argyle,b6fvcpudsv2xhd8jd9ste749x,5g1fnexeromjl0lvnxp8hpnhi
+5axorc9xomhdcqkuhs809ewpg,AFC Wimbledon vs Notts County,08/05/2027,11:30:00Z,AFC Wimbledon,Notts County,7sck2yj98lv9ogljofza0c7f9,d3mskb8nk3afyi3tn0gt8kwh8
+5am72uwof291d9u4v7pklagb8,Reading vs Sheffield Wednesday,01/05/2027,14:00:00Z,Reading,Sheffield Wednesday,egm6z8hhksfg8f6a49jigczxh,1musyruv2ufjrjnj6gvdbr8kt
+5aajaqhwpj7dv4kcm1ayv3ok4,Plymouth Argyle vs Wigan Athletic,01/05/2027,14:00:00Z,Plymouth Argyle,Wigan Athletic,5g1fnexeromjl0lvnxp8hpnhi,dmypntcdsl5w8w8pcqs0b8mpj
+59z0b22hbz3qvvtoa8yf6h89g,Oxford United vs Peterborough United,01/05/2027,14:00:00Z,Oxford United,Peterborough United,ahm0t06rup1bkd9z0mxl2lmph,5jjqm8h6qm1w4s5f93uubhdrj
+59niwgdy2q40e5ocuuul3bbis,Notts County vs MK Dons,01/05/2027,14:00:00Z,Notts County,MK Dons,d3mskb8nk3afyi3tn0gt8kwh8,8w89tsles26jm12aoelwvlttt
+59bwjnjj26mzzkf045jhrlq1g,Mansfield Town vs Leicester City,01/05/2027,14:00:00Z,Mansfield Town,Leicester City,4hcdmgl41o4blqpbeelu56h7y,avxknfz4f6ob0rv9dbnxdzde0
+590fhxigbm0ise88wiqul0b9w,Leyton Orient vs Stockport County,01/05/2027,14:00:00Z,Leyton Orient,Stockport County,2fhm98swvvbztf9cy67juhpas,5adikbrse2tjc3zthxrx8ic2k
+58p0pp3j6ick7px2881vemjh0,Huddersfield Town vs Doncaster Rovers,01/05/2027,14:00:00Z,Huddersfield Town,Doncaster Rovers,5n5baro467i8s8efkra3nhgux,6dryhu9wer42nt1dxoophpk96
+58dkm9ereg7l4n2govgfxot1w,Cambridge United vs Luton Town,01/05/2027,14:00:00Z,Cambridge United,Luton Town,dmz37633qbsvl7gncq5s51yjw,aksa492u5hf93giwcn2zt1nzz
+58264sor9u8jnme0j0x88g8b8,Burton Albion vs Bromley,01/05/2027,14:00:00Z,Burton Albion,Bromley,8mbtyq0has0uu0565fm9t5cdo,b6fvcpudsv2xhd8jd9ste749x
+57qodp81qe2mi1ebf5qde9i50,Bradford City vs Wycombe Wanderers,01/05/2027,14:00:00Z,Bradford City,Wycombe Wanderers,2b5k2yusdx2ctd5cdv739p3il,jv3jh5m5t7qy5t37vwwmnj16
+57f3dg34wzyj1zbac335rhrtg,Blackpool vs Stevenage,01/05/2027,14:00:00Z,Blackpool,Stevenage,f1ni8k09kpdcwmkasi69rl0bz,6xhqd6it53k2s5n7veo817ga4
+573m8bkzup76vf0u32yq9ku1g,Barnsley vs AFC Wimbledon,01/05/2027,14:00:00Z,Barnsley,AFC Wimbledon,9db4t34qy4owglhvvgwf5l22i,7sck2yj98lv9ogljofza0c7f9
+56rxzszrai6y9ff9hwoo0gpp0,Wycombe Wanderers vs Bromley,27/04/2027,18:45:00Z,Wycombe Wanderers,Bromley,jv3jh5m5t7qy5t37vwwmnj16,b6fvcpudsv2xhd8jd9ste749x
+56gel7atonoihmc518l92g2dw,Stockport County vs Oxford United,27/04/2027,18:45:00Z,Stockport County,Oxford United,5adikbrse2tjc3zthxrx8ic2k,ahm0t06rup1bkd9z0mxl2lmph
+5646bvkxzrgupnvg1pl09dez8,Stevenage vs AFC Wimbledon,27/04/2027,18:45:00Z,Stevenage,AFC Wimbledon,6xhqd6it53k2s5n7veo817ga4,7sck2yj98lv9ogljofza0c7f9
+55sq7jgm5lo4zewlvf3qc53pw,Plymouth Argyle vs Leyton Orient,27/04/2027,18:45:00Z,Plymouth Argyle,Leyton Orient,5g1fnexeromjl0lvnxp8hpnhi,2fhm98swvvbztf9cy67juhpas
+55ha954y2k3noj9m3xs89l1xw,Notts County vs Peterborough United,27/04/2027,18:45:00Z,Notts County,Peterborough United,d3mskb8nk3afyi3tn0gt8kwh8,5jjqm8h6qm1w4s5f93uubhdrj
+555qjfsxye4lu0am21vy7d7h0,MK Dons vs Barnsley,27/04/2027,18:45:00Z,MK Dons,Barnsley,8w89tsles26jm12aoelwvlttt,9db4t34qy4owglhvvgwf5l22i
+54u8nqrjp20n6k2j648emu5n8,Mansfield Town vs Wigan Athletic,27/04/2027,18:45:00Z,Mansfield Town,Wigan Athletic,4hcdmgl41o4blqpbeelu56h7y,dmypntcdsl5w8w8pcqs0b8mpj
+54is56zgty66qvl4b5t6yrdas,Leicester City vs Blackpool,27/04/2027,18:45:00Z,Leicester City,Blackpool,avxknfz4f6ob0rv9dbnxdzde0,f1ni8k09kpdcwmkasi69rl0bz
+5477xzcwuevaispxg9tbvcvmc,Huddersfield Town vs Burton Albion,27/04/2027,18:45:00Z,Huddersfield Town,Burton Albion,5n5baro467i8s8efkra3nhgux,8mbtyq0has0uu0565fm9t5cdo
+53vmvkrou3uw9gixj1kaus3dg,Doncaster Rovers vs Luton Town,27/04/2027,18:45:00Z,Doncaster Rovers,Luton Town,6dryhu9wer42nt1dxoophpk96,aksa492u5hf93giwcn2zt1nzz
+53jzbm62e56a7h6cgupdpq7mc,Cambridge United vs Sheffield Wednesday,27/04/2027,18:45:00Z,Cambridge United,Sheffield Wednesday,dmz37633qbsvl7gncq5s51yjw,1musyruv2ufjrjnj6gvdbr8kt
+5381bgdgq8typwmr8u6cza42c,Bradford City vs Reading,27/04/2027,18:45:00Z,Bradford City,Reading,2b5k2yusdx2ctd5cdv739p3il,egm6z8hhksfg8f6a49jigczxh
+52wl126ulqqu7rj3f18hma904,Wigan Athletic vs Stevenage,24/04/2027,14:00:00Z,Wigan Athletic,Stevenage,dmypntcdsl5w8w8pcqs0b8mpj,6xhqd6it53k2s5n7veo817ga4
+52l0wrr6a2qe2d08gvas7s6c4,Sheffield Wednesday vs MK Dons,24/04/2027,14:00:00Z,Sheffield Wednesday,MK Dons,1musyruv2ufjrjnj6gvdbr8kt,8w89tsles26jm12aoelwvlttt
+529iplmsbv65qquzs3qvxm68k,Reading vs Huddersfield Town,24/04/2027,14:00:00Z,Reading,Huddersfield Town,egm6z8hhksfg8f6a49jigczxh,5n5baro467i8s8efkra3nhgux
+51xti9a8voswxorernckjvmdw,Peterborough United vs Leicester City,24/04/2027,14:00:00Z,Peterborough United,Leicester City,5jjqm8h6qm1w4s5f93uubhdrj,avxknfz4f6ob0rv9dbnxdzde0
+51m9ciknij1t0vvk3vhaq0aac,Oxford United vs Notts County,24/04/2027,14:00:00Z,Oxford United,Notts County,ahm0t06rup1bkd9z0mxl2lmph,d3mskb8nk3afyi3tn0gt8kwh8
+51aq9pp6kf5mdofacyuzummms,Luton Town vs Wycombe Wanderers,24/04/2027,14:00:00Z,Luton Town,Wycombe Wanderers,aksa492u5hf93giwcn2zt1nzz,jv3jh5m5t7qy5t37vwwmnj16
+50z4d64kafrw6j2e81ximl79w,Leyton Orient vs Bradford City,24/04/2027,14:00:00Z,Leyton Orient,Bradford City,2fhm98swvvbztf9cy67juhpas,2b5k2yusdx2ctd5cdv739p3il
+50nmrscmhkx9sivhd9fh103dg,Burton Albion vs Doncaster Rovers,24/04/2027,14:00:00Z,Burton Albion,Doncaster Rovers,8mbtyq0has0uu0565fm9t5cdo,6dryhu9wer42nt1dxoophpk96
+50c61q0nrog1axcszcjr7qj2s,Bromley vs Mansfield Town,24/04/2027,14:00:00Z,Bromley,Mansfield Town,b6fvcpudsv2xhd8jd9ste749x,4hcdmgl41o4blqpbeelu56h7y
+4zzq7dv6p975w3f9rs1tb8qac,Blackpool vs Cambridge United,24/04/2027,14:00:00Z,Blackpool,Cambridge United,f1ni8k09kpdcwmkasi69rl0bz,dmz37633qbsvl7gncq5s51yjw
+4zo5vnv5w8zuxjffkckdobdp0,Barnsley vs Stockport County,24/04/2027,14:00:00Z,Barnsley,Stockport County,9db4t34qy4owglhvvgwf5l22i,5adikbrse2tjc3zthxrx8ic2k
+4zcm9xwzq094rri4fodbarkes,AFC Wimbledon vs Plymouth Argyle,24/04/2027,14:00:00Z,AFC Wimbledon,Plymouth Argyle,7sck2yj98lv9ogljofza0c7f9,5g1fnexeromjl0lvnxp8hpnhi
+4z0ytsify3baedj7lhbpqsr2s,Wycombe Wanderers vs Wigan Athletic,17/04/2027,14:00:00Z,Wycombe Wanderers,Wigan Athletic,jv3jh5m5t7qy5t37vwwmnj16,dmypntcdsl5w8w8pcqs0b8mpj
+4ypavrl3n7nnkm69wi5du9i50,Stockport County vs Sheffield Wednesday,17/04/2027,14:00:00Z,Stockport County,Sheffield Wednesday,5adikbrse2tjc3zthxrx8ic2k,1musyruv2ufjrjnj6gvdbr8kt
+4ydp56vjr5ipdyugzkpdv65uc,Stevenage vs Leyton Orient,17/04/2027,14:00:00Z,Stevenage,Leyton Orient,6xhqd6it53k2s5n7veo817ga4,2fhm98swvvbztf9cy67juhpas
+4y20kvguj7w7ndm1omy7jf1uc,Plymouth Argyle vs Blackpool,17/04/2027,14:00:00Z,Plymouth Argyle,Blackpool,5g1fnexeromjl0lvnxp8hpnhi,f1ni8k09kpdcwmkasi69rl0bz
+4xqer5o7hq5l8vyav31fjem1g,Notts County vs Reading,17/04/2027,14:00:00Z,Notts County,Reading,d3mskb8nk3afyi3tn0gt8kwh8,egm6z8hhksfg8f6a49jigczxh
+4x37z7aapnbvb7w62elev6bdg,Mansfield Town vs Burton Albion,17/04/2027,14:00:00Z,Mansfield Town,Burton Albion,4hcdmgl41o4blqpbeelu56h7y,8mbtyq0has0uu0565fm9t5cdo
+4wrltcxq1jt0bovvm5mrfiuj8,Leicester City vs Barnsley,17/04/2027,14:00:00Z,Leicester City,Barnsley,avxknfz4f6ob0rv9dbnxdzde0,9db4t34qy4owglhvvgwf5l22i
+4wg1f077druzn50pfx9vsdc0k,Huddersfield Town vs Bromley,17/04/2027,14:00:00Z,Huddersfield Town,Bromley,5n5baro467i8s8efkra3nhgux,b6fvcpudsv2xhd8jd9ste749x
+4w4idmj8ucox6786lg9fy347o,Doncaster Rovers vs Peterborough United,17/04/2027,14:00:00Z,Doncaster Rovers,Peterborough United,6dryhu9wer42nt1dxoophpk96,5jjqm8h6qm1w4s5f93uubhdrj
+4vsxd9zflkxhg4hyx0krufyfo,Cambridge United vs Oxford United,17/04/2027,14:00:00Z,Cambridge United,Oxford United,dmz37633qbsvl7gncq5s51yjw,ahm0t06rup1bkd9z0mxl2lmph
+4vh9cjz3ncwc7hbrh1t8v2xp0,Bradford City vs Luton Town,17/04/2027,14:00:00Z,Bradford City,Luton Town,2b5k2yusdx2ctd5cdv739p3il,aksa492u5hf93giwcn2zt1nzz
+4xeqwflck8drlvifga3379hxw,MK Dons vs AFC Wimbledon,17/04/2027,11:30:00Z,MK Dons,AFC Wimbledon,8w89tsles26jm12aoelwvlttt,7sck2yj98lv9ogljofza0c7f9
+4ui6ynw3mui5t09bhywem7ok4,Reading vs Wycombe Wanderers,13/04/2027,19:00:00Z,Reading,Wycombe Wanderers,egm6z8hhksfg8f6a49jigczxh,jv3jh5m5t7qy5t37vwwmnj16
+4v5exwxvygesagu0cce3j1fys,Wigan Athletic vs Leicester City,13/04/2027,18:45:00Z,Wigan Athletic,Leicester City,dmypntcdsl5w8w8pcqs0b8mpj,avxknfz4f6ob0rv9dbnxdzde0
+4utyt340eik8m90wpqiifa39w,Sheffield Wednesday vs Stevenage,13/04/2027,18:45:00Z,Sheffield Wednesday,Stevenage,1musyruv2ufjrjnj6gvdbr8kt,6xhqd6it53k2s5n7veo817ga4
+4u5ajbwa7371jt95w45olmaz8,Peterborough United vs Stockport County,13/04/2027,18:45:00Z,Peterborough United,Stockport County,5jjqm8h6qm1w4s5f93uubhdrj,5adikbrse2tjc3zthxrx8ic2k
+4trjd9nimc2c686lwgdae6o7o,Oxford United vs Doncaster Rovers,13/04/2027,18:45:00Z,Oxford United,Doncaster Rovers,ahm0t06rup1bkd9z0mxl2lmph,6dryhu9wer42nt1dxoophpk96
+4tg0hrv33dp4h0uw09xjw31g4,Luton Town vs Huddersfield Town,13/04/2027,18:45:00Z,Luton Town,Huddersfield Town,aksa492u5hf93giwcn2zt1nzz,5n5baro467i8s8efkra3nhgux
+4t2tkbywu6k26mp61okwcixhw,Leyton Orient vs Mansfield Town,13/04/2027,18:45:00Z,Leyton Orient,Mansfield Town,2fhm98swvvbztf9cy67juhpas,4hcdmgl41o4blqpbeelu56h7y
+4sr8pwsealtfuo7wgdxbjg3ro,Burton Albion vs Plymouth Argyle,13/04/2027,18:45:00Z,Burton Albion,Plymouth Argyle,8mbtyq0has0uu0565fm9t5cdo,5g1fnexeromjl0lvnxp8hpnhi
+4sfn4dnmmiuoyun5h5tl8setw,Bromley vs MK Dons,13/04/2027,18:45:00Z,Bromley,MK Dons,b6fvcpudsv2xhd8jd9ste749x,8w89tsles26jm12aoelwvlttt
+4s41s6sl1a91hshxy47f44idw,Blackpool vs Notts County,13/04/2027,18:45:00Z,Blackpool,Notts County,f1ni8k09kpdcwmkasi69rl0bz,d3mskb8nk3afyi3tn0gt8kwh8
+4rsiju7f3hxekjdghiputo8ic,Barnsley vs Bradford City,13/04/2027,18:45:00Z,Barnsley,Bradford City,9db4t34qy4owglhvvgwf5l22i,2b5k2yusdx2ctd5cdv739p3il
+4rh3v60yi2ofy5r3853vi311w,AFC Wimbledon vs Cambridge United,13/04/2027,18:45:00Z,AFC Wimbledon,Cambridge United,7sck2yj98lv9ogljofza0c7f9,dmz37633qbsvl7gncq5s51yjw
+4r5gvkzmup6qorrzf5tmkmj2s,Wycombe Wanderers vs Mansfield Town,10/04/2027,14:00:00Z,Wycombe Wanderers,Mansfield Town,jv3jh5m5t7qy5t37vwwmnj16,4hcdmgl41o4blqpbeelu56h7y
+4qsl3eubrahoeg2b917w19rtg,Wigan Athletic vs Doncaster Rovers,10/04/2027,14:00:00Z,Wigan Athletic,Doncaster Rovers,dmypntcdsl5w8w8pcqs0b8mpj,6dryhu9wer42nt1dxoophpk96
+4qfooj2acl0fgu49ynf38tono,Stockport County vs Stevenage,10/04/2027,14:00:00Z,Stockport County,Stevenage,5adikbrse2tjc3zthxrx8ic2k,6xhqd6it53k2s5n7veo817ga4
+4q2pxroj31k0eekqtdb5w6bys,Sheffield Wednesday vs Leicester City,10/04/2027,14:00:00Z,Sheffield Wednesday,Leicester City,1musyruv2ufjrjnj6gvdbr8kt,avxknfz4f6ob0rv9dbnxdzde0
+4po5ogzodrqthegbh18z1mfpw,Reading vs Burton Albion,10/04/2027,14:00:00Z,Reading,Burton Albion,egm6z8hhksfg8f6a49jigczxh,8mbtyq0has0uu0565fm9t5cdo
+4p9vjoqa8yfjpa5knmm90v384,Plymouth Argyle vs Oxford United,10/04/2027,14:00:00Z,Plymouth Argyle,Oxford United,5g1fnexeromjl0lvnxp8hpnhi,ahm0t06rup1bkd9z0mxl2lmph
+4ovknsy01k3keju8ryo22msyc,Leyton Orient vs MK Dons,10/04/2027,14:00:00Z,Leyton Orient,MK Dons,2fhm98swvvbztf9cy67juhpas,8w89tsles26jm12aoelwvlttt
+4oh8dqk69pz1ch8oi63ucehw4,Cambridge United vs Notts County,10/04/2027,14:00:00Z,Cambridge United,Notts County,dmz37633qbsvl7gncq5s51yjw,d3mskb8nk3afyi3tn0gt8kwh8
+4o2u0kzzqi5ig48eqzoc8w178,Bromley vs Luton Town,10/04/2027,14:00:00Z,Bromley,Luton Town,b6fvcpudsv2xhd8jd9ste749x,aksa492u5hf93giwcn2zt1nzz
+4nrazoejbz85d9nsvbv6qyyok,Blackpool vs Huddersfield Town,10/04/2027,14:00:00Z,Blackpool,Huddersfield Town,f1ni8k09kpdcwmkasi69rl0bz,5n5baro467i8s8efkra3nhgux
+4ncg0t6kp4dm0s7l3tbmqr8k4,Barnsley vs Peterborough United,10/04/2027,14:00:00Z,Barnsley,Peterborough United,9db4t34qy4owglhvvgwf5l22i,5jjqm8h6qm1w4s5f93uubhdrj
+4n0ub8j5ti5g9y6nl0v9yvv9w,AFC Wimbledon vs Bradford City,10/04/2027,14:00:00Z,AFC Wimbledon,Bradford City,7sck2yj98lv9ogljofza0c7f9,2b5k2yusdx2ctd5cdv739p3il
+4mmgjms6d6x6m5ir6evzdrq50,Stevenage vs Wycombe Wanderers,03/04/2027,14:00:00Z,Stevenage,Wycombe Wanderers,6xhqd6it53k2s5n7veo817ga4,jv3jh5m5t7qy5t37vwwmnj16
+4m82qrl2q58xqzs88x21b16hg,Peterborough United vs Reading,03/04/2027,14:00:00Z,Peterborough United,Reading,5jjqm8h6qm1w4s5f93uubhdrj,egm6z8hhksfg8f6a49jigczxh
+4lv11bzbx0l8noujusj58bqc4,Oxford United vs Bromley,03/04/2027,14:00:00Z,Oxford United,Bromley,ahm0t06rup1bkd9z0mxl2lmph,b6fvcpudsv2xhd8jd9ste749x
+4lhv92shp5uqq6vk8l2qhxs7o,Notts County vs Wigan Athletic,03/04/2027,14:00:00Z,Notts County,Wigan Athletic,d3mskb8nk3afyi3tn0gt8kwh8,dmypntcdsl5w8w8pcqs0b8mpj
+4l4vny3rmgicjj3mk1r21p6hg,MK Dons vs Plymouth Argyle,03/04/2027,14:00:00Z,MK Dons,Plymouth Argyle,8w89tsles26jm12aoelwvlttt,5g1fnexeromjl0lvnxp8hpnhi
+4kt9m943n73nqa9lkeb648qvo,Mansfield Town vs Sheffield Wednesday,03/04/2027,14:00:00Z,Mansfield Town,Sheffield Wednesday,4hcdmgl41o4blqpbeelu56h7y,1musyruv2ufjrjnj6gvdbr8kt
+4khq9b5xihfotsg6hkf9di42c,Luton Town vs AFC Wimbledon,03/04/2027,14:00:00Z,Luton Town,AFC Wimbledon,aksa492u5hf93giwcn2zt1nzz,7sck2yj98lv9ogljofza0c7f9
+4k62rpwtqzylq9769fkry9yqc,Leicester City vs Leyton Orient,03/04/2027,14:00:00Z,Leicester City,Leyton Orient,avxknfz4f6ob0rv9dbnxdzde0,2fhm98swvvbztf9cy67juhpas
+4jubsnuc9z3kyffet83q5ytck,Huddersfield Town vs Stockport County,03/04/2027,14:00:00Z,Huddersfield Town,Stockport County,5n5baro467i8s8efkra3nhgux,5adikbrse2tjc3zthxrx8ic2k
+4jis59id1pp9dgm1t7i4qz3f8,Doncaster Rovers vs Cambridge United,03/04/2027,14:00:00Z,Doncaster Rovers,Cambridge United,6dryhu9wer42nt1dxoophpk96,dmz37633qbsvl7gncq5s51yjw
+4j7bccc0gikdi2ozara0bepzo,Burton Albion vs Barnsley,03/04/2027,14:00:00Z,Burton Albion,Barnsley,8mbtyq0has0uu0565fm9t5cdo,9db4t34qy4owglhvvgwf5l22i
+4iuf428xskuqxyl2kpx6nqwic,Bradford City vs Blackpool,03/04/2027,14:00:00Z,Bradford City,Blackpool,2b5k2yusdx2ctd5cdv739p3il,f1ni8k09kpdcwmkasi69rl0bz
+4iiwsue83vfe8pg76jybmb9ck,Wycombe Wanderers vs Peterborough United,29/03/2027,14:00:00Z,Wycombe Wanderers,Peterborough United,jv3jh5m5t7qy5t37vwwmnj16,5jjqm8h6qm1w4s5f93uubhdrj
+4i6033aoqc06esosmivylskyc,Wigan Athletic vs Luton Town,29/03/2027,14:00:00Z,Wigan Athletic,Luton Town,dmypntcdsl5w8w8pcqs0b8mpj,aksa492u5hf93giwcn2zt1nzz
+4hqufzz9q3072yjp8emguaxhw,Stockport County vs Bradford City,29/03/2027,14:00:00Z,Stockport County,Bradford City,5adikbrse2tjc3zthxrx8ic2k,2b5k2yusdx2ctd5cdv739p3il
+4hfb6i7m4sarav5khml2nbjf8,Sheffield Wednesday vs Burton Albion,29/03/2027,14:00:00Z,Sheffield Wednesday,Burton Albion,1musyruv2ufjrjnj6gvdbr8kt,8mbtyq0has0uu0565fm9t5cdo
+4h3riu9z79rjfq107124nvf9w,Reading vs Stevenage,29/03/2027,14:00:00Z,Reading,Stevenage,egm6z8hhksfg8f6a49jigczxh,6xhqd6it53k2s5n7veo817ga4
+4grcvf4ryv07gm1anpg14hdec,Plymouth Argyle vs Notts County,29/03/2027,14:00:00Z,Plymouth Argyle,Notts County,5g1fnexeromjl0lvnxp8hpnhi,d3mskb8nk3afyi3tn0gt8kwh8
+4gfkjklupa27ikxswmn46zthw,Leyton Orient vs Huddersfield Town,29/03/2027,14:00:00Z,Leyton Orient,Huddersfield Town,2fhm98swvvbztf9cy67juhpas,5n5baro467i8s8efkra3nhgux
+4g40d5cwrkyl3rxbltam8ul1w,Cambridge United vs MK Dons,29/03/2027,14:00:00Z,Cambridge United,MK Dons,dmz37633qbsvl7gncq5s51yjw,8w89tsles26jm12aoelwvlttt
+4fsge344zotbalwfm8pr6h1xw,Bromley vs Doncaster Rovers,29/03/2027,14:00:00Z,Bromley,Doncaster Rovers,b6fvcpudsv2xhd8jd9ste749x,6dryhu9wer42nt1dxoophpk96
+4fgvjz11u3fjv7iigdfww8dg4,Blackpool vs Oxford United,29/03/2027,14:00:00Z,Blackpool,Oxford United,f1ni8k09kpdcwmkasi69rl0bz,ahm0t06rup1bkd9z0mxl2lmph
+4f5f72dke1nvzlchwgxf43ms4,Barnsley vs Mansfield Town,29/03/2027,14:00:00Z,Barnsley,Mansfield Town,9db4t34qy4owglhvvgwf5l22i,4hcdmgl41o4blqpbeelu56h7y
+4ettiblj8zuyoeyf2lktfv9qs,AFC Wimbledon vs Leicester City,29/03/2027,14:00:00Z,AFC Wimbledon,Leicester City,7sck2yj98lv9ogljofza0c7f9,avxknfz4f6ob0rv9dbnxdzde0
+4ei4mshtihbe17kl3ksaovmz8,Stevenage vs Bromley,26/03/2027,15:00:00Z,Stevenage,Bromley,6xhqd6it53k2s5n7veo817ga4,b6fvcpudsv2xhd8jd9ste749x
+4e6a6eaxx2c0yv5xzo46oopas,Peterborough United vs AFC Wimbledon,26/03/2027,15:00:00Z,Peterborough United,AFC Wimbledon,5jjqm8h6qm1w4s5f93uubhdrj,7sck2yj98lv9ogljofza0c7f9
+4dulw7yxvqhbhkao0nmm8akgk,Oxford United vs Leyton Orient,26/03/2027,15:00:00Z,Oxford United,Leyton Orient,ahm0t06rup1bkd9z0mxl2lmph,2fhm98swvvbztf9cy67juhpas
+4dixencoiu20av73rdzd7sxzo,Notts County vs Barnsley,26/03/2027,15:00:00Z,Notts County,Barnsley,d3mskb8nk3afyi3tn0gt8kwh8,9db4t34qy4owglhvvgwf5l22i
+4d7b4c4epzup78ub3fzj70d90,MK Dons vs Sheffield Wednesday,26/03/2027,15:00:00Z,MK Dons,Sheffield Wednesday,8w89tsles26jm12aoelwvlttt,1musyruv2ufjrjnj6gvdbr8kt
+4cvsdonlic5l7kwdmkogvhlhw,Mansfield Town vs Cambridge United,26/03/2027,15:00:00Z,Mansfield Town,Cambridge United,4hcdmgl41o4blqpbeelu56h7y,dmz37633qbsvl7gncq5s51yjw
+4ck8i4ih0ie86g5tfkj6vczkk,Luton Town vs Plymouth Argyle,26/03/2027,15:00:00Z,Luton Town,Plymouth Argyle,aksa492u5hf93giwcn2zt1nzz,5g1fnexeromjl0lvnxp8hpnhi
+4c8m8d4k729u721rual2tn3f8,Leicester City vs Wycombe Wanderers,26/03/2027,15:00:00Z,Leicester City,Wycombe Wanderers,avxknfz4f6ob0rv9dbnxdzde0,jv3jh5m5t7qy5t37vwwmnj16
+4bx036oaimad5njrjkwmo3ms4,Huddersfield Town vs Reading,26/03/2027,15:00:00Z,Huddersfield Town,Reading,5n5baro467i8s8efkra3nhgux,egm6z8hhksfg8f6a49jigczxh
+4ble9dgr1qweh58u4nye77ris,Doncaster Rovers vs Blackpool,26/03/2027,15:00:00Z,Doncaster Rovers,Blackpool,6dryhu9wer42nt1dxoophpk96,f1ni8k09kpdcwmkasi69rl0bz
+4b9xm7waxsi70yzlbt05iqot0,Burton Albion vs Stockport County,26/03/2027,15:00:00Z,Burton Albion,Stockport County,8mbtyq0has0uu0565fm9t5cdo,5adikbrse2tjc3zthxrx8ic2k
+4axp3ticvb2c4fek6ofp44n4k,Bradford City vs Wigan Athletic,26/03/2027,15:00:00Z,Bradford City,Wigan Athletic,2b5k2yusdx2ctd5cdv739p3il,dmypntcdsl5w8w8pcqs0b8mpj
+4algvku5kb7e11t0uzbvf1gr8,Wycombe Wanderers vs Oxford United,20/03/2027,15:00:00Z,Wycombe Wanderers,Oxford United,jv3jh5m5t7qy5t37vwwmnj16,ahm0t06rup1bkd9z0mxl2lmph
+4a9zbc10w04uz9cb4jbbfxic4,Wigan Athletic vs Blackpool,20/03/2027,15:00:00Z,Wigan Athletic,Blackpool,dmypntcdsl5w8w8pcqs0b8mpj,f1ni8k09kpdcwmkasi69rl0bz
+49yegui0jurfyex3r1xzk92qc,Stockport County vs Cambridge United,20/03/2027,15:00:00Z,Stockport County,Cambridge United,5adikbrse2tjc3zthxrx8ic2k,dmz37633qbsvl7gncq5s51yjw
+49mz66akuh3crvw8tmxvi49as,Stevenage vs Notts County,20/03/2027,15:00:00Z,Stevenage,Notts County,6xhqd6it53k2s5n7veo817ga4,d3mskb8nk3afyi3tn0gt8kwh8
+49bkvcrb5d3waqu2czb0w1p90,Sheffield Wednesday vs Barnsley,20/03/2027,15:00:00Z,Sheffield Wednesday,Barnsley,1musyruv2ufjrjnj6gvdbr8kt,9db4t34qy4owglhvvgwf5l22i
+4903y8xypk8l5bi1ex639yiac,Peterborough United vs Plymouth Argyle,20/03/2027,15:00:00Z,Peterborough United,Plymouth Argyle,5jjqm8h6qm1w4s5f93uubhdrj,5g1fnexeromjl0lvnxp8hpnhi
+48oj57ovewltvvftr1qbtnc44,MK Dons vs Mansfield Town,20/03/2027,15:00:00Z,MK Dons,Mansfield Town,8w89tsles26jm12aoelwvlttt,4hcdmgl41o4blqpbeelu56h7y
+48d54rrjyuiid2cr3pyq94bv8,Luton Town vs Burton Albion,20/03/2027,15:00:00Z,Luton Town,Burton Albion,aksa492u5hf93giwcn2zt1nzz,8mbtyq0has0uu0565fm9t5cdo
+481mvehem18b35rya4aacpk44,Leicester City vs Huddersfield Town,20/03/2027,15:00:00Z,Leicester City,Huddersfield Town,avxknfz4f6ob0rv9dbnxdzde0,5n5baro467i8s8efkra3nhgux
+47q2ii8hipmnomt7zbxbez9qs,Doncaster Rovers vs Bradford City,20/03/2027,15:00:00Z,Doncaster Rovers,Bradford City,6dryhu9wer42nt1dxoophpk96,2b5k2yusdx2ctd5cdv739p3il
+47ehs3xklscbnt5sg3fc8y87o,Bromley vs Reading,20/03/2027,15:00:00Z,Bromley,Reading,b6fvcpudsv2xhd8jd9ste749x,egm6z8hhksfg8f6a49jigczxh
+472zk7kdvclwp6kbtlvhm2m1g,AFC Wimbledon vs Leyton Orient,20/03/2027,15:00:00Z,AFC Wimbledon,Leyton Orient,7sck2yj98lv9ogljofza0c7f9,2fhm98swvvbztf9cy67juhpas
+46ri0qx6px4xy1evhefyi5y50,Reading vs AFC Wimbledon,13/03/2027,15:00:00Z,Reading,AFC Wimbledon,egm6z8hhksfg8f6a49jigczxh,7sck2yj98lv9ogljofza0c7f9
+46fztygeh862qhud631w3hnv8,Plymouth Argyle vs Wycombe Wanderers,13/03/2027,15:00:00Z,Plymouth Argyle,Wycombe Wanderers,5g1fnexeromjl0lvnxp8hpnhi,jv3jh5m5t7qy5t37vwwmnj16
+4647d5z9y0axaa6g8i0i8hus4,Oxford United vs Stevenage,13/03/2027,15:00:00Z,Oxford United,Stevenage,ahm0t06rup1bkd9z0mxl2lmph,6xhqd6it53k2s5n7veo817ga4
+45somg5yxrz0lqakzfzoudh5g,Notts County vs Luton Town,13/03/2027,15:00:00Z,Notts County,Luton Town,d3mskb8nk3afyi3tn0gt8kwh8,aksa492u5hf93giwcn2zt1nzz
+45h3jggasb9g4em50jaw6e80k,Mansfield Town vs Peterborough United,13/03/2027,15:00:00Z,Mansfield Town,Peterborough United,4hcdmgl41o4blqpbeelu56h7y,5jjqm8h6qm1w4s5f93uubhdrj
+455iga4ib1uwlo6s0qliuq2ok,Leyton Orient vs Wigan Athletic,13/03/2027,15:00:00Z,Leyton Orient,Wigan Athletic,2fhm98swvvbztf9cy67juhpas,dmypntcdsl5w8w8pcqs0b8mpj
+44tp8sf4zndjaspcvulirwxsk,Huddersfield Town vs MK Dons,13/03/2027,15:00:00Z,Huddersfield Town,MK Dons,5n5baro467i8s8efkra3nhgux,8w89tsles26jm12aoelwvlttt
+44hpzcp3v6jkgb79h7awinac4,Cambridge United vs Bromley,13/03/2027,15:00:00Z,Cambridge United,Bromley,dmz37633qbsvl7gncq5s51yjw,b6fvcpudsv2xhd8jd9ste749x
+4464w06k41ngxf3vs6pn3e68k,Burton Albion vs Leicester City,13/03/2027,15:00:00Z,Burton Albion,Leicester City,8mbtyq0has0uu0565fm9t5cdo,avxknfz4f6ob0rv9dbnxdzde0
+43ug4s75abi7fehfnb73e2m1g,Bradford City vs Sheffield Wednesday,13/03/2027,15:00:00Z,Bradford City,Sheffield Wednesday,2b5k2yusdx2ctd5cdv739p3il,1musyruv2ufjrjnj6gvdbr8kt
+43iku8t6w9jswmdg5vs6wd2j8,Blackpool vs Stockport County,13/03/2027,15:00:00Z,Blackpool,Stockport County,f1ni8k09kpdcwmkasi69rl0bz,5adikbrse2tjc3zthxrx8ic2k
+4370qajcldwr8wn6gbjxeyyok,Barnsley vs Doncaster Rovers,13/03/2027,15:00:00Z,Barnsley,Doncaster Rovers,9db4t34qy4owglhvvgwf5l22i,6dryhu9wer42nt1dxoophpk96
+42veerketi352xjck6864zp5g,Wycombe Wanderers vs Blackpool,06/03/2027,15:00:00Z,Wycombe Wanderers,Blackpool,jv3jh5m5t7qy5t37vwwmnj16,f1ni8k09kpdcwmkasi69rl0bz
+42jshie1c6ccsnckz1hreejv8,Wigan Athletic vs Cambridge United,06/03/2027,15:00:00Z,Wigan Athletic,Cambridge United,dmypntcdsl5w8w8pcqs0b8mpj,dmz37633qbsvl7gncq5s51yjw
+427nlui57qdkj0kf5fd3ndst0,Stockport County vs Plymouth Argyle,06/03/2027,15:00:00Z,Stockport County,Plymouth Argyle,5adikbrse2tjc3zthxrx8ic2k,5g1fnexeromjl0lvnxp8hpnhi
+41w2suqtlsyrvyacmedq5gdn8,Stevenage vs Burton Albion,06/03/2027,15:00:00Z,Stevenage,Burton Albion,6xhqd6it53k2s5n7veo817ga4,8mbtyq0has0uu0565fm9t5cdo
+41kf08etnj9kx7mur2igyolqs,Sheffield Wednesday vs Leyton Orient,06/03/2027,15:00:00Z,Sheffield Wednesday,Leyton Orient,1musyruv2ufjrjnj6gvdbr8kt,2fhm98swvvbztf9cy67juhpas
+418y6btdms115w19bzhq625g4,Peterborough United vs Bradford City,06/03/2027,15:00:00Z,Peterborough United,Bradford City,5jjqm8h6qm1w4s5f93uubhdrj,2b5k2yusdx2ctd5cdv739p3il
+40xfagspg89vdv7pe10uckqac,MK Dons vs Oxford United,06/03/2027,15:00:00Z,MK Dons,Oxford United,8w89tsles26jm12aoelwvlttt,ahm0t06rup1bkd9z0mxl2lmph
+40lwabq4zp4y1sc0f3lovp250,Luton Town vs Reading,06/03/2027,15:00:00Z,Luton Town,Reading,aksa492u5hf93giwcn2zt1nzz,egm6z8hhksfg8f6a49jigczxh
+40afx5oodcu3eme8qg86t5vys,Leicester City vs Notts County,06/03/2027,15:00:00Z,Leicester City,Notts County,avxknfz4f6ob0rv9dbnxdzde0,d3mskb8nk3afyi3tn0gt8kwh8
+3zywnx3bfe24vg8eykzgmiyok,Doncaster Rovers vs Mansfield Town,06/03/2027,15:00:00Z,Doncaster Rovers,Mansfield Town,6dryhu9wer42nt1dxoophpk96,4hcdmgl41o4blqpbeelu56h7y
+3znbh6j2eg8lef48jv73g2904,Bromley vs Barnsley,06/03/2027,15:00:00Z,Bromley,Barnsley,b6fvcpudsv2xhd8jd9ste749x,9db4t34qy4owglhvvgwf5l22i
+3zbs6li1wakqf4bhzf6xv1f6c,AFC Wimbledon vs Huddersfield Town,06/03/2027,15:00:00Z,AFC Wimbledon,Huddersfield Town,7sck2yj98lv9ogljofza0c7f9,5n5baro467i8s8efkra3nhgux
+3z0aklbksieopdeg3xv2xq238,Reading vs Stockport County,27/02/2027,15:00:00Z,Reading,Stockport County,egm6z8hhksfg8f6a49jigczxh,5adikbrse2tjc3zthxrx8ic2k
+3yose8n7iy29s5t5sfa9734t0,Plymouth Argyle vs Sheffield Wednesday,27/02/2027,15:00:00Z,Plymouth Argyle,Sheffield Wednesday,5g1fnexeromjl0lvnxp8hpnhi,1musyruv2ufjrjnj6gvdbr8kt
+3y17phm38ou3sng9fm3pmedjo,Notts County vs Bromley,27/02/2027,15:00:00Z,Notts County,Bromley,d3mskb8nk3afyi3tn0gt8kwh8,b6fvcpudsv2xhd8jd9ste749x
+3xppj4xpz4hovfuz43ivvrg9g,Mansfield Town vs Stevenage,27/02/2027,15:00:00Z,Mansfield Town,Stevenage,4hcdmgl41o4blqpbeelu56h7y,6xhqd6it53k2s5n7veo817ga4
+3xe6p8bvlrqfu1bknqik8a9ec,Leyton Orient vs Doncaster Rovers,27/02/2027,15:00:00Z,Leyton Orient,Doncaster Rovers,2fhm98swvvbztf9cy67juhpas,6dryhu9wer42nt1dxoophpk96
+3x2hdwdtopj5tlmuk8covtpn8,Huddersfield Town vs Wycombe Wanderers,27/02/2027,15:00:00Z,Huddersfield Town,Wycombe Wanderers,5n5baro467i8s8efkra3nhgux,jv3jh5m5t7qy5t37vwwmnj16
+3wffav8kdngf2x75evc4cqx3o,Burton Albion vs MK Dons,27/02/2027,15:00:00Z,Burton Albion,MK Dons,8mbtyq0has0uu0565fm9t5cdo,8w89tsles26jm12aoelwvlttt
+3w3vy8653yjlkcxmlmrlusgt0,Bradford City vs Leicester City,27/02/2027,15:00:00Z,Bradford City,Leicester City,2b5k2yusdx2ctd5cdv739p3il,avxknfz4f6ob0rv9dbnxdzde0
+3vsgxu5r894b258ow6ladbrpw,Blackpool vs AFC Wimbledon,27/02/2027,15:00:00Z,Blackpool,AFC Wimbledon,f1ni8k09kpdcwmkasi69rl0bz,7sck2yj98lv9ogljofza0c7f9
+3vh00ht5q04n7oapgpupl2044,Barnsley vs Wigan Athletic,27/02/2027,15:00:00Z,Barnsley,Wigan Athletic,9db4t34qy4owglhvvgwf5l22i,dmypntcdsl5w8w8pcqs0b8mpj
+3ycqdbax7uw3znp1l4e2pw5qs,Oxford United vs Luton Town,27/02/2027,12:30:00Z,Oxford United,Luton Town,ahm0t06rup1bkd9z0mxl2lmph,aksa492u5hf93giwcn2zt1nzz
+3wr0ilfld3zbyijaw1zg6bod0,Cambridge United vs Peterborough United,27/02/2027,12:30:00Z,Cambridge United,Peterborough United,dmz37633qbsvl7gncq5s51yjw,5jjqm8h6qm1w4s5f93uubhdrj
+3v5hcgfss8d4e4lrh582fli50,Wycombe Wanderers vs Leyton Orient,20/02/2027,15:00:00Z,Wycombe Wanderers,Leyton Orient,jv3jh5m5t7qy5t37vwwmnj16,2fhm98swvvbztf9cy67juhpas
+3uiajv7znb0k3gqlc3tjvj0us,Reading vs Cambridge United,20/02/2027,15:00:00Z,Reading,Cambridge United,egm6z8hhksfg8f6a49jigczxh,dmz37633qbsvl7gncq5s51yjw
+3u6ihvbdr8am21j8z13j4q710,Peterborough United vs MK Dons,20/02/2027,15:00:00Z,Peterborough United,MK Dons,5jjqm8h6qm1w4s5f93uubhdrj,8w89tsles26jm12aoelwvlttt
+3tv0384vmybkaw4vw5jinr5zo,Luton Town vs Stevenage,20/02/2027,15:00:00Z,Luton Town,Stevenage,aksa492u5hf93giwcn2zt1nzz,6xhqd6it53k2s5n7veo817ga4
+3t7y67rtggwz8clbfalhw44yc,Huddersfield Town vs Mansfield Town,20/02/2027,15:00:00Z,Huddersfield Town,Mansfield Town,5n5baro467i8s8efkra3nhgux,4hcdmgl41o4blqpbeelu56h7y
+3sweol9f8ev1l7z8apc4i9ogk,Doncaster Rovers vs AFC Wimbledon,20/02/2027,15:00:00Z,Doncaster Rovers,AFC Wimbledon,6dryhu9wer42nt1dxoophpk96,7sck2yj98lv9ogljofza0c7f9
+3skvn6j226ofj5hgn1zz9pn2s,Burton Albion vs Oxford United,20/02/2027,15:00:00Z,Burton Albion,Oxford United,8mbtyq0has0uu0565fm9t5cdo,ahm0t06rup1bkd9z0mxl2lmph
+3s8pjxy9n1afeasn5hrm5j3mc,Bromley vs Blackpool,20/02/2027,15:00:00Z,Bromley,Blackpool,b6fvcpudsv2xhd8jd9ste749x,f1ni8k09kpdcwmkasi69rl0bz
+3rx2jvf2suclpkiq215eblixg,Bradford City vs Notts County,20/02/2027,15:00:00Z,Bradford City,Notts County,2b5k2yusdx2ctd5cdv739p3il,d3mskb8nk3afyi3tn0gt8kwh8
+3rldx7xy274u4afew1rtycgt0,Barnsley vs Plymouth Argyle,20/02/2027,15:00:00Z,Barnsley,Plymouth Argyle,9db4t34qy4owglhvvgwf5l22i,5g1fnexeromjl0lvnxp8hpnhi
+3uty1908z5du332vw0e3iuf4k,Wigan Athletic vs Sheffield Wednesday,20/02/2027,12:30:00Z,Wigan Athletic,Sheffield Wednesday,dmypntcdsl5w8w8pcqs0b8mpj,1musyruv2ufjrjnj6gvdbr8kt
+3tji900fzzrdypw57c0kcr9qs,Leicester City vs Stockport County,20/02/2027,12:30:00Z,Leicester City,Stockport County,avxknfz4f6ob0rv9dbnxdzde0,5adikbrse2tjc3zthxrx8ic2k
+3r9wfgja2mqauubt2j0703kes,Stockport County vs Wigan Athletic,13/02/2027,15:00:00Z,Stockport County,Wigan Athletic,5adikbrse2tjc3zthxrx8ic2k,dmypntcdsl5w8w8pcqs0b8mpj
+3qye1wtte6bdtivhz5ha77xuc,Stevenage vs Barnsley,13/02/2027,15:00:00Z,Stevenage,Barnsley,6xhqd6it53k2s5n7veo817ga4,9db4t34qy4owglhvvgwf5l22i
+3qmvqwnmo2ljqt6sf1up7r0gk,Sheffield Wednesday vs Peterborough United,13/02/2027,15:00:00Z,Sheffield Wednesday,Peterborough United,1musyruv2ufjrjnj6gvdbr8kt,5jjqm8h6qm1w4s5f93uubhdrj
+3qb5k284ac4hrb00i3x8v63h0,Plymouth Argyle vs Doncaster Rovers,13/02/2027,15:00:00Z,Plymouth Argyle,Doncaster Rovers,5g1fnexeromjl0lvnxp8hpnhi,6dryhu9wer42nt1dxoophpk96
+3pzm8279wgc84d2z72dkj3sic,Oxford United vs Leicester City,13/02/2027,15:00:00Z,Oxford United,Leicester City,ahm0t06rup1bkd9z0mxl2lmph,avxknfz4f6ob0rv9dbnxdzde0
+3pnvxmw9e5n1mol1dp63hkf10,Notts County vs Huddersfield Town,13/02/2027,15:00:00Z,Notts County,Huddersfield Town,d3mskb8nk3afyi3tn0gt8kwh8,5n5baro467i8s8efkra3nhgux
+3opesjkhoc34h83stdn0pmzh0,Leyton Orient vs Luton Town,13/02/2027,15:00:00Z,Leyton Orient,Luton Town,2fhm98swvvbztf9cy67juhpas,aksa492u5hf93giwcn2zt1nzz
+3ochllp6vbwc7kmg7fzhqvqj8,Cambridge United vs Burton Albion,13/02/2027,15:00:00Z,Cambridge United,Burton Albion,dmz37633qbsvl7gncq5s51yjw,8mbtyq0has0uu0565fm9t5cdo
+3o10z53gdu22ankqdan5qshlg,Blackpool vs Reading,13/02/2027,15:00:00Z,Blackpool,Reading,f1ni8k09kpdcwmkasi69rl0bz,egm6z8hhksfg8f6a49jigczxh
+3npgsilcjggcak6zk332asgt0,AFC Wimbledon vs Bromley,13/02/2027,15:00:00Z,AFC Wimbledon,Bromley,7sck2yj98lv9ogljofza0c7f9,b6fvcpudsv2xhd8jd9ste749x
+3pcducyhhg9i8fdr6mcap8zdg,MK Dons vs Wycombe Wanderers,13/02/2027,12:30:00Z,MK Dons,Wycombe Wanderers,8w89tsles26jm12aoelwvlttt,jv3jh5m5t7qy5t37vwwmnj16
+3p0xz9wntps95jqq0zdgr6zv8,Mansfield Town vs Bradford City,13/02/2027,12:30:00Z,Mansfield Town,Bradford City,4hcdmgl41o4blqpbeelu56h7y,2b5k2yusdx2ctd5cdv739p3il
+3mfdyp4l9gwmdsy0neeeoskd0,Plymouth Argyle vs Leicester City,10/02/2027,20:00:00Z,Plymouth Argyle,Leicester City,5g1fnexeromjl0lvnxp8hpnhi,avxknfz4f6ob0rv9dbnxdzde0
+3ne0sp261q5qtew8w65p74z6c,Stockport County vs Luton Town,09/02/2027,19:45:00Z,Stockport County,Luton Town,5adikbrse2tjc3zthxrx8ic2k,aksa492u5hf93giwcn2zt1nzz
+3n2hafaiewdjs1e83jt5dcems,Stevenage vs Peterborough United,09/02/2027,19:45:00Z,Stevenage,Peterborough United,6xhqd6it53k2s5n7veo817ga4,5jjqm8h6qm1w4s5f93uubhdrj
+3mqyafrnncx1w8k7cc2v5vt3o,Sheffield Wednesday vs Wycombe Wanderers,09/02/2027,19:45:00Z,Sheffield Wednesday,Wycombe Wanderers,1musyruv2ufjrjnj6gvdbr8kt,jv3jh5m5t7qy5t37vwwmnj16
+3m38eszjzns70lmk7qfd6pm38,Oxford United vs Huddersfield Town,09/02/2027,19:45:00Z,Oxford United,Huddersfield Town,ahm0t06rup1bkd9z0mxl2lmph,5n5baro467i8s8efkra3nhgux
+3lrhade4stz9yvulr1yy2wt90,Notts County vs Doncaster Rovers,09/02/2027,19:45:00Z,Notts County,Doncaster Rovers,d3mskb8nk3afyi3tn0gt8kwh8,6dryhu9wer42nt1dxoophpk96
+3lftmgorkpolbwp0qnsuxiolw,MK Dons vs Wigan Athletic,09/02/2027,19:45:00Z,MK Dons,Wigan Athletic,8w89tsles26jm12aoelwvlttt,dmypntcdsl5w8w8pcqs0b8mpj
+3l469k7kfj76hms4q4e6fgbo4,Mansfield Town vs Reading,09/02/2027,19:45:00Z,Mansfield Town,Reading,4hcdmgl41o4blqpbeelu56h7y,egm6z8hhksfg8f6a49jigczxh
+3ksn7v0tg7gu2vtd4jvbi8178,Leyton Orient vs Bromley,09/02/2027,19:45:00Z,Leyton Orient,Bromley,2fhm98swvvbztf9cy67juhpas,b6fvcpudsv2xhd8jd9ste749x
+3kgypgquvp7zz5mec76no5d78,Cambridge United vs Bradford City,09/02/2027,19:45:00Z,Cambridge United,Bradford City,dmz37633qbsvl7gncq5s51yjw,2b5k2yusdx2ctd5cdv739p3il
+3k5ccbb8sg661mhk181fv7vh0,Blackpool vs Barnsley,09/02/2027,19:45:00Z,Blackpool,Barnsley,f1ni8k09kpdcwmkasi69rl0bz,9db4t34qy4owglhvvgwf5l22i
+3jtpchizjnyekkd1l037hiu50,AFC Wimbledon vs Burton Albion,09/02/2027,19:45:00Z,AFC Wimbledon,Burton Albion,7sck2yj98lv9ogljofza0c7f9,8mbtyq0has0uu0565fm9t5cdo
+3jhx6o7mgkvzbx8ku3hivkz6c,Wycombe Wanderers vs Stockport County,06/02/2027,15:00:00Z,Wycombe Wanderers,Stockport County,jv3jh5m5t7qy5t37vwwmnj16,5adikbrse2tjc3zthxrx8ic2k
+3j62gmnlec6ny9b1uky46k3ro,Wigan Athletic vs AFC Wimbledon,06/02/2027,15:00:00Z,Wigan Athletic,AFC Wimbledon,dmypntcdsl5w8w8pcqs0b8mpj,7sck2yj98lv9ogljofza0c7f9
+3ij3no9507iyp3p9svgrqisd0,Peterborough United vs Blackpool,06/02/2027,15:00:00Z,Peterborough United,Blackpool,5jjqm8h6qm1w4s5f93uubhdrj,f1ni8k09kpdcwmkasi69rl0bz
+3i7mxqtueex13wlx562wciej8,Luton Town vs Mansfield Town,06/02/2027,15:00:00Z,Luton Town,Mansfield Town,aksa492u5hf93giwcn2zt1nzz,4hcdmgl41o4blqpbeelu56h7y
+3hkl6hfn4afzwp3twe7qhss2c,Huddersfield Town vs Cambridge United,06/02/2027,15:00:00Z,Huddersfield Town,Cambridge United,5n5baro467i8s8efkra3nhgux,dmz37633qbsvl7gncq5s51yjw
+3h921o87mc4iv8id7djsxx7o4,Doncaster Rovers vs Stevenage,06/02/2027,15:00:00Z,Doncaster Rovers,Stevenage,6dryhu9wer42nt1dxoophpk96,6xhqd6it53k2s5n7veo817ga4
+3gxgu2at63nsc5z6yw7apfqqc,Burton Albion vs Notts County,06/02/2027,15:00:00Z,Burton Albion,Notts County,8mbtyq0has0uu0565fm9t5cdo,d3mskb8nk3afyi3tn0gt8kwh8
+3glzer878gwp9xjg94cvds2s4,Bromley vs Sheffield Wednesday,06/02/2027,15:00:00Z,Bromley,Sheffield Wednesday,b6fvcpudsv2xhd8jd9ste749x,1musyruv2ufjrjnj6gvdbr8kt
+3ga86btl1so1i7mwjk2k17bbo,Bradford City vs Plymouth Argyle,06/02/2027,15:00:00Z,Bradford City,Plymouth Argyle,2b5k2yusdx2ctd5cdv739p3il,5g1fnexeromjl0lvnxp8hpnhi
+3fy1hgnqp8ukenkvlkjjrwx04,Barnsley vs Leyton Orient,06/02/2027,15:00:00Z,Barnsley,Leyton Orient,9db4t34qy4owglhvvgwf5l22i,2fhm98swvvbztf9cy67juhpas
+3iumh4n7cigcex6jxrj65uot0,Reading vs Oxford United,06/02/2027,12:30:00Z,Reading,Oxford United,egm6z8hhksfg8f6a49jigczxh,ahm0t06rup1bkd9z0mxl2lmph
+3hw3iy3feui79fozbxu86oxlg,Leicester City vs MK Dons,06/02/2027,12:30:00Z,Leicester City,MK Dons,avxknfz4f6ob0rv9dbnxdzde0,8w89tsles26jm12aoelwvlttt
+3fmhnuprhnhelil0qbshnqkno,Stevenage vs Leicester City,30/01/2027,15:00:00Z,Stevenage,Leicester City,6xhqd6it53k2s5n7veo817ga4,avxknfz4f6ob0rv9dbnxdzde0
+3fb21hqt4snj4a6u60jqu036c,Reading vs Plymouth Argyle,30/01/2027,15:00:00Z,Reading,Plymouth Argyle,egm6z8hhksfg8f6a49jigczxh,5g1fnexeromjl0lvnxp8hpnhi
+3ezca8h3z04nvgusjhnd0xdec,Oxford United vs Barnsley,30/01/2027,15:00:00Z,Oxford United,Barnsley,ahm0t06rup1bkd9z0mxl2lmph,9db4t34qy4owglhvvgwf5l22i
+3enqg0yx7qc7j0cs9mc9udw5w,Notts County vs Mansfield Town,30/01/2027,15:00:00Z,Notts County,Mansfield Town,d3mskb8nk3afyi3tn0gt8kwh8,4hcdmgl41o4blqpbeelu56h7y
+3dozr7abjehh7u5vgddlfyvbo,Doncaster Rovers vs MK Dons,30/01/2027,15:00:00Z,Doncaster Rovers,MK Dons,6dryhu9wer42nt1dxoophpk96,8w89tsles26jm12aoelwvlttt
+3dddzo0ebmnp7rbca5ec81b10,Cambridge United vs Leyton Orient,30/01/2027,15:00:00Z,Cambridge United,Leyton Orient,dmz37633qbsvl7gncq5s51yjw,2fhm98swvvbztf9cy67juhpas
+3d1ntzts87kzo83ggkcf69btg,Burton Albion vs Wycombe Wanderers,30/01/2027,15:00:00Z,Burton Albion,Wycombe Wanderers,8mbtyq0has0uu0565fm9t5cdo,jv3jh5m5t7qy5t37vwwmnj16
+3cq58vfmfci7eq7e7vplfna50,Bromley vs Wigan Athletic,30/01/2027,15:00:00Z,Bromley,Wigan Athletic,b6fvcpudsv2xhd8jd9ste749x,dmypntcdsl5w8w8pcqs0b8mpj
+3cej31iet66rgga03avmk3qqc,Blackpool vs Sheffield Wednesday,30/01/2027,15:00:00Z,Blackpool,Sheffield Wednesday,f1ni8k09kpdcwmkasi69rl0bz,1musyruv2ufjrjnj6gvdbr8kt
+3c32ce9oh2m29htbtjmhdho9g,AFC Wimbledon vs Stockport County,30/01/2027,15:00:00Z,AFC Wimbledon,Stockport County,7sck2yj98lv9ogljofza0c7f9,5adikbrse2tjc3zthxrx8ic2k
+3ec2im0r5uskzqn39nv2pgyz8,Luton Town vs Peterborough United,30/01/2027,12:30:00Z,Luton Town,Peterborough United,aksa492u5hf93giwcn2zt1nzz,5jjqm8h6qm1w4s5f93uubhdrj
+3e0ltsa6iuchn018rakn9lyc4,Huddersfield Town vs Bradford City,30/01/2027,12:30:00Z,Huddersfield Town,Bradford City,5n5baro467i8s8efkra3nhgux,2b5k2yusdx2ctd5cdv739p3il
+1akttmsapazu292l4b1khu51w,AFC Wimbledon vs Stevenage,26/01/2027,19:45:00Z,AFC Wimbledon,Stevenage,7sck2yj98lv9ogljofza0c7f9,6xhqd6it53k2s5n7veo817ga4
+3ah4kw00owgnjdpou0ies2wpg,Plymouth Argyle vs Cambridge United,25/01/2027,20:00:00Z,Plymouth Argyle,Cambridge United,5g1fnexeromjl0lvnxp8hpnhi,dmz37633qbsvl7gncq5s51yjw
+3brf0hf9aeu0ts4evh2rijcwk,Wycombe Wanderers vs AFC Wimbledon,23/01/2027,15:00:00Z,Wycombe Wanderers,AFC Wimbledon,jv3jh5m5t7qy5t37vwwmnj16,7sck2yj98lv9ogljofza0c7f9
+3b4b311p98oko74d7p9kxy9lg,Stockport County vs Notts County,23/01/2027,15:00:00Z,Stockport County,Notts County,5adikbrse2tjc3zthxrx8ic2k,d3mskb8nk3afyi3tn0gt8kwh8
+3a5r9ab0n7mzemt5hrabq8ff8,Peterborough United vs Bromley,23/01/2027,15:00:00Z,Peterborough United,Bromley,5jjqm8h6qm1w4s5f93uubhdrj,b6fvcpudsv2xhd8jd9ste749x
+39tommjexf6lc5lqwzxd2y8lw,MK Dons vs Stevenage,23/01/2027,15:00:00Z,MK Dons,Stevenage,8w89tsles26jm12aoelwvlttt,6xhqd6it53k2s5n7veo817ga4
+39hzukgxu60dvuszxd8pzxpg4,Mansfield Town vs Blackpool,23/01/2027,15:00:00Z,Mansfield Town,Blackpool,4hcdmgl41o4blqpbeelu56h7y,f1ni8k09kpdcwmkasi69rl0bz
+396b9xr4pafbq2xs161gvahhw,Leyton Orient vs Burton Albion,23/01/2027,15:00:00Z,Leyton Orient,Burton Albion,2fhm98swvvbztf9cy67juhpas,8mbtyq0has0uu0565fm9t5cdo
+38uqedthk4ibkj9rhcyqpsh04,Leicester City vs Luton Town,23/01/2027,15:00:00Z,Leicester City,Luton Town,avxknfz4f6ob0rv9dbnxdzde0,aksa492u5hf93giwcn2zt1nzz
+38iy5z1ps1bfpninqnvnry8es,Bradford City vs Oxford United,23/01/2027,15:00:00Z,Bradford City,Oxford United,2b5k2yusdx2ctd5cdv739p3il,ahm0t06rup1bkd9z0mxl2lmph
+387ay5n2jk86sl4yso9mwp9uc,Barnsley vs Reading,23/01/2027,15:00:00Z,Barnsley,Reading,9db4t34qy4owglhvvgwf5l22i,egm6z8hhksfg8f6a49jigczxh
+3bfse4786i2zcmwgiut5erbpw,Wigan Athletic vs Huddersfield Town,23/01/2027,12:30:00Z,Wigan Athletic,Huddersfield Town,dmypntcdsl5w8w8pcqs0b8mpj,5n5baro467i8s8efkra3nhgux
+3asq2y3jpq218apctui9eri1g,Sheffield Wednesday vs Doncaster Rovers,23/01/2027,12:30:00Z,Sheffield Wednesday,Doncaster Rovers,1musyruv2ufjrjnj6gvdbr8kt,6dryhu9wer42nt1dxoophpk96
+37jv7gfsukeksadvpantl73f8,Wigan Athletic vs Oxford United,20/01/2027,20:00:00Z,Wigan Athletic,Oxford United,dmypntcdsl5w8w8pcqs0b8mpj,ahm0t06rup1bkd9z0mxl2lmph
+37vtd5y3i56cjwlon023qpt78,Wycombe Wanderers vs Cambridge United,19/01/2027,19:45:00Z,Wycombe Wanderers,Cambridge United,jv3jh5m5t7qy5t37vwwmnj16,dmz37633qbsvl7gncq5s51yjw
+3787cf1u04o6q3b7p89eg5vdg,Stockport County vs Doncaster Rovers,19/01/2027,19:45:00Z,Stockport County,Doncaster Rovers,5adikbrse2tjc3zthxrx8ic2k,6dryhu9wer42nt1dxoophpk96
+36wmi57cml0absc65t8cmg5jo,Sheffield Wednesday vs Notts County,19/01/2027,19:45:00Z,Sheffield Wednesday,Notts County,1musyruv2ufjrjnj6gvdbr8kt,d3mskb8nk3afyi3tn0gt8kwh8
+36ky1gla9v1ar09y7tc9i56hg,Plymouth Argyle vs Stevenage,19/01/2027,19:45:00Z,Plymouth Argyle,Stevenage,5g1fnexeromjl0lvnxp8hpnhi,6xhqd6it53k2s5n7veo817ga4
+36961vybswy9bo185b7qznris,Peterborough United vs Huddersfield Town,19/01/2027,19:45:00Z,Peterborough United,Huddersfield Town,5jjqm8h6qm1w4s5f93uubhdrj,5n5baro467i8s8efkra3nhgux
+35xppbw1fkreyzqp5ojdoqx3o,MK Dons vs Blackpool,19/01/2027,19:45:00Z,MK Dons,Blackpool,8w89tsles26jm12aoelwvlttt,f1ni8k09kpdcwmkasi69rl0bz
+35m3f8zc682r1sgetb2uk2yac,Mansfield Town vs AFC Wimbledon,19/01/2027,19:45:00Z,Mansfield Town,AFC Wimbledon,4hcdmgl41o4blqpbeelu56h7y,7sck2yj98lv9ogljofza0c7f9
+35amhv4yz8v4kxqa8zvvtffo4,Leyton Orient vs Reading,19/01/2027,19:45:00Z,Leyton Orient,Reading,2fhm98swvvbztf9cy67juhpas,egm6z8hhksfg8f6a49jigczxh
+34yyxu6uqpjpu2fremb7lry1g,Leicester City vs Bromley,19/01/2027,19:45:00Z,Leicester City,Bromley,avxknfz4f6ob0rv9dbnxdzde0,b6fvcpudsv2xhd8jd9ste749x
+34nh3ji8s7r1adpmrs05y4h78,Bradford City vs Burton Albion,19/01/2027,19:45:00Z,Bradford City,Burton Albion,2b5k2yusdx2ctd5cdv739p3il,8mbtyq0has0uu0565fm9t5cdo
+34bzamjdjogiakv3wiuld6p78,Barnsley vs Luton Town,19/01/2027,19:45:00Z,Barnsley,Luton Town,9db4t34qy4owglhvvgwf5l22i,aksa492u5hf93giwcn2zt1nzz
+3401uq1g558x92w0p0lf98p3o,Stevenage vs Bradford City,16/01/2027,15:00:00Z,Stevenage,Bradford City,6xhqd6it53k2s5n7veo817ga4,2b5k2yusdx2ctd5cdv739p3il
+33o1gwmqm20seuo8zk8y68178,Reading vs Wigan Athletic,16/01/2027,15:00:00Z,Reading,Wigan Athletic,egm6z8hhksfg8f6a49jigczxh,dmypntcdsl5w8w8pcqs0b8mpj
+33ch5s6j04q2pj8r5hbyqt2xg,Oxford United vs Mansfield Town,16/01/2027,15:00:00Z,Oxford United,Mansfield Town,ahm0t06rup1bkd9z0mxl2lmph,4hcdmgl41o4blqpbeelu56h7y
+330yhmjjj4wdjgqtx7ei09ams,Notts County vs Wycombe Wanderers,16/01/2027,15:00:00Z,Notts County,Wycombe Wanderers,d3mskb8nk3afyi3tn0gt8kwh8,jv3jh5m5t7qy5t37vwwmnj16
+32duvn8z6u7721ny29ho5b5lg,Huddersfield Town vs Plymouth Argyle,16/01/2027,15:00:00Z,Huddersfield Town,Plymouth Argyle,5n5baro467i8s8efkra3nhgux,5g1fnexeromjl0lvnxp8hpnhi
+3228yiz9tmbpo5wi7c93tz6s4,Doncaster Rovers vs Leicester City,16/01/2027,15:00:00Z,Doncaster Rovers,Leicester City,6dryhu9wer42nt1dxoophpk96,avxknfz4f6ob0rv9dbnxdzde0
+31qpy4qepr9b35si9i1acr1uc,Cambridge United vs Barnsley,16/01/2027,15:00:00Z,Cambridge United,Barnsley,dmz37633qbsvl7gncq5s51yjw,9db4t34qy4owglhvvgwf5l22i
+31f5cbshzrbb1ku0chxnn0d90,Burton Albion vs Peterborough United,16/01/2027,15:00:00Z,Burton Albion,Peterborough United,8mbtyq0has0uu0565fm9t5cdo,5jjqm8h6qm1w4s5f93uubhdrj
+30s46ctim8wcbdwjbjnp0amtw,Blackpool vs Leyton Orient,16/01/2027,15:00:00Z,Blackpool,Leyton Orient,f1ni8k09kpdcwmkasi69rl0bz,2fhm98swvvbztf9cy67juhpas
+30gm6vngbo25kh010sij8yc5w,AFC Wimbledon vs Sheffield Wednesday,16/01/2027,15:00:00Z,AFC Wimbledon,Sheffield Wednesday,7sck2yj98lv9ogljofza0c7f9,1musyruv2ufjrjnj6gvdbr8kt
+32pcinhlb2a17lvvbvt69uhp0,Luton Town vs MK Dons,16/01/2027,12:30:00Z,Luton Town,MK Dons,aksa492u5hf93giwcn2zt1nzz,8w89tsles26jm12aoelwvlttt
+313mq2uw49nuh4anb4y0u13is,Bromley vs Stockport County,16/01/2027,12:30:00Z,Bromley,Stockport County,b6fvcpudsv2xhd8jd9ste749x,5adikbrse2tjc3zthxrx8ic2k
+18z9s4urcqs9z2oo3o7h0eo7o,Notts County vs Blackpool,12/01/2027,19:45:00Z,Notts County,Blackpool,d3mskb8nk3afyi3tn0gt8kwh8,f1ni8k09kpdcwmkasi69rl0bz
+2zt7tz6fymu0otezs9akjwhzo,Peterborough United vs Wigan Athletic,09/01/2027,15:00:00Z,Peterborough United,Wigan Athletic,5jjqm8h6qm1w4s5f93uubhdrj,dmypntcdsl5w8w8pcqs0b8mpj
+2z5zcjar7491bsthhu82hm710,Notts County vs Leyton Orient,09/01/2027,15:00:00Z,Notts County,Leyton Orient,d3mskb8nk3afyi3tn0gt8kwh8,2fhm98swvvbztf9cy67juhpas
+2yuan88ehuvpy0p1pppozx444,MK Dons vs Stockport County,09/01/2027,15:00:00Z,MK Dons,Stockport County,8w89tsles26jm12aoelwvlttt,5adikbrse2tjc3zthxrx8ic2k
+2yir50dvloiwka22dly7om80k,Mansfield Town vs Plymouth Argyle,09/01/2027,15:00:00Z,Mansfield Town,Plymouth Argyle,4hcdmgl41o4blqpbeelu56h7y,5g1fnexeromjl0lvnxp8hpnhi
+2y79neixb3ssr404rsvfzse8k,Luton Town vs Sheffield Wednesday,09/01/2027,15:00:00Z,Luton Town,Sheffield Wednesday,aksa492u5hf93giwcn2zt1nzz,1musyruv2ufjrjnj6gvdbr8kt
+2xvouz909ga1s5l5sy4tb3jtg,Leicester City vs Reading,09/01/2027,15:00:00Z,Leicester City,Reading,avxknfz4f6ob0rv9dbnxdzde0,egm6z8hhksfg8f6a49jigczxh
+2xje63n05s7r36kmgqhyrzqxg,Huddersfield Town vs Barnsley,09/01/2027,15:00:00Z,Huddersfield Town,Barnsley,5n5baro467i8s8efkra3nhgux,9db4t34qy4owglhvvgwf5l22i
+2x7zlhejttfmd2hc2ldahq590,Doncaster Rovers vs Wycombe Wanderers,09/01/2027,15:00:00Z,Doncaster Rovers,Wycombe Wanderers,6dryhu9wer42nt1dxoophpk96,jv3jh5m5t7qy5t37vwwmnj16
+2wl08zy7yjtdaur9y3m1rwcgk,Bradford City vs Bromley,09/01/2027,15:00:00Z,Bradford City,Bromley,2b5k2yusdx2ctd5cdv739p3il,b6fvcpudsv2xhd8jd9ste749x
+305073d5xwtpcu4k820h92f4k,Stevenage vs Cambridge United,09/01/2027,12:30:00Z,Stevenage,Cambridge United,6xhqd6it53k2s5n7veo817ga4,dmz37633qbsvl7gncq5s51yjw
+2zhkdrn2x3v3561lbplk7e1hw,Oxford United vs AFC Wimbledon,09/01/2027,12:30:00Z,Oxford United,AFC Wimbledon,ahm0t06rup1bkd9z0mxl2lmph,7sck2yj98lv9ogljofza0c7f9
+2wwfbavnyq0lxay80asjgzitw,Burton Albion vs Blackpool,08/01/2027,20:00:00Z,Burton Albion,Blackpool,8mbtyq0has0uu0565fm9t5cdo,f1ni8k09kpdcwmkasi69rl0bz
+2vm4ans520b8dk4ae9ayyrpxw,Stockport County vs Burton Albion,02/01/2027,15:00:00Z,Stockport County,Burton Albion,5adikbrse2tjc3zthxrx8ic2k,8mbtyq0has0uu0565fm9t5cdo
+2unb9engjgeetc34nfzg12qz8,Plymouth Argyle vs Luton Town,02/01/2027,15:00:00Z,Plymouth Argyle,Luton Town,5g1fnexeromjl0lvnxp8hpnhi,aksa492u5hf93giwcn2zt1nzz
+2u05w5fd5ftwnhbacjt4fldec,Cambridge United vs Mansfield Town,02/01/2027,15:00:00Z,Cambridge United,Mansfield Town,dmz37633qbsvl7gncq5s51yjw,4hcdmgl41o4blqpbeelu56h7y
+2w9duy31t73sq5i706kzio9w4,Wycombe Wanderers vs Leicester City,01/01/2027,15:00:00Z,Wycombe Wanderers,Leicester City,jv3jh5m5t7qy5t37vwwmnj16,avxknfz4f6ob0rv9dbnxdzde0
+2vxphqi83qi6ca121kss2cefo,Wigan Athletic vs Bradford City,01/01/2027,15:00:00Z,Wigan Athletic,Bradford City,dmypntcdsl5w8w8pcqs0b8mpj,2b5k2yusdx2ctd5cdv739p3il
+2vaoteqgppacw1f3ju48w2hp0,Sheffield Wednesday vs Huddersfield Town,01/01/2027,15:00:00Z,Sheffield Wednesday,Huddersfield Town,1musyruv2ufjrjnj6gvdbr8kt,5n5baro467i8s8efkra3nhgux
+2uyvhia7j65mnbzntlqh0nw2c,Reading vs MK Dons,01/01/2027,15:00:00Z,Reading,MK Dons,egm6z8hhksfg8f6a49jigczxh,8w89tsles26jm12aoelwvlttt
+2ublyjk88bu4od2vcwyiqxdsk,Leyton Orient vs Oxford United,01/01/2027,15:00:00Z,Leyton Orient,Oxford United,2fhm98swvvbztf9cy67juhpas,ahm0t06rup1bkd9z0mxl2lmph
+2topqmugi014ymu3x2dyxi5n8,Bromley vs Stevenage,01/01/2027,15:00:00Z,Bromley,Stevenage,b6fvcpudsv2xhd8jd9ste749x,6xhqd6it53k2s5n7veo817ga4
+2td5twvsrs2uis7jydhu6ojdg,Blackpool vs Doncaster Rovers,01/01/2027,15:00:00Z,Blackpool,Doncaster Rovers,f1ni8k09kpdcwmkasi69rl0bz,6dryhu9wer42nt1dxoophpk96
+2t1prh9605unvintt5w1wyrys,Barnsley vs Notts County,01/01/2027,15:00:00Z,Barnsley,Notts County,9db4t34qy4owglhvvgwf5l22i,d3mskb8nk3afyi3tn0gt8kwh8
+2sq6kos6l64g0xmez7i72v4es,AFC Wimbledon vs Peterborough United,01/01/2027,15:00:00Z,AFC Wimbledon,Peterborough United,7sck2yj98lv9ogljofza0c7f9,5jjqm8h6qm1w4s5f93uubhdrj
+2r3qymxeqvojaqmzyce200v84,Reading vs Peterborough United,29/12/2026,20:00:00Z,Reading,Peterborough United,egm6z8hhksfg8f6a49jigczxh,5jjqm8h6qm1w4s5f93uubhdrj
+2sekgd20r4z1hox20r6v56ivo,Wycombe Wanderers vs Stevenage,29/12/2026,19:45:00Z,Wycombe Wanderers,Stevenage,jv3jh5m5t7qy5t37vwwmnj16,6xhqd6it53k2s5n7veo817ga4
+2s326xuqno9gk5h7qmxcqa2ok,Wigan Athletic vs Notts County,29/12/2026,19:45:00Z,Wigan Athletic,Notts County,dmypntcdsl5w8w8pcqs0b8mpj,d3mskb8nk3afyi3tn0gt8kwh8
+2rrhiqhwme3dyzpw6ehkwfu38,Stockport County vs Huddersfield Town,29/12/2026,19:45:00Z,Stockport County,Huddersfield Town,5adikbrse2tjc3zthxrx8ic2k,5n5baro467i8s8efkra3nhgux
+2rffzs3b9nacwvmzf8rl8oq38,Sheffield Wednesday vs Mansfield Town,29/12/2026,19:45:00Z,Sheffield Wednesday,Mansfield Town,1musyruv2ufjrjnj6gvdbr8kt,4hcdmgl41o4blqpbeelu56h7y
+2qsbjyhezqdacyengdfd505qs,Plymouth Argyle vs MK Dons,29/12/2026,19:45:00Z,Plymouth Argyle,MK Dons,5g1fnexeromjl0lvnxp8hpnhi,8w89tsles26jm12aoelwvlttt
+2qgj75e4efqglhsfg036yoduc,Leyton Orient vs Leicester City,29/12/2026,19:45:00Z,Leyton Orient,Leicester City,2fhm98swvvbztf9cy67juhpas,avxknfz4f6ob0rv9dbnxdzde0
+2q4yljhp25oumknqvk4tgqivo,Cambridge United vs Doncaster Rovers,29/12/2026,19:45:00Z,Cambridge United,Doncaster Rovers,dmz37633qbsvl7gncq5s51yjw,6dryhu9wer42nt1dxoophpk96
+2pt8ourxfwspg8ggs1nztoh78,Bromley vs Oxford United,29/12/2026,19:45:00Z,Bromley,Oxford United,b6fvcpudsv2xhd8jd9ste749x,ahm0t06rup1bkd9z0mxl2lmph
+2phi1xoqnexcap45a7di14aac,Blackpool vs Bradford City,29/12/2026,19:45:00Z,Blackpool,Bradford City,f1ni8k09kpdcwmkasi69rl0bz,2b5k2yusdx2ctd5cdv739p3il
+2p5uh20ikgrv1o0z3kfpllxjo,Barnsley vs Burton Albion,29/12/2026,19:45:00Z,Barnsley,Burton Albion,9db4t34qy4owglhvvgwf5l22i,8mbtyq0has0uu0565fm9t5cdo
+2ou7tyjoobumxicst86554aac,AFC Wimbledon vs Luton Town,29/12/2026,19:45:00Z,AFC Wimbledon,Luton Town,7sck2yj98lv9ogljofza0c7f9,aksa492u5hf93giwcn2zt1nzz
+2oijto4369u8gkmd785ijqntg,Stevenage vs Reading,26/12/2026,15:00:00Z,Stevenage,Reading,6xhqd6it53k2s5n7veo817ga4,egm6z8hhksfg8f6a49jigczxh
+2o72cd4vqpva1c4bv0e53p0k4,Peterborough United vs Wycombe Wanderers,26/12/2026,15:00:00Z,Peterborough United,Wycombe Wanderers,5jjqm8h6qm1w4s5f93uubhdrj,jv3jh5m5t7qy5t37vwwmnj16
+2nvhdexussf4f0w2fo1ywxfro,Oxford United vs Plymouth Argyle,26/12/2026,15:00:00Z,Oxford United,Plymouth Argyle,ahm0t06rup1bkd9z0mxl2lmph,5g1fnexeromjl0lvnxp8hpnhi
+2njxnnwegxmefhlh33mym9vkk,Notts County vs Cambridge United,26/12/2026,15:00:00Z,Notts County,Cambridge United,d3mskb8nk3afyi3tn0gt8kwh8,dmz37633qbsvl7gncq5s51yjw
+2n8b8w7sl9y290z2j4qmkg4d0,MK Dons vs Leyton Orient,26/12/2026,15:00:00Z,MK Dons,Leyton Orient,8w89tsles26jm12aoelwvlttt,2fhm98swvvbztf9cy67juhpas
+2mwnuo5nzqzl14l2dctvs7pqs,Mansfield Town vs Barnsley,26/12/2026,15:00:00Z,Mansfield Town,Barnsley,4hcdmgl41o4blqpbeelu56h7y,9db4t34qy4owglhvvgwf5l22i
+2ml3hy3i6avhmracrscsy2e50,Luton Town vs Bromley,26/12/2026,15:00:00Z,Luton Town,Bromley,aksa492u5hf93giwcn2zt1nzz,b6fvcpudsv2xhd8jd9ste749x
+2m9e2zcte10pgiffbcbue5pg4,Leicester City vs AFC Wimbledon,26/12/2026,15:00:00Z,Leicester City,AFC Wimbledon,avxknfz4f6ob0rv9dbnxdzde0,7sck2yj98lv9ogljofza0c7f9
+2lxl9cibhwejti1n50dbax6ok,Huddersfield Town vs Blackpool,26/12/2026,15:00:00Z,Huddersfield Town,Blackpool,5n5baro467i8s8efkra3nhgux,f1ni8k09kpdcwmkasi69rl0bz
+2lm4vjf9zqz5aprdy5yz2hv6c,Doncaster Rovers vs Wigan Athletic,26/12/2026,15:00:00Z,Doncaster Rovers,Wigan Athletic,6dryhu9wer42nt1dxoophpk96,dmypntcdsl5w8w8pcqs0b8mpj
+2l9y2u7mvb02g25w4uda3wjkk,Burton Albion vs Sheffield Wednesday,26/12/2026,15:00:00Z,Burton Albion,Sheffield Wednesday,8mbtyq0has0uu0565fm9t5cdo,1musyruv2ufjrjnj6gvdbr8kt
+2kycn0rmxtcmbtdxeoyd1ugwk,Bradford City vs Stockport County,26/12/2026,15:00:00Z,Bradford City,Stockport County,2b5k2yusdx2ctd5cdv739p3il,5adikbrse2tjc3zthxrx8ic2k
+2kmu72uxh1bc9jo8tx5nex91w,Wycombe Wanderers vs Doncaster Rovers,19/12/2026,15:00:00Z,Wycombe Wanderers,Doncaster Rovers,jv3jh5m5t7qy5t37vwwmnj16,6dryhu9wer42nt1dxoophpk96
+2kbbphmtl1n0d7rr6za44ty50,Wigan Athletic vs Peterborough United,19/12/2026,15:00:00Z,Wigan Athletic,Peterborough United,dmypntcdsl5w8w8pcqs0b8mpj,5jjqm8h6qm1w4s5f93uubhdrj
+2jzs2b71ucjwxey06v351uwpg,Stockport County vs MK Dons,19/12/2026,15:00:00Z,Stockport County,MK Dons,5adikbrse2tjc3zthxrx8ic2k,8w89tsles26jm12aoelwvlttt
+2jcjqcok9xrl5k2rty65c1m38,Reading vs Leicester City,19/12/2026,15:00:00Z,Reading,Leicester City,egm6z8hhksfg8f6a49jigczxh,avxknfz4f6ob0rv9dbnxdzde0
+2j0x34iqsnkrnmipz8h2qcr2s,Plymouth Argyle vs Mansfield Town,19/12/2026,15:00:00Z,Plymouth Argyle,Mansfield Town,5g1fnexeromjl0lvnxp8hpnhi,4hcdmgl41o4blqpbeelu56h7y
+2ipgylzz5noselcexw1kfhic4,Leyton Orient vs Notts County,19/12/2026,15:00:00Z,Leyton Orient,Notts County,2fhm98swvvbztf9cy67juhpas,d3mskb8nk3afyi3tn0gt8kwh8
+2i28frri3asixt8yedmkgbmdw,Bromley vs Bradford City,19/12/2026,15:00:00Z,Bromley,Bradford City,b6fvcpudsv2xhd8jd9ste749x,2b5k2yusdx2ctd5cdv739p3il
+2hqqfwxu37cz2trpq6bkthlw4,Blackpool vs Burton Albion,19/12/2026,15:00:00Z,Blackpool,Burton Albion,f1ni8k09kpdcwmkasi69rl0bz,8mbtyq0has0uu0565fm9t5cdo
+2h3ldylz46r6kz90iw5pu27tg,AFC Wimbledon vs Oxford United,19/12/2026,15:00:00Z,AFC Wimbledon,Oxford United,7sck2yj98lv9ogljofza0c7f9,ahm0t06rup1bkd9z0mxl2lmph
+2jo2h8omk1l1u9mns82utqyhg,Sheffield Wednesday vs Luton Town,19/12/2026,12:30:00Z,Sheffield Wednesday,Luton Town,1musyruv2ufjrjnj6gvdbr8kt,aksa492u5hf93giwcn2zt1nzz
+2hf3v3tzi37cocmu075o62710,Barnsley vs Huddersfield Town,19/12/2026,12:30:00Z,Barnsley,Huddersfield Town,9db4t34qy4owglhvvgwf5l22i,5n5baro467i8s8efkra3nhgux
+2idu4scvgkc21shoonyuz2cd0,Cambridge United vs Stevenage,18/12/2026,19:45:00Z,Cambridge United,Stevenage,dmz37633qbsvl7gncq5s51yjw,6xhqd6it53k2s5n7veo817ga4
+1d61xm6q0nhtnivlhfha0hmvo,Peterborough United vs Notts County,15/12/2026,19:45:00Z,Peterborough United,Notts County,5jjqm8h6qm1w4s5f93uubhdrj,d3mskb8nk3afyi3tn0gt8kwh8
+1awhtwkumh73zb6o8sv691vdg,Barnsley vs MK Dons,15/12/2026,19:45:00Z,Barnsley,MK Dons,9db4t34qy4owglhvvgwf5l22i,8w89tsles26jm12aoelwvlttt
+17dedx6nb4qg1fatpmy1q8nbo,Doncaster Rovers vs Oxford United,15/12/2026,19:45:00Z,Doncaster Rovers,Oxford United,6dryhu9wer42nt1dxoophpk96,ahm0t06rup1bkd9z0mxl2lmph
+2ggi8mvusujryy9o4ozcsfuvo,Peterborough United vs Barnsley,12/12/2026,15:00:00Z,Peterborough United,Barnsley,5jjqm8h6qm1w4s5f93uubhdrj,9db4t34qy4owglhvvgwf5l22i
+2g4urfppssvh0qoalofdstct0,Oxford United vs Blackpool,12/12/2026,15:00:00Z,Oxford United,Blackpool,ahm0t06rup1bkd9z0mxl2lmph,f1ni8k09kpdcwmkasi69rl0bz
+2ftd33gt6b45gawcv5h4u01lg,Notts County vs Plymouth Argyle,12/12/2026,15:00:00Z,Notts County,Plymouth Argyle,d3mskb8nk3afyi3tn0gt8kwh8,5g1fnexeromjl0lvnxp8hpnhi
+2fhlqu0e7qpvxhgca944s4cus,MK Dons vs Cambridge United,12/12/2026,15:00:00Z,MK Dons,Cambridge United,8w89tsles26jm12aoelwvlttt,dmz37633qbsvl7gncq5s51yjw
+2f5iux6abiy17mx4ou8q5nuac,Mansfield Town vs Wycombe Wanderers,12/12/2026,15:00:00Z,Mansfield Town,Wycombe Wanderers,4hcdmgl41o4blqpbeelu56h7y,jv3jh5m5t7qy5t37vwwmnj16
+2eu1a4b44v6vizo7pw43xf8k4,Luton Town vs Wigan Athletic,12/12/2026,15:00:00Z,Luton Town,Wigan Athletic,aksa492u5hf93giwcn2zt1nzz,dmypntcdsl5w8w8pcqs0b8mpj
+2e6vs63fll0zl90t1kfn4q3v8,Huddersfield Town vs Leyton Orient,12/12/2026,15:00:00Z,Huddersfield Town,Leyton Orient,5n5baro467i8s8efkra3nhgux,2fhm98swvvbztf9cy67juhpas
+2dvaofpllyxtfnt8t9m7jxb84,Doncaster Rovers vs Bromley,12/12/2026,15:00:00Z,Doncaster Rovers,Bromley,6dryhu9wer42nt1dxoophpk96,b6fvcpudsv2xhd8jd9ste749x
+2d87ppgrifwboi4ktkthd1990,Bradford City vs AFC Wimbledon,12/12/2026,15:00:00Z,Bradford City,AFC Wimbledon,2b5k2yusdx2ctd5cdv739p3il,7sck2yj98lv9ogljofza0c7f9
+2grz2rdib63jvfuvjoepx2zo4,Stevenage vs Stockport County,12/12/2026,12:30:00Z,Stevenage,Stockport County,6xhqd6it53k2s5n7veo817ga4,5adikbrse2tjc3zthxrx8ic2k
+2djoqhs7158t4qyef9c8f0avo,Burton Albion vs Reading,12/12/2026,12:30:00Z,Burton Albion,Reading,8mbtyq0has0uu0565fm9t5cdo,egm6z8hhksfg8f6a49jigczxh
+2eie43rl0lf3w9j01s9ryrfo4,Leicester City vs Sheffield Wednesday,10/12/2026,20:00:00Z,Leicester City,Sheffield Wednesday,avxknfz4f6ob0rv9dbnxdzde0,1musyruv2ufjrjnj6gvdbr8kt
+2cwkvahj588pl38ycu8nz5no4,Reading vs Doncaster Rovers,01/12/2026,20:00:00Z,Reading,Doncaster Rovers,egm6z8hhksfg8f6a49jigczxh,6dryhu9wer42nt1dxoophpk96
+2ckw6pnz871kubkqifq8u66tw,Plymouth Argyle vs Bromley,01/12/2026,19:45:00Z,Plymouth Argyle,Bromley,5g1fnexeromjl0lvnxp8hpnhi,b6fvcpudsv2xhd8jd9ste749x
+2c9b3huf27f2p7d8dskhk4ahg,Oxford United vs Sheffield Wednesday,01/12/2026,19:45:00Z,Oxford United,Sheffield Wednesday,ahm0t06rup1bkd9z0mxl2lmph,1musyruv2ufjrjnj6gvdbr8kt
+2bxrbz7xrwx4j32uqcru17cwk,Notts County vs AFC Wimbledon,01/12/2026,19:45:00Z,Notts County,AFC Wimbledon,d3mskb8nk3afyi3tn0gt8kwh8,7sck2yj98lv9ogljofza0c7f9
+2bm9oljeh4ums2tn94cub89p0,Mansfield Town vs Stockport County,01/12/2026,19:45:00Z,Mansfield Town,Stockport County,4hcdmgl41o4blqpbeelu56h7y,5adikbrse2tjc3zthxrx8ic2k
+2az34gl4eveua9co8zoq0yxhw,Huddersfield Town vs Stevenage,01/12/2026,19:45:00Z,Huddersfield Town,Stevenage,5n5baro467i8s8efkra3nhgux,6xhqd6it53k2s5n7veo817ga4
+2anjpx102mxhopo1eo8pvhxck,Cambridge United vs Leicester City,01/12/2026,19:45:00Z,Cambridge United,Leicester City,dmz37633qbsvl7gncq5s51yjw,avxknfz4f6ob0rv9dbnxdzde0
+2ac1lpdky29yjj3tln50yk4k4,Burton Albion vs Wigan Athletic,01/12/2026,19:45:00Z,Burton Albion,Wigan Athletic,8mbtyq0has0uu0565fm9t5cdo,dmypntcdsl5w8w8pcqs0b8mpj
+2a0i1v2dqioxe8ftupk34b09g,Bradford City vs MK Dons,01/12/2026,19:45:00Z,Bradford City,MK Dons,2b5k2yusdx2ctd5cdv739p3il,8w89tsles26jm12aoelwvlttt
+29ozdqhswbvrtan5flybs11jo,Blackpool vs Luton Town,01/12/2026,19:45:00Z,Blackpool,Luton Town,f1ni8k09kpdcwmkasi69rl0bz,aksa492u5hf93giwcn2zt1nzz
+29d9xjl33379jfyafagretqms,Barnsley vs Wycombe Wanderers,01/12/2026,19:45:00Z,Barnsley,Wycombe Wanderers,9db4t34qy4owglhvvgwf5l22i,jv3jh5m5t7qy5t37vwwmnj16
+2barnoy58womc9pxw3jh8qkgk,Leyton Orient vs Peterborough United,01/12/2026,19:00:00Z,Leyton Orient,Peterborough United,2fhm98swvvbztf9cy67juhpas,5jjqm8h6qm1w4s5f93uubhdrj
+2913jxtpgt4jhid9g2htt7kt0,Wycombe Wanderers vs Bradford City,28/11/2026,15:00:00Z,Wycombe Wanderers,Bradford City,jv3jh5m5t7qy5t37vwwmnj16,2b5k2yusdx2ctd5cdv739p3il
+28pkggmkh4hjuxbt7ygn3lzis,Wigan Athletic vs Plymouth Argyle,28/11/2026,15:00:00Z,Wigan Athletic,Plymouth Argyle,dmypntcdsl5w8w8pcqs0b8mpj,5g1fnexeromjl0lvnxp8hpnhi
+28dzg79z4rrqw8pbz1r36sahg,Stockport County vs Leyton Orient,28/11/2026,15:00:00Z,Stockport County,Leyton Orient,5adikbrse2tjc3zthxrx8ic2k,2fhm98swvvbztf9cy67juhpas
+282fvwqzw6cufcz7wn884dvro,Stevenage vs Blackpool,28/11/2026,15:00:00Z,Stevenage,Blackpool,6xhqd6it53k2s5n7veo817ga4,f1ni8k09kpdcwmkasi69rl0bz
+27qw6jktssr72ist3d1dza044,Sheffield Wednesday vs Reading,28/11/2026,15:00:00Z,Sheffield Wednesday,Reading,1musyruv2ufjrjnj6gvdbr8kt,egm6z8hhksfg8f6a49jigczxh
+26sbusu1lmbxhfr543k8juhas,Luton Town vs Oxford United,28/11/2026,15:00:00Z,Luton Town,Oxford United,aksa492u5hf93giwcn2zt1nzz,ahm0t06rup1bkd9z0mxl2lmph
+26gpxrjvluwdcbjziv8g5a0ic,Leicester City vs Mansfield Town,28/11/2026,15:00:00Z,Leicester City,Mansfield Town,avxknfz4f6ob0rv9dbnxdzde0,4hcdmgl41o4blqpbeelu56h7y
+25tpveyd7xoudq6q1toolbuvo,Bromley vs Burton Albion,28/11/2026,15:00:00Z,Bromley,Burton Albion,b6fvcpudsv2xhd8jd9ste749x,8mbtyq0has0uu0565fm9t5cdo
+25i7huluylgssj42gxyqyac5w,AFC Wimbledon vs Barnsley,28/11/2026,15:00:00Z,AFC Wimbledon,Barnsley,7sck2yj98lv9ogljofza0c7f9,9db4t34qy4owglhvvgwf5l22i
+27fh06a0h8vpijzvu98woraj8,Peterborough United vs Cambridge United,28/11/2026,12:30:00Z,Peterborough United,Cambridge United,5jjqm8h6qm1w4s5f93uubhdrj,dmz37633qbsvl7gncq5s51yjw
+273upgjev1o78cwk5itvo953o,MK Dons vs Notts County,28/11/2026,12:30:00Z,MK Dons,Notts County,8w89tsles26jm12aoelwvlttt,d3mskb8nk3afyi3tn0gt8kwh8
+26594lu9y7n4rw0yj0eojj2fo,Doncaster Rovers vs Huddersfield Town,26/11/2026,20:00:00Z,Doncaster Rovers,Huddersfield Town,6dryhu9wer42nt1dxoophpk96,5n5baro467i8s8efkra3nhgux
+1bjtz4xv34lc2oqypdy6on4es,Bromley vs Wycombe Wanderers,24/11/2026,19:45:00Z,Bromley,Wycombe Wanderers,b6fvcpudsv2xhd8jd9ste749x,jv3jh5m5t7qy5t37vwwmnj16
+1b84ssfs4fj66tesx8h682kus,Blackpool vs Leicester City,24/11/2026,19:45:00Z,Blackpool,Leicester City,f1ni8k09kpdcwmkasi69rl0bz,avxknfz4f6ob0rv9dbnxdzde0
+19mbfu0i36ub7zhxxizn0bqc4,Stevenage vs Sheffield Wednesday,24/11/2026,19:45:00Z,Stevenage,Sheffield Wednesday,6xhqd6it53k2s5n7veo817ga4,1musyruv2ufjrjnj6gvdbr8kt
+16qdwf025flh3uils5440ror8,Bradford City vs Barnsley,24/11/2026,19:45:00Z,Bradford City,Barnsley,2b5k2yusdx2ctd5cdv739p3il,9db4t34qy4owglhvvgwf5l22i
+24uyvy9u49esco8yahzquyuqc,Plymouth Argyle vs Peterborough United,21/11/2026,15:00:00Z,Plymouth Argyle,Peterborough United,5g1fnexeromjl0lvnxp8hpnhi,5jjqm8h6qm1w4s5f93uubhdrj
+24jek9z9iy15j4kpdr11gh7v8,Oxford United vs Wycombe Wanderers,21/11/2026,15:00:00Z,Oxford United,Wycombe Wanderers,ahm0t06rup1bkd9z0mxl2lmph,jv3jh5m5t7qy5t37vwwmnj16
+247qao4o1w2hpxkiyws7tbnro,Notts County vs Stevenage,21/11/2026,15:00:00Z,Notts County,Stevenage,d3mskb8nk3afyi3tn0gt8kwh8,6xhqd6it53k2s5n7veo817ga4
+23vowljgp65izqnjrwnaaj5sk,Mansfield Town vs MK Dons,21/11/2026,15:00:00Z,Mansfield Town,MK Dons,4hcdmgl41o4blqpbeelu56h7y,8w89tsles26jm12aoelwvlttt
+23k4m4k70z6s7anfrovtl4aac,Leyton Orient vs AFC Wimbledon,21/11/2026,15:00:00Z,Leyton Orient,AFC Wimbledon,2fhm98swvvbztf9cy67juhpas,7sck2yj98lv9ogljofza0c7f9
+238nx6cbbs2szep5us88a40lw,Huddersfield Town vs Leicester City,21/11/2026,15:00:00Z,Huddersfield Town,Leicester City,5n5baro467i8s8efkra3nhgux,avxknfz4f6ob0rv9dbnxdzde0
+22wjc4tb1sq7vs1ihqmt0vcpg,Cambridge United vs Stockport County,21/11/2026,15:00:00Z,Cambridge United,Stockport County,dmz37633qbsvl7gncq5s51yjw,5adikbrse2tjc3zthxrx8ic2k
+22l1gfk89i0jpp9zfywx6ac5w,Burton Albion vs Luton Town,21/11/2026,15:00:00Z,Burton Albion,Luton Town,8mbtyq0has0uu0565fm9t5cdo,aksa492u5hf93giwcn2zt1nzz
+229f8eh98pz4t4x16jyeoi13o,Bradford City vs Doncaster Rovers,21/11/2026,15:00:00Z,Bradford City,Doncaster Rovers,2b5k2yusdx2ctd5cdv739p3il,6dryhu9wer42nt1dxoophpk96
+256jf66p76fqt9npjdqnsx34k,Reading vs Bromley,21/11/2026,12:30:00Z,Reading,Bromley,egm6z8hhksfg8f6a49jigczxh,b6fvcpudsv2xhd8jd9ste749x
+21xvigebj5a0qxsmhfe561n9w,Blackpool vs Wigan Athletic,21/11/2026,12:30:00Z,Blackpool,Wigan Athletic,f1ni8k09kpdcwmkasi69rl0bz,dmypntcdsl5w8w8pcqs0b8mpj
+21mfhrhzm4c87r2vzqwn0dedw,Barnsley vs Sheffield Wednesday,20/11/2026,20:00:00Z,Barnsley,Sheffield Wednesday,9db4t34qy4owglhvvgwf5l22i,1musyruv2ufjrjnj6gvdbr8kt
+21aqj8uwf5veszesbtc7hvqqc,Wycombe Wanderers vs Huddersfield Town,14/11/2026,15:00:00Z,Wycombe Wanderers,Huddersfield Town,jv3jh5m5t7qy5t37vwwmnj16,5n5baro467i8s8efkra3nhgux
+20z9qbojtyqixlhptd432bdas,Wigan Athletic vs Barnsley,14/11/2026,15:00:00Z,Wigan Athletic,Barnsley,dmypntcdsl5w8w8pcqs0b8mpj,9db4t34qy4owglhvvgwf5l22i
+20no23gsije9mw3p35f5otwk4,Stockport County vs Reading,14/11/2026,15:00:00Z,Stockport County,Reading,5adikbrse2tjc3zthxrx8ic2k,egm6z8hhksfg8f6a49jigczxh
+20c03lwb4opcgalqr16801fro,Stevenage vs Mansfield Town,14/11/2026,15:00:00Z,Stevenage,Mansfield Town,6xhqd6it53k2s5n7veo817ga4,4hcdmgl41o4blqpbeelu56h7y
+200h11k390xii4rfhj5kaucr8,Sheffield Wednesday vs Plymouth Argyle,14/11/2026,15:00:00Z,Sheffield Wednesday,Plymouth Argyle,1musyruv2ufjrjnj6gvdbr8kt,5g1fnexeromjl0lvnxp8hpnhi
+1zov085980rq9jvuhhc5pgn4k,Peterborough United vs Oxford United,14/11/2026,15:00:00Z,Peterborough United,Oxford United,5jjqm8h6qm1w4s5f93uubhdrj,ahm0t06rup1bkd9z0mxl2lmph
+1zdco08eivfl4hg3p6dngt0yc,MK Dons vs Burton Albion,14/11/2026,15:00:00Z,MK Dons,Burton Albion,8w89tsles26jm12aoelwvlttt,8mbtyq0has0uu0565fm9t5cdo
+1z1qguaweffnrbyp3owxqzifo,Luton Town vs Cambridge United,14/11/2026,15:00:00Z,Luton Town,Cambridge United,aksa492u5hf93giwcn2zt1nzz,dmz37633qbsvl7gncq5s51yjw
+1yq4tcjme6vam9kch1ab09mhg,Leicester City vs Bradford City,14/11/2026,15:00:00Z,Leicester City,Bradford City,avxknfz4f6ob0rv9dbnxdzde0,2b5k2yusdx2ctd5cdv739p3il
+1yeifvl7v196qx99eymo4e238,Doncaster Rovers vs Leyton Orient,14/11/2026,15:00:00Z,Doncaster Rovers,Leyton Orient,6dryhu9wer42nt1dxoophpk96,2fhm98swvvbztf9cy67juhpas
+1y318cggyho2i5mjcw3r8bllg,Bromley vs Notts County,14/11/2026,15:00:00Z,Bromley,Notts County,b6fvcpudsv2xhd8jd9ste749x,d3mskb8nk3afyi3tn0gt8kwh8
+1xr5r3qyvbozt8hsjx52uwe8k,AFC Wimbledon vs Blackpool,14/11/2026,15:00:00Z,AFC Wimbledon,Blackpool,7sck2yj98lv9ogljofza0c7f9,f1ni8k09kpdcwmkasi69rl0bz
+pa4m3zj4bktobo59zbybc4r8,Oxford United vs Reading,04/11/2026,19:45:00Z,Oxford United,Reading,ahm0t06rup1bkd9z0mxl2lmph,egm6z8hhksfg8f6a49jigczxh
+1e5rvbovtb9nf1sn82njsl5as,Wigan Athletic vs Mansfield Town,03/11/2026,19:45:00Z,Wigan Athletic,Mansfield Town,dmypntcdsl5w8w8pcqs0b8mpj,4hcdmgl41o4blqpbeelu56h7y
+17ozn7pjccghib9hzarfa7zmc,Huddersfield Town vs Luton Town,03/11/2026,19:45:00Z,Huddersfield Town,Luton Town,5n5baro467i8s8efkra3nhgux,aksa492u5hf93giwcn2zt1nzz
+1wgmp4lk1y8bqacmbv2g2znys,Sheffield Wednesday vs Blackpool,01/11/2026,14:00:00Z,Sheffield Wednesday,Blackpool,1musyruv2ufjrjnj6gvdbr8kt,f1ni8k09kpdcwmkasi69rl0bz
+1xfm82128kwxzu7yiw9ufyhw4,Wycombe Wanderers vs Burton Albion,31/10/2026,15:00:00Z,Wycombe Wanderers,Burton Albion,jv3jh5m5t7qy5t37vwwmnj16,8mbtyq0has0uu0565fm9t5cdo
+1x43v5kuyw8acrnl3ju430zdg,Wigan Athletic vs Bromley,31/10/2026,15:00:00Z,Wigan Athletic,Bromley,dmypntcdsl5w8w8pcqs0b8mpj,b6fvcpudsv2xhd8jd9ste749x
+1ws43t9monnzgs280y322x2qc,Stockport County vs AFC Wimbledon,31/10/2026,15:00:00Z,Stockport County,AFC Wimbledon,5adikbrse2tjc3zthxrx8ic2k,7sck2yj98lv9ogljofza0c7f9
+1vtb4hwqeexy3aova812h2fx0,Peterborough United vs Luton Town,31/10/2026,15:00:00Z,Peterborough United,Luton Town,5jjqm8h6qm1w4s5f93uubhdrj,aksa492u5hf93giwcn2zt1nzz
+1vhpk5g82kkyop5wq0xk1bm6s,MK Dons vs Doncaster Rovers,31/10/2026,15:00:00Z,MK Dons,Doncaster Rovers,8w89tsles26jm12aoelwvlttt,6dryhu9wer42nt1dxoophpk96
+1v5zx6ns8ona16ywg544fr2tw,Mansfield Town vs Notts County,31/10/2026,15:00:00Z,Mansfield Town,Notts County,4hcdmgl41o4blqpbeelu56h7y,d3mskb8nk3afyi3tn0gt8kwh8
+1uiy3571xrct6c396oqzlg6j8,Leicester City vs Stevenage,31/10/2026,15:00:00Z,Leicester City,Stevenage,avxknfz4f6ob0rv9dbnxdzde0,6xhqd6it53k2s5n7veo817ga4
+1tvq6167r552gwjmusqfibjmc,Barnsley vs Oxford United,31/10/2026,15:00:00Z,Barnsley,Oxford United,9db4t34qy4owglhvvgwf5l22i,ahm0t06rup1bkd9z0mxl2lmph
+1w53gqqayeafp9zfw96u47lsk,Plymouth Argyle vs Reading,31/10/2026,12:30:00Z,Plymouth Argyle,Reading,5g1fnexeromjl0lvnxp8hpnhi,egm6z8hhksfg8f6a49jigczxh
+1uuhrx13d0nksk8rsgfpt3ml0,Leyton Orient vs Cambridge United,31/10/2026,12:30:00Z,Leyton Orient,Cambridge United,2fhm98swvvbztf9cy67juhpas,dmz37633qbsvl7gncq5s51yjw
+1u7e6g34bdtcszmhvc47yuf4k,Bradford City vs Huddersfield Town,31/10/2026,12:30:00Z,Bradford City,Huddersfield Town,2b5k2yusdx2ctd5cdv739p3il,5n5baro467i8s8efkra3nhgux
+1du5a08fxj92iq75k9wb4gsus,Sheffield Wednesday vs Cambridge United,27/10/2026,19:45:00Z,Sheffield Wednesday,Cambridge United,1musyruv2ufjrjnj6gvdbr8kt,dmz37633qbsvl7gncq5s51yjw
+1cu9onkl9680oevqo2ch3kpp0,Oxford United vs Stockport County,27/10/2026,19:45:00Z,Oxford United,Stockport County,ahm0t06rup1bkd9z0mxl2lmph,5adikbrse2tjc3zthxrx8ic2k
+1citigo0k5og06tdrdifr9kb8,Luton Town vs Doncaster Rovers,27/10/2026,19:45:00Z,Luton Town,Doncaster Rovers,aksa492u5hf93giwcn2zt1nzz,6dryhu9wer42nt1dxoophpk96
+18njunz27maki364lx5mi5c0k,MK Dons vs Bromley,27/10/2026,19:45:00Z,MK Dons,Bromley,8w89tsles26jm12aoelwvlttt,b6fvcpudsv2xhd8jd9ste749x
+180gilfmifuj3jdvrbz3mfk7o,Leicester City vs Wigan Athletic,27/10/2026,19:45:00Z,Leicester City,Wigan Athletic,avxknfz4f6ob0rv9dbnxdzde0,dmypntcdsl5w8w8pcqs0b8mpj
+1tk3lr201knj45hpk5cvpqyhg,Stevenage vs MK Dons,24/10/2026,14:00:00Z,Stevenage,MK Dons,6xhqd6it53k2s5n7veo817ga4,8w89tsles26jm12aoelwvlttt
+1t8j767ld9skrt3h86j1gisr8,Reading vs Barnsley,24/10/2026,14:00:00Z,Reading,Barnsley,egm6z8hhksfg8f6a49jigczxh,9db4t34qy4owglhvvgwf5l22i
+1swxqeml5znpvdvokepjpqfis,Oxford United vs Bradford City,24/10/2026,14:00:00Z,Oxford United,Bradford City,ahm0t06rup1bkd9z0mxl2lmph,2b5k2yusdx2ctd5cdv739p3il
+1slegw7vzt55jev7c4h4ol5as,Notts County vs Stockport County,24/10/2026,14:00:00Z,Notts County,Stockport County,d3mskb8nk3afyi3tn0gt8kwh8,5adikbrse2tjc3zthxrx8ic2k
+1rmshhp618oxvtofscejvwmqc,Doncaster Rovers vs Sheffield Wednesday,24/10/2026,14:00:00Z,Doncaster Rovers,Sheffield Wednesday,6dryhu9wer42nt1dxoophpk96,1musyruv2ufjrjnj6gvdbr8kt
+1rb94r05t7j2km8a7wq8n0s9g,Cambridge United vs Plymouth Argyle,24/10/2026,14:00:00Z,Cambridge United,Plymouth Argyle,dmz37633qbsvl7gncq5s51yjw,5g1fnexeromjl0lvnxp8hpnhi
+1qzwnnqh7r2dz4ixaya3e2p78,Burton Albion vs Leyton Orient,24/10/2026,14:00:00Z,Burton Albion,Leyton Orient,8mbtyq0has0uu0565fm9t5cdo,2fhm98swvvbztf9cy67juhpas
+1qnoqsb04bsy8n4gv1whdn47o,Bromley vs Peterborough United,24/10/2026,14:00:00Z,Bromley,Peterborough United,b6fvcpudsv2xhd8jd9ste749x,5jjqm8h6qm1w4s5f93uubhdrj
+1qbuos6bcoyleifvav4jhxl3o,Blackpool vs Mansfield Town,24/10/2026,14:00:00Z,Blackpool,Mansfield Town,f1ni8k09kpdcwmkasi69rl0bz,4hcdmgl41o4blqpbeelu56h7y
+1q09u5ybfebkzw4sd0bph1xqs,AFC Wimbledon vs Wycombe Wanderers,24/10/2026,14:00:00Z,AFC Wimbledon,Wycombe Wanderers,7sck2yj98lv9ogljofza0c7f9,jv3jh5m5t7qy5t37vwwmnj16
+1s9shncljis7er5ladw43nzf8,Luton Town vs Leicester City,24/10/2026,11:30:00Z,Luton Town,Leicester City,aksa492u5hf93giwcn2zt1nzz,avxknfz4f6ob0rv9dbnxdzde0
+1rydacz6kzfunqm2wu0riosus,Huddersfield Town vs Wigan Athletic,24/10/2026,11:30:00Z,Huddersfield Town,Wigan Athletic,5n5baro467i8s8efkra3nhgux,dmypntcdsl5w8w8pcqs0b8mpj
+1pd8p3u95wrry4egao29uqplg,Reading vs Leyton Orient,21/10/2026,19:00:00Z,Reading,Leyton Orient,egm6z8hhksfg8f6a49jigczxh,2fhm98swvvbztf9cy67juhpas
+1pophdjntdkowmw4z94vkb09g,Stevenage vs Plymouth Argyle,20/10/2026,18:45:00Z,Stevenage,Plymouth Argyle,6xhqd6it53k2s5n7veo817ga4,5g1fnexeromjl0lvnxp8hpnhi
+1p1ok2iqh4s0ltt0x9xl9d4pg,Oxford United vs Wigan Athletic,20/10/2026,18:45:00Z,Oxford United,Wigan Athletic,ahm0t06rup1bkd9z0mxl2lmph,dmypntcdsl5w8w8pcqs0b8mpj
+1oq7ax4zs6ke44oqm7nk4eeqc,Notts County vs Sheffield Wednesday,20/10/2026,18:45:00Z,Notts County,Sheffield Wednesday,d3mskb8nk3afyi3tn0gt8kwh8,1musyruv2ufjrjnj6gvdbr8kt
+1oepe4u8lzi09h21wm195tx5g,Luton Town vs Barnsley,20/10/2026,18:45:00Z,Luton Town,Barnsley,aksa492u5hf93giwcn2zt1nzz,9db4t34qy4owglhvvgwf5l22i
+1o354rrdfjat842w7kfkomdjo,Huddersfield Town vs Peterborough United,20/10/2026,18:45:00Z,Huddersfield Town,Peterborough United,5n5baro467i8s8efkra3nhgux,5jjqm8h6qm1w4s5f93uubhdrj
+1nrp4elihdj05d2umtitvy61g,Doncaster Rovers vs Stockport County,20/10/2026,18:45:00Z,Doncaster Rovers,Stockport County,6dryhu9wer42nt1dxoophpk96,5adikbrse2tjc3zthxrx8ic2k
+1ng8tku5wpf4vijez1u24ywpg,Cambridge United vs Wycombe Wanderers,20/10/2026,18:45:00Z,Cambridge United,Wycombe Wanderers,dmz37633qbsvl7gncq5s51yjw,jv3jh5m5t7qy5t37vwwmnj16
+1n4s3kfbxgda1jvs1njeu70us,Burton Albion vs Bradford City,20/10/2026,18:45:00Z,Burton Albion,Bradford City,8mbtyq0has0uu0565fm9t5cdo,2b5k2yusdx2ctd5cdv739p3il
+1mta6fjdojq2nydlrs2zeen10,Bromley vs Leicester City,20/10/2026,18:45:00Z,Bromley,Leicester City,b6fvcpudsv2xhd8jd9ste749x,avxknfz4f6ob0rv9dbnxdzde0
+1mhsyrxbpth2k1egb66wn6xhw,Blackpool vs MK Dons,20/10/2026,18:45:00Z,Blackpool,MK Dons,f1ni8k09kpdcwmkasi69rl0bz,8w89tsles26jm12aoelwvlttt
+1m67ypm7r6nno0lsetmly6238,AFC Wimbledon vs Mansfield Town,20/10/2026,18:45:00Z,AFC Wimbledon,Mansfield Town,7sck2yj98lv9ogljofza0c7f9,4hcdmgl41o4blqpbeelu56h7y
+1lup5hc1fen7lznkfo164wsus,Wycombe Wanderers vs Notts County,17/10/2026,14:00:00Z,Wycombe Wanderers,Notts County,jv3jh5m5t7qy5t37vwwmnj16,d3mskb8nk3afyi3tn0gt8kwh8
+1lj76l2qr0whkfp20r9fqx0d0,Wigan Athletic vs Reading,17/10/2026,14:00:00Z,Wigan Athletic,Reading,dmypntcdsl5w8w8pcqs0b8mpj,egm6z8hhksfg8f6a49jigczxh
+1l7n0otfovgy7crj59panmln8,Stockport County vs Bromley,17/10/2026,14:00:00Z,Stockport County,Bromley,5adikbrse2tjc3zthxrx8ic2k,b6fvcpudsv2xhd8jd9ste749x
+1kvr01yq8oemlrxtzpykfo3dg,Sheffield Wednesday vs AFC Wimbledon,17/10/2026,14:00:00Z,Sheffield Wednesday,AFC Wimbledon,1musyruv2ufjrjnj6gvdbr8kt,7sck2yj98lv9ogljofza0c7f9
+1kk96i5ynal98za9s3uhyw4r8,Plymouth Argyle vs Huddersfield Town,17/10/2026,14:00:00Z,Plymouth Argyle,Huddersfield Town,5g1fnexeromjl0lvnxp8hpnhi,5n5baro467i8s8efkra3nhgux
+1jacprupdf2pkxpzv8pplxp1w,Leyton Orient vs Blackpool,17/10/2026,14:00:00Z,Leyton Orient,Blackpool,2fhm98swvvbztf9cy67juhpas,f1ni8k09kpdcwmkasi69rl0bz
+1iyw54jg21rbzlznmn9r2jj84,Leicester City vs Doncaster Rovers,17/10/2026,14:00:00Z,Leicester City,Doncaster Rovers,avxknfz4f6ob0rv9dbnxdzde0,6dryhu9wer42nt1dxoophpk96
+1inhpahsrrm7srvo1gmc6b5ec,Bradford City vs Stevenage,17/10/2026,14:00:00Z,Bradford City,Stevenage,2b5k2yusdx2ctd5cdv739p3il,6xhqd6it53k2s5n7veo817ga4
+1iby7wqc54acdbezk40y8p89g,Barnsley vs Cambridge United,17/10/2026,14:00:00Z,Barnsley,Cambridge United,9db4t34qy4owglhvvgwf5l22i,dmz37633qbsvl7gncq5s51yjw
+1k8q4v40xkw00hpzsvz1u7hg4,Peterborough United vs Burton Albion,17/10/2026,11:30:00Z,Peterborough United,Burton Albion,5jjqm8h6qm1w4s5f93uubhdrj,8mbtyq0has0uu0565fm9t5cdo
+1jx9je52elr3i4w917hoh8a38,MK Dons vs Luton Town,17/10/2026,11:30:00Z,MK Dons,Luton Town,8w89tsles26jm12aoelwvlttt,aksa492u5hf93giwcn2zt1nzz
+1jltyam88hd789kozs3l5474k,Mansfield Town vs Oxford United,15/10/2026,19:00:00Z,Mansfield Town,Oxford United,4hcdmgl41o4blqpbeelu56h7y,ahm0t06rup1bkd9z0mxl2lmph
+1esyk1d4hm8nc8c7cxizoyyac,Cambridge United vs Blackpool,10/10/2026,14:15:00Z,Cambridge United,Blackpool,dmz37633qbsvl7gncq5s51yjw,f1ni8k09kpdcwmkasi69rl0bz
+1i0j3i9poom6l7z449tpoaoes,Wycombe Wanderers vs Luton Town,10/10/2026,14:00:00Z,Wycombe Wanderers,Luton Town,jv3jh5m5t7qy5t37vwwmnj16,aksa492u5hf93giwcn2zt1nzz
+1hoxs1fscpl08jqod455mafbo,Stockport County vs Barnsley,10/10/2026,14:00:00Z,Stockport County,Barnsley,5adikbrse2tjc3zthxrx8ic2k,9db4t34qy4owglhvvgwf5l22i
+1hdh964x1p69v230r27iv9kb8,Stevenage vs Wigan Athletic,10/10/2026,14:00:00Z,Stevenage,Wigan Athletic,6xhqd6it53k2s5n7veo817ga4,dmypntcdsl5w8w8pcqs0b8mpj
+1geozq4vt2n7wkwbiq0edl91w,MK Dons vs Reading,10/10/2026,14:00:00Z,MK Dons,Reading,8w89tsles26jm12aoelwvlttt,egm6z8hhksfg8f6a49jigczxh
+1g371o6bx6j5bxnk4eh3nce8k,Mansfield Town vs Bromley,10/10/2026,14:00:00Z,Mansfield Town,Bromley,4hcdmgl41o4blqpbeelu56h7y,b6fvcpudsv2xhd8jd9ste749x
+1frhhamm9c47s1jqoh2q3m9sk,Leicester City vs Peterborough United,10/10/2026,14:00:00Z,Leicester City,Peterborough United,avxknfz4f6ob0rv9dbnxdzde0,5jjqm8h6qm1w4s5f93uubhdrj
+1ffww0gnvx8l9k4r0yp3yog7o,Huddersfield Town vs Sheffield Wednesday,10/10/2026,14:00:00Z,Huddersfield Town,Sheffield Wednesday,5n5baro467i8s8efkra3nhgux,1musyruv2ufjrjnj6gvdbr8kt
+1f4gsk4uizahmlnt03wnnktn8,Doncaster Rovers vs Burton Albion,10/10/2026,14:00:00Z,Doncaster Rovers,Burton Albion,6dryhu9wer42nt1dxoophpk96,8mbtyq0has0uu0565fm9t5cdo
+1ehdnp1vam4ddeth91swe7ok4,Bradford City vs Leyton Orient,10/10/2026,14:00:00Z,Bradford City,Leyton Orient,2b5k2yusdx2ctd5cdv739p3il,2fhm98swvvbztf9cy67juhpas
+1h1tv07lps8vtf3i7my6vksus,Plymouth Argyle vs AFC Wimbledon,10/10/2026,11:30:00Z,Plymouth Argyle,AFC Wimbledon,5g1fnexeromjl0lvnxp8hpnhi,7sck2yj98lv9ogljofza0c7f9
+1gqb76b37nl63sb9walhi11xw,Notts County vs Oxford United,10/10/2026,11:30:00Z,Notts County,Oxford United,d3mskb8nk3afyi3tn0gt8kwh8,ahm0t06rup1bkd9z0mxl2lmph
+1dhozmpdm4851mcrqtfdgbifo,Reading vs Bradford City,03/10/2026,14:00:00Z,Reading,Bradford City,egm6z8hhksfg8f6a49jigczxh,2b5k2yusdx2ctd5cdv739p3il
+1c74y6r30y9wvzd3la7ndw7bo,Leyton Orient vs Plymouth Argyle,03/10/2026,14:00:00Z,Leyton Orient,Plymouth Argyle,2fhm98swvvbztf9cy67juhpas,5g1fnexeromjl0lvnxp8hpnhi
+1bve24fnjbxuecf1ztkun51jo,Burton Albion vs Huddersfield Town,03/10/2026,14:00:00Z,Burton Albion,Huddersfield Town,8mbtyq0has0uu0565fm9t5cdo,5n5baro467i8s8efkra3nhgux
+1a9b885fmaz0yp8z3jadclt04,Wycombe Wanderers vs Reading,26/09/2026,14:00:00Z,Wycombe Wanderers,Reading,jv3jh5m5t7qy5t37vwwmnj16,egm6z8hhksfg8f6a49jigczxh
+19xqv4fo3c9kg9dj4ingmyrkk,Stockport County vs Peterborough United,26/09/2026,14:00:00Z,Stockport County,Peterborough United,5adikbrse2tjc3zthxrx8ic2k,5jjqm8h6qm1w4s5f93uubhdrj
+19asxng9j2v3l1kk32lzsrztg,Plymouth Argyle vs Burton Albion,26/09/2026,14:00:00Z,Plymouth Argyle,Burton Albion,5g1fnexeromjl0lvnxp8hpnhi,8mbtyq0has0uu0565fm9t5cdo
+18byzq89uf3a5noswyudeblzo,Mansfield Town vs Leyton Orient,26/09/2026,14:00:00Z,Mansfield Town,Leyton Orient,4hcdmgl41o4blqpbeelu56h7y,2fhm98swvvbztf9cy67juhpas
+171vvx0ujuuhx9kwq8imwbuac,Cambridge United vs AFC Wimbledon,26/09/2026,14:00:00Z,Cambridge United,AFC Wimbledon,dmz37633qbsvl7gncq5s51yjw,7sck2yj98lv9ogljofza0c7f9
+16ex943kvg4jq0r4xejccxi50,Wigan Athletic vs Wycombe Wanderers,19/09/2026,14:00:00Z,Wigan Athletic,Wycombe Wanderers,dmypntcdsl5w8w8pcqs0b8mpj,jv3jh5m5t7qy5t37vwwmnj16
+163d556ozoodifeiqc421di50,Sheffield Wednesday vs Stockport County,19/09/2026,14:00:00Z,Sheffield Wednesday,Stockport County,1musyruv2ufjrjnj6gvdbr8kt,5adikbrse2tjc3zthxrx8ic2k
+15rs0v66jn3zr8hnl7b8rjzmc,Reading vs Notts County,19/09/2026,14:00:00Z,Reading,Notts County,egm6z8hhksfg8f6a49jigczxh,d3mskb8nk3afyi3tn0gt8kwh8
+15g6wejjrsumymtvf6huu1kwk,Peterborough United vs Doncaster Rovers,19/09/2026,14:00:00Z,Peterborough United,Doncaster Rovers,5jjqm8h6qm1w4s5f93uubhdrj,6dryhu9wer42nt1dxoophpk96
+154m1hnhig26opicdkfyufpqs,Oxford United vs Cambridge United,19/09/2026,14:00:00Z,Oxford United,Cambridge United,ahm0t06rup1bkd9z0mxl2lmph,dmz37633qbsvl7gncq5s51yjw
+14szdmnrobcits596hsecwo44,Luton Town vs Bradford City,19/09/2026,14:00:00Z,Luton Town,Bradford City,aksa492u5hf93giwcn2zt1nzz,2b5k2yusdx2ctd5cdv739p3il
+14ha1rxreo2va8x0thwifn9ck,Leyton Orient vs Stevenage,19/09/2026,14:00:00Z,Leyton Orient,Stevenage,2fhm98swvvbztf9cy67juhpas,6xhqd6it53k2s5n7veo817ga4
+13u1on6djxw72f2wd83zf10yc,Bromley vs Huddersfield Town,19/09/2026,14:00:00Z,Bromley,Huddersfield Town,b6fvcpudsv2xhd8jd9ste749x,5n5baro467i8s8efkra3nhgux
+13icbstlbrx64bmoxrd4unklw,Blackpool vs Plymouth Argyle,19/09/2026,14:00:00Z,Blackpool,Plymouth Argyle,f1ni8k09kpdcwmkasi69rl0bz,5g1fnexeromjl0lvnxp8hpnhi
+145mz3istjt5y0xkeko7ppdlg,Burton Albion vs Mansfield Town,19/09/2026,11:30:00Z,Burton Albion,Mansfield Town,8mbtyq0has0uu0565fm9t5cdo,4hcdmgl41o4blqpbeelu56h7y
+136z23macmo12k59ml0jgbn6c,Barnsley vs Leicester City,19/09/2026,11:30:00Z,Barnsley,Leicester City,9db4t34qy4owglhvvgwf5l22i,avxknfz4f6ob0rv9dbnxdzde0
+12v6ur95dk0qcdmz27musazh0,AFC Wimbledon vs MK Dons,17/09/2026,19:00:00Z,AFC Wimbledon,MK Dons,7sck2yj98lv9ogljofza0c7f9,8w89tsles26jm12aoelwvlttt
+zo9wd7u5dgtnsxalbg7ttx5g,Cambridge United vs Reading,12/09/2026,14:00:00Z,Cambridge United,Reading,dmz37633qbsvl7gncq5s51yjw,egm6z8hhksfg8f6a49jigczxh
+zcv8gry0wm0atjaeiaktc2s4,Blackpool vs Bromley,12/09/2026,14:00:00Z,Blackpool,Bromley,f1ni8k09kpdcwmkasi69rl0bz,b6fvcpudsv2xhd8jd9ste749x
+z1ixsl3uf7z1ex5109u1hd78,AFC Wimbledon vs Doncaster Rovers,12/09/2026,14:00:00Z,AFC Wimbledon,Doncaster Rovers,7sck2yj98lv9ogljofza0c7f9,6dryhu9wer42nt1dxoophpk96
+12jlowhetu1syn0osxjb7yyhg,Stockport County vs Leicester City,12/09/2026,14:00:00Z,Stockport County,Leicester City,5adikbrse2tjc3zthxrx8ic2k,avxknfz4f6ob0rv9dbnxdzde0
+11wje6lie3uq5vvpfe6cg4f84,Sheffield Wednesday vs Wigan Athletic,12/09/2026,14:00:00Z,Sheffield Wednesday,Wigan Athletic,1musyruv2ufjrjnj6gvdbr8kt,dmypntcdsl5w8w8pcqs0b8mpj
+11l1q7siy6326w51whbl2qv4k,Plymouth Argyle vs Barnsley,12/09/2026,14:00:00Z,Plymouth Argyle,Barnsley,5g1fnexeromjl0lvnxp8hpnhi,9db4t34qy4owglhvvgwf5l22i
+119h5k13voiv05g79nrs9jaqc,Oxford United vs Burton Albion,12/09/2026,14:00:00Z,Oxford United,Burton Albion,ahm0t06rup1bkd9z0mxl2lmph,8mbtyq0has0uu0565fm9t5cdo
+10momn3yrly01vucwiezihs0k,MK Dons vs Peterborough United,12/09/2026,14:00:00Z,MK Dons,Peterborough United,8w89tsles26jm12aoelwvlttt,5jjqm8h6qm1w4s5f93uubhdrj
+10b9p0yfdqqfoozj1woaqke1g,Mansfield Town vs Huddersfield Town,12/09/2026,14:00:00Z,Mansfield Town,Huddersfield Town,4hcdmgl41o4blqpbeelu56h7y,5n5baro467i8s8efkra3nhgux
+zztbw71x61u5aagc9oucd05w,Leyton Orient vs Wycombe Wanderers,12/09/2026,11:30:00Z,Leyton Orient,Wycombe Wanderers,2fhm98swvvbztf9cy67juhpas,jv3jh5m5t7qy5t37vwwmnj16
+10y3m4wh46b9fjyi4urstpuz8,Notts County vs Bradford City,12/09/2026,11:30:00Z,Notts County,Bradford City,d3mskb8nk3afyi3tn0gt8kwh8,2b5k2yusdx2ctd5cdv739p3il
+12809b5awvbai6rs8ilcrzj10,Stevenage vs Luton Town,10/09/2026,19:00:00Z,Stevenage,Luton Town,6xhqd6it53k2s5n7veo817ga4,aksa492u5hf93giwcn2zt1nzz
+vv0rqqv7wctyvpiqux0duyac,Bromley vs AFC Wimbledon,07/09/2026,19:00:00Z,Bromley,AFC Wimbledon,b6fvcpudsv2xhd8jd9ste749x,7sck2yj98lv9ogljofza0c7f9
+yq5gwcpgdwbvjkoxyz5kwqhg,Wycombe Wanderers vs MK Dons,05/09/2026,14:00:00Z,Wycombe Wanderers,MK Dons,jv3jh5m5t7qy5t37vwwmnj16,8w89tsles26jm12aoelwvlttt
+y2xbuuajou6wd6dqny7srthw,Reading vs Blackpool,05/09/2026,14:00:00Z,Reading,Blackpool,egm6z8hhksfg8f6a49jigczxh,f1ni8k09kpdcwmkasi69rl0bz
+xg8q0bpf0svec0x7odqiffh0,Luton Town vs Leyton Orient,05/09/2026,14:00:00Z,Luton Town,Leyton Orient,aksa492u5hf93giwcn2zt1nzz,2fhm98swvvbztf9cy67juhpas
+x4vtdlntb7o75sfazf8yeuxg,Leicester City vs Oxford United,05/09/2026,14:00:00Z,Leicester City,Oxford United,avxknfz4f6ob0rv9dbnxdzde0,ahm0t06rup1bkd9z0mxl2lmph
+wtjidocnynnhbgl0jtqtk3ys,Huddersfield Town vs Notts County,05/09/2026,14:00:00Z,Huddersfield Town,Notts County,5n5baro467i8s8efkra3nhgux,d3mskb8nk3afyi3tn0gt8kwh8
+wi05iacus86sc4jvqpxfh1qs,Doncaster Rovers vs Plymouth Argyle,05/09/2026,14:00:00Z,Doncaster Rovers,Plymouth Argyle,6dryhu9wer42nt1dxoophpk96,5g1fnexeromjl0lvnxp8hpnhi
+w6koa3embm5dbl5onskgzod0,Burton Albion vs Cambridge United,05/09/2026,14:00:00Z,Burton Albion,Cambridge United,8mbtyq0has0uu0565fm9t5cdo,dmz37633qbsvl7gncq5s51yjw
+vjf280l2xk1vojmol1q4h9g4,Bradford City vs Mansfield Town,05/09/2026,14:00:00Z,Bradford City,Mansfield Town,2b5k2yusdx2ctd5cdv739p3il,4hcdmgl41o4blqpbeelu56h7y
+v7y91vmdd3e9zxpd239ymdxw,Barnsley vs Stevenage,05/09/2026,14:00:00Z,Barnsley,Stevenage,9db4t34qy4owglhvvgwf5l22i,6xhqd6it53k2s5n7veo817ga4
+yeg4om523ufrte2p14gmbi1g,Wigan Athletic vs Stockport County,05/09/2026,11:30:00Z,Wigan Athletic,Stockport County,dmypntcdsl5w8w8pcqs0b8mpj,5adikbrse2tjc3zthxrx8ic2k
+xrld213chawz2oh0y6og7o5w,Peterborough United vs Sheffield Wednesday,05/09/2026,11:30:00Z,Peterborough United,Sheffield Wednesday,5jjqm8h6qm1w4s5f93uubhdrj,1musyruv2ufjrjnj6gvdbr8kt
+u925a9h0d7zf6fhc87rbifis,Reading vs Mansfield Town,02/09/2026,19:00:00Z,Reading,Mansfield Town,egm6z8hhksfg8f6a49jigczxh,4hcdmgl41o4blqpbeelu56h7y
+ul4jsnaiiir2qsl1o5pxrnro,Wigan Athletic vs MK Dons,02/09/2026,18:45:00Z,Wigan Athletic,MK Dons,dmypntcdsl5w8w8pcqs0b8mpj,8w89tsles26jm12aoelwvlttt
+tm0ofby351x8t2ak4h7mk7pw,Luton Town vs Stockport County,02/09/2026,18:45:00Z,Luton Town,Stockport County,aksa492u5hf93giwcn2zt1nzz,5adikbrse2tjc3zthxrx8ic2k
+sayuwrn2o9ru6h1yidnjgjkk,Burton Albion vs AFC Wimbledon,02/09/2026,18:45:00Z,Burton Albion,AFC Wimbledon,8mbtyq0has0uu0565fm9t5cdo,7sck2yj98lv9ogljofza0c7f9
+rc9yxcfhthhsqlmdouilzcb8,Barnsley vs Blackpool,02/09/2026,18:45:00Z,Barnsley,Blackpool,9db4t34qy4owglhvvgwf5l22i,f1ni8k09kpdcwmkasi69rl0bz
+uwlte8t8ik8w0yzo7doavo5w,Wycombe Wanderers vs Sheffield Wednesday,01/09/2026,18:45:00Z,Wycombe Wanderers,Sheffield Wednesday,jv3jh5m5t7qy5t37vwwmnj16,1musyruv2ufjrjnj6gvdbr8kt
+txfo5ve1458u5bufpi0e0u1g,Peterborough United vs Stevenage,01/09/2026,18:45:00Z,Peterborough United,Stevenage,5jjqm8h6qm1w4s5f93uubhdrj,6xhqd6it53k2s5n7veo817ga4
+t9nu5r8v5blym0uuhqqd03dg,Leicester City vs Plymouth Argyle,01/09/2026,18:45:00Z,Leicester City,Plymouth Argyle,avxknfz4f6ob0rv9dbnxdzde0,5g1fnexeromjl0lvnxp8hpnhi
+sy587x2dn10apku8k4u2uyvo,Huddersfield Town vs Oxford United,01/09/2026,18:45:00Z,Huddersfield Town,Oxford United,5n5baro467i8s8efkra3nhgux,ahm0t06rup1bkd9z0mxl2lmph
+smiuu5vqwgj6rdhm0gbdsv84,Doncaster Rovers vs Notts County,01/09/2026,18:45:00Z,Doncaster Rovers,Notts County,6dryhu9wer42nt1dxoophpk96,d3mskb8nk3afyi3tn0gt8kwh8
+rz4bcumqxvm0444gh1qo6m8k,Bromley vs Leyton Orient,01/09/2026,18:45:00Z,Bromley,Leyton Orient,b6fvcpudsv2xhd8jd9ste749x,2fhm98swvvbztf9cy67juhpas
+rnsowp96v1ibnhtj6t1dc55g,Bradford City vs Cambridge United,01/09/2026,18:45:00Z,Bradford City,Cambridge United,2b5k2yusdx2ctd5cdv739p3il,dmz37633qbsvl7gncq5s51yjw
+o0qjulwo3pthdb0c6tzf9a1g,Mansfield Town vs Luton Town,30/08/2026,14:00:00Z,Mansfield Town,Luton Town,4hcdmgl41o4blqpbeelu56h7y,aksa492u5hf93giwcn2zt1nzz
+mhxpirfdakk8yhe7swrgyal0,AFC Wimbledon vs Wigan Athletic,30/08/2026,13:00:00Z,AFC Wimbledon,Wigan Athletic,7sck2yj98lv9ogljofza0c7f9,dmypntcdsl5w8w8pcqs0b8mpj
+qydaoo4nl33dn8mogn1o2904,Stockport County vs Wycombe Wanderers,29/08/2026,14:00:00Z,Stockport County,Wycombe Wanderers,5adikbrse2tjc3zthxrx8ic2k,jv3jh5m5t7qy5t37vwwmnj16
+qjlvow5kig9rnnfy34jf31n8,Stevenage vs Doncaster Rovers,29/08/2026,14:00:00Z,Stevenage,Doncaster Rovers,6xhqd6it53k2s5n7veo817ga4,6dryhu9wer42nt1dxoophpk96
+q4ontz9kxar99pd9dxyv8opg,Sheffield Wednesday vs Bromley,29/08/2026,14:00:00Z,Sheffield Wednesday,Bromley,1musyruv2ufjrjnj6gvdbr8kt,b6fvcpudsv2xhd8jd9ste749x
+pphwg6e2gy8p2ybzzlqgthjo,Plymouth Argyle vs Bradford City,29/08/2026,14:00:00Z,Plymouth Argyle,Bradford City,5g1fnexeromjl0lvnxp8hpnhi,2b5k2yusdx2ctd5cdv739p3il
+ou3fzsnibxd70bdp3kf0ihp0,Notts County vs Burton Albion,29/08/2026,14:00:00Z,Notts County,Burton Albion,d3mskb8nk3afyi3tn0gt8kwh8,8mbtyq0has0uu0565fm9t5cdo
+nmc4mkybffx0hr20jpfup9g4,Leyton Orient vs Barnsley,29/08/2026,14:00:00Z,Leyton Orient,Barnsley,2fhm98swvvbztf9cy67juhpas,9db4t34qy4owglhvvgwf5l22i
+n8bqyyngp023he9qbo00izv8,Cambridge United vs Huddersfield Town,29/08/2026,14:00:00Z,Cambridge United,Huddersfield Town,dmz37633qbsvl7gncq5s51yjw,5n5baro467i8s8efkra3nhgux
+oeheh9g8pm7t68jnv6evfpjo,MK Dons vs Leicester City,29/08/2026,11:30:00Z,MK Dons,Leicester City,8w89tsles26jm12aoelwvlttt,avxknfz4f6ob0rv9dbnxdzde0
+mubtzz79q2imzu9q0oqdybys,Blackpool vs Peterborough United,29/08/2026,11:30:00Z,Blackpool,Peterborough United,f1ni8k09kpdcwmkasi69rl0bz,5jjqm8h6qm1w4s5f93uubhdrj
+m15i7j86175hov02t8cgmuxg,Wycombe Wanderers vs Plymouth Argyle,22/08/2026,14:00:00Z,Wycombe Wanderers,Plymouth Argyle,jv3jh5m5t7qy5t37vwwmnj16,5g1fnexeromjl0lvnxp8hpnhi
+loa7pv87vbhl2pjewm321pn8,Wigan Athletic vs Leyton Orient,22/08/2026,14:00:00Z,Wigan Athletic,Leyton Orient,dmypntcdsl5w8w8pcqs0b8mpj,2fhm98swvvbztf9cy67juhpas
+l4hsa5hleyhwvbfmglroz7ro,Stockport County vs Blackpool,22/08/2026,14:00:00Z,Stockport County,Blackpool,5adikbrse2tjc3zthxrx8ic2k,f1ni8k09kpdcwmkasi69rl0bz
+kr5qgju8edv2kkfai83lym8k,Stevenage vs Oxford United,22/08/2026,14:00:00Z,Stevenage,Oxford United,6xhqd6it53k2s5n7veo817ga4,ahm0t06rup1bkd9z0mxl2lmph
+jwccuhmmy5vu9khi27qxrac4,Peterborough United vs Mansfield Town,22/08/2026,14:00:00Z,Peterborough United,Mansfield Town,5jjqm8h6qm1w4s5f93uubhdrj,4hcdmgl41o4blqpbeelu56h7y
+jh6wekml5r70xl3yywyjhmac,MK Dons vs Huddersfield Town,22/08/2026,14:00:00Z,MK Dons,Huddersfield Town,8w89tsles26jm12aoelwvlttt,5n5baro467i8s8efkra3nhgux
+ioqzwc7v78actkpncyfrxslw,Leicester City vs Burton Albion,22/08/2026,14:00:00Z,Leicester City,Burton Albion,avxknfz4f6ob0rv9dbnxdzde0,8mbtyq0has0uu0565fm9t5cdo
+hxjf3r52r3qp37q896bgxrmc,Bromley vs Cambridge United,22/08/2026,14:00:00Z,Bromley,Cambridge United,b6fvcpudsv2xhd8jd9ste749x,dmz37633qbsvl7gncq5s51yjw
+hig2vzaww6529d9aw8b2feok,AFC Wimbledon vs Reading,22/08/2026,14:00:00Z,AFC Wimbledon,Reading,7sck2yj98lv9ogljofza0c7f9,egm6z8hhksfg8f6a49jigczxh
+j2y1sgjg1zlq9tntavc7sftg,Luton Town vs Notts County,22/08/2026,11:30:00Z,Luton Town,Notts County,aksa492u5hf93giwcn2zt1nzz,d3mskb8nk3afyi3tn0gt8kwh8
+ib0unz17ba61xlwv99l3kjdg,Doncaster Rovers vs Barnsley,22/08/2026,11:30:00Z,Doncaster Rovers,Barnsley,6dryhu9wer42nt1dxoophpk96,9db4t34qy4owglhvvgwf5l22i
+kb625jgj3kqzs4nauvc0j66s,Sheffield Wednesday vs Bradford City,20/08/2026,19:00:00Z,Sheffield Wednesday,Bradford City,1musyruv2ufjrjnj6gvdbr8kt,2b5k2yusdx2ctd5cdv739p3il
+gkiitkvq3z29f2lhy9335hck,Plymouth Argyle vs Stockport County,15/08/2026,14:00:00Z,Plymouth Argyle,Stockport County,5g1fnexeromjl0lvnxp8hpnhi,5adikbrse2tjc3zthxrx8ic2k
+f23iwe1o47lkittm4uxhbbx0,Mansfield Town vs Doncaster Rovers,15/08/2026,14:00:00Z,Mansfield Town,Doncaster Rovers,4hcdmgl41o4blqpbeelu56h7y,6dryhu9wer42nt1dxoophpk96
+ekrv9v4nyvuseirkpbtpq1as,Leyton Orient vs Sheffield Wednesday,15/08/2026,14:00:00Z,Leyton Orient,Sheffield Wednesday,2fhm98swvvbztf9cy67juhpas,1musyruv2ufjrjnj6gvdbr8kt
+e2n9bk8n66ivahke3dck6y38,Huddersfield Town vs AFC Wimbledon,15/08/2026,14:00:00Z,Huddersfield Town,AFC Wimbledon,5n5baro467i8s8efkra3nhgux,7sck2yj98lv9ogljofza0c7f9
+dky8vvg5zugolllcmdvo4xec,Cambridge United vs Wigan Athletic,15/08/2026,14:00:00Z,Cambridge United,Wigan Athletic,dmz37633qbsvl7gncq5s51yjw,dmypntcdsl5w8w8pcqs0b8mpj
+d41ikzkpvcln355tadg3aadw,Burton Albion vs Stevenage,15/08/2026,14:00:00Z,Burton Albion,Stevenage,8mbtyq0has0uu0565fm9t5cdo,6xhqd6it53k2s5n7veo817ga4
+cjs5scb110rufpxiggu0am1g,Bradford City vs Peterborough United,15/08/2026,14:00:00Z,Bradford City,Peterborough United,2b5k2yusdx2ctd5cdv739p3il,5jjqm8h6qm1w4s5f93uubhdrj
+c1ivmtvsh4xupz2gf0is9o2c,Blackpool vs Wycombe Wanderers,15/08/2026,14:00:00Z,Blackpool,Wycombe Wanderers,f1ni8k09kpdcwmkasi69rl0bz,jv3jh5m5t7qy5t37vwwmnj16
+bg2jvpmswvh44zgkxvbpkt90,Barnsley vs Bromley,15/08/2026,14:00:00Z,Barnsley,Bromley,9db4t34qy4owglhvvgwf5l22i,b6fvcpudsv2xhd8jd9ste749x
+h3z96guygl6t2i9sw6k1nthw,Reading vs Luton Town,15/08/2026,11:30:00Z,Reading,Luton Town,egm6z8hhksfg8f6a49jigczxh,aksa492u5hf93giwcn2zt1nzz
+g2b763hkz1lndkygwc226as4,Oxford United vs MK Dons,15/08/2026,11:30:00Z,Oxford United,MK Dons,ahm0t06rup1bkd9z0mxl2lmph,8w89tsles26jm12aoelwvlttt
+flplu2qfm8l800ogfr58qtxw,Notts County vs Leicester City,15/08/2026,11:30:00Z,Notts County,Leicester City,d3mskb8nk3afyi3tn0gt8kwh8,avxknfz4f6ob0rv9dbnxdzde0

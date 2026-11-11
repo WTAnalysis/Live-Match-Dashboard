@@ -1,0 +1,381 @@
+id,description,date,time,Home_Team,Away_Team,Home_Team_ID,Away_Team_ID
+zw14abj2qp1blqaezxrnfqc4,Roda JC vs Almere City,14/05/2027,18:00:00Z,Roda JC,Almere City,7rmv5ns2rj7bn4otpkur0mx0x,1fttb31hnskynpku8qd09yhm8
+zjorxre2fwh45v0ozseotslw,NAC Breda vs De Graafschap,14/05/2027,18:00:00Z,NAC Breda,De Graafschap,59t7flioj4w4mpwnrwbm0m8ck,xcevba75jfkrg4s6tl89zl3y
+z76zqes9g82onhasspoh4f10,MVV vs Eindhoven,14/05/2027,18:00:00Z,MVV,Eindhoven,bqm1bnp1bh2apyudlz1o1whr3,dvmw7d6jb38qvv7e6ziwu0vyr
+yunlr4w6qa4pqr8vnpzpipec,PSV II vs Emmen,14/05/2027,18:00:00Z,PSV II,Emmen,2xlnfgrl6r18ftv38unwp7h4s,3t0vjqtxc8wpjzv82i3oi2ova
+yi7ckx4sfo39qkzyqgaqg6c4,Utrecht II vs Helmond Sport,14/05/2027,18:00:00Z,Utrecht II,Helmond Sport,ch82doz9w9t1sw9ae3a4ffh0j,b94pf87be9ojdgnrs5mst80un
+y5qhaerqykqx27a52hnfqqz8,AZ II vs Ajax II,14/05/2027,18:00:00Z,AZ II,Ajax II,1wyg1tunyt7go9tnjea1hjqxb,6lzy9iiqoysvtdsgx719fng9n
+xte9b3qx27l12hvvk9obciz8,Dordrecht vs RKC Waalwijk,14/05/2027,18:00:00Z,Dordrecht,RKC Waalwijk,z9phg19papi9f5fd6qxzr836,ed5nwjz5za3oyi20nxzgqivmx
+10x40hoq4xxbigw46z8r7jf2s,VVV vs Den Bosch,14/05/2027,18:00:00Z,VVV,Den Bosch,cv5ftekuejf0ryxvd5h2my47r,eh54mfvjtrttgsg1wbjnvxcqz
+10kqq8v8xkg1c9cbht6oyvg9g,Vitesse vs Heracles,14/05/2027,18:00:00Z,Vitesse,Heracles,6hsriqr3ybvyg94w2k19oal50,dac758ef858jbq7pcb3gfwite
+108dtxohzyo6k1wzv20jchmvo,TOP Oss vs Volendam,14/05/2027,18:00:00Z,TOP Oss,Volendam,dnzj0iv5qtaemm9kthh9pos8q,6g9qrm72224jrk6tkxxxi8a9n
+xgx6lo2z4qif49ja4ybmdpuc,RKC Waalwijk vs VVV,07/05/2027,18:00:00Z,RKC Waalwijk,VVV,ed5nwjz5za3oyi20nxzgqivmx,cv5ftekuejf0ryxvd5h2my47r
+x4kwa2y3k6d5t5szr1m6fl04,Ajax II vs TOP Oss,07/05/2027,18:00:00Z,Ajax II,TOP Oss,6lzy9iiqoysvtdsgx719fng9n,dnzj0iv5qtaemm9kthh9pos8q
+ws4vqqu3q62k24o8miw4v384,Heracles vs Dordrecht,07/05/2027,18:00:00Z,Heracles,Dordrecht,dac758ef858jbq7pcb3gfwite,z9phg19papi9f5fd6qxzr836
+wf7mqmg084m8in3828nz493o,Volendam vs MVV,07/05/2027,18:00:00Z,Volendam,MVV,6g9qrm72224jrk6tkxxxi8a9n,bqm1bnp1bh2apyudlz1o1whr3
+w2zy4udno2z9gvww6kvksx04,De Graafschap vs PSV II,07/05/2027,18:00:00Z,De Graafschap,PSV II,xcevba75jfkrg4s6tl89zl3y,2xlnfgrl6r18ftv38unwp7h4s
+vqqs0rk9fy59trn8ntppvkes,Emmen vs Utrecht II,07/05/2027,18:00:00Z,Emmen,Utrecht II,3t0vjqtxc8wpjzv82i3oi2ova,ch82doz9w9t1sw9ae3a4ffh0j
+veh9ij5jcw6eyzmnv3buusk4,Eindhoven vs NAC Breda,07/05/2027,18:00:00Z,Eindhoven,NAC Breda,dvmw7d6jb38qvv7e6ziwu0vyr,59t7flioj4w4mpwnrwbm0m8ck
+v21xbi4p5hzqorblnngvdtlg,Den Bosch vs Roda JC,07/05/2027,18:00:00Z,Den Bosch,Roda JC,eh54mfvjtrttgsg1wbjnvxcqz,7rmv5ns2rj7bn4otpkur0mx0x
+upo993v89rr0dckwxxzbh0yc,Helmond Sport vs Vitesse,07/05/2027,18:00:00Z,Helmond Sport,Vitesse,b94pf87be9ojdgnrs5mst80un,6hsriqr3ybvyg94w2k19oal50
+ud616s3z4ek1d9h9wuhpr384,Almere City vs AZ II,07/05/2027,18:00:00Z,Almere City,AZ II,1fttb31hnskynpku8qd09yhm8,1wyg1tunyt7go9tnjea1hjqxb
+u0s5snri7c7t63u8yreyedjo,PSV II vs MVV,03/05/2027,18:00:00Z,PSV II,MVV,2xlnfgrl6r18ftv38unwp7h4s,bqm1bnp1bh2apyudlz1o1whr3
+toex0bvva7awzghf8p9f5mvo,Utrecht II vs Den Bosch,03/05/2027,18:00:00Z,Utrecht II,Den Bosch,ch82doz9w9t1sw9ae3a4ffh0j,eh54mfvjtrttgsg1wbjnvxcqz
+tc69f8sxr48al5mgd8cmssno,AZ II vs Dordrecht,03/05/2027,18:00:00Z,AZ II,Dordrecht,1wyg1tunyt7go9tnjea1hjqxb,z9phg19papi9f5fd6qxzr836
+sztnmkodb3td44qd5fah7pjo,Ajax II vs Eindhoven,03/05/2027,18:00:00Z,Ajax II,Eindhoven,6lzy9iiqoysvtdsgx719fng9n,dvmw7d6jb38qvv7e6ziwu0vyr
+snj160n5t2prljd5oblwdct0,VVV vs Helmond Sport,01/05/2027,14:30:00Z,VVV,Helmond Sport,cv5ftekuejf0ryxvd5h2my47r,b94pf87be9ojdgnrs5mst80un
+sb1yz591i2b64b2nwnxi5fys,Vitesse vs Volendam,30/04/2027,18:00:00Z,Vitesse,Volendam,6hsriqr3ybvyg94w2k19oal50,6g9qrm72224jrk6tkxxxi8a9n
+rykepx9jh1fk8ee4msltm8lw,TOP Oss vs De Graafschap,30/04/2027,18:00:00Z,TOP Oss,De Graafschap,dnzj0iv5qtaemm9kthh9pos8q,xcevba75jfkrg4s6tl89zl3y
+rmbez7ucj5kro1qpvy47cjro,Roda JC vs Emmen,30/04/2027,18:00:00Z,Roda JC,Emmen,7rmv5ns2rj7bn4otpkur0mx0x,3t0vjqtxc8wpjzv82i3oi2ova
+r9vukgji3yyzl1706di490d0,NAC Breda vs RKC Waalwijk,30/04/2027,18:00:00Z,NAC Breda,RKC Waalwijk,59t7flioj4w4mpwnrwbm0m8ck,ed5nwjz5za3oyi20nxzgqivmx
+qxhvh72dembworeu3pl2ujv8,Heracles vs Almere City,30/04/2027,18:00:00Z,Heracles,Almere City,dac758ef858jbq7pcb3gfwite,1fttb31hnskynpku8qd09yhm8
+ql4t8up9kfd8zmla1kofyd5g,RKC Waalwijk vs Utrecht II,25/04/2027,14:45:00Z,RKC Waalwijk,Utrecht II,ed5nwjz5za3oyi20nxzgqivmx,ch82doz9w9t1sw9ae3a4ffh0j
+q8t3uo85z51wi53bjad6oaok,De Graafschap vs Vitesse,25/04/2027,10:15:00Z,De Graafschap,Vitesse,xcevba75jfkrg4s6tl89zl3y,6hsriqr3ybvyg94w2k19oal50
+pvxpwtpoeauvhkcbktl8bwno,Helmond Sport vs Ajax II,24/04/2027,14:30:00Z,Helmond Sport,Ajax II,b94pf87be9ojdgnrs5mst80un,6lzy9iiqoysvtdsgx719fng9n
+pjlcrvym9b0urud1i0v4gpp0,MVV vs NAC Breda,23/04/2027,18:00:00Z,MVV,NAC Breda,bqm1bnp1bh2apyudlz1o1whr3,59t7flioj4w4mpwnrwbm0m8ck
+p7bnn3v1k2ljx2f90l50ftas,Volendam vs Roda JC,23/04/2027,18:00:00Z,Volendam,Roda JC,6g9qrm72224jrk6tkxxxi8a9n,7rmv5ns2rj7bn4otpkur0mx0x
+ouyzok289ygrwunzz1kwxqtw,Emmen vs Heracles,23/04/2027,18:00:00Z,Emmen,Heracles,3t0vjqtxc8wpjzv82i3oi2ova,dac758ef858jbq7pcb3gfwite
+oilambc9wx54eoi2yesfuxw4,Eindhoven vs VVV,23/04/2027,18:00:00Z,Eindhoven,VVV,dvmw7d6jb38qvv7e6ziwu0vyr,cv5ftekuejf0ryxvd5h2my47r
+o68lort2zwrhpv48y7ajepzo,Dordrecht vs PSV II,23/04/2027,18:00:00Z,Dordrecht,PSV II,z9phg19papi9f5fd6qxzr836,2xlnfgrl6r18ftv38unwp7h4s
+ntqxl2nr5iv3hc2io4llgnx0,Den Bosch vs AZ II,23/04/2027,18:00:00Z,Den Bosch,AZ II,eh54mfvjtrttgsg1wbjnvxcqz,1wyg1tunyt7go9tnjea1hjqxb
+nhdjbdkx4lam4yfrfwxpqwwk,Almere City vs TOP Oss,23/04/2027,18:00:00Z,Almere City,TOP Oss,1fttb31hnskynpku8qd09yhm8,dnzj0iv5qtaemm9kthh9pos8q
+n4xx1eo5xgeutrgznuvnglxw,PSV II vs Roda JC,19/04/2027,18:00:00Z,PSV II,Roda JC,2xlnfgrl6r18ftv38unwp7h4s,7rmv5ns2rj7bn4otpkur0mx0x
+mshdhkyiky8ghm49epxmuj2s,Utrecht II vs Volendam,19/04/2027,18:00:00Z,Utrecht II,Volendam,ch82doz9w9t1sw9ae3a4ffh0j,6g9qrm72224jrk6tkxxxi8a9n
+mfxwsl17mtnitgg3ry0y95hw,AZ II vs De Graafschap,19/04/2027,18:00:00Z,AZ II,De Graafschap,1wyg1tunyt7go9tnjea1hjqxb,xcevba75jfkrg4s6tl89zl3y
+m3ip7zf75scewmbgz87tcd1w,VVV vs MVV,17/04/2027,14:30:00Z,VVV,MVV,cv5ftekuejf0ryxvd5h2my47r,bqm1bnp1bh2apyudlz1o1whr3
+lr8b96or1vz8m7aj9bbgowes,Vitesse vs Dordrecht,16/04/2027,18:00:00Z,Vitesse,Dordrecht,6hsriqr3ybvyg94w2k19oal50,z9phg19papi9f5fd6qxzr836
+leumpxlo8iqmu431kgvugx78,TOP Oss vs Emmen,16/04/2027,18:00:00Z,TOP Oss,Emmen,dnzj0iv5qtaemm9kthh9pos8q,3t0vjqtxc8wpjzv82i3oi2ova
+l2n950qzi3i0d7y71rixn8yc,RKC Waalwijk vs Eindhoven,16/04/2027,18:00:00Z,RKC Waalwijk,Eindhoven,ed5nwjz5za3oyi20nxzgqivmx,dvmw7d6jb38qvv7e6ziwu0vyr
+kqgyu3uqlwl56jzi00kwf7ys,NAC Breda vs Almere City,16/04/2027,18:00:00Z,NAC Breda,Almere City,59t7flioj4w4mpwnrwbm0m8ck,1fttb31hnskynpku8qd09yhm8
+ke4a1oo6rd7xipdk1d9pa590,Heracles vs Ajax II,16/04/2027,18:00:00Z,Heracles,Ajax II,dac758ef858jbq7pcb3gfwite,6lzy9iiqoysvtdsgx719fng9n
+k1qpl0mya9xrvrlf375yjnys,Helmond Sport vs Den Bosch,16/04/2027,18:00:00Z,Helmond Sport,Den Bosch,b94pf87be9ojdgnrs5mst80un,eh54mfvjtrttgsg1wbjnvxcqz
+jpbjai6pfhqf7mfsoj15f66s,Utrecht II vs AZ II,12/04/2027,18:00:00Z,Utrecht II,AZ II,ch82doz9w9t1sw9ae3a4ffh0j,1wyg1tunyt7go9tnjea1hjqxb
+jceiiyspznj9z2w2ymx7irdg,Ajax II vs PSV II,12/04/2027,18:00:00Z,Ajax II,PSV II,6lzy9iiqoysvtdsgx719fng9n,2xlnfgrl6r18ftv38unwp7h4s
+j000rdjyk6ew6hh6d2846olw,Roda JC vs MVV,11/04/2027,14:45:00Z,Roda JC,MVV,7rmv5ns2rj7bn4otpkur0mx0x,bqm1bnp1bh2apyudlz1o1whr3
+inkqangx0v7aq09g0lyonaqc,Volendam vs Heracles,10/04/2027,14:30:00Z,Volendam,Heracles,6g9qrm72224jrk6tkxxxi8a9n,dac758ef858jbq7pcb3gfwite
+ib59o8imt0j4q7laylb2eyvo,Emmen vs Vitesse,09/04/2027,18:00:00Z,Emmen,Vitesse,3t0vjqtxc8wpjzv82i3oi2ova,6hsriqr3ybvyg94w2k19oal50
+hyw7va05da0a9uphl4495ous,Eindhoven vs TOP Oss,09/04/2027,18:00:00Z,Eindhoven,TOP Oss,dvmw7d6jb38qvv7e6ziwu0vyr,dnzj0iv5qtaemm9kthh9pos8q
+hmk2ihsna1ulnh711p8uxo2c,Dordrecht vs Helmond Sport,09/04/2027,18:00:00Z,Dordrecht,Helmond Sport,z9phg19papi9f5fd6qxzr836,b94pf87be9ojdgnrs5mst80un
+ha8yclq6osijx5to0cq13uhg,Den Bosch vs NAC Breda,09/04/2027,18:00:00Z,Den Bosch,NAC Breda,eh54mfvjtrttgsg1wbjnvxcqz,59t7flioj4w4mpwnrwbm0m8ck
+gxtj7bf1t3c7tvxvwizygmxg,De Graafschap vs VVV,09/04/2027,18:00:00Z,De Graafschap,VVV,xcevba75jfkrg4s6tl89zl3y,cv5ftekuejf0ryxvd5h2my47r
+gldhd93ph0tayjhmvrkqxyc4,Almere City vs RKC Waalwijk,09/04/2027,18:00:00Z,Almere City,RKC Waalwijk,1fttb31hnskynpku8qd09yhm8,ed5nwjz5za3oyi20nxzgqivmx
+g8rda2p638txx30oobsu4lxw,AZ II vs Vitesse,05/04/2027,18:00:00Z,AZ II,Vitesse,1wyg1tunyt7go9tnjea1hjqxb,6hsriqr3ybvyg94w2k19oal50
+fwdjkrit41i65wbuqrxobqc4,PSV II vs RKC Waalwijk,05/04/2027,18:00:00Z,PSV II,RKC Waalwijk,2xlnfgrl6r18ftv38unwp7h4s,ed5nwjz5za3oyi20nxzgqivmx
+fk00u6qucfhkq66vtj37gvf8,Ajax II vs Utrecht II,05/04/2027,18:00:00Z,Ajax II,Utrecht II,6lzy9iiqoysvtdsgx719fng9n,ch82doz9w9t1sw9ae3a4ffh0j
+f7s0w8cx0svtwx6hbgsirris,De Graafschap vs Roda JC,04/04/2027,14:45:00Z,De Graafschap,Roda JC,xcevba75jfkrg4s6tl89zl3y,7rmv5ns2rj7bn4otpkur0mx0x
+evflc0yfr65748kwo2k6l5p0,Heracles vs Eindhoven,03/04/2027,14:30:00Z,Heracles,Eindhoven,dac758ef858jbq7pcb3gfwite,dvmw7d6jb38qvv7e6ziwu0vyr
+ej4a1gacuh3q604jyhpd48pg,VVV vs NAC Breda,02/04/2027,18:00:00Z,VVV,NAC Breda,cv5ftekuejf0ryxvd5h2my47r,59t7flioj4w4mpwnrwbm0m8ck
+e6pihl80heq4ngi1jjv5p1qs,TOP Oss vs Den Bosch,02/04/2027,18:00:00Z,TOP Oss,Den Bosch,dnzj0iv5qtaemm9kthh9pos8q,eh54mfvjtrttgsg1wbjnvxcqz
+due7oq3ncrilo2b55dbir66s,MVV vs Emmen,02/04/2027,18:00:00Z,MVV,Emmen,bqm1bnp1bh2apyudlz1o1whr3,3t0vjqtxc8wpjzv82i3oi2ova
+di6w4zxmb6efyh5w2yyen9jo,Helmond Sport vs Almere City,02/04/2027,18:00:00Z,Helmond Sport,Almere City,b94pf87be9ojdgnrs5mst80un,1fttb31hnskynpku8qd09yhm8
+d5xtm0avlveh47iatk5iqc5w,Dordrecht vs Volendam,02/04/2027,18:00:00Z,Dordrecht,Volendam,z9phg19papi9f5fd6qxzr836,6g9qrm72224jrk6tkxxxi8a9n
+ct28xzil2lp7gg7bza8kgff8,MVV vs De Graafschap,20/03/2027,15:30:00Z,MVV,De Graafschap,bqm1bnp1bh2apyudlz1o1whr3,xcevba75jfkrg4s6tl89zl3y
+cfywowkt1jpik36dxecs8x78,Vitesse vs Utrecht II,19/03/2027,19:00:00Z,Vitesse,Utrecht II,6hsriqr3ybvyg94w2k19oal50,ch82doz9w9t1sw9ae3a4ffh0j
+c3pgdtxhk7plzqpxysijgx04,Roda JC vs Ajax II,19/03/2027,19:00:00Z,Roda JC,Ajax II,7rmv5ns2rj7bn4otpkur0mx0x,6lzy9iiqoysvtdsgx719fng9n
+brg81b9iyqnkay76lirdz0gk,RKC Waalwijk vs TOP Oss,19/03/2027,19:00:00Z,RKC Waalwijk,TOP Oss,ed5nwjz5za3oyi20nxzgqivmx,dnzj0iv5qtaemm9kthh9pos8q
+beyya6jc69srwd1v6vum4lxw,NAC Breda vs AZ II,19/03/2027,19:00:00Z,NAC Breda,AZ II,59t7flioj4w4mpwnrwbm0m8ck,1wyg1tunyt7go9tnjea1hjqxb
+b2j1bakeza7n2k6otigpen84,Volendam vs PSV II,19/03/2027,19:00:00Z,Volendam,PSV II,6g9qrm72224jrk6tkxxxi8a9n,2xlnfgrl6r18ftv38unwp7h4s
+aq0xj0pftas84j82rd8r2yhg,Emmen vs VVV,19/03/2027,19:00:00Z,Emmen,VVV,3t0vjqtxc8wpjzv82i3oi2ova,cv5ftekuejf0ryxvd5h2my47r
+adnu5a65i4b6ylb2om5xlous,Eindhoven vs Helmond Sport,19/03/2027,19:00:00Z,Eindhoven,Helmond Sport,dvmw7d6jb38qvv7e6ziwu0vyr,b94pf87be9ojdgnrs5mst80un
+a15vs10kvaqoacolxwp95el0,Den Bosch vs Heracles,19/03/2027,19:00:00Z,Den Bosch,Heracles,eh54mfvjtrttgsg1wbjnvxcqz,dac758ef858jbq7pcb3gfwite
+9ovs5rtr09yv77iodjcjro5w,Almere City vs Dordrecht,19/03/2027,19:00:00Z,Almere City,Dordrecht,1fttb31hnskynpku8qd09yhm8,z9phg19papi9f5fd6qxzr836
+9cdqu1pcqjp63dvbwdoi36l0,Utrecht II vs NAC Breda,15/03/2027,19:00:00Z,Utrecht II,NAC Breda,ch82doz9w9t1sw9ae3a4ffh0j,59t7flioj4w4mpwnrwbm0m8ck
+8zxs5hu7ra9ibg9b67pvlixg,AZ II vs VVV,15/03/2027,19:00:00Z,AZ II,VVV,1wyg1tunyt7go9tnjea1hjqxb,cv5ftekuejf0ryxvd5h2my47r
+8nco7no0pccpyywxhe9dknpw,Ajax II vs Almere City,15/03/2027,19:00:00Z,Ajax II,Almere City,6lzy9iiqoysvtdsgx719fng9n,1fttb31hnskynpku8qd09yhm8
+8awyd0xnwl1z408f44iwduz8,TOP Oss vs PSV II,13/03/2027,15:30:00Z,TOP Oss,PSV II,dnzj0iv5qtaemm9kthh9pos8q,2xlnfgrl6r18ftv38unwp7h4s
+7yjbuyj8s1xu380ivl32vndg,RKC Waalwijk vs Vitesse,12/03/2027,19:00:00Z,RKC Waalwijk,Vitesse,ed5nwjz5za3oyi20nxzgqivmx,6hsriqr3ybvyg94w2k19oal50
+7m92npk9gzgn75xwlyfa3ifo,Heracles vs MVV,12/03/2027,19:00:00Z,Heracles,MVV,dac758ef858jbq7pcb3gfwite,bqm1bnp1bh2apyudlz1o1whr3
+79xywji57c1ao4jq73fq189g,Helmond Sport vs Roda JC,12/03/2027,19:00:00Z,Helmond Sport,Roda JC,b94pf87be9ojdgnrs5mst80un,7rmv5ns2rj7bn4otpkur0mx0x
+6xi20010kz8uq9mc0fsvwvf8,Dordrecht vs Eindhoven,12/03/2027,19:00:00Z,Dordrecht,Eindhoven,z9phg19papi9f5fd6qxzr836,dvmw7d6jb38qvv7e6ziwu0vyr
+6kz9ek99uqpmurd822rt6has,Den Bosch vs Emmen,12/03/2027,19:00:00Z,Den Bosch,Emmen,eh54mfvjtrttgsg1wbjnvxcqz,3t0vjqtxc8wpjzv82i3oi2ova
+683km8yxadds1j1lslsqzcwk,De Graafschap vs Volendam,12/03/2027,19:00:00Z,De Graafschap,Volendam,xcevba75jfkrg4s6tl89zl3y,6g9qrm72224jrk6tkxxxi8a9n
+5vu1n5ql9of1q2k80qgtnehg,PSV II vs Heracles,08/03/2027,19:00:00Z,PSV II,Heracles,2xlnfgrl6r18ftv38unwp7h4s,dac758ef858jbq7pcb3gfwite
+5jdpl16ove6mssoddsnu08pg,Almere City vs De Graafschap,07/03/2027,15:45:00Z,Almere City,De Graafschap,1fttb31hnskynpku8qd09yhm8,xcevba75jfkrg4s6tl89zl3y
+56x29pul5ywovl8ptd4gqt5g,Vitesse vs Den Bosch,07/03/2027,11:15:00Z,Vitesse,Den Bosch,6hsriqr3ybvyg94w2k19oal50,eh54mfvjtrttgsg1wbjnvxcqz
+4uje5m4wleztjuwqf4woeas4,Roda JC vs TOP Oss,06/03/2027,15:30:00Z,Roda JC,TOP Oss,7rmv5ns2rj7bn4otpkur0mx0x,dnzj0iv5qtaemm9kthh9pos8q
+4i3pn7dl0xw06zousk9bjfv8,VVV vs Ajax II,05/03/2027,19:00:00Z,VVV,Ajax II,cv5ftekuejf0ryxvd5h2my47r,6lzy9iiqoysvtdsgx719fng9n
+45ln807qxnhl97zitdhlrjtg,NAC Breda vs Helmond Sport,05/03/2027,19:00:00Z,NAC Breda,Helmond Sport,59t7flioj4w4mpwnrwbm0m8ck,b94pf87be9ojdgnrs5mst80un
+3t6b5o6hviwaqvk0zd4rhslw,MVV vs AZ II,05/03/2027,19:00:00Z,MVV,AZ II,bqm1bnp1bh2apyudlz1o1whr3,1wyg1tunyt7go9tnjea1hjqxb
+3glvc17fxa5s2nz6h5kpht04,Volendam vs RKC Waalwijk,05/03/2027,19:00:00Z,Volendam,RKC Waalwijk,6g9qrm72224jrk6tkxxxi8a9n,ed5nwjz5za3oyi20nxzgqivmx
+3450kxubx2bidg43t3ytr4t0,Emmen vs Dordrecht,05/03/2027,19:00:00Z,Emmen,Dordrecht,3t0vjqtxc8wpjzv82i3oi2ova,z9phg19papi9f5fd6qxzr836
+2rp0x6kacaxhadfca7q49d04,Eindhoven vs Utrecht II,05/03/2027,19:00:00Z,Eindhoven,Utrecht II,dvmw7d6jb38qvv7e6ziwu0vyr,ch82doz9w9t1sw9ae3a4ffh0j
+skvig2sof0o2sbiyi7qzo4,Den Bosch vs Volendam,26/02/2027,19:00:00Z,Den Bosch,Volendam,eh54mfvjtrttgsg1wbjnvxcqz,6g9qrm72224jrk6tkxxxi8a9n
+pgdsbxei95nogmhohyac4yc,De Graafschap vs Ajax II,26/02/2027,19:00:00Z,De Graafschap,Ajax II,xcevba75jfkrg4s6tl89zl3y,6lzy9iiqoysvtdsgx719fng9n
+f59sqvohc0mfxskm5d4pz5yqc,Heracles vs Utrecht II,26/02/2027,19:00:00Z,Heracles,Utrecht II,dac758ef858jbq7pcb3gfwite,ch82doz9w9t1sw9ae3a4ffh0j
+f4xd1h1uhb3azw4lsmqkg2hp0,Almere City vs MVV,26/02/2027,19:00:00Z,Almere City,MVV,1fttb31hnskynpku8qd09yhm8,bqm1bnp1bh2apyudlz1o1whr3
+d1rxxy9rwdb46c2i6l1gljo,Dordrecht vs TOP Oss,26/02/2027,19:00:00Z,Dordrecht,TOP Oss,z9phg19papi9f5fd6qxzr836,dnzj0iv5qtaemm9kthh9pos8q
+2fc51zwutr8i1grv5x5fyvbo,RKC Waalwijk vs Helmond Sport,26/02/2027,19:00:00Z,RKC Waalwijk,Helmond Sport,ed5nwjz5za3oyi20nxzgqivmx,b94pf87be9ojdgnrs5mst80un
+233n0u7fxpbobdkrtducqm1g,Roda JC vs Eindhoven,26/02/2027,19:00:00Z,Roda JC,Eindhoven,7rmv5ns2rj7bn4otpkur0mx0x,dvmw7d6jb38qvv7e6ziwu0vyr
+1qpy3i5lojax7mql08wawzkk,NAC Breda vs Vitesse,26/02/2027,19:00:00Z,NAC Breda,Vitesse,59t7flioj4w4mpwnrwbm0m8ck,6hsriqr3ybvyg94w2k19oal50
+1e94fo5ej9vupthc061t7r4k,PSV II vs VVV,26/02/2027,19:00:00Z,PSV II,VVV,2xlnfgrl6r18ftv38unwp7h4s,cv5ftekuejf0ryxvd5h2my47r
+11tw34ae58pys7jgsxk35mvo,AZ II vs Emmen,26/02/2027,19:00:00Z,AZ II,Emmen,1wyg1tunyt7go9tnjea1hjqxb,3t0vjqtxc8wpjzv82i3oi2ova
+f4l2xhzs1rw058ki4ygqzewb8,AZ II vs RKC Waalwijk,22/02/2027,19:00:00Z,AZ II,RKC Waalwijk,1wyg1tunyt7go9tnjea1hjqxb,ed5nwjz5za3oyi20nxzgqivmx
+f48q3m2ojar1z43ssrw3lchsk,Utrecht II vs PSV II,22/02/2027,19:00:00Z,Utrecht II,PSV II,ch82doz9w9t1sw9ae3a4ffh0j,2xlnfgrl6r18ftv38unwp7h4s
+f3vyqckmshp2hmzucktd6xij8,Ajax II vs Den Bosch,22/02/2027,19:00:00Z,Ajax II,Den Bosch,6lzy9iiqoysvtdsgx719fng9n,eh54mfvjtrttgsg1wbjnvxcqz
+f3jk0stuh0g9rr1ymfutdy9lg,Helmond Sport vs MVV,20/02/2027,15:30:00Z,Helmond Sport,MVV,b94pf87be9ojdgnrs5mst80un,bqm1bnp1bh2apyudlz1o1whr3
+f377k9ue52izswb6mnuzivh1w,VVV vs Almere City,19/02/2027,19:00:00Z,VVV,Almere City,cv5ftekuejf0ryxvd5h2my47r,1fttb31hnskynpku8qd09yhm8
+f2uukf9wrmqz4wcu8bv75wy6s,Vitesse vs Roda JC,19/02/2027,19:00:00Z,Vitesse,Roda JC,6hsriqr3ybvyg94w2k19oal50,7rmv5ns2rj7bn4otpkur0mx0x
+f2igarkoj47ijmtl2794582z8,Dordrecht vs De Graafschap,19/02/2027,19:00:00Z,Dordrecht,De Graafschap,z9phg19papi9f5fd6qxzr836,xcevba75jfkrg4s6tl89zl3y
+f25wg8zyyntz1usyx0ts5dvkk,TOP Oss vs Heracles,19/02/2027,19:00:00Z,TOP Oss,Heracles,dnzj0iv5qtaemm9kthh9pos8q,dac758ef858jbq7pcb3gfwite
+f1tl8l7xqysfqpqpx940jd3is,Volendam vs NAC Breda,19/02/2027,19:00:00Z,Volendam,NAC Breda,6g9qrm72224jrk6tkxxxi8a9n,59t7flioj4w4mpwnrwbm0m8ck
+f1h9gdh5xugq473it7vcc407o,Emmen vs Eindhoven,19/02/2027,19:00:00Z,Emmen,Eindhoven,3t0vjqtxc8wpjzv82i3oi2ova,dvmw7d6jb38qvv7e6ziwu0vyr
+f14spw80kv0xvxeclopntpmac,PSV II vs Helmond Sport,15/02/2027,19:00:00Z,PSV II,Helmond Sport,2xlnfgrl6r18ftv38unwp7h4s,b94pf87be9ojdgnrs5mst80un
+f0s6ymk9ajl4n6hy8vxo0x4pg,MVV vs Ajax II,13/02/2027,15:30:00Z,MVV,Ajax II,bqm1bnp1bh2apyudlz1o1whr3,6lzy9iiqoysvtdsgx719fng9n
+f0fws9qb4lyvstrdfhiqabvh0,VVV vs Vitesse,12/02/2027,19:00:00Z,VVV,Vitesse,cv5ftekuejf0ryxvd5h2my47r,6hsriqr3ybvyg94w2k19oal50
+f03huy9cb05ts3jx7hb0btdsk,TOP Oss vs AZ II,12/02/2027,19:00:00Z,TOP Oss,AZ II,dnzj0iv5qtaemm9kthh9pos8q,1wyg1tunyt7go9tnjea1hjqxb
+ezqyeqjlnwvnr55m6hsq9n47o,Roda JC vs Utrecht II,12/02/2027,19:00:00Z,Roda JC,Utrecht II,7rmv5ns2rj7bn4otpkur0mx0x,ch82doz9w9t1sw9ae3a4ffh0j
+ezecjst4cm638tubhqrll2pec,RKC Waalwijk vs Heracles,12/02/2027,19:00:00Z,RKC Waalwijk,Heracles,ed5nwjz5za3oyi20nxzgqivmx,dac758ef858jbq7pcb3gfwite
+ez1xp6ui89xyo8j1ce9r9hwyc,NAC Breda vs Dordrecht,12/02/2027,19:00:00Z,NAC Breda,Dordrecht,59t7flioj4w4mpwnrwbm0m8ck,z9phg19papi9f5fd6qxzr836
+eyotlgsr73vlva454gywydpuc,Eindhoven vs Volendam,12/02/2027,19:00:00Z,Eindhoven,Volendam,dvmw7d6jb38qvv7e6ziwu0vyr,6g9qrm72224jrk6tkxxxi8a9n
+eycdidabo1d3r1p2ckcu98mqc,De Graafschap vs Emmen,12/02/2027,19:00:00Z,De Graafschap,Emmen,xcevba75jfkrg4s6tl89zl3y,3t0vjqtxc8wpjzv82i3oi2ova
+exzueivg8yl8issplikf2xxjo,Almere City vs Den Bosch,12/02/2027,19:00:00Z,Almere City,Den Bosch,1fttb31hnskynpku8qd09yhm8,eh54mfvjtrttgsg1wbjnvxcqz
+exnfitv5qq0e9mm9sc65ndo2c,Utrecht II vs TOP Oss,08/02/2027,19:00:00Z,Utrecht II,TOP Oss,ch82doz9w9t1sw9ae3a4ffh0j,dnzj0iv5qtaemm9kthh9pos8q
+exb1684bqhrnj6kw258jtkiz8,AZ II vs Roda JC,08/02/2027,19:00:00Z,AZ II,Roda JC,1wyg1tunyt7go9tnjea1hjqxb,7rmv5ns2rj7bn4otpkur0mx0x
+ewyq80nylwjogp7plf8tokv10,Ajax II vs NAC Breda,08/02/2027,19:00:00Z,Ajax II,NAC Breda,6lzy9iiqoysvtdsgx719fng9n,59t7flioj4w4mpwnrwbm0m8ck
+ewa2i48kuhb0nr9xriqnhplhw,Vitesse vs Eindhoven,06/02/2027,15:30:00Z,Vitesse,Eindhoven,6hsriqr3ybvyg94w2k19oal50,dvmw7d6jb38qvv7e6ziwu0vyr
+ewmefgbzq2n5b8p0x46103vh0,Volendam vs Almere City,05/02/2027,19:00:00Z,Volendam,Almere City,6g9qrm72224jrk6tkxxxi8a9n,1fttb31hnskynpku8qd09yhm8
+evxl2sr434ll1fe88x1ggmolw,RKC Waalwijk vs De Graafschap,05/02/2027,19:00:00Z,RKC Waalwijk,De Graafschap,ed5nwjz5za3oyi20nxzgqivmx,xcevba75jfkrg4s6tl89zl3y
+evl2vpmrqkqcfqg7coo8xwv10,Heracles vs VVV,05/02/2027,19:00:00Z,Heracles,VVV,dac758ef858jbq7pcb3gfwite,cv5ftekuejf0ryxvd5h2my47r
+ev8nivzj2hf0x2yb3yc8cno5w,Helmond Sport vs Emmen,05/02/2027,19:00:00Z,Helmond Sport,Emmen,b94pf87be9ojdgnrs5mst80un,3t0vjqtxc8wpjzv82i3oi2ova
+euw91asq3w1622kd2eprmyivo,Dordrecht vs MVV,05/02/2027,19:00:00Z,Dordrecht,MVV,z9phg19papi9f5fd6qxzr836,bqm1bnp1bh2apyudlz1o1whr3
+eujv18r74idzn48eh7g92nvo4,Den Bosch vs PSV II,05/02/2027,19:00:00Z,Den Bosch,PSV II,eh54mfvjtrttgsg1wbjnvxcqz,2xlnfgrl6r18ftv38unwp7h4s
+eu7f0muwt556tupvs25foftas,PSV II vs Vitesse,01/02/2027,19:00:00Z,PSV II,Vitesse,2xlnfgrl6r18ftv38unwp7h4s,6hsriqr3ybvyg94w2k19oal50
+etuzv7hxgmeh0lg9tkz3na42c,Roda JC vs Heracles,30/01/2027,15:30:00Z,Roda JC,Heracles,7rmv5ns2rj7bn4otpkur0mx0x,dac758ef858jbq7pcb3gfwite
+etiiuw9ib0jrflhapjxjscw7o,VVV vs Dordrecht,29/01/2027,19:00:00Z,VVV,Dordrecht,cv5ftekuejf0ryxvd5h2my47r,z9phg19papi9f5fd6qxzr836
+et65h3f92x96tps4rautyybro,NAC Breda vs TOP Oss,29/01/2027,19:00:00Z,NAC Breda,TOP Oss,59t7flioj4w4mpwnrwbm0m8ck,dnzj0iv5qtaemm9kthh9pos8q
+estt2s8lqgv0d139dv6kka710,MVV vs RKC Waalwijk,29/01/2027,19:00:00Z,MVV,RKC Waalwijk,bqm1bnp1bh2apyudlz1o1whr3,ed5nwjz5za3oyi20nxzgqivmx
+eshh5gs8frc09faipry7w1t78,Volendam vs AZ II,29/01/2027,19:00:00Z,Volendam,AZ II,6g9qrm72224jrk6tkxxxi8a9n,1wyg1tunyt7go9tnjea1hjqxb
+es4ioglw4cgatkzyd4vq97r4k,Emmen vs Ajax II,29/01/2027,19:00:00Z,Emmen,Ajax II,3t0vjqtxc8wpjzv82i3oi2ova,6lzy9iiqoysvtdsgx719fng9n
+ers8wzrd0xmlo1d4pltm3owlw,Eindhoven vs Den Bosch,29/01/2027,19:00:00Z,Eindhoven,Den Bosch,dvmw7d6jb38qvv7e6ziwu0vyr,eh54mfvjtrttgsg1wbjnvxcqz
+erftsafhxogcz60aj0kw56uqc,De Graafschap vs Helmond Sport,29/01/2027,19:00:00Z,De Graafschap,Helmond Sport,xcevba75jfkrg4s6tl89zl3y,b94pf87be9ojdgnrs5mst80un
+er3e8hfotas1yy3jchn2jnod0,Almere City vs Utrecht II,29/01/2027,19:00:00Z,Almere City,Utrecht II,1fttb31hnskynpku8qd09yhm8,ch82doz9w9t1sw9ae3a4ffh0j
+eqr2pnvrto8tetqx55h10w1zo,Utrecht II vs De Graafschap,25/01/2027,19:00:00Z,Utrecht II,De Graafschap,ch82doz9w9t1sw9ae3a4ffh0j,xcevba75jfkrg4s6tl89zl3y
+eqen9vrkby0spqo00oot2entg,AZ II vs PSV II,25/01/2027,19:00:00Z,AZ II,PSV II,1wyg1tunyt7go9tnjea1hjqxb,2xlnfgrl6r18ftv38unwp7h4s
+eq2ao28pnnljprhba4mdslpuc,Ajax II vs Volendam,25/01/2027,19:00:00Z,Ajax II,Volendam,6lzy9iiqoysvtdsgx719fng9n,6g9qrm72224jrk6tkxxxi8a9n
+eppw33uxj3p2z48d6826fwtuc,Den Bosch vs RKC Waalwijk,23/01/2027,15:30:00Z,Den Bosch,RKC Waalwijk,eh54mfvjtrttgsg1wbjnvxcqz,ed5nwjz5za3oyi20nxzgqivmx
+epdi7hudkmbilr345dkhcjfo4,Vitesse vs MVV,22/01/2027,19:00:00Z,Vitesse,MVV,6hsriqr3ybvyg94w2k19oal50,bqm1bnp1bh2apyudlz1o1whr3
+ep19zv5cimkksv4tip5sf2l1w,TOP Oss vs VVV,22/01/2027,19:00:00Z,TOP Oss,VVV,dnzj0iv5qtaemm9kthh9pos8q,cv5ftekuejf0ryxvd5h2my47r
+eooz18yz1pqp16hnvcoj0bdp0,Roda JC vs Dordrecht,22/01/2027,19:00:00Z,Roda JC,Dordrecht,7rmv5ns2rj7bn4otpkur0mx0x,z9phg19papi9f5fd6qxzr836
+eoc6xtfzx8ca9e6lt0hvizv2s,Heracles vs Helmond Sport,22/01/2027,19:00:00Z,Heracles,Helmond Sport,dac758ef858jbq7pcb3gfwite,b94pf87be9ojdgnrs5mst80un
+enzvdyjurea05paf8iy54ohec,Emmen vs NAC Breda,22/01/2027,19:00:00Z,Emmen,NAC Breda,3t0vjqtxc8wpjzv82i3oi2ova,59t7flioj4w4mpwnrwbm0m8ck
+ennkmn15nproarox48irj3dhw,Eindhoven vs Almere City,22/01/2027,19:00:00Z,Eindhoven,Almere City,dvmw7d6jb38qvv7e6ziwu0vyr,1fttb31hnskynpku8qd09yhm8
+enb7mji25wnvwh1pwtsnfuck4,AZ II vs Heracles,18/01/2027,19:00:00Z,AZ II,Heracles,1wyg1tunyt7go9tnjea1hjqxb,dac758ef858jbq7pcb3gfwite
+emypwx6hzzwj1y7qor2mzxf6c,Almere City vs Emmen,16/01/2027,15:30:00Z,Almere City,Emmen,1fttb31hnskynpku8qd09yhm8,3t0vjqtxc8wpjzv82i3oi2ova
+emmau7jjvpcg7gdqyroivrdw4,VVV vs Volendam,15/01/2027,19:00:00Z,VVV,Volendam,cv5ftekuejf0ryxvd5h2my47r,6g9qrm72224jrk6tkxxxi8a9n
+em9u91w7hvf6lftqb6x56cyz8,Vitesse vs Ajax II,15/01/2027,19:00:00Z,Vitesse,Ajax II,6hsriqr3ybvyg94w2k19oal50,6lzy9iiqoysvtdsgx719fng9n
+elxn0r3e3kahyualvs5p45iqc,RKC Waalwijk vs Roda JC,15/01/2027,19:00:00Z,RKC Waalwijk,Roda JC,ed5nwjz5za3oyi20nxzgqivmx,7rmv5ns2rj7bn4otpkur0mx0x
+elkp0hh16kchn5nv9kqg7eqs4,NAC Breda vs PSV II,15/01/2027,19:00:00Z,NAC Breda,PSV II,59t7flioj4w4mpwnrwbm0m8ck,2xlnfgrl6r18ftv38unwp7h4s
+el8cpiubf6nsi87ngzswlkglw,MVV vs Den Bosch,15/01/2027,19:00:00Z,MVV,Den Bosch,bqm1bnp1bh2apyudlz1o1whr3,eh54mfvjtrttgsg1wbjnvxcqz
+ekvxlktnqyoa1i0a1avue1udw,Helmond Sport vs TOP Oss,15/01/2027,19:00:00Z,Helmond Sport,TOP Oss,b94pf87be9ojdgnrs5mst80un,dnzj0iv5qtaemm9kthh9pos8q
+ekjoyf3mqn08o6lqqk3hpmfpw,Dordrecht vs Utrecht II,15/01/2027,19:00:00Z,Dordrecht,Utrecht II,z9phg19papi9f5fd6qxzr836,ch82doz9w9t1sw9ae3a4ffh0j
+ek7dprwi3dv1h3uyu5l3qjkt0,De Graafschap vs Eindhoven,15/01/2027,19:00:00Z,De Graafschap,Eindhoven,xcevba75jfkrg4s6tl89zl3y,dvmw7d6jb38qvv7e6ziwu0vyr
+ejv4kjtvpc6j3ds1hwl3rsvmc,PSV II vs Almere City,11/01/2027,19:00:00Z,PSV II,Almere City,2xlnfgrl6r18ftv38unwp7h4s,1fttb31hnskynpku8qd09yhm8
+ejinhwye2xxyoy12ui1ufhn2s,Utrecht II vs MVV,11/01/2027,19:00:00Z,Utrecht II,MVV,ch82doz9w9t1sw9ae3a4ffh0j,bqm1bnp1bh2apyudlz1o1whr3
+ej67rr88c5tt1iz1wpedfgp3o,Ajax II vs Dordrecht,11/01/2027,19:00:00Z,Ajax II,Dordrecht,6lzy9iiqoysvtdsgx719fng9n,z9phg19papi9f5fd6qxzr836
+eitxuei68a7948vfavrjxr9jo,TOP Oss vs Vitesse,10/01/2027,15:45:00Z,TOP Oss,Vitesse,dnzj0iv5qtaemm9kthh9pos8q,6hsriqr3ybvyg94w2k19oal50
+eihdr1sncopv6xcfhidnik8ic,Heracles vs NAC Breda,10/01/2027,11:15:00Z,Heracles,NAC Breda,dac758ef858jbq7pcb3gfwite,59t7flioj4w4mpwnrwbm0m8ck
+ei4wpzodtyvuf1avy954grifo,Emmen vs RKC Waalwijk,09/01/2027,15:30:00Z,Emmen,RKC Waalwijk,3t0vjqtxc8wpjzv82i3oi2ova,ed5nwjz5za3oyi20nxzgqivmx
+ehsh7kebfjpoyp9qjbcrxy0wk,Roda JC vs VVV,08/01/2027,19:00:00Z,Roda JC,VVV,7rmv5ns2rj7bn4otpkur0mx0x,cv5ftekuejf0ryxvd5h2my47r
+ehg0cn471o0aoudurff9ymdxw,Volendam vs Helmond Sport,08/01/2027,19:00:00Z,Volendam,Helmond Sport,6g9qrm72224jrk6tkxxxi8a9n,b94pf87be9ojdgnrs5mst80un
+eh3lgafa2qhs068kyjt5j02z8,Eindhoven vs AZ II,08/01/2027,19:00:00Z,Eindhoven,AZ II,dvmw7d6jb38qvv7e6ziwu0vyr,1wyg1tunyt7go9tnjea1hjqxb
+egr9lgl1zq8h7jced7w25opw4,Den Bosch vs De Graafschap,08/01/2027,19:00:00Z,Den Bosch,De Graafschap,eh54mfvjtrttgsg1wbjnvxcqz,xcevba75jfkrg4s6tl89zl3y
+egev0cv8p59aj8l87fpbtmpzo,PSV II vs Eindhoven,21/12/2026,19:00:00Z,PSV II,Eindhoven,2xlnfgrl6r18ftv38unwp7h4s,dvmw7d6jb38qvv7e6ziwu0vyr
+eg2i5bcah8j4h0rz9eg5yx9uc,VVV vs Utrecht II,19/12/2026,15:30:00Z,VVV,Utrecht II,cv5ftekuejf0ryxvd5h2my47r,ch82doz9w9t1sw9ae3a4ffh0j
+efq4w79xvg884eexiqt92ohsk,RKC Waalwijk vs Ajax II,18/12/2026,19:00:00Z,RKC Waalwijk,Ajax II,ed5nwjz5za3oyi20nxzgqivmx,6lzy9iiqoysvtdsgx719fng9n
+efdnzdi4f0yark3xps09fuaz8,NAC Breda vs Roda JC,18/12/2026,19:00:00Z,NAC Breda,Roda JC,59t7flioj4w4mpwnrwbm0m8ck,7rmv5ns2rj7bn4otpkur0mx0x
+ef0k4jibfnf61s2gmk922klxw,MVV vs TOP Oss,18/12/2026,19:00:00Z,MVV,TOP Oss,bqm1bnp1bh2apyudlz1o1whr3,dnzj0iv5qtaemm9kthh9pos8q
+eenlc4lh7xpzmnso99zysp7h0,Helmond Sport vs AZ II,18/12/2026,19:00:00Z,Helmond Sport,AZ II,b94pf87be9ojdgnrs5mst80un,1wyg1tunyt7go9tnjea1hjqxb
+eeb5xwt4ryp3ivc9xadskmec4,Volendam vs Emmen,18/12/2026,19:00:00Z,Volendam,Emmen,6g9qrm72224jrk6tkxxxi8a9n,3t0vjqtxc8wpjzv82i3oi2ova
+edywgiwhljm3gco3zbxvhwvtg,Dordrecht vs Den Bosch,18/12/2026,19:00:00Z,Dordrecht,Den Bosch,z9phg19papi9f5fd6qxzr836,eh54mfvjtrttgsg1wbjnvxcqz
+edmfrycpu2cjtoxhypq0x30gk,De Graafschap vs Heracles,18/12/2026,19:00:00Z,De Graafschap,Heracles,xcevba75jfkrg4s6tl89zl3y,dac758ef858jbq7pcb3gfwite
+ed9yoazq5azry6srli2ftfvh0,Almere City vs Vitesse,18/12/2026,19:00:00Z,Almere City,Vitesse,1fttb31hnskynpku8qd09yhm8,6hsriqr3ybvyg94w2k19oal50
+ecxn7ailsudq7182tvqfhbdhw,Vitesse vs Helmond Sport,11/12/2026,19:00:00Z,Vitesse,Helmond Sport,6hsriqr3ybvyg94w2k19oal50,b94pf87be9ojdgnrs5mst80un
+ecl9f4w8wqkegp1kax5l7r6s4,TOP Oss vs Eindhoven,11/12/2026,19:00:00Z,TOP Oss,Eindhoven,dnzj0iv5qtaemm9kthh9pos8q,dvmw7d6jb38qvv7e6ziwu0vyr
+ec8wei5u0f6ti1ryickrzldec,Roda JC vs Den Bosch,11/12/2026,19:00:00Z,Roda JC,Den Bosch,7rmv5ns2rj7bn4otpkur0mx0x,eh54mfvjtrttgsg1wbjnvxcqz
+ebwmelwhy6v6m5wqd91moh8no,Utrecht II vs RKC Waalwijk,11/12/2026,19:00:00Z,Utrecht II,RKC Waalwijk,ch82doz9w9t1sw9ae3a4ffh0j,ed5nwjz5za3oyi20nxzgqivmx
+ebk7ldnmjt57lgh1zhp9fm51w,AZ II vs NAC Breda,11/12/2026,19:00:00Z,AZ II,NAC Breda,1wyg1tunyt7go9tnjea1hjqxb,59t7flioj4w4mpwnrwbm0m8ck
+eb7vhgxnk9205lx32q5m6pez8,Ajax II vs MVV,11/12/2026,19:00:00Z,Ajax II,MVV,6lzy9iiqoysvtdsgx719fng9n,bqm1bnp1bh2apyudlz1o1whr3
+eavlim8876v4bx4vgm2i1709g,Heracles vs Volendam,11/12/2026,19:00:00Z,Heracles,Volendam,dac758ef858jbq7pcb3gfwite,6g9qrm72224jrk6tkxxxi8a9n
+eajafkg8raz1jwdwkky3pmhas,De Graafschap vs Dordrecht,11/12/2026,19:00:00Z,De Graafschap,Dordrecht,xcevba75jfkrg4s6tl89zl3y,z9phg19papi9f5fd6qxzr836
+ea6w6kfmzhd9e4the5jvoznkk,Emmen vs PSV II,11/12/2026,19:00:00Z,Emmen,PSV II,3t0vjqtxc8wpjzv82i3oi2ova,2xlnfgrl6r18ftv38unwp7h4s
+e9un4evxfc1x0ql40i8keihas,Almere City vs VVV,11/12/2026,19:00:00Z,Almere City,VVV,1fttb31hnskynpku8qd09yhm8,cv5ftekuejf0ryxvd5h2my47r
+e9ia754t60l8f3n24gj5jafx0,PSV II vs De Graafschap,07/12/2026,19:00:00Z,PSV II,De Graafschap,2xlnfgrl6r18ftv38unwp7h4s,xcevba75jfkrg4s6tl89zl3y
+e95wspgnl2rtg84utuhxu1ous,NAC Breda vs Volendam,06/12/2026,15:45:00Z,NAC Breda,Volendam,59t7flioj4w4mpwnrwbm0m8ck,6g9qrm72224jrk6tkxxxi8a9n
+e8tld6ywhsq3lh8r2im85q61g,Eindhoven vs Roda JC,06/12/2026,11:15:00Z,Eindhoven,Roda JC,dvmw7d6jb38qvv7e6ziwu0vyr,7rmv5ns2rj7bn4otpkur0mx0x
+e8h8ksthpjjrt4x6ksfj5erys,Vitesse vs VVV,04/12/2026,19:00:00Z,Vitesse,VVV,6hsriqr3ybvyg94w2k19oal50,cv5ftekuejf0ryxvd5h2my47r
+e84sgghzkmef1f1tri5tst6hg,TOP Oss vs Almere City,04/12/2026,19:00:00Z,TOP Oss,Almere City,dnzj0iv5qtaemm9kthh9pos8q,1fttb31hnskynpku8qd09yhm8
+e7sgmb7425hmqsa9t7pyjrpqs,RKC Waalwijk vs AZ II,04/12/2026,19:00:00Z,RKC Waalwijk,AZ II,ed5nwjz5za3oyi20nxzgqivmx,1wyg1tunyt7go9tnjea1hjqxb
+e7g4ohe5gs3o5c0x7aw9uuec4,MVV vs Dordrecht,04/12/2026,19:00:00Z,MVV,Dordrecht,bqm1bnp1bh2apyudlz1o1whr3,z9phg19papi9f5fd6qxzr836
+e73u8pxzffhj7bwv5ja0vnqqc,Heracles vs Emmen,04/12/2026,19:00:00Z,Heracles,Emmen,dac758ef858jbq7pcb3gfwite,3t0vjqtxc8wpjzv82i3oi2ova
+e6rh0yiywso8tgq6dagvnutxw,Helmond Sport vs Utrecht II,04/12/2026,19:00:00Z,Helmond Sport,Utrecht II,b94pf87be9ojdgnrs5mst80un,ch82doz9w9t1sw9ae3a4ffh0j
+e6f6oycqsudhwf4r302vr9kb8,Den Bosch vs Ajax II,04/12/2026,19:00:00Z,Den Bosch,Ajax II,eh54mfvjtrttgsg1wbjnvxcqz,6lzy9iiqoysvtdsgx719fng9n
+e62uqa1cw0r6bfm7anyf4jcic,Roda JC vs De Graafschap,29/11/2026,15:45:00Z,Roda JC,De Graafschap,7rmv5ns2rj7bn4otpkur0mx0x,xcevba75jfkrg4s6tl89zl3y
+e5qitdioglfsfnmvz19y04gt0,Volendam vs Eindhoven,29/11/2026,11:15:00Z,Volendam,Eindhoven,6g9qrm72224jrk6tkxxxi8a9n,dvmw7d6jb38qvv7e6ziwu0vyr
+e5e6rk47ec7smtsea2opch5hw,Emmen vs Helmond Sport,28/11/2026,15:30:00Z,Emmen,Helmond Sport,3t0vjqtxc8wpjzv82i3oi2ova,b94pf87be9ojdgnrs5mst80un
+e51syn6n377qocgf07s7bxj4k,VVV vs RKC Waalwijk,27/11/2026,19:00:00Z,VVV,RKC Waalwijk,cv5ftekuejf0ryxvd5h2my47r,ed5nwjz5za3oyi20nxzgqivmx
+e4pjicjctn35t16uvxb1n9gd0,NAC Breda vs Den Bosch,27/11/2026,19:00:00Z,NAC Breda,Den Bosch,59t7flioj4w4mpwnrwbm0m8ck,eh54mfvjtrttgsg1wbjnvxcqz
+e4d3mmvtk7xucxx62lpyy3xg4,MVV vs PSV II,27/11/2026,19:00:00Z,MVV,PSV II,bqm1bnp1bh2apyudlz1o1whr3,2xlnfgrl6r18ftv38unwp7h4s
+e40p92km8a09t2d23493vgkd0,Utrecht II vs Almere City,27/11/2026,19:00:00Z,Utrecht II,Almere City,ch82doz9w9t1sw9ae3a4ffh0j,1fttb31hnskynpku8qd09yhm8
+e3og46g5c23geej9tmw7jrv9w,AZ II vs TOP Oss,27/11/2026,19:00:00Z,AZ II,TOP Oss,1wyg1tunyt7go9tnjea1hjqxb,dnzj0iv5qtaemm9kthh9pos8q
+e3byp7rk6dkjtn2i153h9ytck,Ajax II vs Heracles,27/11/2026,19:00:00Z,Ajax II,Heracles,6lzy9iiqoysvtdsgx719fng9n,dac758ef858jbq7pcb3gfwite
+e2zks0kf2al0sh4xkh6dbyz9w,Dordrecht vs Vitesse,27/11/2026,19:00:00Z,Dordrecht,Vitesse,z9phg19papi9f5fd6qxzr836,6hsriqr3ybvyg94w2k19oal50
+dz5tflubfe118q4fkzd3go74k,PSV II vs Utrecht II,23/11/2026,19:00:00Z,PSV II,Utrecht II,2xlnfgrl6r18ftv38unwp7h4s,ch82doz9w9t1sw9ae3a4ffh0j
+dytcm1mw6l0nyvht36e1pwcus,Ajax II vs AZ II,23/11/2026,19:00:00Z,Ajax II,AZ II,6lzy9iiqoysvtdsgx719fng9n,1wyg1tunyt7go9tnjea1hjqxb
+e2n6abypobjtng3sxkig5eej8,Eindhoven vs RKC Waalwijk,21/11/2026,15:30:00Z,Eindhoven,RKC Waalwijk,dvmw7d6jb38qvv7e6ziwu0vyr,ed5nwjz5za3oyi20nxzgqivmx
+e2asuvdoz3es694xlh884ptlg,Vitesse vs AZ II,20/11/2026,19:00:00Z,Vitesse,AZ II,6hsriqr3ybvyg94w2k19oal50,1wyg1tunyt7go9tnjea1hjqxb
+e1ycbokjgdouc3xyr6235fkes,TOP Oss vs Roda JC,20/11/2026,19:00:00Z,TOP Oss,Roda JC,dnzj0iv5qtaemm9kthh9pos8q,7rmv5ns2rj7bn4otpkur0mx0x
+e1lsk6tai4uspngb9wsplf66s,Utrecht II vs Emmen,20/11/2026,19:00:00Z,Utrecht II,Emmen,ch82doz9w9t1sw9ae3a4ffh0j,3t0vjqtxc8wpjzv82i3oi2ova
+e19bxq0dpvnvr9i2srny5yn10,Heracles vs PSV II,20/11/2026,19:00:00Z,Heracles,PSV II,dac758ef858jbq7pcb3gfwite,2xlnfgrl6r18ftv38unwp7h4s
+e0vxfut28b6s1zcynt9d6dul0,Helmond Sport vs Dordrecht,20/11/2026,19:00:00Z,Helmond Sport,Dordrecht,b94pf87be9ojdgnrs5mst80un,z9phg19papi9f5fd6qxzr836
+e0jiset4w20m0d7gh5dwirxuc,Volendam vs Ajax II,20/11/2026,19:00:00Z,Volendam,Ajax II,6g9qrm72224jrk6tkxxxi8a9n,6lzy9iiqoysvtdsgx719fng9n
+e07353pohlye840di20huzuac,Den Bosch vs VVV,20/11/2026,19:00:00Z,Den Bosch,VVV,eh54mfvjtrttgsg1wbjnvxcqz,cv5ftekuejf0ryxvd5h2my47r
+dzum94nyvlijdfi11ckmg0il0,De Graafschap vs MVV,20/11/2026,19:00:00Z,De Graafschap,MVV,xcevba75jfkrg4s6tl89zl3y,bqm1bnp1bh2apyudlz1o1whr3
+dzi8a04el4jn6rzjw9inqa9sk,Almere City vs NAC Breda,20/11/2026,19:00:00Z,Almere City,NAC Breda,1fttb31hnskynpku8qd09yhm8,59t7flioj4w4mpwnrwbm0m8ck
+dyguvxtgtut6p0d0kmc2dicr8,MVV vs Vitesse,15/11/2026,13:30:00Z,MVV,Vitesse,bqm1bnp1bh2apyudlz1o1whr3,6hsriqr3ybvyg94w2k19oal50
+dy4cd9ci97fi2moumurok2al0,VVV vs Eindhoven,14/11/2026,19:00:00Z,VVV,Eindhoven,cv5ftekuejf0ryxvd5h2my47r,dvmw7d6jb38qvv7e6ziwu0vyr
+dxrz3d484jj1fd0jhyjqsm80k,Roda JC vs Volendam,14/11/2026,19:00:00Z,Roda JC,Volendam,7rmv5ns2rj7bn4otpkur0mx0x,6g9qrm72224jrk6tkxxxi8a9n
+dxfirzj0solbifvaad35x8yl0,RKC Waalwijk vs Den Bosch,14/11/2026,19:00:00Z,RKC Waalwijk,Den Bosch,ed5nwjz5za3oyi20nxzgqivmx,eh54mfvjtrttgsg1wbjnvxcqz
+dx39u4gkkfv5qcry9cusu9yqc,Dordrecht vs Heracles,14/11/2026,19:00:00Z,Dordrecht,Heracles,z9phg19papi9f5fd6qxzr836,dac758ef858jbq7pcb3gfwite
+dwqs4eq3z5ggltasfx3bxhlw4,De Graafschap vs TOP Oss,14/11/2026,19:00:00Z,De Graafschap,TOP Oss,xcevba75jfkrg4s6tl89zl3y,dnzj0iv5qtaemm9kthh9pos8q
+dweexvwhjeobct0xj7vh338r8,Almere City vs Helmond Sport,14/11/2026,19:00:00Z,Almere City,Helmond Sport,1fttb31hnskynpku8qd09yhm8,b94pf87be9ojdgnrs5mst80un
+dw238w0nq7sho9qifny0jgs9g,NAC Breda vs Emmen,14/11/2026,15:30:00Z,NAC Breda,Emmen,59t7flioj4w4mpwnrwbm0m8ck,3t0vjqtxc8wpjzv82i3oi2ova
+dvpl00179glrs8k09jt445t04,Emmen vs MVV,08/11/2026,15:45:00Z,Emmen,MVV,3t0vjqtxc8wpjzv82i3oi2ova,bqm1bnp1bh2apyudlz1o1whr3
+dvd83a4fzj80atupg65f80g7o,Vitesse vs De Graafschap,08/11/2026,11:15:00Z,Vitesse,De Graafschap,6hsriqr3ybvyg94w2k19oal50,xcevba75jfkrg4s6tl89zl3y
+dv0tnn4sb68cnt7gqdx6e9kic,Den Bosch vs Utrecht II,07/11/2026,15:30:00Z,Den Bosch,Utrecht II,eh54mfvjtrttgsg1wbjnvxcqz,ch82doz9w9t1sw9ae3a4ffh0j
+duoggdn01a2lqjehkakon1nv8,VVV vs PSV II,06/11/2026,19:00:00Z,VVV,PSV II,cv5ftekuejf0ryxvd5h2my47r,2xlnfgrl6r18ftv38unwp7h4s
+duc5e4nzp5l7t1l4k08c0ubkk,TOP Oss vs RKC Waalwijk,06/11/2026,19:00:00Z,TOP Oss,RKC Waalwijk,dnzj0iv5qtaemm9kthh9pos8q,ed5nwjz5za3oyi20nxzgqivmx
+dtzk6w70nod7ckq61z988ha8k,AZ II vs Almere City,06/11/2026,19:00:00Z,AZ II,Almere City,1wyg1tunyt7go9tnjea1hjqxb,1fttb31hnskynpku8qd09yhm8
+dtn6eofuhyisfz55wo0z6dgd0,Heracles vs Roda JC,06/11/2026,19:00:00Z,Heracles,Roda JC,dac758ef858jbq7pcb3gfwite,7rmv5ns2rj7bn4otpkur0mx0x
+dtaqnc1fexsvbc1cjudabfn6c,Helmond Sport vs Volendam,06/11/2026,19:00:00Z,Helmond Sport,Volendam,b94pf87be9ojdgnrs5mst80un,6g9qrm72224jrk6tkxxxi8a9n
+dsy6ybgymh13yldctoahi8c9g,Eindhoven vs Ajax II,06/11/2026,19:00:00Z,Eindhoven,Ajax II,dvmw7d6jb38qvv7e6ziwu0vyr,6lzy9iiqoysvtdsgx719fng9n
+dslk1i3b66ehsrbu8jnfuxv6c,Dordrecht vs NAC Breda,06/11/2026,19:00:00Z,Dordrecht,NAC Breda,z9phg19papi9f5fd6qxzr836,59t7flioj4w4mpwnrwbm0m8ck
+ds921z0md5dzvd780474fskk4,PSV II vs NAC Breda,02/11/2026,19:00:00Z,PSV II,NAC Breda,2xlnfgrl6r18ftv38unwp7h4s,59t7flioj4w4mpwnrwbm0m8ck
+drwjstn6q3o37s8yp977q35sk,Utrecht II vs Dordrecht,02/11/2026,19:00:00Z,Utrecht II,Dordrecht,ch82doz9w9t1sw9ae3a4ffh0j,z9phg19papi9f5fd6qxzr836
+drk4prf1j3j6ucjhezyz4p89g,Ajax II vs Vitesse,02/11/2026,19:00:00Z,Ajax II,Vitesse,6lzy9iiqoysvtdsgx719fng9n,6hsriqr3ybvyg94w2k19oal50
+dq6i3f5m4rk6ielta0apz2z9w,Heracles vs TOP Oss,02/11/2026,19:00:00Z,Heracles,TOP Oss,dac758ef858jbq7pcb3gfwite,dnzj0iv5qtaemm9kthh9pos8q
+dp5565yu3fzxcb4hmtjgp1wyc,Emmen vs Den Bosch,01/11/2026,13:30:00Z,Emmen,Den Bosch,3t0vjqtxc8wpjzv82i3oi2ova,eh54mfvjtrttgsg1wbjnvxcqz
+dr7ocs07gr6dpqzka2vykjms4,MVV vs VVV,31/10/2026,15:30:00Z,MVV,VVV,bqm1bnp1bh2apyudlz1o1whr3,cv5ftekuejf0ryxvd5h2my47r
+dqvbm7zzygxsbi5618v0556ok,Roda JC vs AZ II,30/10/2026,19:00:00Z,Roda JC,AZ II,7rmv5ns2rj7bn4otpkur0mx0x,1wyg1tunyt7go9tnjea1hjqxb
+dqiwb1o5pl9imwu2uolt722vo,RKC Waalwijk vs Almere City,30/10/2026,19:00:00Z,RKC Waalwijk,Almere City,ed5nwjz5za3oyi20nxzgqivmx,1fttb31hnskynpku8qd09yhm8
+dpu2m8gxt8f66xhhqm3nto1ec,Helmond Sport vs Eindhoven,30/10/2026,19:00:00Z,Helmond Sport,Eindhoven,b94pf87be9ojdgnrs5mst80un,dvmw7d6jb38qvv7e6ziwu0vyr
+dphmmozaavpyid7s7si8p9jx0,Volendam vs De Graafschap,30/10/2026,19:00:00Z,Volendam,De Graafschap,6g9qrm72224jrk6tkxxxi8a9n,xcevba75jfkrg4s6tl89zl3y
+doss04019muryrj3j3gjwyqdw,Dordrecht vs VVV,24/10/2026,14:30:00Z,Dordrecht,VVV,z9phg19papi9f5fd6qxzr836,cv5ftekuejf0ryxvd5h2my47r
+dogcv10kgv365tliz2202yyok,Vitesse vs Emmen,23/10/2026,18:00:00Z,Vitesse,Emmen,6hsriqr3ybvyg94w2k19oal50,3t0vjqtxc8wpjzv82i3oi2ova
+do3u570a61uy1puhe9zx5ny8k,TOP Oss vs Ajax II,23/10/2026,18:00:00Z,TOP Oss,Ajax II,dnzj0iv5qtaemm9kthh9pos8q,6lzy9iiqoysvtdsgx719fng9n
+dnrf3h7sj8ly4erwwlj3ynx90,NAC Breda vs Heracles,23/10/2026,18:00:00Z,NAC Breda,Heracles,59t7flioj4w4mpwnrwbm0m8ck,dac758ef858jbq7pcb3gfwite
+dnenda55j3rboqucs4k456rkk,AZ II vs Helmond Sport,23/10/2026,18:00:00Z,AZ II,Helmond Sport,1wyg1tunyt7go9tnjea1hjqxb,b94pf87be9ojdgnrs5mst80un
+dn28jwrxhnkc90fwibnk70is4,Volendam vs Utrecht II,23/10/2026,18:00:00Z,Volendam,Utrecht II,6g9qrm72224jrk6tkxxxi8a9n,ch82doz9w9t1sw9ae3a4ffh0j
+dmpsna1sl8y5lvfmkjzm7eivo,Eindhoven vs PSV II,23/10/2026,18:00:00Z,Eindhoven,PSV II,dvmw7d6jb38qvv7e6ziwu0vyr,2xlnfgrl6r18ftv38unwp7h4s
+dmdd2dd9i340d71d8oycnpzbo,Den Bosch vs MVV,23/10/2026,18:00:00Z,Den Bosch,MVV,eh54mfvjtrttgsg1wbjnvxcqz,bqm1bnp1bh2apyudlz1o1whr3
+dm0qn898o2p32g0lzy8fv55hw,De Graafschap vs RKC Waalwijk,23/10/2026,18:00:00Z,De Graafschap,RKC Waalwijk,xcevba75jfkrg4s6tl89zl3y,ed5nwjz5za3oyi20nxzgqivmx
+dloay389imauepvsxsrmwi2ok,Almere City vs Roda JC,23/10/2026,18:00:00Z,Almere City,Roda JC,1fttb31hnskynpku8qd09yhm8,7rmv5ns2rj7bn4otpkur0mx0x
+dlbsww74phu63dy15p1h00sus,PSV II vs Dordrecht,19/10/2026,18:00:00Z,PSV II,Dordrecht,2xlnfgrl6r18ftv38unwp7h4s,z9phg19papi9f5fd6qxzr836
+dkzaob3f3rellabf967yti044,Utrecht II vs Roda JC,19/10/2026,18:00:00Z,Utrecht II,Roda JC,ch82doz9w9t1sw9ae3a4ffh0j,7rmv5ns2rj7bn4otpkur0mx0x
+dkmqte828wmkfk3q91fs406qc,Ajax II vs De Graafschap,19/10/2026,18:00:00Z,Ajax II,De Graafschap,6lzy9iiqoysvtdsgx719fng9n,xcevba75jfkrg4s6tl89zl3y
+dka8a0se1soy9x81ck9hm6as4,MVV vs Heracles,18/10/2026,14:45:00Z,MVV,Heracles,bqm1bnp1bh2apyudlz1o1whr3,dac758ef858jbq7pcb3gfwite
+djxoi85e8j3r9j6hlpoptdq1g,RKC Waalwijk vs Volendam,18/10/2026,10:15:00Z,RKC Waalwijk,Volendam,ed5nwjz5za3oyi20nxzgqivmx,6g9qrm72224jrk6tkxxxi8a9n
+djlbltjqvjok7b3zdlh3q4h78,Emmen vs Almere City,17/10/2026,14:30:00Z,Emmen,Almere City,3t0vjqtxc8wpjzv82i3oi2ova,1fttb31hnskynpku8qd09yhm8
+dj8pgzp6i0iz604e5zwowhlas,VVV vs AZ II,16/10/2026,18:00:00Z,VVV,AZ II,cv5ftekuejf0ryxvd5h2my47r,1wyg1tunyt7go9tnjea1hjqxb
+diw7jvogl5joc2ey2azjflqtw,Helmond Sport vs NAC Breda,16/10/2026,18:00:00Z,Helmond Sport,NAC Breda,b94pf87be9ojdgnrs5mst80un,59t7flioj4w4mpwnrwbm0m8ck
+dijt85xtl3r97jewndt3hz95g,Eindhoven vs Vitesse,16/10/2026,18:00:00Z,Eindhoven,Vitesse,dvmw7d6jb38qvv7e6ziwu0vyr,6hsriqr3ybvyg94w2k19oal50
+di7bmf5tvtdgqhwjfhm5pr02c,Den Bosch vs TOP Oss,16/10/2026,18:00:00Z,Den Bosch,TOP Oss,eh54mfvjtrttgsg1wbjnvxcqz,dnzj0iv5qtaemm9kthh9pos8q
+dhuxgyba0v64xwbousz85mx3o,Volendam vs Vitesse,09/10/2026,18:00:00Z,Volendam,Vitesse,6g9qrm72224jrk6tkxxxi8a9n,6hsriqr3ybvyg94w2k19oal50
+dhilp6cx6vgvlpnpqkjsmf6s4,TOP Oss vs Helmond Sport,09/10/2026,18:00:00Z,TOP Oss,Helmond Sport,dnzj0iv5qtaemm9kthh9pos8q,b94pf87be9ojdgnrs5mst80un
+dh65ogu1x5z0zsyka856h9q8k,Roda JC vs PSV II,09/10/2026,18:00:00Z,Roda JC,PSV II,7rmv5ns2rj7bn4otpkur0mx0x,2xlnfgrl6r18ftv38unwp7h4s
+dgtilrsjzd59kuzowmzrrumtw,NAC Breda vs MVV,09/10/2026,18:00:00Z,NAC Breda,MVV,59t7flioj4w4mpwnrwbm0m8ck,bqm1bnp1bh2apyudlz1o1whr3
+dgh38pedpv3vujce0nzrqcwlw,AZ II vs Den Bosch,09/10/2026,18:00:00Z,AZ II,Den Bosch,1wyg1tunyt7go9tnjea1hjqxb,eh54mfvjtrttgsg1wbjnvxcqz
+dg4khmdca8n3kblm8o7pvjf2s,Ajax II vs VVV,09/10/2026,18:00:00Z,Ajax II,VVV,6lzy9iiqoysvtdsgx719fng9n,cv5ftekuejf0ryxvd5h2my47r
+dfs5fwkunfe3n0j1qzqwoje38,Heracles vs RKC Waalwijk,09/10/2026,18:00:00Z,Heracles,RKC Waalwijk,dac758ef858jbq7pcb3gfwite,ed5nwjz5za3oyi20nxzgqivmx
+dffnoe6ygw9mqrcutia357uac,De Graafschap vs Utrecht II,09/10/2026,18:00:00Z,De Graafschap,Utrecht II,xcevba75jfkrg4s6tl89zl3y,ch82doz9w9t1sw9ae3a4ffh0j
+df24o95egrmuczr0w9erdpj4k,Dordrecht vs Emmen,09/10/2026,18:00:00Z,Dordrecht,Emmen,z9phg19papi9f5fd6qxzr836,3t0vjqtxc8wpjzv82i3oi2ova
+depsnz82cf752yd9cfq7c8xzo,Almere City vs Eindhoven,09/10/2026,18:00:00Z,Almere City,Eindhoven,1fttb31hnskynpku8qd09yhm8,dvmw7d6jb38qvv7e6ziwu0vyr
+ddou396c7928n1jnlod2hjndg,VVV vs Roda JC,04/10/2026,12:30:00Z,VVV,Roda JC,cv5ftekuejf0ryxvd5h2my47r,7rmv5ns2rj7bn4otpkur0mx0x
+dd02zsywvn165o6voq7sjnt3o,RKC Waalwijk vs Emmen,03/10/2026,18:00:00Z,RKC Waalwijk,Emmen,ed5nwjz5za3oyi20nxzgqivmx,3t0vjqtxc8wpjzv82i3oi2ova
+dcni8lvj35l7rh8rsl7oiy9ec,Eindhoven vs De Graafschap,03/10/2026,18:00:00Z,Eindhoven,De Graafschap,dvmw7d6jb38qvv7e6ziwu0vyr,xcevba75jfkrg4s6tl89zl3y
+dcb4uqos2hnugplo25f7my32s,Den Bosch vs Dordrecht,03/10/2026,18:00:00Z,Den Bosch,Dordrecht,eh54mfvjtrttgsg1wbjnvxcqz,z9phg19papi9f5fd6qxzr836
+dbym26j3hj1kclc3x7g88jh90,Almere City vs Volendam,03/10/2026,18:00:00Z,Almere City,Volendam,1fttb31hnskynpku8qd09yhm8,6g9qrm72224jrk6tkxxxi8a9n
+ddcgyorjkpa04njy6klrt5ij8,TOP Oss vs MVV,03/10/2026,14:30:00Z,TOP Oss,MVV,dnzj0iv5qtaemm9kthh9pos8q,bqm1bnp1bh2apyudlz1o1whr3
+dbm8hmg5toaxwxr56w8o0xkic,Vitesse vs NAC Breda,03/10/2026,14:30:00Z,Vitesse,NAC Breda,6hsriqr3ybvyg94w2k19oal50,59t7flioj4w4mpwnrwbm0m8ck
+db9rvnkha5rkf56mbwkk221hw,Helmond Sport vs Heracles,02/10/2026,19:00:00Z,Helmond Sport,Heracles,b94pf87be9ojdgnrs5mst80un,dac758ef858jbq7pcb3gfwite
+da8guul03oifm316mqukc72tw,De Graafschap vs Den Bosch,27/09/2026,12:30:00Z,De Graafschap,Den Bosch,xcevba75jfkrg4s6tl89zl3y,eh54mfvjtrttgsg1wbjnvxcqz
+d9w3rno9o4mn4ydmte6eggo44,Roda JC vs RKC Waalwijk,26/09/2026,18:00:00Z,Roda JC,RKC Waalwijk,7rmv5ns2rj7bn4otpkur0mx0x,ed5nwjz5za3oyi20nxzgqivmx
+d9jqel2t89i9634osv3mzrpqs,NAC Breda vs Eindhoven,26/09/2026,18:00:00Z,NAC Breda,Eindhoven,59t7flioj4w4mpwnrwbm0m8ck,dvmw7d6jb38qvv7e6ziwu0vyr
+d9770rcmuj8qnggb3fsthl2qc,MVV vs Helmond Sport,26/09/2026,18:00:00Z,MVV,Helmond Sport,bqm1bnp1bh2apyudlz1o1whr3,b94pf87be9ojdgnrs5mst80un
+d8uukdhj5nsh3moazpd6btfdg,Volendam vs VVV,26/09/2026,18:00:00Z,Volendam,VVV,6g9qrm72224jrk6tkxxxi8a9n,cv5ftekuejf0ryxvd5h2my47r
+d8ii2x7snrsmf3nhpn84w874k,Emmen vs TOP Oss,26/09/2026,18:00:00Z,Emmen,TOP Oss,3t0vjqtxc8wpjzv82i3oi2ova,dnzj0iv5qtaemm9kthh9pos8q
+d85yp8eae5eesvefqff5taql0,Heracles vs Vitesse,26/09/2026,14:30:00Z,Heracles,Vitesse,dac758ef858jbq7pcb3gfwite,6hsriqr3ybvyg94w2k19oal50
+d7tpx6059yfh14o686sdvov10,Dordrecht vs Almere City,25/09/2026,19:00:00Z,Dordrecht,Almere City,z9phg19papi9f5fd6qxzr836,1fttb31hnskynpku8qd09yhm8
+d7h8jog79m22a9q6sn6l5gxec,De Graafschap vs NAC Breda,20/09/2026,14:45:00Z,De Graafschap,NAC Breda,xcevba75jfkrg4s6tl89zl3y,59t7flioj4w4mpwnrwbm0m8ck
+d74wpfy3uq3n88uwetrlplzx0,Vitesse vs PSV II,19/09/2026,14:30:00Z,Vitesse,PSV II,6hsriqr3ybvyg94w2k19oal50,2xlnfgrl6r18ftv38unwp7h4s
+d6hjj5tazn7lx078qs6fexous,TOP Oss vs Dordrecht,18/09/2026,18:00:00Z,TOP Oss,Dordrecht,dnzj0iv5qtaemm9kthh9pos8q,z9phg19papi9f5fd6qxzr836
+d651aagw3ru0kun3268jtslqs,RKC Waalwijk vs MVV,18/09/2026,18:00:00Z,RKC Waalwijk,MVV,ed5nwjz5za3oyi20nxzgqivmx,bqm1bnp1bh2apyudlz1o1whr3
+d5spqpe365ic9yljy3oi9zl04,Utrecht II vs VVV,18/09/2026,18:00:00Z,Utrecht II,VVV,ch82doz9w9t1sw9ae3a4ffh0j,cv5ftekuejf0ryxvd5h2my47r
+d5g8ovym8ehl9xejny4bh7f9w,AZ II vs Volendam,18/09/2026,18:00:00Z,AZ II,Volendam,1wyg1tunyt7go9tnjea1hjqxb,6g9qrm72224jrk6tkxxxi8a9n
+d53v95rxtx7nik4h19wqw2g44,Ajax II vs Roda JC,18/09/2026,18:00:00Z,Ajax II,Roda JC,6lzy9iiqoysvtdsgx719fng9n,7rmv5ns2rj7bn4otpkur0mx0x
+d4rcgymtdldlymtas9wkiznys,Eindhoven vs Emmen,18/09/2026,18:00:00Z,Eindhoven,Emmen,dvmw7d6jb38qvv7e6ziwu0vyr,3t0vjqtxc8wpjzv82i3oi2ova
+d4ey3xyai2x90cyhpmf35d0r8,Den Bosch vs Helmond Sport,18/09/2026,18:00:00Z,Den Bosch,Helmond Sport,eh54mfvjtrttgsg1wbjnvxcqz,b94pf87be9ojdgnrs5mst80un
+d42iisb5ajrc1dvdkonhvdz4k,Almere City vs Heracles,18/09/2026,18:00:00Z,Almere City,Heracles,1fttb31hnskynpku8qd09yhm8,dac758ef858jbq7pcb3gfwite
+dedip1j3lwkc0i0rgmqb9z190,Utrecht II vs Ajax II,14/09/2026,18:00:00Z,Utrecht II,Ajax II,ch82doz9w9t1sw9ae3a4ffh0j,6lzy9iiqoysvtdsgx719fng9n
+de19eqllu43d86y37nzzygwes,PSV II vs AZ II,14/09/2026,18:00:00Z,PSV II,AZ II,2xlnfgrl6r18ftv38unwp7h4s,1wyg1tunyt7go9tnjea1hjqxb
+d3q4ghm37u681rbppst1qgt90,Volendam vs Den Bosch,13/09/2026,14:45:00Z,Volendam,Den Bosch,6g9qrm72224jrk6tkxxxi8a9n,eh54mfvjtrttgsg1wbjnvxcqz
+d3du7fhgvlkr9w8ezkqkmzthw,Roda JC vs Vitesse,12/09/2026,14:30:00Z,Roda JC,Vitesse,7rmv5ns2rj7bn4otpkur0mx0x,6hsriqr3ybvyg94w2k19oal50
+d311gysyzwtvx0ir1vuftmwb8,VVV vs TOP Oss,11/09/2026,18:00:00Z,VVV,TOP Oss,cv5ftekuejf0ryxvd5h2my47r,dnzj0iv5qtaemm9kthh9pos8q
+d2oot60kekzw3ww46e239lv6c,NAC Breda vs Utrecht II,11/09/2026,18:00:00Z,NAC Breda,Utrecht II,59t7flioj4w4mpwnrwbm0m8ck,ch82doz9w9t1sw9ae3a4ffh0j
+d2c4p4zdherp77rxvt9b06wic,MVV vs Almere City,11/09/2026,18:00:00Z,MVV,Almere City,bqm1bnp1bh2apyudlz1o1whr3,1fttb31hnskynpku8qd09yhm8
+d1zt8kq15zzirn9dfnv7w7oyc,Ajax II vs RKC Waalwijk,11/09/2026,18:00:00Z,Ajax II,RKC Waalwijk,6lzy9iiqoysvtdsgx719fng9n,ed5nwjz5za3oyi20nxzgqivmx
+d1nizkijketfnf145ydtb8dn8,Heracles vs AZ II,11/09/2026,18:00:00Z,Heracles,AZ II,dac758ef858jbq7pcb3gfwite,1wyg1tunyt7go9tnjea1hjqxb
+d1b4cjvo5d2auvrxnf6wrjwgk,Helmond Sport vs PSV II,11/09/2026,18:00:00Z,Helmond Sport,PSV II,b94pf87be9ojdgnrs5mst80un,2xlnfgrl6r18ftv38unwp7h4s
+d0ys2bpfp65hvlbdyebnsh72s,Emmen vs De Graafschap,11/09/2026,18:00:00Z,Emmen,De Graafschap,3t0vjqtxc8wpjzv82i3oi2ova,xcevba75jfkrg4s6tl89zl3y
+d0ma2t9sh0y4i2t47h2d7hslw,Eindhoven vs Dordrecht,11/09/2026,18:00:00Z,Eindhoven,Dordrecht,dvmw7d6jb38qvv7e6ziwu0vyr,z9phg19papi9f5fd6qxzr836
+d09vpavpvqfxlu41oi6knc3ys,PSV II vs Den Bosch,07/09/2026,18:00:00Z,PSV II,Den Bosch,2xlnfgrl6r18ftv38unwp7h4s,eh54mfvjtrttgsg1wbjnvxcqz
+czxfwkjvjsm5eol6e9b2fmn84,Utrecht II vs Eindhoven,07/09/2026,18:00:00Z,Utrecht II,Eindhoven,ch82doz9w9t1sw9ae3a4ffh0j,dvmw7d6jb38qvv7e6ziwu0vyr
+czkza5o3i6um3xhzdmrdinsic,MVV vs Roda JC,06/09/2026,14:45:00Z,MVV,Roda JC,bqm1bnp1bh2apyudlz1o1whr3,7rmv5ns2rj7bn4otpkur0mx0x
+cz8jfu5o0nev8z6snkgggbvv8,Dordrecht vs AZ II,05/09/2026,14:30:00Z,Dordrecht,AZ II,z9phg19papi9f5fd6qxzr836,1wyg1tunyt7go9tnjea1hjqxb
+cyw4ckocwyrva941ux0md35zo,Vitesse vs TOP Oss,04/09/2026,18:00:00Z,Vitesse,TOP Oss,6hsriqr3ybvyg94w2k19oal50,dnzj0iv5qtaemm9kthh9pos8q
+cyjpe5qcnjeojoyjnersqh9uc,RKC Waalwijk vs NAC Breda,04/09/2026,18:00:00Z,RKC Waalwijk,NAC Breda,ed5nwjz5za3oyi20nxzgqivmx,59t7flioj4w4mpwnrwbm0m8ck
+cy7aqhu7tpxacwtfguhpquolw,Heracles vs De Graafschap,04/09/2026,18:00:00Z,Heracles,De Graafschap,dac758ef858jbq7pcb3gfwite,xcevba75jfkrg4s6tl89zl3y
+cxuyullcxp4efkofp6v83pqms,Helmond Sport vs VVV,04/09/2026,18:00:00Z,Helmond Sport,VVV,b94pf87be9ojdgnrs5mst80un,cv5ftekuejf0ryxvd5h2my47r
+cxig700x798ediln89bqgza50,Emmen vs Volendam,04/09/2026,18:00:00Z,Emmen,Volendam,3t0vjqtxc8wpjzv82i3oi2ova,6g9qrm72224jrk6tkxxxi8a9n
+cx5uaitay1qjcetmeddx6855g,Almere City vs Ajax II,04/09/2026,18:00:00Z,Almere City,Ajax II,1fttb31hnskynpku8qd09yhm8,6lzy9iiqoysvtdsgx719fng9n
+dax9p5zy4osx2osxt0rsqum8k,PSV II vs Ajax II,31/08/2026,18:00:00Z,PSV II,Ajax II,2xlnfgrl6r18ftv38unwp7h4s,6lzy9iiqoysvtdsgx719fng9n
+dakv60ha4c7xmdsgyzzaaqvx0,AZ II vs Utrecht II,31/08/2026,18:00:00Z,AZ II,Utrecht II,1wyg1tunyt7go9tnjea1hjqxb,ch82doz9w9t1sw9ae3a4ffh0j
+cwthp9k6b2lmhwyl25hwflt78,VVV vs Emmen,30/08/2026,14:45:00Z,VVV,Emmen,cv5ftekuejf0ryxvd5h2my47r,3t0vjqtxc8wpjzv82i3oi2ova
+cwh0du9bl82vsy0u18iswdgr8,Eindhoven vs Heracles,30/08/2026,10:15:00Z,Eindhoven,Heracles,dvmw7d6jb38qvv7e6ziwu0vyr,dac758ef858jbq7pcb3gfwite
+cw4n35fqvrdftryd6fl5pm68k,De Graafschap vs Almere City,29/08/2026,14:30:00Z,De Graafschap,Almere City,xcevba75jfkrg4s6tl89zl3y,1fttb31hnskynpku8qd09yhm8
+cvs9jm1zt8cqdtambrk9je4no,TOP Oss vs Utrecht II,28/08/2026,18:00:00Z,TOP Oss,Utrecht II,dnzj0iv5qtaemm9kthh9pos8q,ch82doz9w9t1sw9ae3a4ffh0j
+cvfw7mxkt6sh4rzqaqilqskr8,Roda JC vs NAC Breda,28/08/2026,18:00:00Z,Roda JC,NAC Breda,7rmv5ns2rj7bn4otpkur0mx0x,59t7flioj4w4mpwnrwbm0m8ck
+cv3hcs0ckh8ktvzlcbafoxa8k,RKC Waalwijk vs PSV II,28/08/2026,18:00:00Z,RKC Waalwijk,PSV II,ed5nwjz5za3oyi20nxzgqivmx,2xlnfgrl6r18ftv38unwp7h4s
+cuqvm617quqg0n20z7qaw6u50,AZ II vs MVV,28/08/2026,18:00:00Z,AZ II,MVV,1wyg1tunyt7go9tnjea1hjqxb,bqm1bnp1bh2apyudlz1o1whr3
+cueipca6zmhx7ymn8swgz24gk,Ajax II vs Helmond Sport,28/08/2026,18:00:00Z,Ajax II,Helmond Sport,6lzy9iiqoysvtdsgx719fng9n,b94pf87be9ojdgnrs5mst80un
+cu2653ikf0h7uj5dme4rzroyc,Volendam vs Dordrecht,28/08/2026,18:00:00Z,Volendam,Dordrecht,6g9qrm72224jrk6tkxxxi8a9n,z9phg19papi9f5fd6qxzr836
+ctptt1mhqru3ieak058gzvz10,Den Bosch vs Vitesse,28/08/2026,18:00:00Z,Den Bosch,Vitesse,eh54mfvjtrttgsg1wbjnvxcqz,6hsriqr3ybvyg94w2k19oal50
+ctdd2ofae1us40uwvhb9siwpg,PSV II vs TOP Oss,24/08/2026,18:00:00Z,PSV II,TOP Oss,2xlnfgrl6r18ftv38unwp7h4s,dnzj0iv5qtaemm9kthh9pos8q
+ct10o96p1c04tfwif6ej2tgd0,Utrecht II vs Heracles,24/08/2026,18:00:00Z,Utrecht II,Heracles,ch82doz9w9t1sw9ae3a4ffh0j,dac758ef858jbq7pcb3gfwite
+csondnzpa7jqmx0obkkomzk0k,VVV vs De Graafschap,23/08/2026,14:45:00Z,VVV,De Graafschap,cv5ftekuejf0ryxvd5h2my47r,xcevba75jfkrg4s6tl89zl3y
+csc6oa7ld1o34h9k3jg3sokk4,NAC Breda vs Ajax II,22/08/2026,14:30:00Z,NAC Breda,Ajax II,59t7flioj4w4mpwnrwbm0m8ck,6lzy9iiqoysvtdsgx719fng9n
+crztzp998u8j0qbntt2qdg8wk,Vitesse vs Almere City,21/08/2026,18:00:00Z,Vitesse,Almere City,6hsriqr3ybvyg94w2k19oal50,1fttb31hnskynpku8qd09yhm8
+crnkf1569x2ubccs36lukihp0,MVV vs Volendam,21/08/2026,18:00:00Z,MVV,Volendam,bqm1bnp1bh2apyudlz1o1whr3,6g9qrm72224jrk6tkxxxi8a9n
+crb8g5cxxgcpmfximm7g5vitw,Helmond Sport vs RKC Waalwijk,21/08/2026,18:00:00Z,Helmond Sport,RKC Waalwijk,b94pf87be9ojdgnrs5mst80un,ed5nwjz5za3oyi20nxzgqivmx
+cqyu4hbr53dymx92idjqgoqvo,Emmen vs AZ II,21/08/2026,18:00:00Z,Emmen,AZ II,3t0vjqtxc8wpjzv82i3oi2ova,1wyg1tunyt7go9tnjea1hjqxb
+cqmd02fvic8r0nff8fi5c07is,Dordrecht vs Roda JC,21/08/2026,18:00:00Z,Dordrecht,Roda JC,z9phg19papi9f5fd6qxzr836,7rmv5ns2rj7bn4otpkur0mx0x
+cq9ysdsinwibpvso1ejnbhgr8,Den Bosch vs Eindhoven,21/08/2026,18:00:00Z,Den Bosch,Eindhoven,eh54mfvjtrttgsg1wbjnvxcqz,dvmw7d6jb38qvv7e6ziwu0vyr
+cpxnct5yb0fiovi2nq0iumas4,Utrecht II vs Vitesse,17/08/2026,18:00:00Z,Utrecht II,Vitesse,ch82doz9w9t1sw9ae3a4ffh0j,6hsriqr3ybvyg94w2k19oal50
+cplecz9b7ni14x1otg6x1j578,Ajax II vs Emmen,17/08/2026,18:00:00Z,Ajax II,Emmen,6lzy9iiqoysvtdsgx719fng9n,3t0vjqtxc8wpjzv82i3oi2ova
+cp93if8mj5qos4h2769ay5ic4,De Graafschap vs AZ II,17/08/2026,18:00:00Z,De Graafschap,AZ II,xcevba75jfkrg4s6tl89zl3y,1wyg1tunyt7go9tnjea1hjqxb
+cows3cblw1ppp30q9t4hntdsk,Volendam vs TOP Oss,15/08/2026,14:30:00Z,Volendam,TOP Oss,6g9qrm72224jrk6tkxxxi8a9n,dnzj0iv5qtaemm9kthh9pos8q
+cokiyrakdt5r6zaafr5buytxw,Roda JC vs Helmond Sport,14/08/2026,18:00:00Z,Roda JC,Helmond Sport,7rmv5ns2rj7bn4otpkur0mx0x,b94pf87be9ojdgnrs5mst80un
+co7uqnfue50hrclmk1mpqaxhw,RKC Waalwijk vs Dordrecht,14/08/2026,18:00:00Z,RKC Waalwijk,Dordrecht,ed5nwjz5za3oyi20nxzgqivmx,z9phg19papi9f5fd6qxzr836
+cnvmryi7lmmg6ncccradz4aok,NAC Breda vs VVV,14/08/2026,18:00:00Z,NAC Breda,VVV,59t7flioj4w4mpwnrwbm0m8ck,cv5ftekuejf0ryxvd5h2my47r
+cnj89388vezhke9fatm8xmuqc,Heracles vs Den Bosch,14/08/2026,18:00:00Z,Heracles,Den Bosch,dac758ef858jbq7pcb3gfwite,eh54mfvjtrttgsg1wbjnvxcqz
+cn6uhuw6598qjqcy256m8l3pw,Eindhoven vs MVV,14/08/2026,18:00:00Z,Eindhoven,MVV,dvmw7d6jb38qvv7e6ziwu0vyr,bqm1bnp1bh2apyudlz1o1whr3
+cmuclp8515ck0lms1wqdqhij8,Almere City vs PSV II,14/08/2026,18:00:00Z,Almere City,PSV II,1fttb31hnskynpku8qd09yhm8,2xlnfgrl6r18ftv38unwp7h4s
+cmhyk7z3n2z9fdn2k9v053fh0,PSV II vs Volendam,10/08/2026,18:00:00Z,PSV II,Volendam,2xlnfgrl6r18ftv38unwp7h4s,6g9qrm72224jrk6tkxxxi8a9n
+cm2lc4ngb85hhx419s8huak2c,AZ II vs Eindhoven,10/08/2026,18:00:00Z,AZ II,Eindhoven,1wyg1tunyt7go9tnjea1hjqxb,dvmw7d6jb38qvv7e6ziwu0vyr
+cl7noqxo0j3z1lwmah2v6giz8,MVV vs Utrecht II,09/08/2026,14:45:00Z,MVV,Utrecht II,bqm1bnp1bh2apyudlz1o1whr3,ch82doz9w9t1sw9ae3a4ffh0j
+clmwwoh4f8m7fzyx4uz082vx0,Helmond Sport vs De Graafschap,09/08/2026,10:15:00Z,Helmond Sport,De Graafschap,b94pf87be9ojdgnrs5mst80un,xcevba75jfkrg4s6tl89zl3y
+cksf28321npzgr7wwm2qxxces,Den Bosch vs Almere City,08/08/2026,14:30:00Z,Den Bosch,Almere City,eh54mfvjtrttgsg1wbjnvxcqz,1fttb31hnskynpku8qd09yhm8
+ckd36u0mlxxjy3wvhgszlhes4,VVV vs Heracles,07/08/2026,18:00:00Z,VVV,Heracles,cv5ftekuejf0ryxvd5h2my47r,dac758ef858jbq7pcb3gfwite
+cjxs6l7ezb0ybpm1tz9nxs1zo,Vitesse vs RKC Waalwijk,07/08/2026,18:00:00Z,Vitesse,RKC Waalwijk,6hsriqr3ybvyg94w2k19oal50,ed5nwjz5za3oyi20nxzgqivmx
+cjijcrhg48ppbhc8r85bm0t90,TOP Oss vs NAC Breda,07/08/2026,18:00:00Z,TOP Oss,NAC Breda,dnzj0iv5qtaemm9kthh9pos8q,59t7flioj4w4mpwnrwbm0m8ck
+cj311dxd4e0hjy5z2viwfuuqc,Emmen vs Roda JC,07/08/2026,18:00:00Z,Emmen,Roda JC,3t0vjqtxc8wpjzv82i3oi2ova,7rmv5ns2rj7bn4otpkur0mx0x
+cikqsdsww0ctanray7oyyzmdw,Dordrecht vs Ajax II,07/08/2026,18:00:00Z,Dordrecht,Ajax II,z9phg19papi9f5fd6qxzr836,6lzy9iiqoysvtdsgx719fng9n

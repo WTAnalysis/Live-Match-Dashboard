@@ -1,0 +1,307 @@
+id,description,date,time,Home_Team,Away_Team,Home_Team_ID,Away_Team_ID
+5sge21mxt2efagkdvffqqbcic,Saint-Étienne vs Pau,22/05/2027,,Saint-Étienne,Pau,2sc9xfhu6tbru9hhlhr4a89zn,25s5qx846iw05y8t9pinrbhh1
+5s52oldrs2yb0g1kzvwteaqdw,Reims vs Boulogne,22/05/2027,,Reims,Boulogne,3c3jcs7vc1t6vz5lev162jyv7,9az8hqkkijc34ol021425ixg5
+5rtmnkynf5g8jg5lr3ww5oetw,Red Star vs Clermont,22/05/2027,,Red Star,Clermont,7qdfg7vuzf70wurnpx0bawlqk,17o35s8assv3kamxowzz77k4r
+5rhzavqm6ngxaglz8ypt5gu8k,Nancy vs Metz,22/05/2027,,Nancy,Metz,69b9aoly33h1gpicvxtfteoug,2khen2a38l2hkx33s73pehl6o
+5r6kkz6g1asj1um89vkvqj1uc,Laval vs Rodez,22/05/2027,,Laval,Rodez,75gwk94q9jkoh78jk8nlay4xj,2u30h0xpbfzv0byj4j7d8c4ug
+5qv8rzwa1zfb7en6q9oanjvo4,Guingamp vs Sochaux,22/05/2027,,Guingamp,Sochaux,e9mmk1w7cem6r4wysgassacef,d9kwaceoj54pfprd6oc2hwae6
+5qjt4ilk5gmgxu55j4531i4us,Grenoble vs Dunkerque,22/05/2027,,Grenoble,Dunkerque,2ku5qqmv6i842rujioksaatx7,15ip1h6m0b4e8xfi597y5uo5u
+5q8kq0lef8py04elio35k3xuc,Dijon vs Montpellier,22/05/2027,,Dijon,Montpellier,79dc2mv3x269nhix3mkhc5wfu,2cjpmotqo8phcqfpgo9xf4gel
+5px6070rnchh09z4t9v01xnh0,Annecy vs Nantes,22/05/2027,,Annecy,Nantes,6sqrk45zcfgwpq97no19o9sk5,750ustvk4jfqmo8q4gnrcxy7z
+5plz6vtg1p5bdz3gs3a9h1bmc,Sochaux vs Grenoble,14/05/2027,,Sochaux,Grenoble,d9kwaceoj54pfprd6oc2hwae6,2ku5qqmv6i842rujioksaatx7
+5pajlrfvrqcl1lm43bmt0pdsk,Rodez vs Saint-Étienne,14/05/2027,,Rodez,Saint-Étienne,2u30h0xpbfzv0byj4j7d8c4ug,2sc9xfhu6tbru9hhlhr4a89zn
+5oz7w7wv9wqhaazgk3g1xdixg,Pau vs Dijon,14/05/2027,,Pau,Dijon,25s5qx846iw05y8t9pinrbhh1,79dc2mv3x269nhix3mkhc5wfu
+5onwfjl2q18rjokfi8jknob9w,Nantes vs Laval,14/05/2027,,Nantes,Laval,750ustvk4jfqmo8q4gnrcxy7z,75gwk94q9jkoh78jk8nlay4xj
+5ock72jzy5kp8kdu9kndi2dck,Montpellier vs Nancy,14/05/2027,,Montpellier,Nancy,2cjpmotqo8phcqfpgo9xf4gel,69b9aoly33h1gpicvxtfteoug
+5o16pyfe2jxtxj1s6my2ph250,Metz vs Red Star,14/05/2027,,Metz,Red Star,2khen2a38l2hkx33s73pehl6o,7qdfg7vuzf70wurnpx0bawlqk
+5npbn0d6dsgf6szwc0u3zntw4,Dunkerque vs Reims,14/05/2027,,Dunkerque,Reims,15ip1h6m0b4e8xfi597y5uo5u,3c3jcs7vc1t6vz5lev162jyv7
+5ndyu0frnaiq5fxls9qpn3eac,Clermont vs Annecy,14/05/2027,,Clermont,Annecy,17o35s8assv3kamxowzz77k4r,6sqrk45zcfgwpq97no19o9sk5
+5n2okega3gl9s6ymgjclpv1g4,Boulogne vs Guingamp,14/05/2027,,Boulogne,Guingamp,9az8hqkkijc34ol021425ixg5,e9mmk1w7cem6r4wysgassacef
+5mre74lr1lzro046yorp6wq38,Sochaux vs Clermont,07/05/2027,,Sochaux,Clermont,d9kwaceoj54pfprd6oc2hwae6,17o35s8assv3kamxowzz77k4r
+5mfyrwqrczt0n8pzppvywx9g4,Saint-Étienne vs Reims,07/05/2027,,Saint-Étienne,Reims,2sc9xfhu6tbru9hhlhr4a89zn,3c3jcs7vc1t6vz5lev162jyv7
+5m4kkhw8ikk4o4ayg9n8w874k,Red Star vs Dunkerque,07/05/2027,,Red Star,Dunkerque,7qdfg7vuzf70wurnpx0bawlqk,15ip1h6m0b4e8xfi597y5uo5u
+5lt6al07eiu4crwgsdyl0i6ms,Nantes vs Dijon,07/05/2027,,Nantes,Dijon,750ustvk4jfqmo8q4gnrcxy7z,79dc2mv3x269nhix3mkhc5wfu
+5lhq1p0n25x19o0u4pjcld9g4,Nancy vs Rodez,07/05/2027,,Nancy,Rodez,69b9aoly33h1gpicvxtfteoug,2u30h0xpbfzv0byj4j7d8c4ug
+5l6bj0rnhgxe8x4swhqjwzyms,Guingamp vs Metz,07/05/2027,,Guingamp,Metz,e9mmk1w7cem6r4wysgassacef,2khen2a38l2hkx33s73pehl6o
+5kuuh44gf3ly0c74nyxc2pno4,Grenoble vs Laval,07/05/2027,,Grenoble,Laval,2ku5qqmv6i842rujioksaatx7,75gwk94q9jkoh78jk8nlay4xj
+5kjjsbwuilxx486uea215slqs,Boulogne vs Montpellier,07/05/2027,,Boulogne,Montpellier,9az8hqkkijc34ol021425ixg5,2cjpmotqo8phcqfpgo9xf4gel
+5k866fdr2d2brac1cjt4p43ys,Annecy vs Pau,07/05/2027,,Annecy,Pau,6sqrk45zcfgwpq97no19o9sk5,25s5qx846iw05y8t9pinrbhh1
+5jwosvgt18t1udt6lz7o1lvys,Rodez vs Metz,30/04/2027,,Rodez,Metz,2u30h0xpbfzv0byj4j7d8c4ug,2khen2a38l2hkx33s73pehl6o
+5jla5hl6qeewhvf8itppbuxw4,Reims vs Grenoble,30/04/2027,,Reims,Grenoble,3c3jcs7vc1t6vz5lev162jyv7,2ku5qqmv6i842rujioksaatx7
+5j9w8t5hqp8oine8st8p3zac4,Pau vs Guingamp,30/04/2027,,Pau,Guingamp,25s5qx846iw05y8t9pinrbhh1,e9mmk1w7cem6r4wysgassacef
+5iyf0tsyt3toyapef9ruzrjf8,Montpellier vs Saint-Étienne,30/04/2027,,Montpellier,Saint-Étienne,2cjpmotqo8phcqfpgo9xf4gel,2sc9xfhu6tbru9hhlhr4a89zn
+5imy5rdzjye7s97t8i09gg2s4,Laval vs Nancy,30/04/2027,,Laval,Nancy,75gwk94q9jkoh78jk8nlay4xj,69b9aoly33h1gpicvxtfteoug
+5ibiiyuaqxjljbduu80m8q710,Dunkerque vs Sochaux,30/04/2027,,Dunkerque,Sochaux,15ip1h6m0b4e8xfi597y5uo5u,d9kwaceoj54pfprd6oc2hwae6
+5i02pzr0ldqonc2ndw77q3ifo,Dijon vs Boulogne,30/04/2027,,Dijon,Boulogne,79dc2mv3x269nhix3mkhc5wfu,9az8hqkkijc34ol021425ixg5
+5ho3lgp3ks7m79wa6qr0q0bv8,Clermont vs Nantes,30/04/2027,,Clermont,Nantes,17o35s8assv3kamxowzz77k4r,750ustvk4jfqmo8q4gnrcxy7z
+5hclv02ae6kjeopmf8inrnsb8,Annecy vs Red Star,30/04/2027,,Annecy,Red Star,6sqrk45zcfgwpq97no19o9sk5,7qdfg7vuzf70wurnpx0bawlqk
+5h1786o2nm2fqa6rw99fv5ez8,Sochaux vs Laval,23/04/2027,,Sochaux,Laval,d9kwaceoj54pfprd6oc2hwae6,75gwk94q9jkoh78jk8nlay4xj
+5gpu8y9xtxr2e8s6txr7p6i38,Saint-Étienne vs Dijon,23/04/2027,,Saint-Étienne,Dijon,2sc9xfhu6tbru9hhlhr4a89zn,79dc2mv3x269nhix3mkhc5wfu
+5gefgqpqsohxw2msszbln0l5g,Red Star vs Rodez,23/04/2027,,Red Star,Rodez,7qdfg7vuzf70wurnpx0bawlqk,2u30h0xpbfzv0byj4j7d8c4ug
+5g2y7vkpdv8c8fg2a05xwo5jo,Nantes vs Montpellier,23/04/2027,,Nantes,Montpellier,750ustvk4jfqmo8q4gnrcxy7z,2cjpmotqo8phcqfpgo9xf4gel
+5frj24gqua2khkttvr4xntqfo,Nancy vs Annecy,23/04/2027,,Nancy,Annecy,69b9aoly33h1gpicvxtfteoug,6sqrk45zcfgwpq97no19o9sk5
+5fg5cnp6ucrz6ca7f3t1ccob8,Metz vs Clermont,23/04/2027,,Metz,Clermont,2khen2a38l2hkx33s73pehl6o,17o35s8assv3kamxowzz77k4r
+5f4ucruifjnc7ie1k74vb8f84,Guingamp vs Reims,23/04/2027,,Guingamp,Reims,e9mmk1w7cem6r4wysgassacef,3c3jcs7vc1t6vz5lev162jyv7
+5etbm5nsdnkhblot2c7uo1fro,Grenoble vs Pau,23/04/2027,,Grenoble,Pau,2ku5qqmv6i842rujioksaatx7,25s5qx846iw05y8t9pinrbhh1
+5ei0std9g06dk08a5fc8z5t78,Boulogne vs Dunkerque,23/04/2027,,Boulogne,Dunkerque,9az8hqkkijc34ol021425ixg5,15ip1h6m0b4e8xfi597y5uo5u
+5e6ji3nnparmh0hh1vw63si6s,Rodez vs Clermont,16/04/2027,,Rodez,Clermont,2u30h0xpbfzv0byj4j7d8c4ug,17o35s8assv3kamxowzz77k4r
+5dv2tmalm1an4l7nxydiv3f2s,Reims vs Metz,16/04/2027,,Reims,Metz,3c3jcs7vc1t6vz5lev162jyv7,2khen2a38l2hkx33s73pehl6o
+5djoo1sykjl726t938cvpd9g4,Red Star vs Nantes,16/04/2027,,Red Star,Nantes,7qdfg7vuzf70wurnpx0bawlqk,750ustvk4jfqmo8q4gnrcxy7z
+5d889lgnnmfj55n28cvd0ztw4,Pau vs Boulogne,16/04/2027,,Pau,Boulogne,25s5qx846iw05y8t9pinrbhh1,9az8hqkkijc34ol021425ixg5
+5cww49qck4yukibv25ia6cy6s,Montpellier vs Sochaux,16/04/2027,,Montpellier,Sochaux,2cjpmotqo8phcqfpgo9xf4gel,d9kwaceoj54pfprd6oc2hwae6
+5clgdmx6g9cx1uezmpdlza6fo,Laval vs Saint-Étienne,16/04/2027,,Laval,Saint-Étienne,75gwk94q9jkoh78jk8nlay4xj,2sc9xfhu6tbru9hhlhr4a89zn
+5ca107xavuhnbf99nm9klvvh0,Grenoble vs Nancy,16/04/2027,,Grenoble,Nancy,2ku5qqmv6i842rujioksaatx7,69b9aoly33h1gpicvxtfteoug
+5byqoimbepozb5kt42x23e3v8,Dijon vs Guingamp,16/04/2027,,Dijon,Guingamp,79dc2mv3x269nhix3mkhc5wfu,e9mmk1w7cem6r4wysgassacef
+5bmvaf7kzxxacpbgdkhi0xyqc,Annecy vs Dunkerque,16/04/2027,,Annecy,Dunkerque,6sqrk45zcfgwpq97no19o9sk5,15ip1h6m0b4e8xfi597y5uo5u
+5bbk2y8uesxd4fwn1okqhzd3o,Sochaux vs Red Star,09/04/2027,,Sochaux,Red Star,d9kwaceoj54pfprd6oc2hwae6,7qdfg7vuzf70wurnpx0bawlqk
+5b07wk3wiax3f3cmp5i9diwic,Saint-Étienne vs Annecy,09/04/2027,,Saint-Étienne,Annecy,2sc9xfhu6tbru9hhlhr4a89zn,6sqrk45zcfgwpq97no19o9sk5
+5aowebg8wo8936b2utfqdf3tg,Pau vs Rodez,09/04/2027,,Pau,Rodez,25s5qx846iw05y8t9pinrbhh1,2u30h0xpbfzv0byj4j7d8c4ug
+5adbkofnvz371v52nrd6fjklw,Metz vs Nantes,09/04/2027,,Metz,Nantes,2khen2a38l2hkx33s73pehl6o,750ustvk4jfqmo8q4gnrcxy7z
+5a1xgzdba7xqhbgj0xwbj2590,Guingamp vs Montpellier,09/04/2027,,Guingamp,Montpellier,e9mmk1w7cem6r4wysgassacef,2cjpmotqo8phcqfpgo9xf4gel
+59qkialuwz3kqvr8vgdh23y8k,Dunkerque vs Laval,09/04/2027,,Dunkerque,Laval,15ip1h6m0b4e8xfi597y5uo5u,75gwk94q9jkoh78jk8nlay4xj
+59f8bqx7bhevl95kb7m4o8f10,Dijon vs Reims,09/04/2027,,Dijon,Reims,79dc2mv3x269nhix3mkhc5wfu,3c3jcs7vc1t6vz5lev162jyv7
+593sqyhsjcdu7xxcp7lruyhas,Clermont vs Nancy,09/04/2027,,Clermont,Nancy,17o35s8assv3kamxowzz77k4r,69b9aoly33h1gpicvxtfteoug
+58setyyo5nurc5t0jrr148oic,Boulogne vs Grenoble,09/04/2027,,Boulogne,Grenoble,9az8hqkkijc34ol021425ixg5,2ku5qqmv6i842rujioksaatx7
+58govht5h4ujwqg5i1n74pel0,Rodez vs Dijon,02/04/2027,,Rodez,Dijon,2u30h0xpbfzv0byj4j7d8c4ug,79dc2mv3x269nhix3mkhc5wfu
+58561dqgo4zhrf01dgcxpbgno,Reims vs Pau,02/04/2027,,Reims,Pau,3c3jcs7vc1t6vz5lev162jyv7,25s5qx846iw05y8t9pinrbhh1
+57tn5oov8i46gxb1yvplpd1jo,Red Star vs Boulogne,02/04/2027,,Red Star,Boulogne,7qdfg7vuzf70wurnpx0bawlqk,9az8hqkkijc34ol021425ixg5
+57i7imjiq84nxt5wa0slx6rkk,Nantes vs Sochaux,02/04/2027,,Nantes,Sochaux,750ustvk4jfqmo8q4gnrcxy7z,d9kwaceoj54pfprd6oc2hwae6
+576x5mibwl9rmf648l7e8qt5g,Nancy vs Saint-Étienne,02/04/2027,,Nancy,Saint-Étienne,69b9aoly33h1gpicvxtfteoug,2sc9xfhu6tbru9hhlhr4a89zn
+56vjnko2t4cwkgh4jp87bj4t0,Montpellier vs Dunkerque,02/04/2027,,Montpellier,Dunkerque,2cjpmotqo8phcqfpgo9xf4gel,15ip1h6m0b4e8xfi597y5uo5u
+56k6oyohadcyk5soi2jshah3o,Laval vs Metz,02/04/2027,,Laval,Metz,75gwk94q9jkoh78jk8nlay4xj,2khen2a38l2hkx33s73pehl6o
+568sqwyemmw02ayzc51zqt250,Clermont vs Grenoble,02/04/2027,,Clermont,Grenoble,17o35s8assv3kamxowzz77k4r,2ku5qqmv6i842rujioksaatx7
+55xbcwm01i75b6uk49g9l3l04,Annecy vs Guingamp,02/04/2027,,Annecy,Guingamp,6sqrk45zcfgwpq97no19o9sk5,e9mmk1w7cem6r4wysgassacef
+55lbtc0y9e73q1irjiydqix3o,Sochaux vs Nancy,19/03/2027,,Sochaux,Nancy,d9kwaceoj54pfprd6oc2hwae6,69b9aoly33h1gpicvxtfteoug
+559xejqw78sg4118n5tc9y80k,Saint-Étienne vs Red Star,19/03/2027,,Saint-Étienne,Red Star,2sc9xfhu6tbru9hhlhr4a89zn,7qdfg7vuzf70wurnpx0bawlqk
+54ygldlxhobsicfbbmuw43cic,Reims vs Clermont,19/03/2027,,Reims,Clermont,3c3jcs7vc1t6vz5lev162jyv7,17o35s8assv3kamxowzz77k4r
+54myl5ccb0wl1wwsftgevtkwk,Pau vs Montpellier,19/03/2027,,Pau,Montpellier,25s5qx846iw05y8t9pinrbhh1,2cjpmotqo8phcqfpgo9xf4gel
+54bhd3nbkuussoa0a39tp0844,Guingamp vs Laval,19/03/2027,,Guingamp,Laval,e9mmk1w7cem6r4wysgassacef,75gwk94q9jkoh78jk8nlay4xj
+5402oeegcmlal5ye7jc4z572s,Grenoble vs Nantes,19/03/2027,,Grenoble,Nantes,2ku5qqmv6i842rujioksaatx7,750ustvk4jfqmo8q4gnrcxy7z
+53om71pzvok0nylo3a1tq37dg,Dunkerque vs Rodez,19/03/2027,,Dunkerque,Rodez,15ip1h6m0b4e8xfi597y5uo5u,2u30h0xpbfzv0byj4j7d8c4ug
+53d8wvvjtk9l9cz84ymmji238,Dijon vs Annecy,19/03/2027,,Dijon,Annecy,79dc2mv3x269nhix3mkhc5wfu,6sqrk45zcfgwpq97no19o9sk5
+531wvf1rltdcibdahfllidyj8,Boulogne vs Metz,19/03/2027,,Boulogne,Metz,9az8hqkkijc34ol021425ixg5,2khen2a38l2hkx33s73pehl6o
+52qh95hpoc6tb3maiheb5iwic,Rodez vs Sochaux,12/03/2027,,Rodez,Sochaux,2u30h0xpbfzv0byj4j7d8c4ug,d9kwaceoj54pfprd6oc2hwae6
+52ez2d0xfn7y3k1s7608qum8k,Red Star vs Dijon,12/03/2027,,Red Star,Dijon,7qdfg7vuzf70wurnpx0bawlqk,79dc2mv3x269nhix3mkhc5wfu
+523lowrd2294jgl6achqjz9jo,Nantes vs Saint-Étienne,12/03/2027,,Nantes,Saint-Étienne,750ustvk4jfqmo8q4gnrcxy7z,2sc9xfhu6tbru9hhlhr4a89zn
+51s39td2wqg7gq4ovzzsuuy38,Nancy vs Pau,12/03/2027,,Nancy,Pau,69b9aoly33h1gpicvxtfteoug,25s5qx846iw05y8t9pinrbhh1
+51gn0a495lsuzdd4kahdzrwus,Metz vs Dunkerque,12/03/2027,,Metz,Dunkerque,2khen2a38l2hkx33s73pehl6o,15ip1h6m0b4e8xfi597y5uo5u
+5158lpb1j3i0h9sbc5mab3ytw,Laval vs Reims,12/03/2027,,Laval,Reims,75gwk94q9jkoh78jk8nlay4xj,3c3jcs7vc1t6vz5lev162jyv7
+50tvi6fndilgjx8ox713xmvis,Guingamp vs Grenoble,12/03/2027,,Guingamp,Grenoble,e9mmk1w7cem6r4wysgassacef,2ku5qqmv6i842rujioksaatx7
+50ibs0o6pc6tv6o4e04kd7rx0,Clermont vs Montpellier,12/03/2027,,Clermont,Montpellier,17o35s8assv3kamxowzz77k4r,2cjpmotqo8phcqfpgo9xf4gel
+506zxxpar8nrsa7kp24jc38k4,Annecy vs Boulogne,12/03/2027,,Annecy,Boulogne,6sqrk45zcfgwpq97no19o9sk5,9az8hqkkijc34ol021425ixg5
+4zvlqpgw8m3uukjgghwdz32fo,Sochaux vs Metz,05/03/2027,,Sochaux,Metz,d9kwaceoj54pfprd6oc2hwae6,2khen2a38l2hkx33s73pehl6o
+4zjr1otqanq5z82liglzli0wk,Saint-Étienne vs Guingamp,05/03/2027,,Saint-Étienne,Guingamp,2sc9xfhu6tbru9hhlhr4a89zn,e9mmk1w7cem6r4wysgassacef
+4z8crupk13ude0oxyfrrchjpw,Reims vs Rodez,05/03/2027,,Reims,Rodez,3c3jcs7vc1t6vz5lev162jyv7,2u30h0xpbfzv0byj4j7d8c4ug
+4ywycl5bb3lavag1xfd39hqms,Pau vs Clermont,05/03/2027,,Pau,Clermont,25s5qx846iw05y8t9pinrbhh1,17o35s8assv3kamxowzz77k4r
+4yli3e2bkrbcvmh2ubk4bio7o,Nancy vs Nantes,05/03/2027,,Nancy,Nantes,69b9aoly33h1gpicvxtfteoug,750ustvk4jfqmo8q4gnrcxy7z
+4ya8bhmjsz7uh7rjtzh6xbqxg,Montpellier vs Annecy,05/03/2027,,Montpellier,Annecy,2cjpmotqo8phcqfpgo9xf4gel,6sqrk45zcfgwpq97no19o9sk5
+4xyvvemoqx9nu5wih0315nllg,Grenoble vs Red Star,05/03/2027,,Grenoble,Red Star,2ku5qqmv6i842rujioksaatx7,7qdfg7vuzf70wurnpx0bawlqk
+4xniww1znjx23vv90qg2sadck,Dunkerque vs Dijon,05/03/2027,,Dunkerque,Dijon,15ip1h6m0b4e8xfi597y5uo5u,79dc2mv3x269nhix3mkhc5wfu
+4xc3pne0wpedhvnbxv3gfqwic,Boulogne vs Laval,05/03/2027,,Boulogne,Laval,9az8hqkkijc34ol021425ixg5,75gwk94q9jkoh78jk8nlay4xj
+4x0owanc7xrg4v8amq40h1vdg,Saint-Étienne vs Sochaux,26/02/2027,,Saint-Étienne,Sochaux,2sc9xfhu6tbru9hhlhr4a89zn,d9kwaceoj54pfprd6oc2hwae6
+4wpa8mqp5x0zgxg8xbk0mqln8,Rodez vs Boulogne,26/02/2027,,Rodez,Boulogne,2u30h0xpbfzv0byj4j7d8c4ug,9az8hqkkijc34ol021425ixg5
+4wdvtugn3rmbuwyq0yez65wk4,Red Star vs Guingamp,26/02/2027,,Red Star,Guingamp,7qdfg7vuzf70wurnpx0bawlqk,e9mmk1w7cem6r4wysgassacef
+4w2bc85q8der3df6jk85my1hw,Nantes vs Pau,26/02/2027,,Nantes,Pau,750ustvk4jfqmo8q4gnrcxy7z,25s5qx846iw05y8t9pinrbhh1
+4vqw3fl9howcxbnmzvu643x1w,Montpellier vs Laval,26/02/2027,,Montpellier,Laval,2cjpmotqo8phcqfpgo9xf4gel,75gwk94q9jkoh78jk8nlay4xj
+4vfgk42tbxf3vaerkzyekd4wk,Metz vs Grenoble,26/02/2027,,Metz,Grenoble,2khen2a38l2hkx33s73pehl6o,2ku5qqmv6i842rujioksaatx7
+4v3z03sxq2gxijk0byjhrfr4k,Dijon vs Nancy,26/02/2027,,Dijon,Nancy,79dc2mv3x269nhix3mkhc5wfu,69b9aoly33h1gpicvxtfteoug
+4usoiti63hmk4gyn3pxo5jl04,Clermont vs Dunkerque,26/02/2027,,Clermont,Dunkerque,17o35s8assv3kamxowzz77k4r,15ip1h6m0b4e8xfi597y5uo5u
+4uha4p4f0zragkzecw2tz2w44,Annecy vs Reims,26/02/2027,,Annecy,Reims,6sqrk45zcfgwpq97no19o9sk5,3c3jcs7vc1t6vz5lev162jyv7
+4u5sbskwudo6i17rtb1xy91jo,Sochaux vs Dijon,19/02/2027,,Sochaux,Dijon,d9kwaceoj54pfprd6oc2hwae6,79dc2mv3x269nhix3mkhc5wfu
+4tuifj3pf5qzasvtib3yzwd90,Reims vs Nantes,19/02/2027,,Reims,Nantes,3c3jcs7vc1t6vz5lev162jyv7,750ustvk4jfqmo8q4gnrcxy7z
+4tifqzhg7pj6p7vndz2jj9iqc,Pau vs Red Star,19/02/2027,,Pau,Red Star,25s5qx846iw05y8t9pinrbhh1,7qdfg7vuzf70wurnpx0bawlqk
+4t70a8d0455uoak65pcgx5ams,Metz vs Montpellier,19/02/2027,,Metz,Montpellier,2khen2a38l2hkx33s73pehl6o,2cjpmotqo8phcqfpgo9xf4gel
+4svlvjpj0c08ux9a0jb87hzpw,Laval vs Annecy,19/02/2027,,Laval,Annecy,75gwk94q9jkoh78jk8nlay4xj,6sqrk45zcfgwpq97no19o9sk5
+4sk6wany96d1oxajffmecig44,Guingamp vs Clermont,19/02/2027,,Guingamp,Clermont,e9mmk1w7cem6r4wysgassacef,17o35s8assv3kamxowzz77k4r
+4s8prscnyubfbh6s1a9fw9st0,Grenoble vs Rodez,19/02/2027,,Grenoble,Rodez,2ku5qqmv6i842rujioksaatx7,2u30h0xpbfzv0byj4j7d8c4ug
+4rxegm146yfhpw4defpht7hn8,Dunkerque vs Nancy,19/02/2027,,Dunkerque,Nancy,15ip1h6m0b4e8xfi597y5uo5u,69b9aoly33h1gpicvxtfteoug
+4rm2euj9n5dt3jhzn5fetd6ac,Boulogne vs Saint-Étienne,19/02/2027,,Boulogne,Saint-Étienne,9az8hqkkijc34ol021425ixg5,2sc9xfhu6tbru9hhlhr4a89zn
+4ramvsmh6n1gbokbiugzu2sd0,Saint-Étienne vs Metz,12/02/2027,,Saint-Étienne,Metz,2sc9xfhu6tbru9hhlhr4a89zn,2khen2a38l2hkx33s73pehl6o
+4qz9tk9lullf6tskfy26chx5g,Rodez vs Guingamp,12/02/2027,,Rodez,Guingamp,2u30h0xpbfzv0byj4j7d8c4ug,e9mmk1w7cem6r4wysgassacef
+4qnxyo2dqtg985bijl5f1w9p0,Nantes vs Boulogne,12/02/2027,,Nantes,Boulogne,750ustvk4jfqmo8q4gnrcxy7z,9az8hqkkijc34ol021425ixg5
+4qcig3fry5ybd057jxgmp0zro,Nancy vs Red Star,12/02/2027,,Nancy,Red Star,69b9aoly33h1gpicvxtfteoug,7qdfg7vuzf70wurnpx0bawlqk
+4q13xye3rz8gwlvkwvij5khec,Montpellier vs Reims,12/02/2027,,Montpellier,Reims,2cjpmotqo8phcqfpgo9xf4gel,3c3jcs7vc1t6vz5lev162jyv7
+4ppo8pq1fzc3z2x7koo0lbbx0,Dunkerque vs Pau,12/02/2027,,Dunkerque,Pau,15ip1h6m0b4e8xfi597y5uo5u,25s5qx846iw05y8t9pinrbhh1
+4pecicbn7lars4npcjdiecgt0,Dijon vs Grenoble,12/02/2027,,Dijon,Grenoble,79dc2mv3x269nhix3mkhc5wfu,2ku5qqmv6i842rujioksaatx7
+4p2yt5dffvqs9oyqcb1axdrmc,Clermont vs Laval,12/02/2027,,Clermont,Laval,17o35s8assv3kamxowzz77k4r,75gwk94q9jkoh78jk8nlay4xj
+4orgs6ncy1jonmgjcxkj2cf84,Annecy vs Sochaux,12/02/2027,,Annecy,Sochaux,6sqrk45zcfgwpq97no19o9sk5,d9kwaceoj54pfprd6oc2hwae6
+4ofzxfbt2vh2e52all6o1v3tg,Sochaux vs Pau,05/02/2027,,Sochaux,Pau,d9kwaceoj54pfprd6oc2hwae6,25s5qx846iw05y8t9pinrbhh1
+4o4q8hd04qa965xsgzjy0wduc,Rodez vs Nantes,05/02/2027,,Rodez,Nantes,2u30h0xpbfzv0byj4j7d8c4ug,750ustvk4jfqmo8q4gnrcxy7z
+4ntbq17wkk7jt7ktei83ylq8k,Reims vs Nancy,05/02/2027,,Reims,Nancy,3c3jcs7vc1t6vz5lev162jyv7,69b9aoly33h1gpicvxtfteoug
+4ni0dcpb0j5ksladlj5ixoh78,Red Star vs Montpellier,05/02/2027,,Red Star,Montpellier,7qdfg7vuzf70wurnpx0bawlqk,2cjpmotqo8phcqfpgo9xf4gel
+4n6mls6w1dsct2ydleqjgu2vo,Metz vs Annecy,05/02/2027,,Metz,Annecy,2khen2a38l2hkx33s73pehl6o,6sqrk45zcfgwpq97no19o9sk5
+4mva09qyivgw8i83rfrxv6ln8,Laval vs Dijon,05/02/2027,,Laval,Dijon,75gwk94q9jkoh78jk8nlay4xj,79dc2mv3x269nhix3mkhc5wfu
+4mjwct3ojtzvswa832fby5hjo,Guingamp vs Dunkerque,05/02/2027,,Guingamp,Dunkerque,e9mmk1w7cem6r4wysgassacef,15ip1h6m0b4e8xfi597y5uo5u
+4m8jiy8hfymeqqvu17wh3o844,Grenoble vs Saint-Étienne,05/02/2027,,Grenoble,Saint-Étienne,2ku5qqmv6i842rujioksaatx7,2sc9xfhu6tbru9hhlhr4a89zn
+4lx4dfvghs6p7kf0a7jgb2cd0,Boulogne vs Clermont,05/02/2027,,Boulogne,Clermont,9az8hqkkijc34ol021425ixg5,17o35s8assv3kamxowzz77k4r
+4llorcpud53fj4vh6baebu7tg,Sochaux vs Reims,29/01/2027,,Sochaux,Reims,d9kwaceoj54pfprd6oc2hwae6,3c3jcs7vc1t6vz5lev162jyv7
+4lac2tvtacfw4hp503aiugutw,Saint-Étienne vs Dunkerque,29/01/2027,,Saint-Étienne,Dunkerque,2sc9xfhu6tbru9hhlhr4a89zn,15ip1h6m0b4e8xfi597y5uo5u
+4kyveool7vcb9r7x4rhbivqj8,Red Star vs Laval,29/01/2027,,Red Star,Laval,7qdfg7vuzf70wurnpx0bawlqk,75gwk94q9jkoh78jk8nlay4xj
+4knfxghmzeq9uqoixojyked5g,Pau vs Metz,29/01/2027,,Pau,Metz,25s5qx846iw05y8t9pinrbhh1,2khen2a38l2hkx33s73pehl6o
+4kc27elmubqibingfcsaliu50,Nantes vs Guingamp,29/01/2027,,Nantes,Guingamp,750ustvk4jfqmo8q4gnrcxy7z,e9mmk1w7cem6r4wysgassacef
+4k0nrhcrnmjrdafqen5rigzkk,Nancy vs Boulogne,29/01/2027,,Nancy,Boulogne,69b9aoly33h1gpicvxtfteoug,9az8hqkkijc34ol021425ixg5
+4jp8x6wfqzmu9cnrhjwff5las,Montpellier vs Rodez,29/01/2027,,Montpellier,Rodez,2cjpmotqo8phcqfpgo9xf4gel,2u30h0xpbfzv0byj4j7d8c4ug
+4jdup2nu86mlppyaxpx45yrro,Dijon vs Clermont,29/01/2027,,Dijon,Clermont,79dc2mv3x269nhix3mkhc5wfu,17o35s8assv3kamxowzz77k4r
+4j2e4p5x511tx72m5jguh2yvo,Annecy vs Grenoble,29/01/2027,,Annecy,Grenoble,6sqrk45zcfgwpq97no19o9sk5,2ku5qqmv6i842rujioksaatx7
+4ir08q4atpmyihc1pwqfhp2j8,Rodez vs Annecy,22/01/2027,,Rodez,Annecy,2u30h0xpbfzv0byj4j7d8c4ug,6sqrk45zcfgwpq97no19o9sk5
+4ifqtx0ij7m81618reaz21d04,Reims vs Red Star,22/01/2027,,Reims,Red Star,3c3jcs7vc1t6vz5lev162jyv7,7qdfg7vuzf70wurnpx0bawlqk
+4i4aalx892l1dced5jk3mz504,Metz vs Dijon,22/01/2027,,Metz,Dijon,2khen2a38l2hkx33s73pehl6o,79dc2mv3x269nhix3mkhc5wfu
+4hsxnkfiukopb8a9i3thz8v10,Laval vs Pau,22/01/2027,,Laval,Pau,75gwk94q9jkoh78jk8nlay4xj,25s5qx846iw05y8t9pinrbhh1
+4hhjcagslg9nzvmik56duz1uc,Guingamp vs Nancy,22/01/2027,,Guingamp,Nancy,e9mmk1w7cem6r4wysgassacef,69b9aoly33h1gpicvxtfteoug
+4h693wnc2l5xq8hgsa8vr1b84,Grenoble vs Montpellier,22/01/2027,,Grenoble,Montpellier,2ku5qqmv6i842rujioksaatx7,2cjpmotqo8phcqfpgo9xf4gel
+4guyq3t656wckbk2v3vmd8650,Dunkerque vs Nantes,22/01/2027,,Dunkerque,Nantes,15ip1h6m0b4e8xfi597y5uo5u,750ustvk4jfqmo8q4gnrcxy7z
+4gin3o3nv8iqe9nlsc1ih6az8,Clermont vs Saint-Étienne,22/01/2027,,Clermont,Saint-Étienne,17o35s8assv3kamxowzz77k4r,2sc9xfhu6tbru9hhlhr4a89zn
+4g78n6sr66nct6noj4ax4zt3o,Boulogne vs Sochaux,22/01/2027,,Boulogne,Sochaux,9az8hqkkijc34ol021425ixg5,d9kwaceoj54pfprd6oc2hwae6
+4fvtv8mjb7xf2ka1mwqbd8bo4,Sochaux vs Rodez,15/01/2027,,Sochaux,Rodez,d9kwaceoj54pfprd6oc2hwae6,2u30h0xpbfzv0byj4j7d8c4ug
+4fkgsj75ua8ojmadl747jab6c,Saint-Étienne vs Boulogne,15/01/2027,,Saint-Étienne,Boulogne,2sc9xfhu6tbru9hhlhr4a89zn,9az8hqkkijc34ol021425ixg5
+4f94wwjgfbbmfatnla55lx2xg,Red Star vs Annecy,15/01/2027,,Red Star,Annecy,7qdfg7vuzf70wurnpx0bawlqk,6sqrk45zcfgwpq97no19o9sk5
+4exty62y6z6htxql6e35rdwr8,Pau vs Reims,15/01/2027,,Pau,Reims,25s5qx846iw05y8t9pinrbhh1,3c3jcs7vc1t6vz5lev162jyv7
+4emf6n9s97vlce99yb743juvo,Nantes vs Metz,15/01/2027,,Nantes,Metz,750ustvk4jfqmo8q4gnrcxy7z,2khen2a38l2hkx33s73pehl6o
+4eb3po9xda8fqgtssp1kv4ff8,Nancy vs Grenoble,15/01/2027,,Nancy,Grenoble,69b9aoly33h1gpicvxtfteoug,2ku5qqmv6i842rujioksaatx7
+4dznl5r5qacghfnhrcm2k96ok,Montpellier vs Clermont,15/01/2027,,Montpellier,Clermont,2cjpmotqo8phcqfpgo9xf4gel,17o35s8assv3kamxowzz77k4r
+4do7ytf8ybbpk2vnojkckolck,Laval vs Guingamp,15/01/2027,,Laval,Guingamp,75gwk94q9jkoh78jk8nlay4xj,e9mmk1w7cem6r4wysgassacef
+4dcs0lpp72g7alzkxy9f5tfro,Dijon vs Dunkerque,15/01/2027,,Dijon,Dunkerque,79dc2mv3x269nhix3mkhc5wfu,15ip1h6m0b4e8xfi597y5uo5u
+4d1jrms6vn6032aw5ovq9bytw,Rodez vs Red Star,02/01/2027,,Rodez,Red Star,2u30h0xpbfzv0byj4j7d8c4ug,7qdfg7vuzf70wurnpx0bawlqk
+4cq4xx0y28qu5uxgylxh9b40k,Reims vs Laval,02/01/2027,,Reims,Laval,3c3jcs7vc1t6vz5lev162jyv7,75gwk94q9jkoh78jk8nlay4xj
+4cesl3lh7t27lsqswsd9dpb84,Montpellier vs Guingamp,02/01/2027,,Montpellier,Guingamp,2cjpmotqo8phcqfpgo9xf4gel,e9mmk1w7cem6r4wysgassacef
+4c3i1aeh7rbvt006ms24skc2c,Metz vs Nancy,02/01/2027,,Metz,Nancy,2khen2a38l2hkx33s73pehl6o,69b9aoly33h1gpicvxtfteoug
+4bs44bapw007ygyqt0c2lygpg,Grenoble vs Sochaux,02/01/2027,,Grenoble,Sochaux,2ku5qqmv6i842rujioksaatx7,d9kwaceoj54pfprd6oc2hwae6
+4bgrjklcug2wnagu1lttbeck4,Dunkerque vs Boulogne,02/01/2027,,Dunkerque,Boulogne,15ip1h6m0b4e8xfi597y5uo5u,9az8hqkkijc34ol021425ixg5
+4b5bh1c54hlo7dqh5748ar6z8,Dijon vs Nantes,02/01/2027,,Dijon,Nantes,79dc2mv3x269nhix3mkhc5wfu,750ustvk4jfqmo8q4gnrcxy7z
+4atzqo5ff261j20f2vw2dual0,Clermont vs Pau,02/01/2027,,Clermont,Pau,17o35s8assv3kamxowzz77k4r,25s5qx846iw05y8t9pinrbhh1
+4ais7d3xplz0mllo4s3atme50,Annecy vs Saint-Étienne,02/01/2027,,Annecy,Saint-Étienne,6sqrk45zcfgwpq97no19o9sk5,2sc9xfhu6tbru9hhlhr4a89zn
+4a7g94cs0r4dc5vynkftq6w44,Sochaux vs Montpellier,14/12/2026,19:45:00Z,Sochaux,Montpellier,d9kwaceoj54pfprd6oc2hwae6,2cjpmotqo8phcqfpgo9xf4gel
+48mwt7pp7mgymrzmli8euutck,Metz vs Reims,12/12/2026,19:00:00Z,Metz,Reims,2khen2a38l2hkx33s73pehl6o,3c3jcs7vc1t6vz5lev162jyv7
+49w4jtkp4c8bsjeprkx233klw,Red Star vs Grenoble,12/12/2026,13:00:00Z,Red Star,Grenoble,7qdfg7vuzf70wurnpx0bawlqk,2ku5qqmv6i842rujioksaatx7
+49kwamqzbcmwftqezf4qulf6c,Pau vs Saint-Étienne,12/12/2026,13:00:00Z,Pau,Saint-Étienne,25s5qx846iw05y8t9pinrbhh1,2sc9xfhu6tbru9hhlhr4a89zn
+499i5ci1jzvh7h9jws8h3hjx0,Nantes vs Annecy,11/12/2026,19:00:00Z,Nantes,Annecy,750ustvk4jfqmo8q4gnrcxy7z,6sqrk45zcfgwpq97no19o9sk5
+48y7pdkiuswgoeluny2dhpgr8,Nancy vs Clermont,11/12/2026,19:00:00Z,Nancy,Clermont,69b9aoly33h1gpicvxtfteoug,17o35s8assv3kamxowzz77k4r
+48bjpsgw0dtgi2mmxqr18b47o,Laval vs Dunkerque,11/12/2026,19:00:00Z,Laval,Dunkerque,75gwk94q9jkoh78jk8nlay4xj,15ip1h6m0b4e8xfi597y5uo5u
+4808h9b756vnnqigld77pkwes,Guingamp vs Dijon,11/12/2026,19:00:00Z,Guingamp,Dijon,e9mmk1w7cem6r4wysgassacef,79dc2mv3x269nhix3mkhc5wfu
+47owuadv8iz6g6cnel8htxkb8,Boulogne vs Rodez,11/12/2026,19:00:00Z,Boulogne,Rodez,9az8hqkkijc34ol021425ixg5,2u30h0xpbfzv0byj4j7d8c4ug
+4728d8wt9dzpjxcabwen1u904,Rodez vs Reims,07/12/2026,19:45:00Z,Rodez,Reims,2u30h0xpbfzv0byj4j7d8c4ug,3c3jcs7vc1t6vz5lev162jyv7
+47dng7y8s6c1n4kypgxob3eac,Saint-Étienne vs Nancy,05/12/2026,19:45:00Z,Saint-Étienne,Nancy,2sc9xfhu6tbru9hhlhr4a89zn,69b9aoly33h1gpicvxtfteoug
+46qwye36elmlnis31fgviw36c,Montpellier vs Nantes,05/12/2026,13:00:00Z,Montpellier,Nantes,2cjpmotqo8phcqfpgo9xf4gel,750ustvk4jfqmo8q4gnrcxy7z
+463y3kwh5m81ge2s9bmrnrxn8,Dunkerque vs Red Star,05/12/2026,13:00:00Z,Dunkerque,Red Star,15ip1h6m0b4e8xfi597y5uo5u,7qdfg7vuzf70wurnpx0bawlqk
+46fh9450wu3zm8l0q88bab5ec,Grenoble vs Guingamp,04/12/2026,19:00:00Z,Grenoble,Guingamp,2ku5qqmv6i842rujioksaatx7,e9mmk1w7cem6r4wysgassacef
+45soaco3ej1r5qcoxwzfpczys,Dijon vs Sochaux,04/12/2026,19:00:00Z,Dijon,Sochaux,79dc2mv3x269nhix3mkhc5wfu,d9kwaceoj54pfprd6oc2hwae6
+45hc8jw5oydtfmhm7mbb16wb8,Clermont vs Metz,04/12/2026,19:00:00Z,Clermont,Metz,17o35s8assv3kamxowzz77k4r,2khen2a38l2hkx33s73pehl6o
+455yxemm79zq536nco3hhjo5w,Boulogne vs Pau,04/12/2026,19:00:00Z,Boulogne,Pau,9az8hqkkijc34ol021425ixg5,25s5qx846iw05y8t9pinrbhh1
+44umeb8nkxpgnyvjnfo1u5n2s,Annecy vs Laval,04/12/2026,19:00:00Z,Annecy,Laval,6sqrk45zcfgwpq97no19o9sk5,75gwk94q9jkoh78jk8nlay4xj
+44j8dm51hjonw8k6173s9a61g,Sochaux vs Dunkerque,23/11/2026,19:45:00Z,Sochaux,Dunkerque,d9kwaceoj54pfprd6oc2hwae6,15ip1h6m0b4e8xfi597y5uo5u
+447wrwviaktveo0fj5225b76c,Reims vs Saint-Étienne,21/11/2026,19:00:00Z,Reims,Saint-Étienne,3c3jcs7vc1t6vz5lev162jyv7,2sc9xfhu6tbru9hhlhr4a89zn
+43kt31ggx7usfpagknerzqgpg,Nantes vs Grenoble,21/11/2026,13:00:00Z,Nantes,Grenoble,750ustvk4jfqmo8q4gnrcxy7z,2ku5qqmv6i842rujioksaatx7
+42msytdk2t9bpco4h49xa13is,Laval vs Montpellier,21/11/2026,13:00:00Z,Laval,Montpellier,75gwk94q9jkoh78jk8nlay4xj,2cjpmotqo8phcqfpgo9xf4gel
+43wf08aclyys13jadlffnq044,Red Star vs Pau,20/11/2026,19:00:00Z,Red Star,Pau,7qdfg7vuzf70wurnpx0bawlqk,25s5qx846iw05y8t9pinrbhh1
+439iyd7i428s20cg9l6spyec4,Nancy vs Dijon,20/11/2026,19:00:00Z,Nancy,Dijon,69b9aoly33h1gpicvxtfteoug,79dc2mv3x269nhix3mkhc5wfu
+42y5ilav9ow3oh3ute6l1p0yc,Metz vs Boulogne,20/11/2026,19:00:00Z,Metz,Boulogne,2khen2a38l2hkx33s73pehl6o,9az8hqkkijc34ol021425ixg5
+42bh90gkep416i9pt585wat5g,Guingamp vs Rodez,20/11/2026,19:00:00Z,Guingamp,Rodez,e9mmk1w7cem6r4wysgassacef,2u30h0xpbfzv0byj4j7d8c4ug
+4206ry9osn6lg87eqn3awha8k,Annecy vs Clermont,20/11/2026,19:00:00Z,Annecy,Clermont,6sqrk45zcfgwpq97no19o9sk5,17o35s8assv3kamxowzz77k4r
+41dfvlng052jumslyiatulct0,Saint-Étienne vs Laval,07/11/2026,19:00:00Z,Saint-Étienne,Laval,2sc9xfhu6tbru9hhlhr4a89zn,75gwk94q9jkoh78jk8nlay4xj
+4123x2fwi6o67ilwjdgn2hlp0,Pau vs Nantes,07/11/2026,19:00:00Z,Pau,Nantes,25s5qx846iw05y8t9pinrbhh1,750ustvk4jfqmo8q4gnrcxy7z
+3zh8v0dmhs61yvmx2davrjqxg,Clermont vs Rodez,07/11/2026,13:00:00Z,Clermont,Rodez,17o35s8assv3kamxowzz77k4r,2u30h0xpbfzv0byj4j7d8c4ug
+41oqz9msg6xewxd788gm2iuqc,Nancy vs Sochaux,06/11/2026,19:00:00Z,Nancy,Sochaux,69b9aoly33h1gpicvxtfteoug,d9kwaceoj54pfprd6oc2hwae6
+40qsuwnlu9zck99cfrthsf1n8,Montpellier vs Metz,06/11/2026,19:00:00Z,Montpellier,Metz,2cjpmotqo8phcqfpgo9xf4gel,2khen2a38l2hkx33s73pehl6o
+40filby7g7o5arj231tfjih3o,Grenoble vs Reims,06/11/2026,19:00:00Z,Grenoble,Reims,2ku5qqmv6i842rujioksaatx7,3c3jcs7vc1t6vz5lev162jyv7
+4046yd8k2iddltwp23x1xx3pw,Dunkerque vs Guingamp,06/11/2026,19:00:00Z,Dunkerque,Guingamp,15ip1h6m0b4e8xfi597y5uo5u,e9mmk1w7cem6r4wysgassacef
+3zsp6b7h7cimmte9oy6xuw5jo,Dijon vs Red Star,06/11/2026,19:00:00Z,Dijon,Red Star,79dc2mv3x269nhix3mkhc5wfu,7qdfg7vuzf70wurnpx0bawlqk
+3z5x9ubepbl21npl5h3ushkic,Boulogne vs Annecy,06/11/2026,19:00:00Z,Boulogne,Annecy,9az8hqkkijc34ol021425ixg5,6sqrk45zcfgwpq97no19o9sk5
+3yjb8y2lt2r3t19ymzepnvuac,Reims vs Sochaux,02/11/2026,19:45:00Z,Reims,Sochaux,3c3jcs7vc1t6vz5lev162jyv7,d9kwaceoj54pfprd6oc2hwae6
+3y81c7qkrx6wqc9jj0bsn7zf8,Red Star vs Nancy,02/11/2026,19:45:00Z,Red Star,Nancy,7qdfg7vuzf70wurnpx0bawlqk,69b9aoly33h1gpicvxtfteoug
+3wyl1gdkor2rbg8t4cl4e1jbo,Guingamp vs Saint-Étienne,31/10/2026,19:00:00Z,Guingamp,Saint-Étienne,e9mmk1w7cem6r4wysgassacef,2sc9xfhu6tbru9hhlhr4a89zn
+3waww7qhljym0yi8a9iaj9w5w,Annecy vs Montpellier,31/10/2026,13:00:00Z,Annecy,Montpellier,6sqrk45zcfgwpq97no19o9sk5,2cjpmotqo8phcqfpgo9xf4gel
+3yulg62j3jnwnyj0n5ld14kk4,Rodez vs Dunkerque,30/10/2026,19:00:00Z,Rodez,Dunkerque,2u30h0xpbfzv0byj4j7d8c4ug,15ip1h6m0b4e8xfi597y5uo5u
+3xwprh1ewo0y278ja8tbs38k4,Nantes vs Clermont,30/10/2026,19:00:00Z,Nantes,Clermont,750ustvk4jfqmo8q4gnrcxy7z,17o35s8assv3kamxowzz77k4r
+3xldq9dxc926k2uwlmkyrblsk,Metz vs Pau,30/10/2026,19:00:00Z,Metz,Pau,2khen2a38l2hkx33s73pehl6o,25s5qx846iw05y8t9pinrbhh1
+3x9uxp7qj36tysyexuc2i8bh0,Laval vs Boulogne,30/10/2026,19:00:00Z,Laval,Boulogne,75gwk94q9jkoh78jk8nlay4xj,9az8hqkkijc34ol021425ixg5
+3wm9wiyma60ziy8iukulj6bdg,Grenoble vs Dijon,30/10/2026,19:00:00Z,Grenoble,Dijon,2ku5qqmv6i842rujioksaatx7,79dc2mv3x269nhix3mkhc5wfu
+3uqaa5dy0uhotwvq9kr46yrkk,Montpellier vs Red Star,26/10/2026,19:45:00Z,Montpellier,Red Star,2cjpmotqo8phcqfpgo9xf4gel,7qdfg7vuzf70wurnpx0bawlqk
+3tgua8x2ul43a2lgsw5blqz9w,Boulogne vs Reims,26/10/2026,19:45:00Z,Boulogne,Reims,9az8hqkkijc34ol021425ixg5,3c3jcs7vc1t6vz5lev162jyv7
+3voclxiwrdglin9a26sfv3eac,Saint-Étienne vs Nantes,24/10/2026,18:45:00Z,Saint-Étienne,Nantes,2sc9xfhu6tbru9hhlhr4a89zn,750ustvk4jfqmo8q4gnrcxy7z
+3u3m9jl4l3ornvzanq93w6jv8,Dijon vs Rodez,24/10/2026,12:00:00Z,Dijon,Rodez,79dc2mv3x269nhix3mkhc5wfu,2u30h0xpbfzv0byj4j7d8c4ug
+3vznwnud164db9t0jegt02dqs,Sochaux vs Annecy,23/10/2026,18:00:00Z,Sochaux,Annecy,d9kwaceoj54pfprd6oc2hwae6,6sqrk45zcfgwpq97no19o9sk5
+3vd22joyoj5ayxezgb5vdvuok,Pau vs Grenoble,23/10/2026,18:00:00Z,Pau,Grenoble,25s5qx846iw05y8t9pinrbhh1,2ku5qqmv6i842rujioksaatx7
+3v1jdwk40pvhdim8xjwfquzo4,Nancy vs Laval,23/10/2026,18:00:00Z,Nancy,Laval,69b9aoly33h1gpicvxtfteoug,75gwk94q9jkoh78jk8nlay4xj
+3uf07homahwod3md2gn3vqkno,Dunkerque vs Metz,23/10/2026,18:00:00Z,Dunkerque,Metz,15ip1h6m0b4e8xfi597y5uo5u,2khen2a38l2hkx33s73pehl6o
+3ts5ywv9e5hagp9ocipld045w,Clermont vs Guingamp,23/10/2026,18:00:00Z,Clermont,Guingamp,17o35s8assv3kamxowzz77k4r,e9mmk1w7cem6r4wysgassacef
+3t5fdngq21mfwknutxlav7ggk,Rodez vs Montpellier,19/10/2026,18:45:00Z,Rodez,Montpellier,2u30h0xpbfzv0byj4j7d8c4ug,2cjpmotqo8phcqfpgo9xf4gel
+3simje5ku8uwnx0q8brnjq784,Red Star vs Saint-Étienne,17/10/2026,18:00:00Z,Red Star,Saint-Étienne,7qdfg7vuzf70wurnpx0bawlqk,2sc9xfhu6tbru9hhlhr4a89zn
+3s77ha1xotycli45cuo2sdvro,Nantes vs Dunkerque,17/10/2026,12:00:00Z,Nantes,Dunkerque,750ustvk4jfqmo8q4gnrcxy7z,15ip1h6m0b4e8xfi597y5uo5u
+3rvvnye95rm0qqt2eszpi8s2c,Metz vs Sochaux,17/10/2026,12:00:00Z,Metz,Sochaux,2khen2a38l2hkx33s73pehl6o,d9kwaceoj54pfprd6oc2hwae6
+3su1j3mm5exoo4l1aqgqwwzys,Reims vs Dijon,16/10/2026,18:00:00Z,Reims,Dijon,3c3jcs7vc1t6vz5lev162jyv7,79dc2mv3x269nhix3mkhc5wfu
+3rkihh1w6jsrmyof43ybrjhg4,Laval vs Clermont,16/10/2026,18:00:00Z,Laval,Clermont,75gwk94q9jkoh78jk8nlay4xj,17o35s8assv3kamxowzz77k4r
+3r93obkdegnxv8mnbd6hap8no,Guingamp vs Pau,16/10/2026,18:00:00Z,Guingamp,Pau,e9mmk1w7cem6r4wysgassacef,25s5qx846iw05y8t9pinrbhh1
+3qxn83uq22era904bgdno4efo,Grenoble vs Boulogne,16/10/2026,18:00:00Z,Grenoble,Boulogne,2ku5qqmv6i842rujioksaatx7,9az8hqkkijc34ol021425ixg5
+3qm8vopi5flx422q3b6pnbh1w,Annecy vs Nancy,16/10/2026,18:00:00Z,Annecy,Nancy,6sqrk45zcfgwpq97no19o9sk5,69b9aoly33h1gpicvxtfteoug
+3o3k3xkdab2r3xg6wj8uqz1uc,Dijon vs Metz,12/10/2026,18:45:00Z,Dijon,Metz,79dc2mv3x269nhix3mkhc5wfu,2khen2a38l2hkx33s73pehl6o
+3pzlg2nua8pmjqqglj0ulsxlg,Saint-Étienne vs Rodez,10/10/2026,18:00:00Z,Saint-Étienne,Rodez,2sc9xfhu6tbru9hhlhr4a89zn,2u30h0xpbfzv0byj4j7d8c4ug
+3pcvayou7e3avsb0rp416p34k,Nantes vs Reims,10/10/2026,12:00:00Z,Nantes,Reims,750ustvk4jfqmo8q4gnrcxy7z,3c3jcs7vc1t6vz5lev162jyv7
+3ns6itmkev052vzjkppnpls0k,Clermont vs Red Star,10/10/2026,12:00:00Z,Clermont,Red Star,17o35s8assv3kamxowzz77k4r,7qdfg7vuzf70wurnpx0bawlqk
+3qb0alnf9bqwcq4e00vtvawic,Sochaux vs Boulogne,09/10/2026,18:00:00Z,Sochaux,Boulogne,d9kwaceoj54pfprd6oc2hwae6,9az8hqkkijc34ol021425ixg5
+3po8wmool6ujjojvc0rah709g,Pau vs Laval,09/10/2026,18:00:00Z,Pau,Laval,25s5qx846iw05y8t9pinrbhh1,75gwk94q9jkoh78jk8nlay4xj
+3p1koh1w4vsl7zdh87eqcw8b8,Nancy vs Guingamp,09/10/2026,18:00:00Z,Nancy,Guingamp,69b9aoly33h1gpicvxtfteoug,e9mmk1w7cem6r4wysgassacef
+3oqcb702wo42v8xelsr2eqot0,Montpellier vs Grenoble,09/10/2026,18:00:00Z,Montpellier,Grenoble,2cjpmotqo8phcqfpgo9xf4gel,2ku5qqmv6i842rujioksaatx7
+3oex2qlg6rz36vygaq2it0j6c,Dunkerque vs Annecy,09/10/2026,18:00:00Z,Dunkerque,Annecy,15ip1h6m0b4e8xfi597y5uo5u,6sqrk45zcfgwpq97no19o9sk5
+3mhj71bt7ihz5jur0y1czoljo,Metz vs Saint-Étienne,19/09/2026,18:00:00Z,Metz,Saint-Étienne,2khen2a38l2hkx33s73pehl6o,2sc9xfhu6tbru9hhlhr4a89zn
+3lup8cmjdeils56ctun4m0m50,Guingamp vs Red Star,19/09/2026,12:00:00Z,Guingamp,Red Star,e9mmk1w7cem6r4wysgassacef,7qdfg7vuzf70wurnpx0bawlqk
+3l80pi2or3ly2xe2bfz8na6fo,Boulogne vs Nantes,19/09/2026,12:00:00Z,Boulogne,Nantes,9az8hqkkijc34ol021425ixg5,750ustvk4jfqmo8q4gnrcxy7z
+3nfp3w0dvzhs3980le8mu2jo4,Rodez vs Nancy,18/09/2026,18:00:00Z,Rodez,Nancy,2u30h0xpbfzv0byj4j7d8c4ug,69b9aoly33h1gpicvxtfteoug
+3n48v84pk5hmnxvg3gad109p0,Reims vs Montpellier,18/09/2026,18:00:00Z,Reims,Montpellier,3c3jcs7vc1t6vz5lev162jyv7,2cjpmotqo8phcqfpgo9xf4gel
+3mswm5jtl6wz3l4ihftpnvxg4,Pau vs Dunkerque,18/09/2026,18:00:00Z,Pau,Dunkerque,25s5qx846iw05y8t9pinrbhh1,15ip1h6m0b4e8xfi597y5uo5u
+3m6793gedoeh91oxtbpa51a1g,Laval vs Sochaux,18/09/2026,18:00:00Z,Laval,Sochaux,75gwk94q9jkoh78jk8nlay4xj,d9kwaceoj54pfprd6oc2hwae6
+3ljc95at6j7s18h0kpglubitw,Grenoble vs Clermont,18/09/2026,18:00:00Z,Grenoble,Clermont,2ku5qqmv6i842rujioksaatx7,17o35s8assv3kamxowzz77k4r
+3kwksx96d562m9lwbcmgbh6hg,Annecy vs Dijon,18/09/2026,18:00:00Z,Annecy,Dijon,6sqrk45zcfgwpq97no19o9sk5,79dc2mv3x269nhix3mkhc5wfu
+3jygqjq15focr3o0ptsv137kk,Red Star vs Metz,14/09/2026,18:45:00Z,Red Star,Metz,7qdfg7vuzf70wurnpx0bawlqk,2khen2a38l2hkx33s73pehl6o
+3iowynhsujxymzdo5v2q1vris,Dunkerque vs Saint-Étienne,12/09/2026,18:00:00Z,Dunkerque,Saint-Étienne,15ip1h6m0b4e8xfi597y5uo5u,2sc9xfhu6tbru9hhlhr4a89zn
+3kl89cdcjzfopszzbmv1rm2ok,Sochaux vs Nantes,12/09/2026,12:00:00Z,Sochaux,Nantes,d9kwaceoj54pfprd6oc2hwae6,750ustvk4jfqmo8q4gnrcxy7z
+3j0cazg012gioto8h4acbalg4,Guingamp vs Annecy,12/09/2026,12:00:00Z,Guingamp,Annecy,e9mmk1w7cem6r4wysgassacef,6sqrk45zcfgwpq97no19o9sk5
+3k9vfycz21p7j4a22rh4zfztg,Rodez vs Grenoble,11/09/2026,18:00:00Z,Rodez,Grenoble,2u30h0xpbfzv0byj4j7d8c4ug,2ku5qqmv6i842rujioksaatx7
+3jn2b8o0qp7blzmzjyxszpnh0,Nancy vs Reims,11/09/2026,18:00:00Z,Nancy,Reims,69b9aoly33h1gpicvxtfteoug,3c3jcs7vc1t6vz5lev162jyv7
+3jboh6r52t63u4xvmx9wi074k,Montpellier vs Pau,11/09/2026,18:00:00Z,Montpellier,Pau,2cjpmotqo8phcqfpgo9xf4gel,25s5qx846iw05y8t9pinrbhh1
+3iddlunzcwr05ij0z2r00g9w4,Dijon vs Laval,11/09/2026,18:00:00Z,Dijon,Laval,79dc2mv3x269nhix3mkhc5wfu,75gwk94q9jkoh78jk8nlay4xj
+3i1zwbc91g7wmri0ken0cbn6c,Clermont vs Boulogne,11/09/2026,18:00:00Z,Clermont,Boulogne,17o35s8assv3kamxowzz77k4r,9az8hqkkijc34ol021425ixg5
+3gslfqoaly23xqfo6r3aygx78,Nantes vs Nancy,07/09/2026,18:45:00Z,Nantes,Nancy,750ustvk4jfqmo8q4gnrcxy7z,69b9aoly33h1gpicvxtfteoug
+3hqp4rhh62xv4972lpeezx8us,Saint-Étienne vs Montpellier,05/09/2026,18:00:00Z,Saint-Étienne,Montpellier,2sc9xfhu6tbru9hhlhr4a89zn,2cjpmotqo8phcqfpgo9xf4gel
+3hf9nayye4t6itl631xr5b9jo,Reims vs Guingamp,05/09/2026,12:00:00Z,Reims,Guingamp,3c3jcs7vc1t6vz5lev162jyv7,e9mmk1w7cem6r4wysgassacef
+3gh7xj2naiv3wv5k4bcwhs7is,Metz vs Rodez,05/09/2026,12:00:00Z,Metz,Rodez,2khen2a38l2hkx33s73pehl6o,2u30h0xpbfzv0byj4j7d8c4ug
+3h3xrex9svcxmycoye3oxjlsk,Pau vs Sochaux,04/09/2026,18:00:00Z,Pau,Sochaux,25s5qx846iw05y8t9pinrbhh1,d9kwaceoj54pfprd6oc2hwae6
+3g5ugaw3enrrrxjyyif4e5kpg,Laval vs Red Star,04/09/2026,18:00:00Z,Laval,Red Star,75gwk94q9jkoh78jk8nlay4xj,7qdfg7vuzf70wurnpx0bawlqk
+3fugebpbjnhv8yjmbvt6hht04,Grenoble vs Annecy,04/09/2026,18:00:00Z,Grenoble,Annecy,2ku5qqmv6i842rujioksaatx7,6sqrk45zcfgwpq97no19o9sk5
+3fj4fshs1p3hlucwwqyzpe1w4,Dunkerque vs Clermont,04/09/2026,18:00:00Z,Dunkerque,Clermont,15ip1h6m0b4e8xfi597y5uo5u,17o35s8assv3kamxowzz77k4r
+3f7tnlt3thalqc8xlorwh5gyc,Boulogne vs Dijon,04/09/2026,18:00:00Z,Boulogne,Dijon,9az8hqkkijc34ol021425ixg5,79dc2mv3x269nhix3mkhc5wfu
+3czzz1wzinfe70jira0l5nf9w,Dijon vs Saint-Étienne,31/08/2026,18:45:00Z,Dijon,Saint-Étienne,79dc2mv3x269nhix3mkhc5wfu,2sc9xfhu6tbru9hhlhr4a89zn
+3dbi5rlwwuk1of36yqk7xm68k,Guingamp vs Nantes,29/08/2026,18:00:00Z,Guingamp,Nantes,e9mmk1w7cem6r4wysgassacef,750ustvk4jfqmo8q4gnrcxy7z
+3el1guxo0qpxzhrs02xd44qac,Red Star vs Reims,29/08/2026,12:00:00Z,Red Star,Reims,7qdfg7vuzf70wurnpx0bawlqk,3c3jcs7vc1t6vz5lev162jyv7
+3cddjqr9os1lno821q5wscfmc,Annecy vs Metz,29/08/2026,12:00:00Z,Annecy,Metz,6sqrk45zcfgwpq97no19o9sk5,2khen2a38l2hkx33s73pehl6o
+3ewh1drf3mm32mosbi0dcy9sk,Rodez vs Pau,28/08/2026,18:00:00Z,Rodez,Pau,2u30h0xpbfzv0byj4j7d8c4ug,25s5qx846iw05y8t9pinrbhh1
+3e9njrka5rc3sfxcxlwhcfklw,Nancy vs Dunkerque,28/08/2026,18:00:00Z,Nancy,Dunkerque,69b9aoly33h1gpicvxtfteoug,15ip1h6m0b4e8xfi597y5uo5u
+3dy86pkypz92m7q0ugr90d3bo,Montpellier vs Boulogne,28/08/2026,18:00:00Z,Montpellier,Boulogne,2cjpmotqo8phcqfpgo9xf4gel,9az8hqkkijc34ol021425ixg5
+3dmtknhyefxp5ycn2dtouu5n8,Laval vs Grenoble,28/08/2026,18:00:00Z,Laval,Grenoble,75gwk94q9jkoh78jk8nlay4xj,2ku5qqmv6i842rujioksaatx7
+3coocd0od5v8avrt6r3weketw,Clermont vs Sochaux,28/08/2026,18:00:00Z,Clermont,Sochaux,17o35s8assv3kamxowzz77k4r,d9kwaceoj54pfprd6oc2hwae6
+3bf49fx8egifu6mf5ffbxvaxg,Reims vs Annecy,24/08/2026,18:45:00Z,Reims,Annecy,3c3jcs7vc1t6vz5lev162jyv7,6sqrk45zcfgwpq97no19o9sk5
+3bqnc5dsx6ra7dfiaz06cdj4k,Saint-Étienne vs Grenoble,22/08/2026,18:00:00Z,Saint-Étienne,Grenoble,2sc9xfhu6tbru9hhlhr4a89zn,2ku5qqmv6i842rujioksaatx7
+3asa21539gvov4p6d0b0fvthw,Nantes vs Rodez,22/08/2026,12:00:00Z,Nantes,Rodez,750ustvk4jfqmo8q4gnrcxy7z,2u30h0xpbfzv0byj4j7d8c4ug
+3agy7mv3efe2d1lu2suwlv66s,Metz vs Laval,22/08/2026,12:00:00Z,Metz,Laval,2khen2a38l2hkx33s73pehl6o,75gwk94q9jkoh78jk8nlay4xj
+3c1ywi7ojyq68tcc0gah1ylg4,Sochaux vs Guingamp,21/08/2026,18:00:00Z,Sochaux,Guingamp,d9kwaceoj54pfprd6oc2hwae6,e9mmk1w7cem6r4wysgassacef
+3b3q5ijb97uc37vd71f6599n8,Pau vs Nancy,21/08/2026,18:00:00Z,Pau,Nancy,25s5qx846iw05y8t9pinrbhh1,69b9aoly33h1gpicvxtfteoug
+3a5oxi3uob5l3qk907qkj9bmc,Dunkerque vs Montpellier,21/08/2026,18:00:00Z,Dunkerque,Montpellier,15ip1h6m0b4e8xfi597y5uo5u,2cjpmotqo8phcqfpgo9xf4gel
+39ud6pceipp7npef3xri8d0yc,Clermont vs Dijon,21/08/2026,18:00:00Z,Clermont,Dijon,17o35s8assv3kamxowzz77k4r,79dc2mv3x269nhix3mkhc5wfu
+39ixenyrl16aing59k7zucphw,Boulogne vs Red Star,21/08/2026,18:00:00Z,Boulogne,Red Star,9az8hqkkijc34ol021425ixg5,7qdfg7vuzf70wurnpx0bawlqk
+397fd02axrtjup6z5n2z0vklw,Saint-Étienne vs Clermont,14/08/2026,18:45:00Z,Saint-Étienne,Clermont,2sc9xfhu6tbru9hhlhr4a89zn,17o35s8assv3kamxowzz77k4r
+38w1mpuq97b5523ebqs05vfo4,Reims vs Dunkerque,14/08/2026,18:45:00Z,Reims,Dunkerque,3c3jcs7vc1t6vz5lev162jyv7,15ip1h6m0b4e8xfi597y5uo5u
+38kshp8g2lhde3a94vs14ct1w,Red Star vs Sochaux,14/08/2026,18:45:00Z,Red Star,Sochaux,7qdfg7vuzf70wurnpx0bawlqk,d9kwaceoj54pfprd6oc2hwae6
+389etyk5cdo1n1y9u9de2rdas,Nancy vs Montpellier,14/08/2026,18:45:00Z,Nancy,Montpellier,69b9aoly33h1gpicvxtfteoug,2cjpmotqo8phcqfpgo9xf4gel
+37y4f2vzk1ngb6p6f361v0pw4,Laval vs Nantes,14/08/2026,18:45:00Z,Laval,Nantes,75gwk94q9jkoh78jk8nlay4xj,750ustvk4jfqmo8q4gnrcxy7z
+37mn3on18sw6q6tqoi8qvdij8,Guingamp vs Boulogne,14/08/2026,18:45:00Z,Guingamp,Boulogne,e9mmk1w7cem6r4wysgassacef,9az8hqkkijc34ol021425ixg5
+37bc958vwzowg48j0w88rh3bo,Grenoble vs Metz,14/08/2026,18:45:00Z,Grenoble,Metz,2ku5qqmv6i842rujioksaatx7,2khen2a38l2hkx33s73pehl6o
+36zybqcpm3qsb97v7boxwtuz8,Dijon vs Pau,14/08/2026,18:45:00Z,Dijon,Pau,79dc2mv3x269nhix3mkhc5wfu,25s5qx846iw05y8t9pinrbhh1
+36or2lo090xsrueyk5jtwapzo,Annecy vs Rodez,14/08/2026,18:45:00Z,Annecy,Rodez,6sqrk45zcfgwpq97no19o9sk5,2u30h0xpbfzv0byj4j7d8c4ug
+36d05tj513myog3lcn1rcxvkk,Sochaux vs Saint-Étienne,08/08/2026,18:45:00Z,Sochaux,Saint-Étienne,d9kwaceoj54pfprd6oc2hwae6,2sc9xfhu6tbru9hhlhr4a89zn
+35yewwa0c322pujjpa39oed5g,Rodez vs Laval,08/08/2026,18:45:00Z,Rodez,Laval,2u30h0xpbfzv0byj4j7d8c4ug,75gwk94q9jkoh78jk8nlay4xj
+35k7v6zhlzlfwfkyq29a6akus,Pau vs Annecy,08/08/2026,18:45:00Z,Pau,Annecy,25s5qx846iw05y8t9pinrbhh1,6sqrk45zcfgwpq97no19o9sk5
+3560mz781jetgwvzm0yfq7zmc,Nantes vs Red Star,08/08/2026,18:45:00Z,Nantes,Red Star,750ustvk4jfqmo8q4gnrcxy7z,7qdfg7vuzf70wurnpx0bawlqk
+34ry047gvgygrgl6kjxpagdg4,Montpellier vs Dijon,08/08/2026,18:45:00Z,Montpellier,Dijon,2cjpmotqo8phcqfpgo9xf4gel,79dc2mv3x269nhix3mkhc5wfu
+34dry83cgwyi11t4x90la13is,Metz vs Guingamp,08/08/2026,18:45:00Z,Metz,Guingamp,2khen2a38l2hkx33s73pehl6o,e9mmk1w7cem6r4wysgassacef
+33zmurv8pv4gv0ex5xzk8okk4,Dunkerque vs Grenoble,08/08/2026,18:45:00Z,Dunkerque,Grenoble,15ip1h6m0b4e8xfi597y5uo5u,2ku5qqmv6i842rujioksaatx7
+33ldjzw99kwxmxe6zulsa6nf8,Clermont vs Reims,08/08/2026,18:45:00Z,Clermont,Reims,17o35s8assv3kamxowzz77k4r,3c3jcs7vc1t6vz5lev162jyv7
+334gvqmfj2gm3fbndn1125pg4,Boulogne vs Nancy,08/08/2026,18:45:00Z,Boulogne,Nancy,9az8hqkkijc34ol021425ixg5,69b9aoly33h1gpicvxtfteoug

@@ -1,0 +1,553 @@
+id,description,date,time,Home_Team,Away_Team,Home_Team_ID,Away_Team_ID
+5dqe2rg8dxxetdx4ez8tm05jo,Wrexham vs Bristol City,01/05/2027,11:30:00Z,Wrexham,Bristol City,206vnsjv8ho5kpf88y0u2gaic,c5485h5qulh4l0k0py5b9xug1
+5deyf4lssfg53jdf040qqjc44,West Ham United vs Portsmouth,01/05/2027,11:30:00Z,West Ham United,Portsmouth,4txjdaqveermfryvbfrr4taf7,80jtkz2echk6yyyb9e2595cxr
+5d3ac9s786btlhpl7huf7j5lg,West Bromwich Albion vs Bolton Wanderers,01/05/2027,11:30:00Z,West Bromwich Albion,Bolton Wanderers,d1lhefp805y0rcbjqkpu4fq0n,69t8imcdaqlgfbds2p58596my
+5crwh2h5dtb3g67dufkcj8mc4,Swansea City vs Middlesbrough,01/05/2027,11:30:00Z,Swansea City,Middlesbrough,410jti6axb01yhvbc0axsp8li,cq0jd5ztepqjjeikk5trb15vr
+5cgfko9k5csudvp8cl8cfp5as,Southampton vs Sheffield United,01/05/2027,11:30:00Z,Southampton,Sheffield United,d5ydtvt96bv7fq04yqm2w2632,bws31egwjda253q9lvykgnivo
+5c50a8dozgnedrqvqqrj9oxsk,Queens Park Rangers vs Norwich City,01/05/2027,11:30:00Z,Queens Park Rangers,Norwich City,72nmbktwvcj3wizfp37yjf0dp,suz80crpy3anixyzccmu6jzp
+5btimh1jz5zjiowxw26po84r8,Preston North End vs Cardiff City,01/05/2027,11:30:00Z,Preston North End,Cardiff City,5kq4izdz28qjaxoa6ujclwghj,3ash57c0q2tgok6gvzbsta93
+5bhx310lpfaar9i7ysz1orvv8,Millwall vs Stoke City,01/05/2027,11:30:00Z,Millwall,Stoke City,40d2qd8lr1tgsvmg5l1fzaf4o,4qioq44vcv619vnyy2rpovk4e
+5b6f0jvswhbg7j8jngxaltmvo,Lincoln City vs Charlton Athletic,01/05/2027,11:30:00Z,Lincoln City,Charlton Athletic,b3vbyitzi3nrw9ehj1eoko219,2ezfenuwk3y65p8jdbj55xqt0
+5autpnyn6pdqk7y3s5m5x5vys,Derby County vs Wolverhampton Wanderers,01/05/2027,11:30:00Z,Derby County,Wolverhampton Wanderers,3ptd7zlc5isrongig0wij2id4,b9si1jn1lfxfund69e9ogcu2n
+5aj5p6wxcuod1vgr59kyo3das,Blackburn Rovers vs Watford,01/05/2027,11:30:00Z,Blackburn Rovers,Watford,ep3im6aygoatju4u3ws8v3mog,4t83rqbdbekinxl5fz2ygsyta
+5a7pzz3l4p6u6uo6gezt822ok,Birmingham City vs Burnley,01/05/2027,11:30:00Z,Birmingham City,Burnley,8kreqtde5jdktcib0kg7dknac,64bxxwu2mv2qqlv0monbkj1om
+59w4fej6sbwx4gm5qhfc68lqs,Wolverhampton Wanderers vs Queens Park Rangers,24/04/2027,14:00:00Z,Wolverhampton Wanderers,Queens Park Rangers,b9si1jn1lfxfund69e9ogcu2n,72nmbktwvcj3wizfp37yjf0dp
+59km9eg0lh5bq6wcz8omwtkpg,Watford vs Birmingham City,24/04/2027,14:00:00Z,Watford,Birmingham City,4t83rqbdbekinxl5fz2ygsyta,8kreqtde5jdktcib0kg7dknac
+5995hylzokrn7c1izkpsawaac,Stoke City vs Lincoln City,24/04/2027,14:00:00Z,Stoke City,Lincoln City,4qioq44vcv619vnyy2rpovk4e,b3vbyitzi3nrw9ehj1eoko219
+58xp90palkf6glauvdphd9ono,Sheffield United vs Millwall,24/04/2027,14:00:00Z,Sheffield United,Millwall,bws31egwjda253q9lvykgnivo,40d2qd8lr1tgsvmg5l1fzaf4o
+58lkrssq1k0s2t3s2022980lw,Portsmouth vs Preston North End,24/04/2027,14:00:00Z,Portsmouth,Preston North End,80jtkz2echk6yyyb9e2595cxr,5kq4izdz28qjaxoa6ujclwghj
+58a1q8ayndk11u0w0syph6xw4,Norwich City vs Blackburn Rovers,24/04/2027,14:00:00Z,Norwich City,Blackburn Rovers,suz80crpy3anixyzccmu6jzp,ep3im6aygoatju4u3ws8v3mog
+57yjf0g8yo4ockw0mmzufraqc,Middlesbrough vs West Ham United,24/04/2027,14:00:00Z,Middlesbrough,West Ham United,cq0jd5ztepqjjeikk5trb15vr,4txjdaqveermfryvbfrr4taf7
+57n4ed1vwo672tfbsfyinw650,Charlton Athletic vs Wrexham,24/04/2027,14:00:00Z,Charlton Athletic,Wrexham,2ezfenuwk3y65p8jdbj55xqt0,206vnsjv8ho5kpf88y0u2gaic
+57bn85i2gh257o9pvlxo1zrbo,Cardiff City vs West Bromwich Albion,24/04/2027,14:00:00Z,Cardiff City,West Bromwich Albion,3ash57c0q2tgok6gvzbsta93,d1lhefp805y0rcbjqkpu4fq0n
+5704uve9h9s4gj4m2tc3tkiz8,Burnley vs Southampton,24/04/2027,14:00:00Z,Burnley,Southampton,64bxxwu2mv2qqlv0monbkj1om,d5ydtvt96bv7fq04yqm2w2632
+56oqlf5dg73ei0v522q1q3qc4,Bristol City vs Derby County,24/04/2027,14:00:00Z,Bristol City,Derby County,c5485h5qulh4l0k0py5b9xug1,3ptd7zlc5isrongig0wij2id4
+56dcacnhmps6al43sccvdqo7o,Bolton Wanderers vs Swansea City,24/04/2027,14:00:00Z,Bolton Wanderers,Swansea City,69t8imcdaqlgfbds2p58596my,410jti6axb01yhvbc0axsp8li
+561v35gw7zyr0vqit1h24q7tg,Watford vs Swansea City,21/04/2027,18:45:00Z,Watford,Swansea City,4t83rqbdbekinxl5fz2ygsyta,410jti6axb01yhvbc0axsp8li
+55qdqgpf37qyne37qede96sd0,Cardiff City vs Queens Park Rangers,21/04/2027,18:45:00Z,Cardiff City,Queens Park Rangers,3ash57c0q2tgok6gvzbsta93,72nmbktwvcj3wizfp37yjf0dp
+55f37m2sevpgo0vbpoliww178,Bristol City vs Preston North End,21/04/2027,18:45:00Z,Bristol City,Preston North End,c5485h5qulh4l0k0py5b9xug1,5kq4izdz28qjaxoa6ujclwghj
+553h410sezxnt1p30metw0z6c,Blackburn Rovers vs Lincoln City,21/04/2027,18:45:00Z,Blackburn Rovers,Lincoln City,ep3im6aygoatju4u3ws8v3mog,b3vbyitzi3nrw9ehj1eoko219
+54s2mrzb8zo4ykgsou7w8r47o,Wrexham vs Millwall,20/04/2027,18:45:00Z,Wrexham,Millwall,206vnsjv8ho5kpf88y0u2gaic,40d2qd8lr1tgsvmg5l1fzaf4o
+54gpzfe6giexzw9clz3k26p04,Wolverhampton Wanderers vs West Ham United,20/04/2027,18:45:00Z,Wolverhampton Wanderers,West Ham United,b9si1jn1lfxfund69e9ogcu2n,4txjdaqveermfryvbfrr4taf7
+5452aiezozlreh9g1lvhfimms,Southampton vs Birmingham City,20/04/2027,18:45:00Z,Southampton,Birmingham City,d5ydtvt96bv7fq04yqm2w2632,8kreqtde5jdktcib0kg7dknac
+53ti1a8smn9v9ipm2rrndk9hw,Norwich City vs Stoke City,20/04/2027,18:45:00Z,Norwich City,Stoke City,suz80crpy3anixyzccmu6jzp,4qioq44vcv619vnyy2rpovk4e
+53hbzej0tlz6m1qlpgfe7vk0k,Middlesbrough vs Burnley,20/04/2027,18:45:00Z,Middlesbrough,Burnley,cq0jd5ztepqjjeikk5trb15vr,64bxxwu2mv2qqlv0monbkj1om
+5357i4pbiy5ekmohfk6wlc7is,Derby County vs Portsmouth,20/04/2027,18:45:00Z,Derby County,Portsmouth,3ptd7zlc5isrongig0wij2id4,80jtkz2echk6yyyb9e2595cxr
+52ttao5cgu2ughxuvffgc7fh0,Charlton Athletic vs West Bromwich Albion,20/04/2027,18:45:00Z,Charlton Athletic,West Bromwich Albion,2ezfenuwk3y65p8jdbj55xqt0,d1lhefp805y0rcbjqkpu4fq0n
+52ht9pjdckt4ubiuqe4t1jeok,Bolton Wanderers vs Sheffield United,20/04/2027,18:45:00Z,Bolton Wanderers,Sheffield United,69t8imcdaqlgfbds2p58596my,bws31egwjda253q9lvykgnivo
+526cpyvcm9r7esg7akn18hses,West Ham United vs Watford,17/04/2027,14:00:00Z,West Ham United,Watford,4txjdaqveermfryvbfrr4taf7,4t83rqbdbekinxl5fz2ygsyta
+51uu0jzxhi38jzf3p8x9adkb8,West Bromwich Albion vs Middlesbrough,17/04/2027,14:00:00Z,West Bromwich Albion,Middlesbrough,d1lhefp805y0rcbjqkpu4fq0n,cq0jd5ztepqjjeikk5trb15vr
+51j5h3qp5wi8ct2828nvql8us,Swansea City vs Derby County,17/04/2027,14:00:00Z,Swansea City,Derby County,410jti6axb01yhvbc0axsp8li,3ptd7zlc5isrongig0wij2id4
+517okq65ibt3ue6f1wiwh7nys,Stoke City vs Wolverhampton Wanderers,17/04/2027,14:00:00Z,Stoke City,Wolverhampton Wanderers,4qioq44vcv619vnyy2rpovk4e,b9si1jn1lfxfund69e9ogcu2n
+50w73kqnrrikvfq1xegeal3bo,Sheffield United vs Cardiff City,17/04/2027,14:00:00Z,Sheffield United,Cardiff City,bws31egwjda253q9lvykgnivo,3ash57c0q2tgok6gvzbsta93
+50kjep98oyxcweiahvopmarys,Queens Park Rangers vs Blackburn Rovers,17/04/2027,14:00:00Z,Queens Park Rangers,Blackburn Rovers,72nmbktwvcj3wizfp37yjf0dp,ep3im6aygoatju4u3ws8v3mog
+5090500qo1440e7g2vddnemtw,Preston North End vs Charlton Athletic,17/04/2027,14:00:00Z,Preston North End,Charlton Athletic,5kq4izdz28qjaxoa6ujclwghj,2ezfenuwk3y65p8jdbj55xqt0
+4zxg825vg8ulfdla4a2mkkc2c,Portsmouth vs Bristol City,17/04/2027,14:00:00Z,Portsmouth,Bristol City,80jtkz2echk6yyyb9e2595cxr,c5485h5qulh4l0k0py5b9xug1
+4zlwe07sqk99ta2r3efziao0k,Millwall vs Southampton,17/04/2027,14:00:00Z,Millwall,Southampton,40d2qd8lr1tgsvmg5l1fzaf4o,d5ydtvt96bv7fq04yqm2w2632
+4zabl4aqlxp8hhirhemr1clqs,Lincoln City vs Bolton Wanderers,17/04/2027,14:00:00Z,Lincoln City,Bolton Wanderers,b3vbyitzi3nrw9ehj1eoko219,69t8imcdaqlgfbds2p58596my
+4yyskbjjopmmpwo8irzqkew44,Burnley vs Norwich City,17/04/2027,14:00:00Z,Burnley,Norwich City,64bxxwu2mv2qqlv0monbkj1om,suz80crpy3anixyzccmu6jzp
+4ynbvxle0tszni1m07ijsl8gk,Birmingham City vs Wrexham,17/04/2027,14:00:00Z,Birmingham City,Wrexham,8kreqtde5jdktcib0kg7dknac,206vnsjv8ho5kpf88y0u2gaic
+4ybn9oml3jlf8sotv0k6f1r10,Wrexham vs Swansea City,10/04/2027,14:00:00Z,Wrexham,Swansea City,206vnsjv8ho5kpf88y0u2gaic,410jti6axb01yhvbc0axsp8li
+4y03sirbygkryi7rdkdetgidw,Wolverhampton Wanderers vs Birmingham City,10/04/2027,14:00:00Z,Wolverhampton Wanderers,Birmingham City,b9si1jn1lfxfund69e9ogcu2n,8kreqtde5jdktcib0kg7dknac
+4xopn23ye9q37djffviwoppn8,Watford vs West Bromwich Albion,10/04/2027,14:00:00Z,Watford,West Bromwich Albion,4t83rqbdbekinxl5fz2ygsyta,d1lhefp805y0rcbjqkpu4fq0n
+4xd2ae60bjd1258hwqpvctxck,Southampton vs Lincoln City,10/04/2027,14:00:00Z,Southampton,Lincoln City,d5ydtvt96bv7fq04yqm2w2632,b3vbyitzi3nrw9ehj1eoko219
+4x1kfo4cfu5b9dm1lrq9l90yc,Norwich City vs Sheffield United,10/04/2027,14:00:00Z,Norwich City,Sheffield United,suz80crpy3anixyzccmu6jzp,bws31egwjda253q9lvykgnivo
+4wq3j0is133vfjc4z6j97b4es,Middlesbrough vs Queens Park Rangers,10/04/2027,14:00:00Z,Middlesbrough,Queens Park Rangers,cq0jd5ztepqjjeikk5trb15vr,72nmbktwvcj3wizfp37yjf0dp
+4wdxhkdqo7txjrswftxwflt78,Derby County vs West Ham United,10/04/2027,14:00:00Z,Derby County,West Ham United,3ptd7zlc5isrongig0wij2id4,4txjdaqveermfryvbfrr4taf7
+4w2gou8vgqlfr1pn9xv17u9ec,Charlton Athletic vs Stoke City,10/04/2027,14:00:00Z,Charlton Athletic,Stoke City,2ezfenuwk3y65p8jdbj55xqt0,4qioq44vcv619vnyy2rpovk4e
+4vqy6riwdxgzfdiccinj19vro,Cardiff City vs Portsmouth,10/04/2027,14:00:00Z,Cardiff City,Portsmouth,3ash57c0q2tgok6gvzbsta93,80jtkz2echk6yyyb9e2595cxr
+4vfg9ok2vo95pev7j5s63z6dw,Bristol City vs Burnley,10/04/2027,14:00:00Z,Bristol City,Burnley,c5485h5qulh4l0k0py5b9xug1,64bxxwu2mv2qqlv0monbkj1om
+4v3yzm3qjqko0o0c3nf9ojzf8,Bolton Wanderers vs Millwall,10/04/2027,14:00:00Z,Bolton Wanderers,Millwall,69t8imcdaqlgfbds2p58596my,40d2qd8lr1tgsvmg5l1fzaf4o
+4usfumpjrwrmz1qupevg13g9g,Blackburn Rovers vs Preston North End,10/04/2027,14:00:00Z,Blackburn Rovers,Preston North End,ep3im6aygoatju4u3ws8v3mog,5kq4izdz28qjaxoa6ujclwghj
+4tembqdk5xtzrlep460u56wb8,Birmingham City vs Norwich City,07/04/2027,19:00:00Z,Birmingham City,Norwich City,8kreqtde5jdktcib0kg7dknac,suz80crpy3anixyzccmu6jzp
+4ugu5tl0uabwyzeu3ct3a9hck,West Bromwich Albion vs Derby County,07/04/2027,18:45:00Z,West Bromwich Albion,Derby County,d1lhefp805y0rcbjqkpu4fq0n,3ptd7zlc5isrongig0wij2id4
+4u3vv3kutqnjyts5jyo5p9mac,Sheffield United vs Blackburn Rovers,07/04/2027,18:45:00Z,Sheffield United,Blackburn Rovers,bws31egwjda253q9lvykgnivo,ep3im6aygoatju4u3ws8v3mog
+4trjd9fu3dgmnln5qmay44phw,Preston North End vs Watford,07/04/2027,18:45:00Z,Preston North End,Watford,5kq4izdz28qjaxoa6ujclwghj,4t83rqbdbekinxl5fz2ygsyta
+4t2ma388h57rnev2c38yq8z6c,West Ham United vs Bolton Wanderers,06/04/2027,18:45:00Z,West Ham United,Bolton Wanderers,4txjdaqveermfryvbfrr4taf7,69t8imcdaqlgfbds2p58596my
+4sq9muhve62eh60mp3kofclck,Swansea City vs Southampton,06/04/2027,18:45:00Z,Swansea City,Southampton,410jti6axb01yhvbc0axsp8li,d5ydtvt96bv7fq04yqm2w2632
+4sdcjrqrzv1rjqrzrobjk639w,Stoke City vs Cardiff City,06/04/2027,18:45:00Z,Stoke City,Cardiff City,4qioq44vcv619vnyy2rpovk4e,3ash57c0q2tgok6gvzbsta93
+4s1x0c6dtu41nt9l9x7apdzis,Queens Park Rangers vs Charlton Athletic,06/04/2027,18:45:00Z,Queens Park Rangers,Charlton Athletic,72nmbktwvcj3wizfp37yjf0dp,2ezfenuwk3y65p8jdbj55xqt0
+4rqeahxwrv11jxc60gsyncbv8,Portsmouth vs Wolverhampton Wanderers,06/04/2027,18:45:00Z,Portsmouth,Wolverhampton Wanderers,80jtkz2echk6yyyb9e2595cxr,b9si1jn1lfxfund69e9ogcu2n
+4rexks754o4ml9oz6trdbantg,Millwall vs Middlesbrough,06/04/2027,18:45:00Z,Millwall,Middlesbrough,40d2qd8lr1tgsvmg5l1fzaf4o,cq0jd5ztepqjjeikk5trb15vr
+4r3dlmbsefqazghgg22phzqj8,Lincoln City vs Bristol City,06/04/2027,18:45:00Z,Lincoln City,Bristol City,b3vbyitzi3nrw9ehj1eoko219,c5485h5qulh4l0k0py5b9xug1
+4qrw1jx3iyr1gg87ko0dwiplg,Burnley vs Wrexham,06/04/2027,18:45:00Z,Burnley,Wrexham,64bxxwu2mv2qqlv0monbkj1om,206vnsjv8ho5kpf88y0u2gaic
+4qgdv19nihis1picprm0ccs9g,Wolverhampton Wanderers vs Norwich City,03/04/2027,14:00:00Z,Wolverhampton Wanderers,Norwich City,b9si1jn1lfxfund69e9ogcu2n,suz80crpy3anixyzccmu6jzp
+4q2qmz53507lva9467vtq8nbo,West Ham United vs Birmingham City,03/04/2027,14:00:00Z,West Ham United,Birmingham City,4txjdaqveermfryvbfrr4taf7,8kreqtde5jdktcib0kg7dknac
+4poa8pgf8hi4f4qmwr8m9m5g4,Stoke City vs Burnley,03/04/2027,14:00:00Z,Stoke City,Burnley,4qioq44vcv619vnyy2rpovk4e,64bxxwu2mv2qqlv0monbkj1om
+4pbf4f6qqozl8287y8pha5nv8,Sheffield United vs West Bromwich Albion,03/04/2027,14:00:00Z,Sheffield United,West Bromwich Albion,bws31egwjda253q9lvykgnivo,d1lhefp805y0rcbjqkpu4fq0n
+4oyk09tqd0ccxe54pxo6pycr8,Queens Park Rangers vs Wrexham,03/04/2027,14:00:00Z,Queens Park Rangers,Wrexham,72nmbktwvcj3wizfp37yjf0dp,206vnsjv8ho5kpf88y0u2gaic
+4ok5o440b9twy7wa725zjlwd0,Preston North End vs Swansea City,03/04/2027,14:00:00Z,Preston North End,Swansea City,5kq4izdz28qjaxoa6ujclwghj,410jti6axb01yhvbc0axsp8li
+4o7c8oxkhzr7ur73plfimh5w4,Portsmouth vs Middlesbrough,03/04/2027,14:00:00Z,Portsmouth,Middlesbrough,80jtkz2echk6yyyb9e2595cxr,cq0jd5ztepqjjeikk5trb15vr
+4nvoq961f21rroowb1a99g45w,Lincoln City vs Derby County,03/04/2027,14:00:00Z,Lincoln City,Derby County,b3vbyitzi3nrw9ehj1eoko219,3ptd7zlc5isrongig0wij2id4
+4n721h2mdljfe4bvmm2cabh90,Cardiff City vs Bristol City,03/04/2027,14:00:00Z,Cardiff City,Bristol City,3ash57c0q2tgok6gvzbsta93,c5485h5qulh4l0k0py5b9xug1
+4mspuvicq26k0bry6djny0b2s,Bolton Wanderers vs Watford,03/04/2027,14:00:00Z,Bolton Wanderers,Watford,69t8imcdaqlgfbds2p58596my,4t83rqbdbekinxl5fz2ygsyta
+4mh1cjkvy4kilhix67kr6j8yc,Blackburn Rovers vs Southampton,03/04/2027,14:00:00Z,Blackburn Rovers,Southampton,ep3im6aygoatju4u3ws8v3mog,d5ydtvt96bv7fq04yqm2w2632
+4nisf6de5fpl01l32t8fs14pg,Charlton Athletic vs Millwall,03/04/2027,11:30:00Z,Charlton Athletic,Millwall,2ezfenuwk3y65p8jdbj55xqt0,40d2qd8lr1tgsvmg5l1fzaf4o
+4m5j8lqt1rnl93tctlgr43t3o,Wrexham vs Stoke City,20/03/2027,15:00:00Z,Wrexham,Stoke City,206vnsjv8ho5kpf88y0u2gaic,4qioq44vcv619vnyy2rpovk4e
+4lsimfpnmk0svu0y99rlcw2s4,West Bromwich Albion vs Lincoln City,20/03/2027,15:00:00Z,West Bromwich Albion,Lincoln City,d1lhefp805y0rcbjqkpu4fq0n,b3vbyitzi3nrw9ehj1eoko219
+4le7gfx2vcxkwy1puuvhxkmxg,Watford vs Portsmouth,20/03/2027,15:00:00Z,Watford,Portsmouth,4t83rqbdbekinxl5fz2ygsyta,80jtkz2echk6yyyb9e2595cxr
+4l1d1ivcnhcs5nssmqo8bni1g,Swansea City vs Wolverhampton Wanderers,20/03/2027,15:00:00Z,Swansea City,Wolverhampton Wanderers,410jti6axb01yhvbc0axsp8li,b9si1jn1lfxfund69e9ogcu2n
+4kodhr9bpupez0a48ab03yp04,Southampton vs Charlton Athletic,20/03/2027,15:00:00Z,Southampton,Charlton Athletic,d5ydtvt96bv7fq04yqm2w2632,2ezfenuwk3y65p8jdbj55xqt0
+4kbflhnubnsuvybf0srzq1udw,Norwich City vs West Ham United,20/03/2027,15:00:00Z,Norwich City,West Ham United,suz80crpy3anixyzccmu6jzp,4txjdaqveermfryvbfrr4taf7
+4jzwjy8hkacng3xrss0ccal90,Millwall vs Cardiff City,20/03/2027,15:00:00Z,Millwall,Cardiff City,40d2qd8lr1tgsvmg5l1fzaf4o,3ash57c0q2tgok6gvzbsta93
+4jmi6p17uj109y3xrk74n61w4,Middlesbrough vs Sheffield United,20/03/2027,15:00:00Z,Middlesbrough,Sheffield United,cq0jd5ztepqjjeikk5trb15vr,bws31egwjda253q9lvykgnivo
+4j9k3gauj0d67y9ts44nj16hg,Derby County vs Preston North End,20/03/2027,15:00:00Z,Derby County,Preston North End,3ptd7zlc5isrongig0wij2id4,5kq4izdz28qjaxoa6ujclwghj
+4iwhlhjc6or8eikx3mjqxnf9w,Burnley vs Bolton Wanderers,20/03/2027,15:00:00Z,Burnley,Bolton Wanderers,64bxxwu2mv2qqlv0monbkj1om,69t8imcdaqlgfbds2p58596my
+4ijmgy3d1kb7yiu7677xxugwk,Bristol City vs Queens Park Rangers,20/03/2027,15:00:00Z,Bristol City,Queens Park Rangers,c5485h5qulh4l0k0py5b9xug1,72nmbktwvcj3wizfp37yjf0dp
+4i6q6ei16g8tr8csj50tlc9w4,Birmingham City vs Blackburn Rovers,20/03/2027,15:00:00Z,Birmingham City,Blackburn Rovers,8kreqtde5jdktcib0kg7dknac,ep3im6aygoatju4u3ws8v3mog
+4gp14m138hoi7jlmw0xevczkk,Birmingham City vs Charlton Athletic,17/03/2027,20:00:00Z,Birmingham City,Charlton Athletic,8kreqtde5jdktcib0kg7dknac,2ezfenuwk3y65p8jdbj55xqt0
+4hnf5ognsri34qubudbipyj2s,West Ham United vs Sheffield United,17/03/2027,19:45:00Z,West Ham United,Sheffield United,4txjdaqveermfryvbfrr4taf7,bws31egwjda253q9lvykgnivo
+4hc01nvbkt0zzcimxtcgb3nro,Millwall vs Watford,17/03/2027,19:45:00Z,Millwall,Watford,40d2qd8lr1tgsvmg5l1fzaf4o,4t83rqbdbekinxl5fz2ygsyta
+4h0krc1ef6c0t4tteu44g4rv8,Blackburn Rovers vs Bolton Wanderers,17/03/2027,19:45:00Z,Blackburn Rovers,Bolton Wanderers,ep3im6aygoatju4u3ws8v3mog,69t8imcdaqlgfbds2p58596my
+4gdhvvcyj9k34ytiqb5c5b2fo,Wrexham vs Norwich City,16/03/2027,19:45:00Z,Wrexham,Norwich City,206vnsjv8ho5kpf88y0u2gaic,suz80crpy3anixyzccmu6jzp
+4g1z6c08cb88f0fzqg2ec1las,West Bromwich Albion vs Portsmouth,16/03/2027,19:45:00Z,West Bromwich Albion,Portsmouth,d1lhefp805y0rcbjqkpu4fq0n,80jtkz2echk6yyyb9e2595cxr
+4fqc6tbehidbuietpnhwh6p78,Swansea City vs Bristol City,16/03/2027,19:45:00Z,Swansea City,Bristol City,410jti6axb01yhvbc0axsp8li,c5485h5qulh4l0k0py5b9xug1
+4fequmvpy6z3epciia0ewmq6s,Southampton vs Wolverhampton Wanderers,16/03/2027,19:45:00Z,Southampton,Wolverhampton Wanderers,d5ydtvt96bv7fq04yqm2w2632,b9si1jn1lfxfund69e9ogcu2n
+4f38x14y3cow5n5vfff1ej5sk,Queens Park Rangers vs Stoke City,16/03/2027,19:45:00Z,Queens Park Rangers,Stoke City,72nmbktwvcj3wizfp37yjf0dp,4qioq44vcv619vnyy2rpovk4e
+4err8zk3sx30giedsnpueg2dw,Preston North End vs Burnley,16/03/2027,19:45:00Z,Preston North End,Burnley,5kq4izdz28qjaxoa6ujclwghj,64bxxwu2mv2qqlv0monbkj1om
+4eg7s57n3qmn413k2b1hvswes,Lincoln City vs Cardiff City,16/03/2027,19:45:00Z,Lincoln City,Cardiff City,b3vbyitzi3nrw9ehj1eoko219,3ash57c0q2tgok6gvzbsta93
+4e4pa8ofaszqsik9u3pvsthjo,Derby County vs Middlesbrough,16/03/2027,19:45:00Z,Derby County,Middlesbrough,3ptd7zlc5isrongig0wij2id4,cq0jd5ztepqjjeikk5trb15vr
+4dt560sxao7sumistyk9qyzh0,Wolverhampton Wanderers vs Lincoln City,13/03/2027,15:00:00Z,Wolverhampton Wanderers,Lincoln City,b9si1jn1lfxfund69e9ogcu2n,b3vbyitzi3nrw9ehj1eoko219
+4dhhoyjgeqesstcr15i56lnv8,Watford vs Derby County,13/03/2027,15:00:00Z,Watford,Derby County,4t83rqbdbekinxl5fz2ygsyta,3ptd7zlc5isrongig0wij2id4
+4d58c2kwzv0sfiqc42f43b2tw,Stoke City vs West Ham United,13/03/2027,15:00:00Z,Stoke City,West Ham United,4qioq44vcv619vnyy2rpovk4e,4txjdaqveermfryvbfrr4taf7
+4ctll5pbwpr34551fw9vroefo,Sheffield United vs Queens Park Rangers,13/03/2027,15:00:00Z,Sheffield United,Queens Park Rangers,bws31egwjda253q9lvykgnivo,72nmbktwvcj3wizfp37yjf0dp
+4chy0khhmv5c7siv76it0uas4,Portsmouth vs Wrexham,13/03/2027,15:00:00Z,Portsmouth,Wrexham,80jtkz2echk6yyyb9e2595cxr,206vnsjv8ho5kpf88y0u2gaic
+4c6hlctzawsy2m77lepmlhfkk,Norwich City vs Preston North End,13/03/2027,15:00:00Z,Norwich City,Preston North End,suz80crpy3anixyzccmu6jzp,5kq4izdz28qjaxoa6ujclwghj
+4bv0118zs3w7aopnr3umznxuc,Middlesbrough vs Southampton,13/03/2027,15:00:00Z,Middlesbrough,Southampton,cq0jd5ztepqjjeikk5trb15vr,d5ydtvt96bv7fq04yqm2w2632
+4bj7dfedjijwufrgf40zxx5as,Charlton Athletic vs Blackburn Rovers,13/03/2027,15:00:00Z,Charlton Athletic,Blackburn Rovers,2ezfenuwk3y65p8jdbj55xqt0,ep3im6aygoatju4u3ws8v3mog
+4b7o0lxigzjtt3agqti92bris,Cardiff City vs Swansea City,13/03/2027,15:00:00Z,Cardiff City,Swansea City,3ash57c0q2tgok6gvzbsta93,410jti6axb01yhvbc0axsp8li
+4avidcdti9b31mkk2yj4n73tg,Burnley vs Millwall,13/03/2027,15:00:00Z,Burnley,Millwall,64bxxwu2mv2qqlv0monbkj1om,40d2qd8lr1tgsvmg5l1fzaf4o
+4ajztfqbofuluhfj2h885rqxg,Bristol City vs West Bromwich Albion,13/03/2027,15:00:00Z,Bristol City,West Bromwich Albion,c5485h5qulh4l0k0py5b9xug1,d1lhefp805y0rcbjqkpu4fq0n
+4a8fdn5913dcfsa9ib2gncwes,Bolton Wanderers vs Birmingham City,13/03/2027,15:00:00Z,Bolton Wanderers,Birmingham City,69t8imcdaqlgfbds2p58596my,8kreqtde5jdktcib0kg7dknac
+49wvgnd92nog74t2376n20x78,Wrexham vs Cardiff City,06/03/2027,15:00:00Z,Wrexham,Cardiff City,206vnsjv8ho5kpf88y0u2gaic,3ash57c0q2tgok6gvzbsta93
+49laxl7s7oxmpfzf7v6xnjq50,West Ham United vs Burnley,06/03/2027,15:00:00Z,West Ham United,Burnley,4txjdaqveermfryvbfrr4taf7,64bxxwu2mv2qqlv0monbkj1om
+499pi8exd6bgy1ch4uumdqvbo,West Bromwich Albion vs Norwich City,06/03/2027,15:00:00Z,West Bromwich Albion,Norwich City,d1lhefp805y0rcbjqkpu4fq0n,suz80crpy3anixyzccmu6jzp
+48yavluihd41to3zslobezcwk,Swansea City vs Stoke City,06/03/2027,15:00:00Z,Swansea City,Stoke City,410jti6axb01yhvbc0axsp8li,4qioq44vcv619vnyy2rpovk4e
+48mueyk4osu4gz1oyq4lef4es,Southampton vs Watford,06/03/2027,15:00:00Z,Southampton,Watford,d5ydtvt96bv7fq04yqm2w2632,4t83rqbdbekinxl5fz2ygsyta
+48bd7sfxww18sedcslkhjohlg,Queens Park Rangers vs Portsmouth,06/03/2027,15:00:00Z,Queens Park Rangers,Portsmouth,72nmbktwvcj3wizfp37yjf0dp,80jtkz2echk6yyyb9e2595cxr
+47zxa6x8xlvgc1nywv116hmhg,Preston North End vs Bolton Wanderers,06/03/2027,15:00:00Z,Preston North End,Bolton Wanderers,5kq4izdz28qjaxoa6ujclwghj,69t8imcdaqlgfbds2p58596my
+47oe4mtz2jko3ozxsm64fqjv8,Millwall vs Bristol City,06/03/2027,15:00:00Z,Millwall,Bristol City,40d2qd8lr1tgsvmg5l1fzaf4o,c5485h5qulh4l0k0py5b9xug1
+47cwnaczy9dr22prbjyd1b5lg,Lincoln City vs Middlesbrough,06/03/2027,15:00:00Z,Lincoln City,Middlesbrough,b3vbyitzi3nrw9ehj1eoko219,cq0jd5ztepqjjeikk5trb15vr
+470q73kkowdzf5kzo7mpnwjkk,Derby County vs Charlton Athletic,06/03/2027,15:00:00Z,Derby County,Charlton Athletic,3ptd7zlc5isrongig0wij2id4,2ezfenuwk3y65p8jdbj55xqt0
+46or7f1yik4q79bv27dj4g6qc,Blackburn Rovers vs Wolverhampton Wanderers,06/03/2027,15:00:00Z,Blackburn Rovers,Wolverhampton Wanderers,ep3im6aygoatju4u3ws8v3mog,b9si1jn1lfxfund69e9ogcu2n
+46d8e7u6tl4tqd2vw83spgr2s,Birmingham City vs Sheffield United,06/03/2027,15:00:00Z,Birmingham City,Sheffield United,8kreqtde5jdktcib0kg7dknac,bws31egwjda253q9lvykgnivo
+4537fzumk125ohd5lb3afs36c,Portsmouth vs Lincoln City,03/03/2027,20:00:00Z,Portsmouth,Lincoln City,80jtkz2echk6yyyb9e2595cxr,b3vbyitzi3nrw9ehj1eoko219
+461rkxuympteteqvnnz7imiok,Wolverhampton Wanderers vs Preston North End,03/03/2027,19:45:00Z,Wolverhampton Wanderers,Preston North End,b9si1jn1lfxfund69e9ogcu2n,5kq4izdz28qjaxoa6ujclwghj
+45qaqp3ol67gkecozz90sw3kk,Stoke City vs Southampton,03/03/2027,19:45:00Z,Stoke City,Southampton,4qioq44vcv619vnyy2rpovk4e,d5ydtvt96bv7fq04yqm2w2632
+45eqxr20d8dopdv4a9s5ytrf8,Sheffield United vs Swansea City,03/03/2027,19:45:00Z,Sheffield United,Swansea City,bws31egwjda253q9lvykgnivo,410jti6axb01yhvbc0axsp8li
+42uecx0cpt724qm7ig7nuni8k,Bristol City vs Birmingham City,02/03/2027,20:00:00Z,Bristol City,Birmingham City,c5485h5qulh4l0k0py5b9xug1,8kreqtde5jdktcib0kg7dknac
+44rnpqo9gh06pq5egr5aehk44,Watford vs Wrexham,02/03/2027,19:45:00Z,Watford,Wrexham,4t83rqbdbekinxl5fz2ygsyta,206vnsjv8ho5kpf88y0u2gaic
+44g1nlgtg5rmkw995mrh8vu38,Norwich City vs Millwall,02/03/2027,19:45:00Z,Norwich City,Millwall,suz80crpy3anixyzccmu6jzp,40d2qd8lr1tgsvmg5l1fzaf4o
+444hjhn9gag5gwhb8cuci2nmc,Middlesbrough vs Blackburn Rovers,02/03/2027,19:45:00Z,Middlesbrough,Blackburn Rovers,cq0jd5ztepqjjeikk5trb15vr,ep3im6aygoatju4u3ws8v3mog
+43svfz5frxwutfsghbfqtv66s,Charlton Athletic vs West Ham United,02/03/2027,19:45:00Z,Charlton Athletic,West Ham United,2ezfenuwk3y65p8jdbj55xqt0,4txjdaqveermfryvbfrr4taf7
+43hes9qmolfq91aglsfs6bevo,Cardiff City vs Derby County,02/03/2027,19:45:00Z,Cardiff City,Derby County,3ash57c0q2tgok6gvzbsta93,3ptd7zlc5isrongig0wij2id4
+435ze0g0boxt1pezm43b5668k,Burnley vs West Bromwich Albion,02/03/2027,19:45:00Z,Burnley,West Bromwich Albion,64bxxwu2mv2qqlv0monbkj1om,d1lhefp805y0rcbjqkpu4fq0n
+42iuzrdnmhtklpcmljzh1y5n8,Bolton Wanderers vs Queens Park Rangers,02/03/2027,19:45:00Z,Bolton Wanderers,Queens Park Rangers,69t8imcdaqlgfbds2p58596my,72nmbktwvcj3wizfp37yjf0dp
+40w4p8w6cd3v742dgojr1nehg,Portsmouth vs Southampton,28/02/2027,12:00:00Z,Portsmouth,Southampton,80jtkz2echk6yyyb9e2595cxr,d5ydtvt96bv7fq04yqm2w2632
+426z47dtk1jpepiocpz26r310,Wrexham vs Derby County,27/02/2027,15:00:00Z,Wrexham,Derby County,206vnsjv8ho5kpf88y0u2gaic,3ptd7zlc5isrongig0wij2id4
+41v9bcxj8nevi3ebadn9j1xck,Wolverhampton Wanderers vs Middlesbrough,27/02/2027,15:00:00Z,Wolverhampton Wanderers,Middlesbrough,b9si1jn1lfxfund69e9ogcu2n,cq0jd5ztepqjjeikk5trb15vr
+41jpkgpl9a8cnpu2nmofbv8yc,Stoke City vs Bolton Wanderers,27/02/2027,15:00:00Z,Stoke City,Bolton Wanderers,4qioq44vcv619vnyy2rpovk4e,69t8imcdaqlgfbds2p58596my
+40953ce9jraazzvxs5gij49w4,Millwall vs Preston North End,27/02/2027,15:00:00Z,Millwall,Preston North End,40d2qd8lr1tgsvmg5l1fzaf4o,5kq4izdz28qjaxoa6ujclwghj
+3zxnxowhlwuvrpij3tjq6cidw,Lincoln City vs Sheffield United,27/02/2027,15:00:00Z,Lincoln City,Sheffield United,b3vbyitzi3nrw9ehj1eoko219,bws31egwjda253q9lvykgnivo
+3zm4sn5t1if217b3xea5gadck,Cardiff City vs Blackburn Rovers,27/02/2027,15:00:00Z,Cardiff City,Blackburn Rovers,3ash57c0q2tgok6gvzbsta93,ep3im6aygoatju4u3ws8v3mog
+3zaqq5mfvua70du5cy2vixo2c,Burnley vs Watford,27/02/2027,15:00:00Z,Burnley,Watford,64bxxwu2mv2qqlv0monbkj1om,4t83rqbdbekinxl5fz2ygsyta
+4187lc4q1eyzfqt1x5de1quj8,Queens Park Rangers vs West Ham United,27/02/2027,12:30:00Z,Queens Park Rangers,West Ham United,72nmbktwvcj3wizfp37yjf0dp,4txjdaqveermfryvbfrr4taf7
+40knjiev128iq24oinq6s44yc,Norwich City vs Swansea City,27/02/2027,12:30:00Z,Norwich City,Swansea City,suz80crpy3anixyzccmu6jzp,410jti6axb01yhvbc0axsp8li
+3yz8671tbdec5lu2vy6wj0mqc,Bristol City vs Charlton Athletic,27/02/2027,12:30:00Z,Bristol City,Charlton Athletic,c5485h5qulh4l0k0py5b9xug1,2ezfenuwk3y65p8jdbj55xqt0
+3ynognwkh2wub8j3ja6ikdr10,Birmingham City vs West Bromwich Albion,26/02/2027,20:00:00Z,Birmingham City,West Bromwich Albion,8kreqtde5jdktcib0kg7dknac,d1lhefp805y0rcbjqkpu4fq0n
+3yc85qimy2jx8qt14bdy2h3is,West Ham United vs Millwall,21/02/2027,12:00:00Z,West Ham United,Millwall,4txjdaqveermfryvbfrr4taf7,40d2qd8lr1tgsvmg5l1fzaf4o
+3xda4so2gyswwi25dkjjsje38,Swansea City vs Lincoln City,20/02/2027,15:00:00Z,Swansea City,Lincoln City,410jti6axb01yhvbc0axsp8li,b3vbyitzi3nrw9ehj1eoko219
+3x1kj80qeyksu4tn6y09tsh04,Southampton vs Wrexham,20/02/2027,15:00:00Z,Southampton,Wrexham,d5ydtvt96bv7fq04yqm2w2632,206vnsjv8ho5kpf88y0u2gaic
+3wehkv7thziyof69evb18c650,Preston North End vs Queens Park Rangers,20/02/2027,15:00:00Z,Preston North End,Queens Park Rangers,5kq4izdz28qjaxoa6ujclwghj,72nmbktwvcj3wizfp37yjf0dp
+3vr9zsc0ilg4a0c04baw3z4t0,Derby County vs Burnley,20/02/2027,15:00:00Z,Derby County,Burnley,3ptd7zlc5isrongig0wij2id4,64bxxwu2mv2qqlv0monbkj1om
+3vfq3xb55qxluy1jnpu7v2cd0,Charlton Athletic vs Cardiff City,20/02/2027,15:00:00Z,Charlton Athletic,Cardiff City,2ezfenuwk3y65p8jdbj55xqt0,3ash57c0q2tgok6gvzbsta93
+3v4e0uveqh7zeuke8p93f7vh0,Bolton Wanderers vs Norwich City,20/02/2027,15:00:00Z,Bolton Wanderers,Norwich City,69t8imcdaqlgfbds2p58596my,suz80crpy3anixyzccmu6jzp
+3usb373bgpk12anqtx72envo4,Blackburn Rovers vs Portsmouth,20/02/2027,15:00:00Z,Blackburn Rovers,Portsmouth,ep3im6aygoatju4u3ws8v3mog,80jtkz2echk6yyyb9e2595cxr
+3y0qu8ff5ixwch7igpai1uj9w,West Bromwich Albion vs Wolverhampton Wanderers,20/02/2027,12:30:00Z,West Bromwich Albion,Wolverhampton Wanderers,d1lhefp805y0rcbjqkpu4fq0n,b9si1jn1lfxfund69e9ogcu2n
+3xp2fwy6ybkq7ipf6xcidbbx0,Watford vs Bristol City,20/02/2027,12:30:00Z,Watford,Bristol City,4t83rqbdbekinxl5fz2ygsyta,c5485h5qulh4l0k0py5b9xug1
+3wq1rmewxiea2afvsgamtjeok,Sheffield United vs Stoke City,20/02/2027,12:30:00Z,Sheffield United,Stoke City,bws31egwjda253q9lvykgnivo,4qioq44vcv619vnyy2rpovk4e
+3w2x90b4kvgctgr3h8br65n2s,Middlesbrough vs Birmingham City,19/02/2027,20:00:00Z,Middlesbrough,Birmingham City,cq0jd5ztepqjjeikk5trb15vr,8kreqtde5jdktcib0kg7dknac
+3siuwmg6dh1d1twldh5dgktg4,Watford vs Cardiff City,17/02/2027,20:00:00Z,Watford,Cardiff City,4t83rqbdbekinxl5fz2ygsyta,3ash57c0q2tgok6gvzbsta93
+3ugnr4wv40p9oxgltz0tkcges,Swansea City vs Millwall,17/02/2027,19:45:00Z,Swansea City,Millwall,410jti6axb01yhvbc0axsp8li,40d2qd8lr1tgsvmg5l1fzaf4o
+3u58gsv9ffel038c55q5fblsk,Southampton vs Norwich City,17/02/2027,19:45:00Z,Southampton,Norwich City,d5ydtvt96bv7fq04yqm2w2632,suz80crpy3anixyzccmu6jzp
+3ti567vtxibggp1rz6v8navpw,Bolton Wanderers vs Wolverhampton Wanderers,17/02/2027,19:45:00Z,Bolton Wanderers,Wolverhampton Wanderers,69t8imcdaqlgfbds2p58596my,b9si1jn1lfxfund69e9ogcu2n
+3qwrwhwww8aku4xo4giemp2c4,Blackburn Rovers vs Bristol City,16/02/2027,20:00:00Z,Blackburn Rovers,Bristol City,ep3im6aygoatju4u3ws8v3mog,c5485h5qulh4l0k0py5b9xug1
+3ttnmlsmwdkwbxa4pljj8bf9w,Middlesbrough vs Stoke City,16/02/2027,19:45:00Z,Middlesbrough,Stoke City,cq0jd5ztepqjjeikk5trb15vr,4qioq44vcv619vnyy2rpovk4e
+3t6blk2mabx3il4somdbz8zro,West Ham United vs Lincoln City,16/02/2027,19:45:00Z,West Ham United,Lincoln City,4txjdaqveermfryvbfrr4taf7,b3vbyitzi3nrw9ehj1eoko219
+3sugu6am6uxl7f3t2d4u5w6j8,West Bromwich Albion vs Wrexham,16/02/2027,19:45:00Z,West Bromwich Albion,Wrexham,d1lhefp805y0rcbjqkpu4fq0n,206vnsjv8ho5kpf88y0u2gaic
+3s7cbd5cgi39vxl7el0paplas,Sheffield United vs Portsmouth,16/02/2027,19:45:00Z,Sheffield United,Portsmouth,bws31egwjda253q9lvykgnivo,80jtkz2echk6yyyb9e2595cxr
+3rvhium7rfxdr6dgttd24xlas,Preston North End vs Birmingham City,16/02/2027,19:45:00Z,Preston North End,Birmingham City,5kq4izdz28qjaxoa6ujclwghj,8kreqtde5jdktcib0kg7dknac
+3rjziprj065ikri4jd01dj95g,Derby County vs Queens Park Rangers,16/02/2027,19:45:00Z,Derby County,Queens Park Rangers,3ptd7zlc5isrongig0wij2id4,72nmbktwvcj3wizfp37yjf0dp
+3r8drdqrp2tu5z0uvj8dngh78,Charlton Athletic vs Burnley,16/02/2027,19:45:00Z,Charlton Athletic,Burnley,2ezfenuwk3y65p8jdbj55xqt0,64bxxwu2mv2qqlv0monbkj1om
+3o0ae44pmpdrgr3tzg4ry5edw,Cardiff City vs Bolton Wanderers,14/02/2027,12:00:00Z,Cardiff City,Bolton Wanderers,3ash57c0q2tgok6gvzbsta93,69t8imcdaqlgfbds2p58596my
+3obqf14xk98hnqcmmv38pwahg,Lincoln City vs Preston North End,13/02/2027,17:30:00Z,Lincoln City,Preston North End,b3vbyitzi3nrw9ehj1eoko219,5kq4izdz28qjaxoa6ujclwghj
+3ql8c8gcafw7ydwsv8b8ykh78,Wrexham vs West Ham United,13/02/2027,15:00:00Z,Wrexham,West Ham United,206vnsjv8ho5kpf88y0u2gaic,4txjdaqveermfryvbfrr4taf7
+3q9qpeehg3axszcwatvmxm3v8,Wolverhampton Wanderers vs Sheffield United,13/02/2027,15:00:00Z,Wolverhampton Wanderers,Sheffield United,b9si1jn1lfxfund69e9ogcu2n,bws31egwjda253q9lvykgnivo
+3py151phw3aublevi8qmi3uac,Stoke City vs Watford,13/02/2027,15:00:00Z,Stoke City,Watford,4qioq44vcv619vnyy2rpovk4e,4t83rqbdbekinxl5fz2ygsyta
+3pmktobguzprg564xn2h23v2s,Queens Park Rangers vs West Bromwich Albion,13/02/2027,15:00:00Z,Queens Park Rangers,West Bromwich Albion,72nmbktwvcj3wizfp37yjf0dp,d1lhefp805y0rcbjqkpu4fq0n
+3ozlhnpylnqi9e4jm4g6el8us,Norwich City vs Middlesbrough,13/02/2027,15:00:00Z,Norwich City,Middlesbrough,suz80crpy3anixyzccmu6jzp,cq0jd5ztepqjjeikk5trb15vr
+3novl2wtdub41jv1fenr2efx0,Burnley vs Swansea City,13/02/2027,15:00:00Z,Burnley,Swansea City,64bxxwu2mv2qqlv0monbkj1om,410jti6axb01yhvbc0axsp8li
+3pb1iq27p8nye0vkbf165p8us,Portsmouth vs Charlton Athletic,13/02/2027,12:30:00Z,Portsmouth,Charlton Athletic,80jtkz2echk6yyyb9e2595cxr,2ezfenuwk3y65p8jdbj55xqt0
+3ond9217613bltkmehdjo68t0,Millwall vs Blackburn Rovers,13/02/2027,12:30:00Z,Millwall,Blackburn Rovers,40d2qd8lr1tgsvmg5l1fzaf4o,ep3im6aygoatju4u3ws8v3mog
+3nd8ptf5p6f4ylq7s8s5qpxxw,Bristol City vs Southampton,13/02/2027,12:30:00Z,Bristol City,Southampton,c5485h5qulh4l0k0py5b9xug1,d5ydtvt96bv7fq04yqm2w2632
+3n1kabhcop1wv1ps99wahbu38,Birmingham City vs Derby County,12/02/2027,20:00:00Z,Birmingham City,Derby County,8kreqtde5jdktcib0kg7dknac,3ptd7zlc5isrongig0wij2id4
+3jhs1ijwcugjzzvh8bxtqz5sk,Blackburn Rovers vs Burnley,07/02/2027,12:00:00Z,Blackburn Rovers,Burnley,ep3im6aygoatju4u3ws8v3mog,64bxxwu2mv2qqlv0monbkj1om
+3meithtwx8i3sflag6jsgpel0,West Bromwich Albion vs Swansea City,06/02/2027,15:00:00Z,West Bromwich Albion,Swansea City,d1lhefp805y0rcbjqkpu4fq0n,410jti6axb01yhvbc0axsp8li
+3lr9w64clpthtf4lrl75w6olw,Queens Park Rangers vs Millwall,06/02/2027,15:00:00Z,Queens Park Rangers,Millwall,72nmbktwvcj3wizfp37yjf0dp,40d2qd8lr1tgsvmg5l1fzaf4o
+3lfutll8wahcwsmget3bmn40k,Preston North End vs West Ham United,06/02/2027,15:00:00Z,Preston North End,West Ham United,5kq4izdz28qjaxoa6ujclwghj,4txjdaqveermfryvbfrr4taf7
+3l4a0zp7iu9mwfgkf2c4a9dec,Portsmouth vs Bolton Wanderers,06/02/2027,15:00:00Z,Portsmouth,Bolton Wanderers,80jtkz2echk6yyyb9e2595cxr,69t8imcdaqlgfbds2p58596my
+3ksnqxuwwalikcvivv7ajv85w,Derby County vs Southampton,06/02/2027,15:00:00Z,Derby County,Southampton,3ptd7zlc5isrongig0wij2id4,d5ydtvt96bv7fq04yqm2w2632
+3k5ccqvz8m6wtbxbv6sc979qs,Cardiff City vs Norwich City,06/02/2027,15:00:00Z,Cardiff City,Norwich City,3ash57c0q2tgok6gvzbsta93,suz80crpy3anixyzccmu6jzp
+3j61q8b3h6blhj1fwvaw7iyhg,Birmingham City vs Stoke City,06/02/2027,15:00:00Z,Birmingham City,Stoke City,8kreqtde5jdktcib0kg7dknac,4qioq44vcv619vnyy2rpovk4e
+3mq0yjzrd9dzx5epfmy9bg3ro,Wrexham vs Lincoln City,06/02/2027,12:30:00Z,Wrexham,Lincoln City,206vnsjv8ho5kpf88y0u2gaic,b3vbyitzi3nrw9ehj1eoko219
+3m2xxvjrzhyaxzzc46rb8ls7o,Watford vs Sheffield United,06/02/2027,12:30:00Z,Watford,Sheffield United,4t83rqbdbekinxl5fz2ygsyta,bws31egwjda253q9lvykgnivo
+3kgzpmq4swv73q7ve7zzx3qj8,Charlton Athletic vs Wolverhampton Wanderers,06/02/2027,12:30:00Z,Charlton Athletic,Wolverhampton Wanderers,2ezfenuwk3y65p8jdbj55xqt0,b9si1jn1lfxfund69e9ogcu2n
+3jtpne4ko9imkmf3tnqtdx7o4,Bristol City vs Middlesbrough,05/02/2027,20:00:00Z,Bristol City,Middlesbrough,c5485h5qulh4l0k0py5b9xug1,cq0jd5ztepqjjeikk5trb15vr
+3gwh0etzhqqzxw7y364iok844,Norwich City vs Bristol City,31/01/2027,12:00:00Z,Norwich City,Bristol City,suz80crpy3anixyzccmu6jzp,c5485h5qulh4l0k0py5b9xug1
+3iifmyilloxh8zlpxbsvxq7mc,West Ham United vs Blackburn Rovers,30/01/2027,15:00:00Z,West Ham United,Blackburn Rovers,4txjdaqveermfryvbfrr4taf7,ep3im6aygoatju4u3ws8v3mog
+3hv9e5iyl8gy0b34tzgxnsoic,Stoke City vs Portsmouth,30/01/2027,15:00:00Z,Stoke City,Portsmouth,4qioq44vcv619vnyy2rpovk4e,80jtkz2echk6yyyb9e2595cxr
+3hjrr6s45qm2h4ncp7lthn3f8,Southampton vs Preston North End,30/01/2027,15:00:00Z,Southampton,Preston North End,d5ydtvt96bv7fq04yqm2w2632,5kq4izdz28qjaxoa6ujclwghj
+3h80fmprvjz5ithreozeo95w4,Sheffield United vs Charlton Athletic,30/01/2027,15:00:00Z,Sheffield United,Charlton Athletic,bws31egwjda253q9lvykgnivo,2ezfenuwk3y65p8jdbj55xqt0
+3gkweyh9ugdtf94xqfv0g1fro,Millwall vs West Bromwich Albion,30/01/2027,15:00:00Z,Millwall,West Bromwich Albion,40d2qd8lr1tgsvmg5l1fzaf4o,d1lhefp805y0rcbjqkpu4fq0n
+3g9k2ypi7mips81o7pc7e0oic,Middlesbrough vs Watford,30/01/2027,15:00:00Z,Middlesbrough,Watford,cq0jd5ztepqjjeikk5trb15vr,4t83rqbdbekinxl5fz2ygsyta
+3fmgeayzsv95fsrv3a17aentg,Burnley vs Cardiff City,30/01/2027,15:00:00Z,Burnley,Cardiff City,64bxxwu2mv2qqlv0monbkj1om,3ash57c0q2tgok6gvzbsta93
+3iuepdtnn2dx0rzpl05zsg1zo,Wolverhampton Wanderers vs Wrexham,30/01/2027,12:30:00Z,Wolverhampton Wanderers,Wrexham,b9si1jn1lfxfund69e9ogcu2n,206vnsjv8ho5kpf88y0u2gaic
+3i6tpqemr678ju475de6levx0,Swansea City vs Birmingham City,30/01/2027,12:30:00Z,Swansea City,Birmingham City,410jti6axb01yhvbc0axsp8li,8kreqtde5jdktcib0kg7dknac
+3faz722y6gm2132otamnsyhp0,Bolton Wanderers vs Derby County,30/01/2027,12:30:00Z,Bolton Wanderers,Derby County,69t8imcdaqlgfbds2p58596my,3ptd7zlc5isrongig0wij2id4
+3fxzgsjcu16rntlc8x7fcw7is,Lincoln City vs Queens Park Rangers,29/01/2027,20:00:00Z,Lincoln City,Queens Park Rangers,b3vbyitzi3nrw9ehj1eoko219,72nmbktwvcj3wizfp37yjf0dp
+3ec395pa91qde4ex994tnv85w,Swansea City vs Portsmouth,27/01/2027,20:00:00Z,Swansea City,Portsmouth,410jti6axb01yhvbc0axsp8li,80jtkz2echk6yyyb9e2595cxr
+3ezc7wu1i7qt212t045njjcpg,Wolverhampton Wanderers vs Bristol City,27/01/2027,19:45:00Z,Wolverhampton Wanderers,Bristol City,b9si1jn1lfxfund69e9ogcu2n,c5485h5qulh4l0k0py5b9xug1
+3ens87rddh2ovv8vo6malbmz8,West Ham United vs Cardiff City,27/01/2027,19:45:00Z,West Ham United,Cardiff City,4txjdaqveermfryvbfrr4taf7,3ash57c0q2tgok6gvzbsta93
+3e0fnm4r6g1i6ytgx2wty8v84,Middlesbrough vs Wrexham,27/01/2027,19:45:00Z,Middlesbrough,Wrexham,cq0jd5ztepqjjeikk5trb15vr,206vnsjv8ho5kpf88y0u2gaic
+3cq6czaylr5rlo2f29rrevxn8,Norwich City vs Derby County,26/01/2027,20:00:00Z,Norwich City,Derby County,suz80crpy3anixyzccmu6jzp,3ptd7zlc5isrongig0wij2id4
+3dp0lf1knkp0vsclrwwha51qs,Stoke City vs Blackburn Rovers,26/01/2027,19:45:00Z,Stoke City,Blackburn Rovers,4qioq44vcv619vnyy2rpovk4e,ep3im6aygoatju4u3ws8v3mog
+3ddhtexfcriaxd8bcmrna6eqc,Southampton vs West Bromwich Albion,26/01/2027,19:45:00Z,Southampton,West Bromwich Albion,d5ydtvt96bv7fq04yqm2w2632,d1lhefp805y0rcbjqkpu4fq0n
+3d1nwu14imfii4vi3lhsye8t0,Sheffield United vs Preston North End,26/01/2027,19:45:00Z,Sheffield United,Preston North End,bws31egwjda253q9lvykgnivo,5kq4izdz28qjaxoa6ujclwghj
+3ce1eg5bk3bwwzsysg60hgg0k,Millwall vs Birmingham City,26/01/2027,19:45:00Z,Millwall,Birmingham City,40d2qd8lr1tgsvmg5l1fzaf4o,8kreqtde5jdktcib0kg7dknac
+3c2e3184m67exvhrgj2y334t0,Lincoln City vs Watford,26/01/2027,19:45:00Z,Lincoln City,Watford,b3vbyitzi3nrw9ehj1eoko219,4t83rqbdbekinxl5fz2ygsyta
+3bqyhcsituq1yn87j9bfdmjo4,Burnley vs Queens Park Rangers,26/01/2027,19:45:00Z,Burnley,Queens Park Rangers,64bxxwu2mv2qqlv0monbkj1om,72nmbktwvcj3wizfp37yjf0dp
+3bfhewqbu0j3n34ojql64dhjo,Bolton Wanderers vs Charlton Athletic,26/01/2027,19:45:00Z,Bolton Wanderers,Charlton Athletic,69t8imcdaqlgfbds2p58596my,2ezfenuwk3y65p8jdbj55xqt0
+38jpavnj30j3vjzbrki2blp90,Cardiff City vs Wolverhampton Wanderers,24/01/2027,12:00:00Z,Cardiff City,Wolverhampton Wanderers,3ash57c0q2tgok6gvzbsta93,b9si1jn1lfxfund69e9ogcu2n
+3b3rkhy6gv7556dsox3bq9qtw,Wrexham vs Sheffield United,23/01/2027,15:00:00Z,Wrexham,Sheffield United,206vnsjv8ho5kpf88y0u2gaic,bws31egwjda253q9lvykgnivo
+3agrayqxpz4j3q8eroq5o6tck,Watford vs Norwich City,23/01/2027,15:00:00Z,Watford,Norwich City,4t83rqbdbekinxl5fz2ygsyta,suz80crpy3anixyzccmu6jzp
+39ih5tysjio3t69cozp7xv7ro,Portsmouth vs Burnley,23/01/2027,15:00:00Z,Portsmouth,Burnley,80jtkz2echk6yyyb9e2595cxr,64bxxwu2mv2qqlv0monbkj1om
+396sykto623uejqemp9t6dhxw,Derby County vs Millwall,23/01/2027,15:00:00Z,Derby County,Millwall,3ptd7zlc5isrongig0wij2id4,40d2qd8lr1tgsvmg5l1fzaf4o
+38ve6hj3o0ww8wdzug50pavbo,Charlton Athletic vs Middlesbrough,23/01/2027,15:00:00Z,Charlton Athletic,Middlesbrough,2ezfenuwk3y65p8jdbj55xqt0,cq0jd5ztepqjjeikk5trb15vr
+3886q5zdmh28b9d8picrur6z8,Bristol City vs Bolton Wanderers,23/01/2027,15:00:00Z,Bristol City,Bolton Wanderers,c5485h5qulh4l0k0py5b9xug1,69t8imcdaqlgfbds2p58596my
+37ws15n309fv76ya7j1cm20pg,Blackburn Rovers vs Swansea City,23/01/2027,15:00:00Z,Blackburn Rovers,Swansea City,ep3im6aygoatju4u3ws8v3mog,410jti6axb01yhvbc0axsp8li
+3asaifr9pi79gbeg8ol8mkd90,West Bromwich Albion vs West Ham United,23/01/2027,12:30:00Z,West Bromwich Albion,West Ham United,d1lhefp805y0rcbjqkpu4fq0n,4txjdaqveermfryvbfrr4taf7
+3a5bluchx7aciq30o76gp0y6s,Queens Park Rangers vs Southampton,23/01/2027,12:30:00Z,Queens Park Rangers,Southampton,72nmbktwvcj3wizfp37yjf0dp,d5ydtvt96bv7fq04yqm2w2632
+37l1jzy461pgy8qc9fyeaj5sk,Birmingham City vs Lincoln City,23/01/2027,12:30:00Z,Birmingham City,Lincoln City,8kreqtde5jdktcib0kg7dknac,b3vbyitzi3nrw9ehj1eoko219
+39tudc0c4279wnb7vbx9pydjo,Preston North End vs Stoke City,22/01/2027,20:00:00Z,Preston North End,Stoke City,5kq4izdz28qjaxoa6ujclwghj,4qioq44vcv619vnyy2rpovk4e
+34p3r6bgcvgqqgdivovk2dpuc,Charlton Athletic vs Watford,17/01/2027,12:00:00Z,Charlton Athletic,Watford,2ezfenuwk3y65p8jdbj55xqt0,4t83rqbdbekinxl5fz2ygsyta
+36alks13sixgdk7myn3qo9yc4,Sheffield United vs Bristol City,16/01/2027,15:00:00Z,Sheffield United,Bristol City,bws31egwjda253q9lvykgnivo,c5485h5qulh4l0k0py5b9xug1
+35noo67dawbtosr43rjv1hces,Preston North End vs Wrexham,16/01/2027,15:00:00Z,Preston North End,Wrexham,5kq4izdz28qjaxoa6ujclwghj,206vnsjv8ho5kpf88y0u2gaic
+35c0hldwz0id9jtciojc47k7o,Portsmouth vs Norwich City,16/01/2027,15:00:00Z,Portsmouth,Norwich City,80jtkz2echk6yyyb9e2595cxr,suz80crpy3anixyzccmu6jzp
+350n30sl1rkkx48vz0qd50y6s,Lincoln City vs Millwall,16/01/2027,15:00:00Z,Lincoln City,Millwall,b3vbyitzi3nrw9ehj1eoko219,40d2qd8lr1tgsvmg5l1fzaf4o
+34djq50t6wifmsg4x0n3zu2ac,Cardiff City vs Middlesbrough,16/01/2027,15:00:00Z,Cardiff City,Middlesbrough,3ash57c0q2tgok6gvzbsta93,cq0jd5ztepqjjeikk5trb15vr
+3421643otuzs34i4nu1dxbf2s,Bolton Wanderers vs Southampton,16/01/2027,15:00:00Z,Bolton Wanderers,Southampton,69t8imcdaqlgfbds2p58596my,d5ydtvt96bv7fq04yqm2w2632
+33qkw10i3c9ihjht9gh935p90,Blackburn Rovers vs West Bromwich Albion,16/01/2027,15:00:00Z,Blackburn Rovers,West Bromwich Albion,ep3im6aygoatju4u3ws8v3mog,d1lhefp805y0rcbjqkpu4fq0n
+379ja5ds5dkurme6b70brpa1g,Wolverhampton Wanderers vs Burnley,16/01/2027,12:30:00Z,Wolverhampton Wanderers,Burnley,b9si1jn1lfxfund69e9ogcu2n,64bxxwu2mv2qqlv0monbkj1om
+36mmhxg7f17qy6pvebkuta9zo,Stoke City vs Derby County,16/01/2027,12:30:00Z,Stoke City,Derby County,4qioq44vcv619vnyy2rpovk4e,3ptd7zlc5isrongig0wij2id4
+35z57muda11fswfnxbzlpyn10,Queens Park Rangers vs Birmingham City,16/01/2027,12:30:00Z,Queens Park Rangers,Birmingham City,72nmbktwvcj3wizfp37yjf0dp,8kreqtde5jdktcib0kg7dknac
+36y4yzwcyftpbf2urrqdikpw4,West Ham United vs Swansea City,15/01/2027,20:00:00Z,West Ham United,Swansea City,4txjdaqveermfryvbfrr4taf7,410jti6axb01yhvbc0axsp8li
+30jkwqqpt4dirasmrjhqo5wyc,Burnley vs Sheffield United,01/01/2027,17:30:00Z,Burnley,Sheffield United,64bxxwu2mv2qqlv0monbkj1om,bws31egwjda253q9lvykgnivo
+33f8geg3laqwop8cds3ctot1w,Wrexham vs Bolton Wanderers,01/01/2027,15:00:00Z,Wrexham,Bolton Wanderers,206vnsjv8ho5kpf88y0u2gaic,69t8imcdaqlgfbds2p58596my
+333s3jpqvwemgpxdae5xk1qtw,West Bromwich Albion vs Stoke City,01/01/2027,15:00:00Z,West Bromwich Albion,Stoke City,d1lhefp805y0rcbjqkpu4fq0n,4qioq44vcv619vnyy2rpovk4e
+32seh470k3uy21zltc4o8ifbo,Watford vs Queens Park Rangers,01/01/2027,15:00:00Z,Watford,Queens Park Rangers,4t83rqbdbekinxl5fz2ygsyta,72nmbktwvcj3wizfp37yjf0dp
+32gsvypuljhkaazl7k6rtcg7o,Swansea City vs Charlton Athletic,01/01/2027,15:00:00Z,Swansea City,Charlton Athletic,410jti6axb01yhvbc0axsp8li,2ezfenuwk3y65p8jdbj55xqt0
+325att3u8i2zodw5nbnftc9w4,Southampton vs Cardiff City,01/01/2027,15:00:00Z,Southampton,Cardiff City,d5ydtvt96bv7fq04yqm2w2632,3ash57c0q2tgok6gvzbsta93
+31tpvubwq4qhy0cf4m3vzmrys,Norwich City vs Lincoln City,01/01/2027,15:00:00Z,Norwich City,Lincoln City,suz80crpy3anixyzccmu6jzp,b3vbyitzi3nrw9ehj1eoko219
+316lfy5u4okx6kmp7pzkjan10,Middlesbrough vs Preston North End,01/01/2027,15:00:00Z,Middlesbrough,Preston North End,cq0jd5ztepqjjeikk5trb15vr,5kq4izdz28qjaxoa6ujclwghj
+30v5sm75e6usunmw2g2vwm044,Derby County vs Blackburn Rovers,01/01/2027,15:00:00Z,Derby County,Blackburn Rovers,3ptd7zlc5isrongig0wij2id4,ep3im6aygoatju4u3ws8v3mog
+307kbjwh2azma6idf68y59mac,Bristol City vs West Ham United,01/01/2027,15:00:00Z,Bristol City,West Ham United,c5485h5qulh4l0k0py5b9xug1,4txjdaqveermfryvbfrr4taf7
+2zw1rmlxnlq0j5qzx6r0tod90,Birmingham City vs Portsmouth,01/01/2027,15:00:00Z,Birmingham City,Portsmouth,8kreqtde5jdktcib0kg7dknac,80jtkz2echk6yyyb9e2595cxr
+31i783uandq4ie7demsn2ygic,Millwall vs Wolverhampton Wanderers,01/01/2027,12:30:00Z,Millwall,Wolverhampton Wanderers,40d2qd8lr1tgsvmg5l1fzaf4o,b9si1jn1lfxfund69e9ogcu2n
+2y9mgnbtotq6ajy7od41grhn8,Southampton vs West Ham United,29/12/2026,20:15:00Z,Southampton,West Ham United,d5ydtvt96bv7fq04yqm2w2632,4txjdaqveermfryvbfrr4taf7
+2w15ua1ipswfybsoqfhfcksno,Birmingham City vs Cardiff City,29/12/2026,20:00:00Z,Birmingham City,Cardiff City,8kreqtde5jdktcib0kg7dknac,3ash57c0q2tgok6gvzbsta93
+2z8s5ockwbh9smjxrl75sfu38,West Bromwich Albion vs Preston North End,29/12/2026,19:45:00Z,West Bromwich Albion,Preston North End,d1lhefp805y0rcbjqkpu4fq0n,5kq4izdz28qjaxoa6ujclwghj
+2ywspwyls97zw2lteuiliy8lw,Watford vs Wolverhampton Wanderers,29/12/2026,19:45:00Z,Watford,Wolverhampton Wanderers,4t83rqbdbekinxl5fz2ygsyta,b9si1jn1lfxfund69e9ogcu2n
+2ylbqt0zbkj3v0o1oiedif3mc,Swansea City vs Queens Park Rangers,29/12/2026,19:45:00Z,Swansea City,Queens Park Rangers,410jti6axb01yhvbc0axsp8li,72nmbktwvcj3wizfp37yjf0dp
+2xy6kuo8tqvv4jhb2ica05s7o,Norwich City vs Charlton Athletic,29/12/2026,19:45:00Z,Norwich City,Charlton Athletic,suz80crpy3anixyzccmu6jzp,2ezfenuwk3y65p8jdbj55xqt0
+2xmlxtcmjtifgq5ffspp72iok,Millwall vs Portsmouth,29/12/2026,19:45:00Z,Millwall,Portsmouth,40d2qd8lr1tgsvmg5l1fzaf4o,80jtkz2echk6yyyb9e2595cxr
+2xb6dl6xszrq8w8v84vqwz6z8,Middlesbrough vs Bolton Wanderers,29/12/2026,19:45:00Z,Middlesbrough,Bolton Wanderers,cq0jd5ztepqjjeikk5trb15vr,69t8imcdaqlgfbds2p58596my
+2wzrcdb66px7b0x2trlobvhn8,Derby County vs Sheffield United,29/12/2026,19:45:00Z,Derby County,Sheffield United,3ptd7zlc5isrongig0wij2id4,bws31egwjda253q9lvykgnivo
+2woam9hfs38071m9b09kk86c4,Burnley vs Lincoln City,29/12/2026,19:45:00Z,Burnley,Lincoln City,64bxxwu2mv2qqlv0monbkj1om,b3vbyitzi3nrw9ehj1eoko219
+2wcofxuog4uqasulq41ai5lhw,Bristol City vs Stoke City,29/12/2026,19:45:00Z,Bristol City,Stoke City,c5485h5qulh4l0k0py5b9xug1,4qioq44vcv619vnyy2rpovk4e
+2zkncznwrhe2usrp2p8icgs2c,Wrexham vs Blackburn Rovers,29/12/2026,18:00:00Z,Wrexham,Blackburn Rovers,206vnsjv8ho5kpf88y0u2gaic,ep3im6aygoatju4u3ws8v3mog
+2vpohttangt09vrc56zen7xuc,Wolverhampton Wanderers vs Swansea City,26/12/2026,15:00:00Z,Wolverhampton Wanderers,Swansea City,b9si1jn1lfxfund69e9ogcu2n,410jti6axb01yhvbc0axsp8li
+2vdyw49ahcplb43i8cya97uac,West Ham United vs Norwich City,26/12/2026,15:00:00Z,West Ham United,Norwich City,4txjdaqveermfryvbfrr4taf7,suz80crpy3anixyzccmu6jzp
+2v2jk4wadjrus7ofhdksh0wlw,Stoke City vs Wrexham,26/12/2026,15:00:00Z,Stoke City,Wrexham,4qioq44vcv619vnyy2rpovk4e,206vnsjv8ho5kpf88y0u2gaic
+2ufisjzhtthwa8h0056zyskr8,Queens Park Rangers vs Bristol City,26/12/2026,15:00:00Z,Queens Park Rangers,Bristol City,72nmbktwvcj3wizfp37yjf0dp,c5485h5qulh4l0k0py5b9xug1
+2u3k9zgs8g5zrxwzc6ojqv95g,Preston North End vs Derby County,26/12/2026,15:00:00Z,Preston North End,Derby County,5kq4izdz28qjaxoa6ujclwghj,3ptd7zlc5isrongig0wij2id4
+2ts0ofhot4b43p48qwb16ufx0,Portsmouth vs Watford,26/12/2026,15:00:00Z,Portsmouth,Watford,80jtkz2echk6yyyb9e2595cxr,4t83rqbdbekinxl5fz2ygsyta
+2tgfu7kc682ld108nzv1vmej8,Lincoln City vs West Bromwich Albion,26/12/2026,15:00:00Z,Lincoln City,West Bromwich Albion,b3vbyitzi3nrw9ehj1eoko219,d1lhefp805y0rcbjqkpu4fq0n
+2t51vvt8rb9bjqsfvtb80knx0,Charlton Athletic vs Southampton,26/12/2026,15:00:00Z,Charlton Athletic,Southampton,2ezfenuwk3y65p8jdbj55xqt0,d5ydtvt96bv7fq04yqm2w2632
+2stlixvo5hvekddqcweok44yc,Cardiff City vs Millwall,26/12/2026,15:00:00Z,Cardiff City,Millwall,3ash57c0q2tgok6gvzbsta93,40d2qd8lr1tgsvmg5l1fzaf4o
+2s6huzqwy2ywb2xsoowlz1u6s,Blackburn Rovers vs Birmingham City,26/12/2026,15:00:00Z,Blackburn Rovers,Birmingham City,ep3im6aygoatju4u3ws8v3mog,8kreqtde5jdktcib0kg7dknac
+2ur1z4cl8ab6h0zcod3w6tl3o,Sheffield United vs Middlesbrough,26/12/2026,12:30:00Z,Sheffield United,Middlesbrough,bws31egwjda253q9lvykgnivo,cq0jd5ztepqjjeikk5trb15vr
+2si4at741vdp2d6nxhbbgja50,Bolton Wanderers vs Burnley,26/12/2026,12:30:00Z,Bolton Wanderers,Burnley,69t8imcdaqlgfbds2p58596my,64bxxwu2mv2qqlv0monbkj1om
+2rv17i8bcaszvufet2b9nirdg,Wrexham vs Queens Park Rangers,19/12/2026,15:00:00Z,Wrexham,Queens Park Rangers,206vnsjv8ho5kpf88y0u2gaic,72nmbktwvcj3wizfp37yjf0dp
+2qkz5pkqauck7dh28x3aji8es,Southampton vs Blackburn Rovers,19/12/2026,15:00:00Z,Southampton,Blackburn Rovers,d5ydtvt96bv7fq04yqm2w2632,ep3im6aygoatju4u3ws8v3mog
+2q9cq1vxf07weztbdofslhtsk,Norwich City vs Wolverhampton Wanderers,19/12/2026,15:00:00Z,Norwich City,Wolverhampton Wanderers,suz80crpy3anixyzccmu6jzp,b9si1jn1lfxfund69e9ogcu2n
+2plxv8ecua20gl245implht04,Middlesbrough vs Portsmouth,19/12/2026,15:00:00Z,Middlesbrough,Portsmouth,cq0jd5ztepqjjeikk5trb15vr,80jtkz2echk6yyyb9e2595cxr
+2pacrma5dw10ninj5x43lsaok,Derby County vs Lincoln City,19/12/2026,15:00:00Z,Derby County,Lincoln City,3ptd7zlc5isrongig0wij2id4,b3vbyitzi3nrw9ehj1eoko219
+2oyqu62aiuduakmy888fnebro,Burnley vs Stoke City,19/12/2026,15:00:00Z,Burnley,Stoke City,64bxxwu2mv2qqlv0monbkj1om,4qioq44vcv619vnyy2rpovk4e
+2r7z32q9qeez1ehrely77kduc,Watford vs Bolton Wanderers,19/12/2026,12:30:00Z,Watford,Bolton Wanderers,4t83rqbdbekinxl5fz2ygsyta,69t8imcdaqlgfbds2p58596my
+2qwd993d7ltlbn3xo0va6kl5g,Swansea City vs Preston North End,19/12/2026,12:30:00Z,Swansea City,Preston North End,410jti6axb01yhvbc0axsp8li,5kq4izdz28qjaxoa6ujclwghj
+2pxoogq4kg59mxrk9s6gu60ic,Millwall vs Charlton Athletic,19/12/2026,12:30:00Z,Millwall,Charlton Athletic,40d2qd8lr1tgsvmg5l1fzaf4o,2ezfenuwk3y65p8jdbj55xqt0
+2on4undnucaad42oq2nq7ysyc,Bristol City vs Cardiff City,19/12/2026,12:30:00Z,Bristol City,Cardiff City,c5485h5qulh4l0k0py5b9xug1,3ash57c0q2tgok6gvzbsta93
+2obmqoouu4yiy87bq4ad1bi8k,Birmingham City vs West Ham United,19/12/2026,12:30:00Z,Birmingham City,West Ham United,8kreqtde5jdktcib0kg7dknac,4txjdaqveermfryvbfrr4taf7
+2rjln97whmnglid1y27y97kt0,West Bromwich Albion vs Sheffield United,18/12/2026,20:00:00Z,West Bromwich Albion,Sheffield United,d1lhefp805y0rcbjqkpu4fq0n,bws31egwjda253q9lvykgnivo
+2lqxrfvkogpjwzz6pep6tdixg,Lincoln City vs Norwich City,13/12/2026,14:00:00Z,Lincoln City,Norwich City,b3vbyitzi3nrw9ehj1eoko219,suz80crpy3anixyzccmu6jzp
+2nzjsguq20lxytih2u49rmv4k,Wolverhampton Wanderers vs Millwall,12/12/2026,15:00:00Z,Wolverhampton Wanderers,Millwall,b9si1jn1lfxfund69e9ogcu2n,40d2qd8lr1tgsvmg5l1fzaf4o
+2no2207wveyv68btbbvwtabkk,West Ham United vs Bristol City,12/12/2026,15:00:00Z,West Ham United,Bristol City,4txjdaqveermfryvbfrr4taf7,c5485h5qulh4l0k0py5b9xug1
+2n11meydu6lucw1lql25bfuac,Sheffield United vs Burnley,12/12/2026,15:00:00Z,Sheffield United,Burnley,bws31egwjda253q9lvykgnivo,64bxxwu2mv2qqlv0monbkj1om
+2m2j0mzkaas93vaodph3whfro,Portsmouth vs Birmingham City,12/12/2026,15:00:00Z,Portsmouth,Birmingham City,80jtkz2echk6yyyb9e2595cxr,8kreqtde5jdktcib0kg7dknac
+2lfg6kg869pw0u8vsfsh8hclw,Charlton Athletic vs Swansea City,12/12/2026,15:00:00Z,Charlton Athletic,Swansea City,2ezfenuwk3y65p8jdbj55xqt0,410jti6axb01yhvbc0axsp8li
+2l3wm8n5rwoqg7a2r0vkhr5lg,Cardiff City vs Southampton,12/12/2026,15:00:00Z,Cardiff City,Southampton,3ash57c0q2tgok6gvzbsta93,d5ydtvt96bv7fq04yqm2w2632
+2kgzt1punxfds30596s5qe044,Blackburn Rovers vs Derby County,12/12/2026,15:00:00Z,Blackburn Rovers,Derby County,ep3im6aygoatju4u3ws8v3mog,3ptd7zlc5isrongig0wij2id4
+2nciwcxf3xmg6hk1rk1vvps7o,Stoke City vs West Bromwich Albion,12/12/2026,12:30:00Z,Stoke City,West Bromwich Albion,4qioq44vcv619vnyy2rpovk4e,d1lhefp805y0rcbjqkpu4fq0n
+2mpkr77df03n971shxo0sr9qs,Queens Park Rangers vs Watford,12/12/2026,12:30:00Z,Queens Park Rangers,Watford,72nmbktwvcj3wizfp37yjf0dp,4t83rqbdbekinxl5fz2ygsyta
+2me28948wwbzvhfhqqwdk64us,Preston North End vs Middlesbrough,12/12/2026,12:30:00Z,Preston North End,Middlesbrough,5kq4izdz28qjaxoa6ujclwghj,cq0jd5ztepqjjeikk5trb15vr
+2ksdlz3a96vx8z1ydk395q8es,Bolton Wanderers vs Wrexham,11/12/2026,20:00:00Z,Bolton Wanderers,Wrexham,69t8imcdaqlgfbds2p58596my,206vnsjv8ho5kpf88y0u2gaic
+2k5g5asocyg8o6baowcfu6dxw,Southampton vs Burnley,09/12/2026,20:00:00Z,Southampton,Burnley,d5ydtvt96bv7fq04yqm2w2632,64bxxwu2mv2qqlv0monbkj1om
+2jtxhceusn4n3e6mz0mklhdzo,Preston North End vs Portsmouth,09/12/2026,19:45:00Z,Preston North End,Portsmouth,5kq4izdz28qjaxoa6ujclwghj,80jtkz2echk6yyyb9e2595cxr
+2jic0e7q9kat5k7xacsi704k4,Lincoln City vs Stoke City,09/12/2026,19:45:00Z,Lincoln City,Stoke City,b3vbyitzi3nrw9ehj1eoko219,4qioq44vcv619vnyy2rpovk4e
+2j6w9ncm5f8et01is1fcow178,Derby County vs Bristol City,09/12/2026,19:45:00Z,Derby County,Bristol City,3ptd7zlc5isrongig0wij2id4,c5485h5qulh4l0k0py5b9xug1
+2ijntqb0qxmlewae592iemk9g,West Ham United vs Middlesbrough,08/12/2026,20:00:00Z,West Ham United,Middlesbrough,4txjdaqveermfryvbfrr4taf7,cq0jd5ztepqjjeikk5trb15vr
+2gluqcffjh8l8hzb1jug76bdg,Birmingham City vs Watford,08/12/2026,20:00:00Z,Birmingham City,Watford,8kreqtde5jdktcib0kg7dknac,4t83rqbdbekinxl5fz2ygsyta
+2ivaqsg40u8c9k48wgngcu978,Wrexham vs Charlton Athletic,08/12/2026,19:45:00Z,Wrexham,Charlton Athletic,206vnsjv8ho5kpf88y0u2gaic,2ezfenuwk3y65p8jdbj55xqt0
+2i82h1b2dzroym80u7xcjboyc,West Bromwich Albion vs Cardiff City,08/12/2026,19:45:00Z,West Bromwich Albion,Cardiff City,d1lhefp805y0rcbjqkpu4fq0n,3ash57c0q2tgok6gvzbsta93
+2hw24fn0ty5v6qracywsphpuc,Swansea City vs Bolton Wanderers,08/12/2026,19:45:00Z,Swansea City,Bolton Wanderers,410jti6axb01yhvbc0axsp8li,69t8imcdaqlgfbds2p58596my
+2hkl2cldyqr5fdm59e5chkhec,Queens Park Rangers vs Wolverhampton Wanderers,08/12/2026,19:45:00Z,Queens Park Rangers,Wolverhampton Wanderers,72nmbktwvcj3wizfp37yjf0dp,b9si1jn1lfxfund69e9ogcu2n
+2h92alfusaw7796pn6qu7wcgk,Millwall vs Sheffield United,08/12/2026,19:45:00Z,Millwall,Sheffield United,40d2qd8lr1tgsvmg5l1fzaf4o,bws31egwjda253q9lvykgnivo
+2gxhpeh4bb27g5vgf7cc9rzmc,Blackburn Rovers vs Norwich City,08/12/2026,19:45:00Z,Blackburn Rovers,Norwich City,ep3im6aygoatju4u3ws8v3mog,suz80crpy3anixyzccmu6jzp
+2deiq5np3kkn6lj1p11m6ritw,Burnley vs Preston North End,06/12/2026,12:00:00Z,Burnley,Preston North End,64bxxwu2mv2qqlv0monbkj1om,5kq4izdz28qjaxoa6ujclwghj
+2gadcsq61bl0u7zwgtbbtq238,Wolverhampton Wanderers vs Southampton,05/12/2026,15:00:00Z,Wolverhampton Wanderers,Southampton,b9si1jn1lfxfund69e9ogcu2n,d5ydtvt96bv7fq04yqm2w2632
+2fn9gmv4tow3h4rq53oi516vo,Stoke City vs Queens Park Rangers,05/12/2026,15:00:00Z,Stoke City,Queens Park Rangers,4qioq44vcv619vnyy2rpovk4e,72nmbktwvcj3wizfp37yjf0dp
+2f07hehl4rcpdsmsw2ckmxjbo,Portsmouth vs West Bromwich Albion,05/12/2026,15:00:00Z,Portsmouth,West Bromwich Albion,80jtkz2echk6yyyb9e2595cxr,d1lhefp805y0rcbjqkpu4fq0n
+2eoid4g9ziqx2fubodklnejo4,Norwich City vs Wrexham,05/12/2026,15:00:00Z,Norwich City,Wrexham,suz80crpy3anixyzccmu6jzp,206vnsjv8ho5kpf88y0u2gaic
+2e1e9xbjky9mk5c8ycqwfy0ic,Charlton Athletic vs Birmingham City,05/12/2026,15:00:00Z,Charlton Athletic,Birmingham City,2ezfenuwk3y65p8jdbj55xqt0,8kreqtde5jdktcib0kg7dknac
+2dpxpxwl98hmwy46val56nuvo,Cardiff City vs Lincoln City,05/12/2026,15:00:00Z,Cardiff City,Lincoln City,3ash57c0q2tgok6gvzbsta93,b3vbyitzi3nrw9ehj1eoko219
+2fys7fvnqc9mx2rbtoofpz190,Watford vs Millwall,05/12/2026,12:30:00Z,Watford,Millwall,4t83rqbdbekinxl5fz2ygsyta,40d2qd8lr1tgsvmg5l1fzaf4o
+2ecvkn15bnodn5321w6zbbbis,Middlesbrough vs Derby County,05/12/2026,12:30:00Z,Middlesbrough,Derby County,cq0jd5ztepqjjeikk5trb15vr,3ptd7zlc5isrongig0wij2id4
+2d3367qpmvrystk19gc1bahhw,Bristol City vs Swansea City,05/12/2026,12:30:00Z,Bristol City,Swansea City,c5485h5qulh4l0k0py5b9xug1,410jti6axb01yhvbc0axsp8li
+2crm6i1lg5krzwigzxl0t6zh0,Bolton Wanderers vs Blackburn Rovers,05/12/2026,12:30:00Z,Bolton Wanderers,Blackburn Rovers,69t8imcdaqlgfbds2p58596my,ep3im6aygoatju4u3ws8v3mog
+2fbr0zet60ejrjj1i92i6s844,Sheffield United vs West Ham United,04/12/2026,20:00:00Z,Sheffield United,West Ham United,bws31egwjda253q9lvykgnivo,4txjdaqveermfryvbfrr4taf7
+2bgfv57sdanoohwafzrmc56vo,Swansea City vs Cardiff City,29/11/2026,12:00:00Z,Swansea City,Cardiff City,410jti6axb01yhvbc0axsp8li,3ash57c0q2tgok6gvzbsta93
+2cfsvak1w2zzagak8et5m67mc,Wrexham vs Portsmouth,28/11/2026,15:00:00Z,Wrexham,Portsmouth,206vnsjv8ho5kpf88y0u2gaic,80jtkz2echk6yyyb9e2595cxr
+2c4210odgqrz1wi3l5td7wa38,West Ham United vs Stoke City,28/11/2026,15:00:00Z,West Ham United,Stoke City,4txjdaqveermfryvbfrr4taf7,4qioq44vcv619vnyy2rpovk4e
+2brul4jtd56an8wvixqzdsil0,West Bromwich Albion vs Bristol City,28/11/2026,15:00:00Z,West Bromwich Albion,Bristol City,d1lhefp805y0rcbjqkpu4fq0n,c5485h5qulh4l0k0py5b9xug1
+2atf3vts9gy04bv3puw8wuxp0,Queens Park Rangers vs Sheffield United,28/11/2026,15:00:00Z,Queens Park Rangers,Sheffield United,72nmbktwvcj3wizfp37yjf0dp,bws31egwjda253q9lvykgnivo
+2a67okc78d04mi57z23n9j8d0,Millwall vs Burnley,28/11/2026,15:00:00Z,Millwall,Burnley,40d2qd8lr1tgsvmg5l1fzaf4o,64bxxwu2mv2qqlv0monbkj1om
+29i8fcgrswwi4fqgokg9agglw,Derby County vs Watford,28/11/2026,15:00:00Z,Derby County,Watford,3ptd7zlc5isrongig0wij2id4,4t83rqbdbekinxl5fz2ygsyta
+28v8p7u3gz4k0wcxfkztn0rh0,Birmingham City vs Bolton Wanderers,28/11/2026,15:00:00Z,Birmingham City,Bolton Wanderers,8kreqtde5jdktcib0kg7dknac,69t8imcdaqlgfbds2p58596my
+2ahxgz7r3l47rett7fojj8zro,Preston North End vs Norwich City,28/11/2026,12:30:00Z,Preston North End,Norwich City,5kq4izdz28qjaxoa6ujclwghj,suz80crpy3anixyzccmu6jzp
+29us6s37hjpgkmtmjh281x7o4,Lincoln City vs Wolverhampton Wanderers,28/11/2026,12:30:00Z,Lincoln City,Wolverhampton Wanderers,b3vbyitzi3nrw9ehj1eoko219,b9si1jn1lfxfund69e9ogcu2n
+296rijj684sccxyc03mpx5g5w,Blackburn Rovers vs Charlton Athletic,28/11/2026,12:30:00Z,Blackburn Rovers,Charlton Athletic,ep3im6aygoatju4u3ws8v3mog,2ezfenuwk3y65p8jdbj55xqt0
+2b4yiu3wy119f2tpqstsc3h90,Southampton vs Middlesbrough,27/11/2026,20:00:00Z,Southampton,Middlesbrough,d5ydtvt96bv7fq04yqm2w2632,cq0jd5ztepqjjeikk5trb15vr
+2889qsx5zl31936o3pmbyqal0,Stoke City vs Millwall,25/11/2026,20:00:00Z,Stoke City,Millwall,4qioq44vcv619vnyy2rpovk4e,40d2qd8lr1tgsvmg5l1fzaf4o
+28jqnrtuba31i43dbk9f5kb2s,Watford vs Blackburn Rovers,25/11/2026,19:45:00Z,Watford,Blackburn Rovers,4t83rqbdbekinxl5fz2ygsyta,ep3im6aygoatju4u3ws8v3mog
+27ww8sd01vsfavqddu16puej8,Burnley vs Birmingham City,25/11/2026,19:45:00Z,Burnley,Birmingham City,64bxxwu2mv2qqlv0monbkj1om,8kreqtde5jdktcib0kg7dknac
+27leit0dj4zrf0b2qz2gdwyz8,Bolton Wanderers vs West Bromwich Albion,25/11/2026,19:45:00Z,Bolton Wanderers,West Bromwich Albion,69t8imcdaqlgfbds2p58596my,d1lhefp805y0rcbjqkpu4fq0n
+279vnyh7eyct41vaitpwbrg9g,Wolverhampton Wanderers vs Derby County,24/11/2026,20:00:00Z,Wolverhampton Wanderers,Derby County,b9si1jn1lfxfund69e9ogcu2n,3ptd7zlc5isrongig0wij2id4
+26yfoc76twkb86xtdb04pyqz8,Sheffield United vs Southampton,24/11/2026,19:45:00Z,Sheffield United,Southampton,bws31egwjda253q9lvykgnivo,d5ydtvt96bv7fq04yqm2w2632
+26myffs29boggsidvbgfbaj2s,Portsmouth vs West Ham United,24/11/2026,19:45:00Z,Portsmouth,West Ham United,80jtkz2echk6yyyb9e2595cxr,4txjdaqveermfryvbfrr4taf7
+26bae77ghh6n7oc4bp1816m1g,Norwich City vs Queens Park Rangers,24/11/2026,19:45:00Z,Norwich City,Queens Park Rangers,suz80crpy3anixyzccmu6jzp,72nmbktwvcj3wizfp37yjf0dp
+25zllz5wnb4l9uessoj14n2tw,Middlesbrough vs Swansea City,24/11/2026,19:45:00Z,Middlesbrough,Swansea City,cq0jd5ztepqjjeikk5trb15vr,410jti6axb01yhvbc0axsp8li
+25ngorl71zrsysmgo3fchdmvo,Charlton Athletic vs Lincoln City,24/11/2026,19:45:00Z,Charlton Athletic,Lincoln City,2ezfenuwk3y65p8jdbj55xqt0,b3vbyitzi3nrw9ehj1eoko219
+25bz7amwvix020zushuf7szkk,Cardiff City vs Preston North End,24/11/2026,19:45:00Z,Cardiff City,Preston North End,3ash57c0q2tgok6gvzbsta93,5kq4izdz28qjaxoa6ujclwghj
+250gu0j3wbmzavuqzp8uzdr84,Bristol City vs Wrexham,24/11/2026,19:45:00Z,Bristol City,Wrexham,c5485h5qulh4l0k0py5b9xug1,206vnsjv8ho5kpf88y0u2gaic
+21hsq00fm42okqrvh9j8s5250,Burnley vs Blackburn Rovers,22/11/2026,12:00:00Z,Burnley,Blackburn Rovers,64bxxwu2mv2qqlv0monbkj1om,ep3im6aygoatju4u3ws8v3mog
+24ovzm7bglb71fja1qunaisd0,Wolverhampton Wanderers vs Charlton Athletic,21/11/2026,15:00:00Z,Wolverhampton Wanderers,Charlton Athletic,b9si1jn1lfxfund69e9ogcu2n,2ezfenuwk3y65p8jdbj55xqt0
+24dae9gzlcfpoe5zxkp5di0wk,West Ham United vs Preston North End,21/11/2026,15:00:00Z,West Ham United,Preston North End,4txjdaqveermfryvbfrr4taf7,5kq4izdz28qjaxoa6ujclwghj
+241pfybjj843xpa80fdtcmlg4,Swansea City vs West Bromwich Albion,21/11/2026,15:00:00Z,Swansea City,West Bromwich Albion,410jti6axb01yhvbc0axsp8li,d1lhefp805y0rcbjqkpu4fq0n
+23q9j616pmkfd4lcc3r38wufo,Stoke City vs Birmingham City,21/11/2026,15:00:00Z,Stoke City,Birmingham City,4qioq44vcv619vnyy2rpovk4e,8kreqtde5jdktcib0kg7dknac
+233a1ew6luv1cal6466m8kr2s,Sheffield United vs Watford,21/11/2026,15:00:00Z,Sheffield United,Watford,bws31egwjda253q9lvykgnivo,4t83rqbdbekinxl5fz2ygsyta
+224ophqrfjl5ldv4r7rg02xhw,Middlesbrough vs Bristol City,21/11/2026,15:00:00Z,Middlesbrough,Bristol City,cq0jd5ztepqjjeikk5trb15vr,c5485h5qulh4l0k0py5b9xug1
+21t80he2gqg378id7ygfwj0no,Lincoln City vs Wrexham,21/11/2026,15:00:00Z,Lincoln City,Wrexham,b3vbyitzi3nrw9ehj1eoko219,206vnsjv8ho5kpf88y0u2gaic
+216dulnp7qe7ppyy9044gmbys,Bolton Wanderers vs Portsmouth,21/11/2026,15:00:00Z,Bolton Wanderers,Portsmouth,69t8imcdaqlgfbds2p58596my,80jtkz2echk6yyyb9e2595cxr
+23epvzleyxhbxbrlbzk45xt04,Southampton vs Derby County,21/11/2026,12:30:00Z,Southampton,Derby County,d5ydtvt96bv7fq04yqm2w2632,3ptd7zlc5isrongig0wij2id4
+22rqwqt3qz0kpuyhb72ve0bv8,Norwich City vs Cardiff City,21/11/2026,12:30:00Z,Norwich City,Cardiff City,suz80crpy3anixyzccmu6jzp,3ash57c0q2tgok6gvzbsta93
+22g71jojds1g8x6b04wef7jmc,Millwall vs Queens Park Rangers,21/11/2026,12:30:00Z,Millwall,Queens Park Rangers,40d2qd8lr1tgsvmg5l1fzaf4o,72nmbktwvcj3wizfp37yjf0dp
+20jg9w24mxatsjbk6m30xwrv8,West Bromwich Albion vs Millwall,07/11/2026,15:00:00Z,West Bromwich Albion,Millwall,d1lhefp805y0rcbjqkpu4fq0n,40d2qd8lr1tgsvmg5l1fzaf4o
+207td20xdjm0lo0rl4z1lrq50,Watford vs Middlesbrough,07/11/2026,15:00:00Z,Watford,Middlesbrough,4t83rqbdbekinxl5fz2ygsyta,cq0jd5ztepqjjeikk5trb15vr
+1zw927tf1r9bqeitj56fkz28k,Queens Park Rangers vs Lincoln City,07/11/2026,15:00:00Z,Queens Park Rangers,Lincoln City,72nmbktwvcj3wizfp37yjf0dp,b3vbyitzi3nrw9ehj1eoko219
+1zk5j84c6nbcag9erp2te1fdg,Preston North End vs Southampton,07/11/2026,15:00:00Z,Preston North End,Southampton,5kq4izdz28qjaxoa6ujclwghj,d5ydtvt96bv7fq04yqm2w2632
+1ylf6qvvmhk2phenl1kmra42c,Charlton Athletic vs Sheffield United,07/11/2026,15:00:00Z,Charlton Athletic,Sheffield United,2ezfenuwk3y65p8jdbj55xqt0,bws31egwjda253q9lvykgnivo
+1y9zhm22rsih386d5vw980bh0,Cardiff City vs Burnley,07/11/2026,15:00:00Z,Cardiff City,Burnley,3ash57c0q2tgok6gvzbsta93,64bxxwu2mv2qqlv0monbkj1om
+1xmrbagi3h78ct32y6tn433tg,Blackburn Rovers vs West Ham United,07/11/2026,15:00:00Z,Blackburn Rovers,West Ham United,ep3im6aygoatju4u3ws8v3mog,4txjdaqveermfryvbfrr4taf7
+1xb9axplun451884nu200o36c,Birmingham City vs Swansea City,07/11/2026,15:00:00Z,Birmingham City,Swansea City,8kreqtde5jdktcib0kg7dknac,410jti6axb01yhvbc0axsp8li
+20uzn5yg9gqho3e4c7m1bpes4,Wrexham vs Wolverhampton Wanderers,07/11/2026,12:30:00Z,Wrexham,Wolverhampton Wanderers,206vnsjv8ho5kpf88y0u2gaic,b9si1jn1lfxfund69e9ogcu2n
+1z8m2u7c1hajs6k5ineqdlij8,Portsmouth vs Stoke City,07/11/2026,12:30:00Z,Portsmouth,Stoke City,80jtkz2echk6yyyb9e2595cxr,4qioq44vcv619vnyy2rpovk4e
+1xyii0u9n8z65gh8awiel22hg,Bristol City vs Norwich City,07/11/2026,12:30:00Z,Bristol City,Norwich City,c5485h5qulh4l0k0py5b9xug1,suz80crpy3anixyzccmu6jzp
+1yx547jw8ng2nudqwyk4zhhjo,Derby County vs Bolton Wanderers,06/11/2026,20:00:00Z,Derby County,Bolton Wanderers,3ptd7zlc5isrongig0wij2id4,69t8imcdaqlgfbds2p58596my
+1w1b4c8yvt8ytrjqvs4we5xck,Bristol City vs Wolverhampton Wanderers,04/11/2026,20:00:00Z,Bristol City,Wolverhampton Wanderers,c5485h5qulh4l0k0py5b9xug1,b9si1jn1lfxfund69e9ogcu2n
+1wzn8cpqv794m2crcwuy7105w,Wrexham vs Middlesbrough,04/11/2026,19:45:00Z,Wrexham,Middlesbrough,206vnsjv8ho5kpf88y0u2gaic,cq0jd5ztepqjjeikk5trb15vr
+1wct91lxq5ybwwy854mwhmrkk,Cardiff City vs West Ham United,04/11/2026,19:45:00Z,Cardiff City,West Ham United,3ash57c0q2tgok6gvzbsta93,4txjdaqveermfryvbfrr4taf7
+1vpv5fd0z57tiewp0n5q0uz9w,West Bromwich Albion vs Southampton,03/11/2026,20:00:00Z,West Bromwich Albion,Southampton,d1lhefp805y0rcbjqkpu4fq0n,d5ydtvt96bv7fq04yqm2w2632
+1tgpnsf3gn7nkfoan0mwclkb8,Birmingham City vs Millwall,03/11/2026,20:00:00Z,Birmingham City,Millwall,8kreqtde5jdktcib0kg7dknac,40d2qd8lr1tgsvmg5l1fzaf4o
+1wo73chfifbbf2c6v914pmpzo,Charlton Athletic vs Bolton Wanderers,03/11/2026,19:45:00Z,Charlton Athletic,Bolton Wanderers,2ezfenuwk3y65p8jdbj55xqt0,69t8imcdaqlgfbds2p58596my
+1veamq848t98kx1g194tnplw4,Watford vs Lincoln City,03/11/2026,19:45:00Z,Watford,Lincoln City,4t83rqbdbekinxl5fz2ygsyta,b3vbyitzi3nrw9ehj1eoko219
+1v2v3ijxkcmqu5injef74y6ms,Queens Park Rangers vs Burnley,03/11/2026,19:45:00Z,Queens Park Rangers,Burnley,72nmbktwvcj3wizfp37yjf0dp,64bxxwu2mv2qqlv0monbkj1om
+1urd4kdi5bgn4yp3nz2e8gpp0,Preston North End vs Sheffield United,03/11/2026,19:45:00Z,Preston North End,Sheffield United,5kq4izdz28qjaxoa6ujclwghj,bws31egwjda253q9lvykgnivo
+1ufu7fp192nsmy9h1aoinaxas,Portsmouth vs Swansea City,03/11/2026,19:45:00Z,Portsmouth,Swansea City,80jtkz2echk6yyyb9e2595cxr,410jti6axb01yhvbc0axsp8li
+1u4b8z09uk6gq29txpnw7v5sk,Derby County vs Norwich City,03/11/2026,19:45:00Z,Derby County,Norwich City,3ptd7zlc5isrongig0wij2id4,suz80crpy3anixyzccmu6jzp
+1tstcjapr2owecimsdvpqikgk,Blackburn Rovers vs Stoke City,03/11/2026,19:45:00Z,Blackburn Rovers,Stoke City,ep3im6aygoatju4u3ws8v3mog,4qioq44vcv619vnyy2rpovk4e
+1t57xdhqhqe8wut866x9moqhg,Wolverhampton Wanderers vs Cardiff City,31/10/2026,15:00:00Z,Wolverhampton Wanderers,Cardiff City,b9si1jn1lfxfund69e9ogcu2n,3ash57c0q2tgok6gvzbsta93
+1stq1cai7lwvrpsk1nka51puc,West Ham United vs West Bromwich Albion,31/10/2026,15:00:00Z,West Ham United,West Bromwich Albion,4txjdaqveermfryvbfrr4taf7,d1lhefp805y0rcbjqkpu4fq0n
+1si7sifcs9i6ksdlz1svnlp90,Swansea City vs Blackburn Rovers,31/10/2026,15:00:00Z,Swansea City,Blackburn Rovers,410jti6axb01yhvbc0axsp8li,ep3im6aygoatju4u3ws8v3mog
+1rv4nlf8t8wonyo8rh41vqvpw,Southampton vs Queens Park Rangers,31/10/2026,15:00:00Z,Southampton,Queens Park Rangers,d5ydtvt96bv7fq04yqm2w2632,72nmbktwvcj3wizfp37yjf0dp
+1qwphxescsdpluq9if9gvdn9w,Millwall vs Derby County,31/10/2026,15:00:00Z,Millwall,Derby County,40d2qd8lr1tgsvmg5l1fzaf4o,3ptd7zlc5isrongig0wij2id4
+1ql61xsfi0rerj834by8klces,Middlesbrough vs Charlton Athletic,31/10/2026,15:00:00Z,Middlesbrough,Charlton Athletic,cq0jd5ztepqjjeikk5trb15vr,2ezfenuwk3y65p8jdbj55xqt0
+1py7tnmc8jg26a08flamavml0,Burnley vs Portsmouth,31/10/2026,15:00:00Z,Burnley,Portsmouth,64bxxwu2mv2qqlv0monbkj1om,80jtkz2echk6yyyb9e2595cxr
+1pmqu09pudvo28wly99cvdqfo,Bolton Wanderers vs Bristol City,31/10/2026,15:00:00Z,Bolton Wanderers,Bristol City,69t8imcdaqlgfbds2p58596my,c5485h5qulh4l0k0py5b9xug1
+1s6mvdit0gkxa2gq59d2xj7kk,Stoke City vs Preston North End,31/10/2026,12:30:00Z,Stoke City,Preston North End,4qioq44vcv619vnyy2rpovk4e,5kq4izdz28qjaxoa6ujclwghj
+1r879j0enxsvqnn4e9zbg7cb8,Norwich City vs Watford,31/10/2026,12:30:00Z,Norwich City,Watford,suz80crpy3anixyzccmu6jzp,4t83rqbdbekinxl5fz2ygsyta
+1q9qlzon16eh3rdnxn2jxw9p0,Lincoln City vs Birmingham City,31/10/2026,12:30:00Z,Lincoln City,Birmingham City,b3vbyitzi3nrw9ehj1eoko219,8kreqtde5jdktcib0kg7dknac
+1rjosjniba1oou9wkuj9m0oic,Sheffield United vs Wrexham,30/10/2026,20:00:00Z,Sheffield United,Wrexham,bws31egwjda253q9lvykgnivo,206vnsjv8ho5kpf88y0u2gaic
+1pb6w07wcjo9v5l2z6bjsrthw,Wolverhampton Wanderers vs Watford,24/10/2026,14:00:00Z,Wolverhampton Wanderers,Watford,b9si1jn1lfxfund69e9ogcu2n,4t83rqbdbekinxl5fz2ygsyta
+1ozqdclk04z247dl76q73po9g,West Ham United vs Southampton,24/10/2026,14:00:00Z,West Ham United,Southampton,4txjdaqveermfryvbfrr4taf7,d5ydtvt96bv7fq04yqm2w2632
+1ooawrvjpeozm29ktyycv8dn8,Stoke City vs Bristol City,24/10/2026,14:00:00Z,Stoke City,Bristol City,4qioq44vcv619vnyy2rpovk4e,c5485h5qulh4l0k0py5b9xug1
+1o1gnpkbm8thabm2tjovg0ufo,Queens Park Rangers vs Swansea City,24/10/2026,14:00:00Z,Queens Park Rangers,Swansea City,72nmbktwvcj3wizfp37yjf0dp,410jti6axb01yhvbc0axsp8li
+1nplwda37i1xljd8c4wrl1s7o,Preston North End vs West Bromwich Albion,24/10/2026,14:00:00Z,Preston North End,West Bromwich Albion,5kq4izdz28qjaxoa6ujclwghj,d1lhefp805y0rcbjqkpu4fq0n
+1n25oej78jmjfcvd2zvcolhxw,Lincoln City vs Burnley,24/10/2026,14:00:00Z,Lincoln City,Burnley,b3vbyitzi3nrw9ehj1eoko219,64bxxwu2mv2qqlv0monbkj1om
+1mf62fwh6brw1zafs44pdiq6s,Cardiff City vs Birmingham City,24/10/2026,14:00:00Z,Cardiff City,Birmingham City,3ash57c0q2tgok6gvzbsta93,8kreqtde5jdktcib0kg7dknac
+1ls6kptvpd31m9zidcvxrgges,Blackburn Rovers vs Wrexham,24/10/2026,14:00:00Z,Blackburn Rovers,Wrexham,ep3im6aygoatju4u3ws8v3mog,206vnsjv8ho5kpf88y0u2gaic
+1ocvyxm4b0khl2votmqph8cgk,Sheffield United vs Derby County,24/10/2026,11:30:00Z,Sheffield United,Derby County,bws31egwjda253q9lvykgnivo,3ptd7zlc5isrongig0wij2id4
+1ndp8jigs5d0fyjsxopchku1g,Portsmouth vs Millwall,24/10/2026,11:30:00Z,Portsmouth,Millwall,80jtkz2echk6yyyb9e2595cxr,40d2qd8lr1tgsvmg5l1fzaf4o
+1mqoh6hvpzea35bzgcq6bd6ok,Charlton Athletic vs Norwich City,24/10/2026,11:30:00Z,Charlton Athletic,Norwich City,2ezfenuwk3y65p8jdbj55xqt0,suz80crpy3anixyzccmu6jzp
+1m3qs42k0p2wvrlm94wdijuac,Bolton Wanderers vs Middlesbrough,23/10/2026,19:00:00Z,Bolton Wanderers,Middlesbrough,69t8imcdaqlgfbds2p58596my,cq0jd5ztepqjjeikk5trb15vr
+10ynrp5inr55jo3oiznjdfsb8,Wolverhampton Wanderers vs Portsmouth,20/10/2026,18:45:00Z,Wolverhampton Wanderers,Portsmouth,b9si1jn1lfxfund69e9ogcu2n,80jtkz2echk6yyyb9e2595cxr
+1lgmqpsxqbx3ntc0szud7ogt0,Wrexham vs Preston North End,17/10/2026,14:00:00Z,Wrexham,Preston North End,206vnsjv8ho5kpf88y0u2gaic,5kq4izdz28qjaxoa6ujclwghj
+1l54kuu46jmiokkzxsnunkkyc,West Bromwich Albion vs Blackburn Rovers,17/10/2026,14:00:00Z,West Bromwich Albion,Blackburn Rovers,d1lhefp805y0rcbjqkpu4fq0n,ep3im6aygoatju4u3ws8v3mog
+1ki706xztfcswe97635hdaql0,Swansea City vs West Ham United,17/10/2026,14:00:00Z,Swansea City,West Ham United,410jti6axb01yhvbc0axsp8li,4txjdaqveermfryvbfrr4taf7
+1k6nrdxdbmll4xj586nnkn7kk,Southampton vs Bolton Wanderers,17/10/2026,14:00:00Z,Southampton,Bolton Wanderers,d5ydtvt96bv7fq04yqm2w2632,69t8imcdaqlgfbds2p58596my
+1juzgj9p8q02o92oryr7a153o,Norwich City vs Portsmouth,17/10/2026,14:00:00Z,Norwich City,Portsmouth,suz80crpy3anixyzccmu6jzp,80jtkz2echk6yyyb9e2595cxr
+1iwojhays2pey1zn3xddsnk7o,Derby County vs Stoke City,17/10/2026,14:00:00Z,Derby County,Stoke City,3ptd7zlc5isrongig0wij2id4,4qioq44vcv619vnyy2rpovk4e
+1i9ykahkvgi75l9p7efbe232s,Bristol City vs Sheffield United,17/10/2026,14:00:00Z,Bristol City,Sheffield United,c5485h5qulh4l0k0py5b9xug1,bws31egwjda253q9lvykgnivo
+1hy6twsbbbpj7cyaj75u27cpg,Birmingham City vs Queens Park Rangers,17/10/2026,14:00:00Z,Birmingham City,Queens Park Rangers,8kreqtde5jdktcib0kg7dknac,72nmbktwvcj3wizfp37yjf0dp
+1ktkjouhffem74rqeqzwftpn8,Watford vs Charlton Athletic,17/10/2026,11:30:00Z,Watford,Charlton Athletic,4t83rqbdbekinxl5fz2ygsyta,2ezfenuwk3y65p8jdbj55xqt0
+1jjlya6a8kl4100fkokeuyoes,Millwall vs Lincoln City,17/10/2026,11:30:00Z,Millwall,Lincoln City,40d2qd8lr1tgsvmg5l1fzaf4o,b3vbyitzi3nrw9ehj1eoko219
+1j85lmp3fuqxeb2pzoul36ej8,Middlesbrough vs Cardiff City,17/10/2026,11:30:00Z,Middlesbrough,Cardiff City,cq0jd5ztepqjjeikk5trb15vr,3ash57c0q2tgok6gvzbsta93
+1ilav5i7wp6wz167rmiz3nnkk,Burnley vs Wolverhampton Wanderers,16/10/2026,19:00:00Z,Burnley,Wolverhampton Wanderers,64bxxwu2mv2qqlv0monbkj1om,b9si1jn1lfxfund69e9ogcu2n
+1gnts0nmx78w7f6tonyprmc5w,Lincoln City vs West Ham United,14/10/2026,19:00:00Z,Lincoln City,West Ham United,b3vbyitzi3nrw9ehj1eoko219,4txjdaqveermfryvbfrr4taf7
+1hmonnb5y6er1jgqn7k4idw5w,Queens Park Rangers vs Derby County,14/10/2026,18:45:00Z,Queens Park Rangers,Derby County,72nmbktwvcj3wizfp37yjf0dp,3ptd7zlc5isrongig0wij2id4
+1hapt0dbztbp4gynywn7nd6ok,Portsmouth vs Sheffield United,14/10/2026,18:45:00Z,Portsmouth,Sheffield United,80jtkz2echk6yyyb9e2595cxr,bws31egwjda253q9lvykgnivo
+1gz9i3mg1orwluuy1g1nzmfbo,Norwich City vs Southampton,14/10/2026,18:45:00Z,Norwich City,Southampton,suz80crpy3anixyzccmu6jzp,d5ydtvt96bv7fq04yqm2w2632
+1fpedrgz9yxug2fbkhvw26s5w,Stoke City vs Middlesbrough,13/10/2026,19:00:00Z,Stoke City,Middlesbrough,4qioq44vcv619vnyy2rpovk4e,cq0jd5ztepqjjeikk5trb15vr
+1e3zp4sj9novte9l15792cqac,Birmingham City vs Preston North End,13/10/2026,19:00:00Z,Birmingham City,Preston North End,8kreqtde5jdktcib0kg7dknac,5kq4izdz28qjaxoa6ujclwghj
+1gcgvud1vi39ugjw9a0hpt0r8,Wrexham vs West Bromwich Albion,13/10/2026,18:45:00Z,Wrexham,West Bromwich Albion,206vnsjv8ho5kpf88y0u2gaic,d1lhefp805y0rcbjqkpu4fq0n
+1g0wh80vih0cvqdisgq9i740k,Wolverhampton Wanderers vs Bolton Wanderers,13/10/2026,18:45:00Z,Wolverhampton Wanderers,Bolton Wanderers,b9si1jn1lfxfund69e9ogcu2n,69t8imcdaqlgfbds2p58596my
+1fe19lzdai45ocm3z0ek2xgyc,Millwall vs Swansea City,13/10/2026,18:45:00Z,Millwall,Swansea City,40d2qd8lr1tgsvmg5l1fzaf4o,410jti6axb01yhvbc0axsp8li
+1f2m88z915smbgbjolkasimfo,Cardiff City vs Watford,13/10/2026,18:45:00Z,Cardiff City,Watford,3ash57c0q2tgok6gvzbsta93,4t83rqbdbekinxl5fz2ygsyta
+1er3sz6j2zwfpxnlf744prdhw,Burnley vs Charlton Athletic,13/10/2026,18:45:00Z,Burnley,Charlton Athletic,64bxxwu2mv2qqlv0monbkj1om,2ezfenuwk3y65p8jdbj55xqt0
+1efjxbmi5shqes9umtxe8rc44,Bristol City vs Blackburn Rovers,13/10/2026,18:45:00Z,Bristol City,Blackburn Rovers,c5485h5qulh4l0k0py5b9xug1,ep3im6aygoatju4u3ws8v3mog
+1cip7fs0750n3g2q7gkuk2fbo,Southampton vs Portsmouth,11/10/2026,11:00:00Z,Southampton,Portsmouth,d5ydtvt96bv7fq04yqm2w2632,80jtkz2echk6yyyb9e2595cxr
+1d5h8ygjg3q4i21wuh2jkymfo,Watford vs Burnley,10/10/2026,14:00:00Z,Watford,Burnley,4t83rqbdbekinxl5fz2ygsyta,64bxxwu2mv2qqlv0monbkj1om
+1c6zfs7nqy3a6ojlpzbm1c3kk,Sheffield United vs Lincoln City,10/10/2026,14:00:00Z,Sheffield United,Lincoln City,bws31egwjda253q9lvykgnivo,b3vbyitzi3nrw9ehj1eoko219
+1bvfkc4h9dsdzg2kluetc8t90,Preston North End vs Millwall,10/10/2026,14:00:00Z,Preston North End,Millwall,5kq4izdz28qjaxoa6ujclwghj,40d2qd8lr1tgsvmg5l1fzaf4o
+1bk0wjqj56e1gcy3hwhnmsahg,Middlesbrough vs Wolverhampton Wanderers,10/10/2026,14:00:00Z,Middlesbrough,Wolverhampton Wanderers,cq0jd5ztepqjjeikk5trb15vr,b9si1jn1lfxfund69e9ogcu2n
+1b7x8he9fa9b4g8dzkq2d56ok,Derby County vs Wrexham,10/10/2026,14:00:00Z,Derby County,Wrexham,3ptd7zlc5isrongig0wij2id4,206vnsjv8ho5kpf88y0u2gaic
+1aku8q8k7gw6uz31yeobutatw,Bolton Wanderers vs Stoke City,10/10/2026,14:00:00Z,Bolton Wanderers,Stoke City,69t8imcdaqlgfbds2p58596my,4qioq44vcv619vnyy2rpovk4e
+1a9d1vfhci1vll1idjkasyrys,Blackburn Rovers vs Cardiff City,10/10/2026,14:00:00Z,Blackburn Rovers,Cardiff City,ep3im6aygoatju4u3ws8v3mog,3ash57c0q2tgok6gvzbsta93
+1dh0qcnd4o9eyrlhnhsm2oh04,West Bromwich Albion vs Birmingham City,10/10/2026,11:30:00Z,West Bromwich Albion,Birmingham City,d1lhefp805y0rcbjqkpu4fq0n,8kreqtde5jdktcib0kg7dknac
+1cu2xwe0ojmbbvdrweu1sphqs,Swansea City vs Norwich City,10/10/2026,11:30:00Z,Swansea City,Norwich City,410jti6axb01yhvbc0axsp8li,suz80crpy3anixyzccmu6jzp
+1awhdecfrjs21klctxr8f376c,Charlton Athletic vs Bristol City,10/10/2026,11:30:00Z,Charlton Athletic,Bristol City,2ezfenuwk3y65p8jdbj55xqt0,c5485h5qulh4l0k0py5b9xug1
+1dskgbdcf4rnkuc8u4jwfaqz8,West Ham United vs Queens Park Rangers,09/10/2026,19:00:00Z,West Ham United,Queens Park Rangers,4txjdaqveermfryvbfrr4taf7,72nmbktwvcj3wizfp37yjf0dp
+18cqh6je68win1uw2v4v7hkpg,Norwich City vs Bolton Wanderers,20/09/2026,12:30:00Z,Norwich City,Bolton Wanderers,suz80crpy3anixyzccmu6jzp,69t8imcdaqlgfbds2p58596my
+19mehpo2ksa25l5yv6l4twj6c,Wolverhampton Wanderers vs West Bromwich Albion,20/09/2026,11:00:00Z,Wolverhampton Wanderers,West Bromwich Albion,b9si1jn1lfxfund69e9ogcu2n,d1lhefp805y0rcbjqkpu4fq0n
+19xypb5wsss10d5c9ct62upec,Wrexham vs Southampton,19/09/2026,14:00:00Z,Wrexham,Southampton,206vnsjv8ho5kpf88y0u2gaic,d5ydtvt96bv7fq04yqm2w2632
+18zf6f3okpva3815bjwg91kb8,Queens Park Rangers vs Preston North End,19/09/2026,14:00:00Z,Queens Park Rangers,Preston North End,72nmbktwvcj3wizfp37yjf0dp,5kq4izdz28qjaxoa6ujclwghj
+18o1zuk3p30e81srlbvybisyc,Portsmouth vs Blackburn Rovers,19/09/2026,14:00:00Z,Portsmouth,Blackburn Rovers,80jtkz2echk6yyyb9e2595cxr,ep3im6aygoatju4u3ws8v3mog
+17pp3d2dg432vvn0g6rasj28k,Lincoln City vs Swansea City,19/09/2026,14:00:00Z,Lincoln City,Swansea City,b3vbyitzi3nrw9ehj1eoko219,410jti6axb01yhvbc0axsp8li
+172u2efa6ls6701bhreaqhel0,Burnley vs Derby County,19/09/2026,14:00:00Z,Burnley,Derby County,64bxxwu2mv2qqlv0monbkj1om,3ptd7zlc5isrongig0wij2id4
+16fzib8ufma9ioirzz6dts7is,Birmingham City vs Middlesbrough,19/09/2026,14:00:00Z,Birmingham City,Middlesbrough,8kreqtde5jdktcib0kg7dknac,cq0jd5ztepqjjeikk5trb15vr
+19ay0a7r9ceki8sen2gdy505w,Stoke City vs Sheffield United,19/09/2026,11:30:00Z,Stoke City,Sheffield United,4qioq44vcv619vnyy2rpovk4e,bws31egwjda253q9lvykgnivo
+18164mvo5mvorgrnccm0qz6l0,Millwall vs West Ham United,19/09/2026,11:30:00Z,Millwall,West Ham United,40d2qd8lr1tgsvmg5l1fzaf4o,4txjdaqveermfryvbfrr4taf7
+17e9h57rqbq7to7lrx2qo3pxw,Cardiff City vs Charlton Athletic,19/09/2026,11:30:00Z,Cardiff City,Charlton Athletic,3ash57c0q2tgok6gvzbsta93,2ezfenuwk3y65p8jdbj55xqt0
+16rgxt5980c14y8vwh3q36qdw,Bristol City vs Watford,18/09/2026,19:00:00Z,Bristol City,Watford,c5485h5qulh4l0k0py5b9xug1,4t83rqbdbekinxl5fz2ygsyta
+zdxu2ahfwakhbi4k6z6kc650,Bristol City vs Lincoln City,15/09/2026,18:45:00Z,Bristol City,Lincoln City,c5485h5qulh4l0k0py5b9xug1,b3vbyitzi3nrw9ehj1eoko219
+100rdudamlo9m1gf3wtkiruok,Middlesbrough vs Millwall,15/09/2026,18:45:00Z,Middlesbrough,Millwall,cq0jd5ztepqjjeikk5trb15vr,40d2qd8lr1tgsvmg5l1fzaf4o
+14iatxn3j3sdxs01del4i74t0,Sheffield United vs Wolverhampton Wanderers,13/09/2026,11:00:00Z,Sheffield United,Wolverhampton Wanderers,bws31egwjda253q9lvykgnivo,b9si1jn1lfxfund69e9ogcu2n
+15hk2byxiohy74jmps6auh15g,Watford vs Stoke City,12/09/2026,14:00:00Z,Watford,Stoke City,4t83rqbdbekinxl5fz2ygsyta,4qioq44vcv619vnyy2rpovk4e
+155ba0tut2sy7pnykavjgmm8k,Swansea City vs Burnley,12/09/2026,14:00:00Z,Swansea City,Burnley,410jti6axb01yhvbc0axsp8li,64bxxwu2mv2qqlv0monbkj1om
+14tuvljyiyntvt70ilpq6j09g,Southampton vs Bristol City,12/09/2026,14:00:00Z,Southampton,Bristol City,d5ydtvt96bv7fq04yqm2w2632,c5485h5qulh4l0k0py5b9xug1
+146v7h98qvb66iyo7qax7l7v8,Preston North End vs Lincoln City,12/09/2026,14:00:00Z,Preston North End,Lincoln City,5kq4izdz28qjaxoa6ujclwghj,b3vbyitzi3nrw9ehj1eoko219
+13v9cue02e3okzkc9qb9x4b2s,Middlesbrough vs Norwich City,12/09/2026,14:00:00Z,Middlesbrough,Norwich City,cq0jd5ztepqjjeikk5trb15vr,suz80crpy3anixyzccmu6jzp
+136ys30w87k4of4jp743g3x1w,Charlton Athletic vs Portsmouth,12/09/2026,14:00:00Z,Charlton Athletic,Portsmouth,2ezfenuwk3y65p8jdbj55xqt0,80jtkz2echk6yyyb9e2595cxr
+12k38aibmzgb8d5jsj5g2pkic,Blackburn Rovers vs Millwall,12/09/2026,14:00:00Z,Blackburn Rovers,Millwall,ep3im6aygoatju4u3ws8v3mog,40d2qd8lr1tgsvmg5l1fzaf4o
+15t3eokyz9v1d0c5l3k3nr8d0,West Bromwich Albion vs Queens Park Rangers,12/09/2026,11:30:00Z,West Bromwich Albion,Queens Park Rangers,d1lhefp805y0rcbjqkpu4fq0n,72nmbktwvcj3wizfp37yjf0dp
+13jodng1j1xgr06o75b4a46xg,Derby County vs Birmingham City,12/09/2026,11:30:00Z,Derby County,Birmingham City,3ptd7zlc5isrongig0wij2id4,8kreqtde5jdktcib0kg7dknac
+12vip9iz844veggn0pa50uh3o,Bolton Wanderers vs Cardiff City,12/09/2026,11:30:00Z,Bolton Wanderers,Cardiff City,69t8imcdaqlgfbds2p58596my,3ash57c0q2tgok6gvzbsta93
+164k1g2gbsggnuxrou7twmntg,West Ham United vs Wrexham,11/09/2026,19:00:00Z,West Ham United,Wrexham,4txjdaqveermfryvbfrr4taf7,206vnsjv8ho5kpf88y0u2gaic
+11a2676vfrlsbmnnn9o7fe710,Charlton Athletic vs Queens Park Rangers,09/09/2026,19:00:00Z,Charlton Athletic,Queens Park Rangers,2ezfenuwk3y65p8jdbj55xqt0,72nmbktwvcj3wizfp37yjf0dp
+11x0dpu2r94p646lf9xto2ihg,Norwich City vs Birmingham City,09/09/2026,18:45:00Z,Norwich City,Birmingham City,suz80crpy3anixyzccmu6jzp,8kreqtde5jdktcib0kg7dknac
+11llnmvgt2d1epzdl4unvhslw,Derby County vs West Bromwich Albion,09/09/2026,18:45:00Z,Derby County,West Bromwich Albion,3ptd7zlc5isrongig0wij2id4,d1lhefp805y0rcbjqkpu4fq0n
+z1wc87nmtgi7jj2fvjnowbh0,Bolton Wanderers vs West Ham United,08/09/2026,19:00:00Z,Bolton Wanderers,West Ham United,69t8imcdaqlgfbds2p58596my,4txjdaqveermfryvbfrr4taf7
+zpfqg2wsqcr5eea906aj7310,Cardiff City vs Stoke City,08/09/2026,18:45:00Z,Cardiff City,Stoke City,3ash57c0q2tgok6gvzbsta93,4qioq44vcv619vnyy2rpovk4e
+yqo58rdre6rbqtrydy8cowes,Blackburn Rovers vs Sheffield United,08/09/2026,18:45:00Z,Blackburn Rovers,Sheffield United,ep3im6aygoatju4u3ws8v3mog,bws31egwjda253q9lvykgnivo
+128hjo7lk4b9sc3wd7609mgic,Wrexham vs Burnley,08/09/2026,18:45:00Z,Wrexham,Burnley,206vnsjv8ho5kpf88y0u2gaic,64bxxwu2mv2qqlv0monbkj1om
+10ndt8avayw9vispxbioisdn8,Watford vs Preston North End,08/09/2026,18:45:00Z,Watford,Preston North End,4t83rqbdbekinxl5fz2ygsyta,5kq4izdz28qjaxoa6ujclwghj
+10c40t356lqdy0jonhpqjslck,Southampton vs Swansea City,08/09/2026,18:45:00Z,Southampton,Swansea City,d5ydtvt96bv7fq04yqm2w2632,410jti6axb01yhvbc0axsp8li
+uxzbo4c3kb0uq0wleim2ytxw,Birmingham City vs Wolverhampton Wanderers,06/09/2026,11:00:00Z,Birmingham City,Wolverhampton Wanderers,8kreqtde5jdktcib0kg7dknac,b9si1jn1lfxfund69e9ogcu2n
+xsbpacsh73bztf4vg6vrvor8,Swansea City vs Wrexham,05/09/2026,19:00:00Z,Swansea City,Wrexham,410jti6axb01yhvbc0axsp8li,206vnsjv8ho5kpf88y0u2gaic
+yf9ovaqjn651xjxm7ds1hrf8,West Ham United vs Derby County,05/09/2026,14:00:00Z,West Ham United,Derby County,4txjdaqveermfryvbfrr4taf7,3ptd7zlc5isrongig0wij2id4
+y3qq62q2okgfzyc17rifvf9w,West Bromwich Albion vs Watford,05/09/2026,14:00:00Z,West Bromwich Albion,Watford,d1lhefp805y0rcbjqkpu4fq0n,4t83rqbdbekinxl5fz2ygsyta
+x5n08tzgg0ymb2ozbkjy4is4,Sheffield United vs Norwich City,05/09/2026,14:00:00Z,Sheffield United,Norwich City,bws31egwjda253q9lvykgnivo,suz80crpy3anixyzccmu6jzp
+wu3gpej3x72uxylhzb0cnl04,Queens Park Rangers vs Middlesbrough,05/09/2026,14:00:00Z,Queens Park Rangers,Middlesbrough,72nmbktwvcj3wizfp37yjf0dp,cq0jd5ztepqjjeikk5trb15vr
+w79vckhtjeu3oavu45w3pdzo,Portsmouth vs Cardiff City,05/09/2026,14:00:00Z,Portsmouth,Cardiff City,80jtkz2echk6yyyb9e2595cxr,3ash57c0q2tgok6gvzbsta93
+vw0vqbvgkxsp3nqb2enhw9p0,Millwall vs Bolton Wanderers,05/09/2026,14:00:00Z,Millwall,Bolton Wanderers,40d2qd8lr1tgsvmg5l1fzaf4o,69t8imcdaqlgfbds2p58596my
+v9avo5c4o3duliskrwg1a1as,Burnley vs Bristol City,05/09/2026,14:00:00Z,Burnley,Bristol City,64bxxwu2mv2qqlv0monbkj1om,c5485h5qulh4l0k0py5b9xug1
+xh19i1e3stai5icni1ctshsk,Stoke City vs Charlton Athletic,05/09/2026,11:30:00Z,Stoke City,Charlton Athletic,4qioq44vcv619vnyy2rpovk4e,2ezfenuwk3y65p8jdbj55xqt0
+wiobq151afgdhkq6aqcewiz8,Preston North End vs Blackburn Rovers,05/09/2026,11:30:00Z,Preston North End,Blackburn Rovers,5kq4izdz28qjaxoa6ujclwghj,ep3im6aygoatju4u3ws8v3mog
+vkm5v9gzyhd2vg4gtq41c8b8,Lincoln City vs Southampton,05/09/2026,11:30:00Z,Lincoln City,Southampton,b3vbyitzi3nrw9ehj1eoko219,d5ydtvt96bv7fq04yqm2w2632
+to8vw6yo8fpbq9bvtth9cv84,Burnley vs Middlesbrough,02/09/2026,19:00:00Z,Burnley,Middlesbrough,64bxxwu2mv2qqlv0monbkj1om,cq0jd5ztepqjjeikk5trb15vr
+umj5tdlfc4uo6r4xbe0nrndg,West Bromwich Albion vs Charlton Athletic,02/09/2026,18:45:00Z,West Bromwich Albion,Charlton Athletic,d1lhefp805y0rcbjqkpu4fq0n,2ezfenuwk3y65p8jdbj55xqt0
+ub0n7vnzxy0tf0bqeghweeqc,Queens Park Rangers vs Cardiff City,02/09/2026,18:45:00Z,Queens Park Rangers,Cardiff City,72nmbktwvcj3wizfp37yjf0dp,3ash57c0q2tgok6gvzbsta93
+tzjyzh811st7afdfjo6dztp0,Millwall vs Wrexham,02/09/2026,18:45:00Z,Millwall,Wrexham,40d2qd8lr1tgsvmg5l1fzaf4o,206vnsjv8ho5kpf88y0u2gaic
+sptfdadav66ekkvosu0l0yz8,Stoke City vs Norwich City,01/09/2026,19:00:00Z,Stoke City,Norwich City,4qioq44vcv619vnyy2rpovk4e,suz80crpy3anixyzccmu6jzp
+r1urovn1qbg87a7xtabot5p0,Birmingham City vs Southampton,01/09/2026,19:00:00Z,Birmingham City,Southampton,8kreqtde5jdktcib0kg7dknac,d5ydtvt96bv7fq04yqm2w2632
+tcev6sh93nkspw1tja8jlixg,West Ham United vs Wolverhampton Wanderers,01/09/2026,18:45:00Z,West Ham United,Wolverhampton Wanderers,4txjdaqveermfryvbfrr4taf7,b9si1jn1lfxfund69e9ogcu2n
+t146njhgzbbmwkmcx59cyz2s,Swansea City vs Watford,01/09/2026,18:45:00Z,Swansea City,Watford,410jti6axb01yhvbc0axsp8li,4t83rqbdbekinxl5fz2ygsyta
+see49xk78orhl75937op0opg,Sheffield United vs Bolton Wanderers,01/09/2026,18:45:00Z,Sheffield United,Bolton Wanderers,bws31egwjda253q9lvykgnivo,69t8imcdaqlgfbds2p58596my
+s24tm76ts19nppja0kwm8owk,Preston North End vs Bristol City,01/09/2026,18:45:00Z,Preston North End,Bristol City,5kq4izdz28qjaxoa6ujclwghj,c5485h5qulh4l0k0py5b9xug1
+rqttx6b9q7b8x3qltznivaqc,Portsmouth vs Derby County,01/09/2026,18:45:00Z,Portsmouth,Derby County,80jtkz2echk6yyyb9e2595cxr,3ptd7zlc5isrongig0wij2id4
+rfe73zkvtjkg3nfq1szgzitw,Lincoln City vs Blackburn Rovers,01/09/2026,18:45:00Z,Lincoln City,Blackburn Rovers,b3vbyitzi3nrw9ehj1eoko219,ep3im6aygoatju4u3ws8v3mog
+pt3q58ctqakubjqcxgg63ifo,Watford vs West Ham United,29/08/2026,14:00:00Z,Watford,West Ham United,4t83rqbdbekinxl5fz2ygsyta,4txjdaqveermfryvbfrr4taf7
+peegw7ygniav4edq2y1euhhw,Southampton vs Millwall,29/08/2026,14:00:00Z,Southampton,Millwall,d5ydtvt96bv7fq04yqm2w2632,40d2qd8lr1tgsvmg5l1fzaf4o
+p0btygcg37qfj2qkr2vcdc0k,Norwich City vs Burnley,29/08/2026,14:00:00Z,Norwich City,Burnley,suz80crpy3anixyzccmu6jzp,64bxxwu2mv2qqlv0monbkj1om
+nsxnjosumqf3z9h4oib8q32s,Charlton Athletic vs Preston North End,29/08/2026,14:00:00Z,Charlton Athletic,Preston North End,2ezfenuwk3y65p8jdbj55xqt0,5kq4izdz28qjaxoa6ujclwghj
+nfz1gv9ofnys6im15ruj6k2c,Cardiff City vs Sheffield United,29/08/2026,14:00:00Z,Cardiff City,Sheffield United,3ash57c0q2tgok6gvzbsta93,bws31egwjda253q9lvykgnivo
+n0omm3uwr2hffz1coxiuehhw,Bristol City vs Portsmouth,29/08/2026,14:00:00Z,Bristol City,Portsmouth,c5485h5qulh4l0k0py5b9xug1,80jtkz2echk6yyyb9e2595cxr
+mma8es35eihy9cawoznb8c2c,Bolton Wanderers vs Lincoln City,29/08/2026,14:00:00Z,Bolton Wanderers,Lincoln City,69t8imcdaqlgfbds2p58596my,b3vbyitzi3nrw9ehj1eoko219
+m6aq98w5tn4xdoj5x4xmfv9w,Blackburn Rovers vs Queens Park Rangers,29/08/2026,14:00:00Z,Blackburn Rovers,Queens Park Rangers,ep3im6aygoatju4u3ws8v3mog,72nmbktwvcj3wizfp37yjf0dp
+q7yjbelavmxz3ticvi7rvifo,Wolverhampton Wanderers vs Stoke City,29/08/2026,11:30:00Z,Wolverhampton Wanderers,Stoke City,b9si1jn1lfxfund69e9ogcu2n,4qioq44vcv619vnyy2rpovk4e
+om6oz6gt1stryaozz9u8y0b8,Middlesbrough vs West Bromwich Albion,29/08/2026,11:30:00Z,Middlesbrough,West Bromwich Albion,cq0jd5ztepqjjeikk5trb15vr,d1lhefp805y0rcbjqkpu4fq0n
+o6dkyzq3mwilv0z9im1symfo,Derby County vs Swansea City,29/08/2026,11:30:00Z,Derby County,Swansea City,3ptd7zlc5isrongig0wij2id4,410jti6axb01yhvbc0axsp8li
+qnqfm7g4fufw7aov0msphw5w,Wrexham vs Birmingham City,28/08/2026,19:00:00Z,Wrexham,Birmingham City,206vnsjv8ho5kpf88y0u2gaic,8kreqtde5jdktcib0kg7dknac
+l0axj7qxqxbqy8lpad3k2r6c,West Bromwich Albion vs Burnley,23/08/2026,11:00:00Z,West Bromwich Albion,Burnley,d1lhefp805y0rcbjqkpu4fq0n,64bxxwu2mv2qqlv0monbkj1om
+lslnz56ywrcxc87mctqgo7x0,Wrexham vs Watford,22/08/2026,14:00:00Z,Wrexham,Watford,206vnsjv8ho5kpf88y0u2gaic,4t83rqbdbekinxl5fz2ygsyta
+ldkkcrmvdq8sgoir85vw4vtg,West Ham United vs Charlton Athletic,22/08/2026,14:00:00Z,West Ham United,Charlton Athletic,4txjdaqveermfryvbfrr4taf7,2ezfenuwk3y65p8jdbj55xqt0
+kkkk22w38odpg26i6rm36gwk,Swansea City vs Sheffield United,22/08/2026,14:00:00Z,Swansea City,Sheffield United,410jti6axb01yhvbc0axsp8li,bws31egwjda253q9lvykgnivo
+k5xpu6nscod45x5yj5sh5qfo,Southampton vs Stoke City,22/08/2026,14:00:00Z,Southampton,Stoke City,d5ydtvt96bv7fq04yqm2w2632,4qioq44vcv619vnyy2rpovk4e
+jootb717dw14qki0mxqhw45w,Queens Park Rangers vs Bolton Wanderers,22/08/2026,14:00:00Z,Queens Park Rangers,Bolton Wanderers,72nmbktwvcj3wizfp37yjf0dp,69t8imcdaqlgfbds2p58596my
+j9kdgeoh1xv6fjh1v2i6gaac,Preston North End vs Wolverhampton Wanderers,22/08/2026,14:00:00Z,Preston North End,Wolverhampton Wanderers,5kq4izdz28qjaxoa6ujclwghj,b9si1jn1lfxfund69e9ogcu2n
+i07eiqgod4uvrq3k81oeesk4,Derby County vs Cardiff City,22/08/2026,14:00:00Z,Derby County,Cardiff City,3ptd7zlc5isrongig0wij2id4,3ash57c0q2tgok6gvzbsta93
+hl2k7429r7gz3y6xvfubs0t0,Blackburn Rovers vs Middlesbrough,22/08/2026,14:00:00Z,Blackburn Rovers,Middlesbrough,ep3im6aygoatju4u3ws8v3mog,cq0jd5ztepqjjeikk5trb15vr
+ivm7u4m6apv4ip9ld75x4e8k,Millwall vs Norwich City,22/08/2026,11:30:00Z,Millwall,Norwich City,40d2qd8lr1tgsvmg5l1fzaf4o,suz80crpy3anixyzccmu6jzp
+ihkuc9id7ssjdgp61x56zspg,Lincoln City vs Portsmouth,22/08/2026,11:30:00Z,Lincoln City,Portsmouth,b3vbyitzi3nrw9ehj1eoko219,80jtkz2echk6yyyb9e2595cxr
+h5vbip5uj8mnwr4pjcay4w7o,Birmingham City vs Bristol City,22/08/2026,11:30:00Z,Birmingham City,Bristol City,8kreqtde5jdktcib0kg7dknac,c5485h5qulh4l0k0py5b9xug1
+gq3epc17ckgqc9w3qk1prm6s,Cardiff City vs Wrexham,17/08/2026,19:00:00Z,Cardiff City,Wrexham,3ash57c0q2tgok6gvzbsta93,206vnsjv8ho5kpf88y0u2gaic
+fq90ifdyer0jf1pj0k1i7tas,Burnley vs West Ham United,16/08/2026,15:00:00Z,Burnley,West Ham United,64bxxwu2mv2qqlv0monbkj1om,4txjdaqveermfryvbfrr4taf7
+g8clkaiqt196bhrk1mvs0ydw,Watford vs Southampton,16/08/2026,12:30:00Z,Watford,Southampton,4t83rqbdbekinxl5fz2ygsyta,d5ydtvt96bv7fq04yqm2w2632
+er7gh32xfs58p7lzj7a26wwk,Sheffield United vs Birmingham City,15/08/2026,16:30:00Z,Sheffield United,Birmingham City,bws31egwjda253q9lvykgnivo,8kreqtde5jdktcib0kg7dknac
+f99izqljvnkcotwnfxqjy7mc,Stoke City vs Swansea City,15/08/2026,14:00:00Z,Stoke City,Swansea City,4qioq44vcv619vnyy2rpovk4e,410jti6axb01yhvbc0axsp8li
+eb8uub5xxp25bw7m664usr2s,Portsmouth vs Queens Park Rangers,15/08/2026,14:00:00Z,Portsmouth,Queens Park Rangers,80jtkz2echk6yyyb9e2595cxr,72nmbktwvcj3wizfp37yjf0dp
+dtwyxph4zy3kiuz51siwza50,Norwich City vs West Bromwich Albion,15/08/2026,14:00:00Z,Norwich City,West Bromwich Albion,suz80crpy3anixyzccmu6jzp,d1lhefp805y0rcbjqkpu4fq0n
+d7f5k1csqsbxzc882j1n9t04,Middlesbrough vs Lincoln City,15/08/2026,14:00:00Z,Middlesbrough,Lincoln City,cq0jd5ztepqjjeikk5trb15vr,b3vbyitzi3nrw9ehj1eoko219
+cp4fih6axft6lpu3dqh7j40k,Charlton Athletic vs Derby County,15/08/2026,14:00:00Z,Charlton Athletic,Derby County,2ezfenuwk3y65p8jdbj55xqt0,3ptd7zlc5isrongig0wij2id4
+c81xa6165p8zm9g7obvgfok4,Bristol City vs Millwall,15/08/2026,14:00:00Z,Bristol City,Millwall,c5485h5qulh4l0k0py5b9xug1,40d2qd8lr1tgsvmg5l1fzaf4o
+br0h028hx48no0o6dba0pvys,Bolton Wanderers vs Preston North End,15/08/2026,11:30:00Z,Bolton Wanderers,Preston North End,69t8imcdaqlgfbds2p58596my,5kq4izdz28qjaxoa6ujclwghj
+b5wwsbonnm5einpkm89onrbo,Wolverhampton Wanderers vs Blackburn Rovers,14/08/2026,19:00:00Z,Wolverhampton Wanderers,Blackburn Rovers,b9si1jn1lfxfund69e9ogcu2n,ep3im6aygoatju4u3ws8v3mog

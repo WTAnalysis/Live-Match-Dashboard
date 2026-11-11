@@ -1,0 +1,381 @@
+id,description,date,time,Home_Team,Away_Team,Home_Team_ID,Away_Team_ID
+7jjz6i9zkdzvhiy1zeiohnztg,Sunderland vs Manchester City,30/05/2027,15:00:00Z,Sunderland,Manchester City,1r3545b2dzan8yqa80gtmcjch,a3nyxabgsqlnqfkeg41m6tnpp
+7j7bsq8gp5imjqpni3rfi7lec,Manchester United vs Fulham,30/05/2027,15:00:00Z,Manchester United,Fulham,6eqit8ye8aomdsrrq0hk3v7gh,hzqh7z0mdl3v7gwete66syxp
+7iuv61bnwderxk8cv85pgof10,Liverpool vs Bournemouth,30/05/2027,15:00:00Z,Liverpool,Bournemouth,c8h9bw1l82s06h77xxrelzhur,1pse9ta7a45pi2w2grjim70ge
+7iig8ytb74xhn4prgaob8gff8,Ipswich Town vs Everton,30/05/2027,15:00:00Z,Ipswich Town,Everton,8b523ujgl21tbc01me65q0aoh,ehd2iemqmschhj2ec0vayztzz
+7i64djmyg0db3vsong93xomqc,Hull City vs Newcastle United,30/05/2027,15:00:00Z,Hull City,Newcastle United,f0figafm2v9h8ofo6slajj7xf,7vn2i2kd35zuetw6b38gw9jsz
+7htf2ocju4gdxfvwpxfr85zbo,Crystal Palace vs Leeds United,30/05/2027,15:00:00Z,Crystal Palace,Leeds United,1c8m2ko0wxq1asfkuykurdr0y,48gk2hpqtsl6p9sx9kjhaydq4
+7hgz8dougffh4zqin7e7a1xjo,Coventry City vs Nottingham Forest,30/05/2027,15:00:00Z,Coventry City,Nottingham Forest,dacoc20k0n3fxu4zek8wufmko,1qtaiy11gswx327s0vkibf70n
+7h4npm227gbm8i8xwdt89rzmc,Chelsea vs Brentford,30/05/2027,15:00:00Z,Chelsea,Brentford,9q0arba2kbnywth8bkxlhgmdr,7yx5dqhhphyvfisohikodajhv
+7gs7pe124k9w1xulqiql13lsk,Aston Villa vs Tottenham Hotspur,30/05/2027,15:00:00Z,Aston Villa,Tottenham Hotspur,b496gs285it6bheuikox6z9mj,22doj4sgsocqpxw45h607udje
+7gfy74jkzvxzer7zsyo6mbdas,Arsenal vs Brighton & Hove Albion,30/05/2027,15:00:00Z,Arsenal,Brighton & Hove Albion,4dsgumo7d4zupm2ugsvm4zm4d,e5p0ehyguld7egzhiedpdnc3w
+7g3ju5s6v0x044886trrr6ej8,Tottenham Hotspur vs Manchester United,23/05/2027,14:00:00Z,Tottenham Hotspur,Manchester United,22doj4sgsocqpxw45h607udje,6eqit8ye8aomdsrrq0hk3v7gh
+7fr3rwctlhffy5zg9obsfqadw,Nottingham Forest vs Ipswich Town,23/05/2027,14:00:00Z,Nottingham Forest,Ipswich Town,1qtaiy11gswx327s0vkibf70n,8b523ujgl21tbc01me65q0aoh
+7feohitygd5v43lyyuun70d90,Newcastle United vs Crystal Palace,23/05/2027,14:00:00Z,Newcastle United,Crystal Palace,7vn2i2kd35zuetw6b38gw9jsz,1c8m2ko0wxq1asfkuykurdr0y
+7f1lrn7wyuinksopwggdqs844,Manchester City vs Aston Villa,23/05/2027,14:00:00Z,Manchester City,Aston Villa,a3nyxabgsqlnqfkeg41m6tnpp,b496gs285it6bheuikox6z9mj
+7ep6vcg4qkfijrehk3fbtnllg,Leeds United vs Sunderland,23/05/2027,14:00:00Z,Leeds United,Sunderland,48gk2hpqtsl6p9sx9kjhaydq4,1r3545b2dzan8yqa80gtmcjch
+7ecu6q7pgldpc97wbcnwq3hn8,Fulham vs Coventry City,23/05/2027,14:00:00Z,Fulham,Coventry City,hzqh7z0mdl3v7gwete66syxp,dacoc20k0n3fxu4zek8wufmko
+7e0dohyx9lclbjjnqc10znggk,Everton vs Arsenal,23/05/2027,14:00:00Z,Everton,Arsenal,ehd2iemqmschhj2ec0vayztzz,4dsgumo7d4zupm2ugsvm4zm4d
+7dnzckjraxunkh3ghcib02904,Brighton & Hove Albion vs Liverpool,23/05/2027,14:00:00Z,Brighton & Hove Albion,Liverpool,e5p0ehyguld7egzhiedpdnc3w,c8h9bw1l82s06h77xxrelzhur
+7dbj5roil4g52x0seh91qtgd0,Brentford vs Hull City,23/05/2027,14:00:00Z,Brentford,Hull City,7yx5dqhhphyvfisohikodajhv,f0figafm2v9h8ofo6slajj7xf
+7cz4yg1pvbhycccf3e9crmj9w,Bournemouth vs Chelsea,23/05/2027,14:00:00Z,Bournemouth,Chelsea,1pse9ta7a45pi2w2grjim70ge,9q0arba2kbnywth8bkxlhgmdr
+7cmtl8cb4zf98j2i83lzgh6ac,Sunderland vs Bournemouth,15/05/2027,14:00:00Z,Sunderland,Bournemouth,1r3545b2dzan8yqa80gtmcjch,1pse9ta7a45pi2w2grjim70ge
+7cafhudw5evq1p48jjsrxikno,Manchester United vs Leeds United,15/05/2027,14:00:00Z,Manchester United,Leeds United,6eqit8ye8aomdsrrq0hk3v7gh,48gk2hpqtsl6p9sx9kjhaydq4
+7by21g388bgotksfli8ns7ml0,Liverpool vs Brentford,15/05/2027,14:00:00Z,Liverpool,Brentford,c8h9bw1l82s06h77xxrelzhur,7yx5dqhhphyvfisohikodajhv
+7blpa7z17f2zykwb1av5sn7kk,Ipswich Town vs Manchester City,15/05/2027,14:00:00Z,Ipswich Town,Manchester City,8b523ujgl21tbc01me65q0aoh,a3nyxabgsqlnqfkeg41m6tnpp
+7b9cwu2o0wre7khgy5c3yhij8,Hull City vs Fulham,15/05/2027,14:00:00Z,Hull City,Fulham,f0figafm2v9h8ofo6slajj7xf,hzqh7z0mdl3v7gwete66syxp
+7awxiqjy45sogau1uv0rbhzpw,Crystal Palace vs Brighton & Hove Albion,15/05/2027,14:00:00Z,Crystal Palace,Brighton & Hove Albion,1c8m2ko0wxq1asfkuykurdr0y,e5p0ehyguld7egzhiedpdnc3w
+7akkm71mn2i6hoc7wjbaszkes,Coventry City vs Tottenham Hotspur,15/05/2027,14:00:00Z,Coventry City,Tottenham Hotspur,dacoc20k0n3fxu4zek8wufmko,22doj4sgsocqpxw45h607udje
+7a87c5ozvc4pfdp4vlj6c8cno,Chelsea vs Everton,15/05/2027,14:00:00Z,Chelsea,Everton,9q0arba2kbnywth8bkxlhgmdr,ehd2iemqmschhj2ec0vayztzz
+79vpzp9li8ompgr9nd8q7i7mc,Aston Villa vs Newcastle United,15/05/2027,14:00:00Z,Aston Villa,Newcastle United,b496gs285it6bheuikox6z9mj,7vn2i2kd35zuetw6b38gw9jsz
+79jfthzd1aqtbe2d1oinqc104,Arsenal vs Nottingham Forest,15/05/2027,14:00:00Z,Arsenal,Nottingham Forest,4dsgumo7d4zupm2ugsvm4zm4d,1qtaiy11gswx327s0vkibf70n
+79722gorouwgddzp5k8a933mc,Tottenham Hotspur vs Chelsea,08/05/2027,14:00:00Z,Tottenham Hotspur,Chelsea,22doj4sgsocqpxw45h607udje,9q0arba2kbnywth8bkxlhgmdr
+78ur8hd63lmv7btm9alr9007o,Nottingham Forest vs Crystal Palace,08/05/2027,14:00:00Z,Nottingham Forest,Crystal Palace,1qtaiy11gswx327s0vkibf70n,1c8m2ko0wxq1asfkuykurdr0y
+78hpm4xdp95go8cub9ykopz4k,Newcastle United vs Coventry City,08/05/2027,14:00:00Z,Newcastle United,Coventry City,7vn2i2kd35zuetw6b38gw9jsz,dacoc20k0n3fxu4zek8wufmko
+784ljyzt6voixy10pzrftyec4,Manchester City vs Liverpool,08/05/2027,14:00:00Z,Manchester City,Liverpool,a3nyxabgsqlnqfkeg41m6tnpp,c8h9bw1l82s06h77xxrelzhur
+77s2y6ahkn40686pixzn3t3is,Leeds United vs Arsenal,08/05/2027,14:00:00Z,Leeds United,Arsenal,48gk2hpqtsl6p9sx9kjhaydq4,4dsgumo7d4zupm2ugsvm4zm4d
+77frlxd4ozbuegyz2rxvbjx90,Fulham vs Ipswich Town,08/05/2027,14:00:00Z,Fulham,Ipswich Town,hzqh7z0mdl3v7gwete66syxp,8b523ujgl21tbc01me65q0aoh
+77377z5g2rn3dnh9g6a3isnx0,Everton vs Hull City,08/05/2027,14:00:00Z,Everton,Hull City,ehd2iemqmschhj2ec0vayztzz,f0figafm2v9h8ofo6slajj7xf
+76qojs1758ui2cu4lw65ojt3o,Brighton & Hove Albion vs Sunderland,08/05/2027,14:00:00Z,Brighton & Hove Albion,Sunderland,e5p0ehyguld7egzhiedpdnc3w,1r3545b2dzan8yqa80gtmcjch
+76dycrn48sqo2h5poep2d4kk4,Brentford vs Aston Villa,08/05/2027,14:00:00Z,Brentford,Aston Villa,7yx5dqhhphyvfisohikodajhv,b496gs285it6bheuikox6z9mj
+761hlzpwjr5fywg3d4abvzytw,Bournemouth vs Manchester United,08/05/2027,14:00:00Z,Bournemouth,Manchester United,1pse9ta7a45pi2w2grjim70ge,6eqit8ye8aomdsrrq0hk3v7gh
+75p2vad9iubfcx5o14n9mdo9g,Sunderland vs Newcastle United,01/05/2027,14:00:00Z,Sunderland,Newcastle United,1r3545b2dzan8yqa80gtmcjch,7vn2i2kd35zuetw6b38gw9jsz
+75crezpkwoo57iyavk6j2uuxg,Manchester City vs Brentford,01/05/2027,14:00:00Z,Manchester City,Brentford,a3nyxabgsqlnqfkeg41m6tnpp,7yx5dqhhphyvfisohikodajhv
+75076sw48r4d3akyspqar4xlg,Liverpool vs Chelsea,01/05/2027,14:00:00Z,Liverpool,Chelsea,c8h9bw1l82s06h77xxrelzhur,9q0arba2kbnywth8bkxlhgmdr
+74nr03frybd6vr5hb7ihyrkes,Ipswich Town vs Leeds United,01/05/2027,14:00:00Z,Ipswich Town,Leeds United,8b523ujgl21tbc01me65q0aoh,48gk2hpqtsl6p9sx9kjhaydq4
+74ba94oreiha855ht70ujw3ro,Hull City vs Bournemouth,01/05/2027,14:00:00Z,Hull City,Bournemouth,f0figafm2v9h8ofo6slajj7xf,1pse9ta7a45pi2w2grjim70ge
+73ytw6rp0wcfpxdpt4e7y49as,Fulham vs Everton,01/05/2027,14:00:00Z,Fulham,Everton,hzqh7z0mdl3v7gwete66syxp,ehd2iemqmschhj2ec0vayztzz
+73me7n2ujk92st9syhfiwxm38,Crystal Palace vs Aston Villa,01/05/2027,14:00:00Z,Crystal Palace,Aston Villa,1c8m2ko0wxq1asfkuykurdr0y,b496gs285it6bheuikox6z9mj
+73a3zc1r3e8mqgsitbmdae39w,Coventry City vs Manchester United,01/05/2027,14:00:00Z,Coventry City,Manchester United,dacoc20k0n3fxu4zek8wufmko,6eqit8ye8aomdsrrq0hk3v7gh
+72xr30nbmtv2fmtr0qdvdyb6c,Brighton & Hove Albion vs Nottingham Forest,01/05/2027,14:00:00Z,Brighton & Hove Albion,Nottingham Forest,e5p0ehyguld7egzhiedpdnc3w,1qtaiy11gswx327s0vkibf70n
+72lerxbmaawrwxhnns0tmwt90,Arsenal vs Tottenham Hotspur,01/05/2027,14:00:00Z,Arsenal,Tottenham Hotspur,4dsgumo7d4zupm2ugsvm4zm4d,22doj4sgsocqpxw45h607udje
+728qr3ww4whcvfb75ahr1d1jo,Tottenham Hotspur vs Hull City,24/04/2027,14:00:00Z,Tottenham Hotspur,Hull City,22doj4sgsocqpxw45h607udje,f0figafm2v9h8ofo6slajj7xf
+71vpgk2vvc0hyaxtr79c9o1ec,Nottingham Forest vs Sunderland,24/04/2027,14:00:00Z,Nottingham Forest,Sunderland,1qtaiy11gswx327s0vkibf70n,1r3545b2dzan8yqa80gtmcjch
+71je4xrqtk5h0wzohk3q37310,Newcastle United vs Ipswich Town,24/04/2027,14:00:00Z,Newcastle United,Ipswich Town,7vn2i2kd35zuetw6b38gw9jsz,8b523ujgl21tbc01me65q0aoh
+7171hpw3ufexx6b1hwoswik2c,Manchester United vs Crystal Palace,24/04/2027,14:00:00Z,Manchester United,Crystal Palace,6eqit8ye8aomdsrrq0hk3v7gh,1c8m2ko0wxq1asfkuykurdr0y
+70ubhpx012omzzqqbe57zn4lw,Leeds United vs Liverpool,24/04/2027,14:00:00Z,Leeds United,Liverpool,48gk2hpqtsl6p9sx9kjhaydq4,c8h9bw1l82s06h77xxrelzhur
+70hy8hl0w2bkaukpc17hib28k,Everton vs Brighton & Hove Albion,24/04/2027,14:00:00Z,Everton,Brighton & Hove Albion,ehd2iemqmschhj2ec0vayztzz,e5p0ehyguld7egzhiedpdnc3w
+705hxh827srsgqxa67s1ybl78,Chelsea vs Manchester City,24/04/2027,14:00:00Z,Chelsea,Manchester City,9q0arba2kbnywth8bkxlhgmdr,a3nyxabgsqlnqfkeg41m6tnpp
+6zi1cgf9xbvvh89du9h7rnvh0,Brentford vs Fulham,24/04/2027,14:00:00Z,Brentford,Fulham,7yx5dqhhphyvfisohikodajhv,hzqh7z0mdl3v7gwete66syxp
+6z5jnxkr78oncjdglosazuck4,Aston Villa vs Coventry City,24/04/2027,14:00:00Z,Aston Villa,Coventry City,b496gs285it6bheuikox6z9mj,dacoc20k0n3fxu4zek8wufmko
+6yt3863e43iekafzg37bg3h90,Bournemouth vs Arsenal,24/04/2027,14:00:00Z,Bournemouth,Arsenal,1pse9ta7a45pi2w2grjim70ge,4dsgumo7d4zupm2ugsvm4zm4d
+6ygarybuwbe2rytjrcqxj2w44,Nottingham Forest vs Liverpool,17/04/2027,14:00:00Z,Nottingham Forest,Liverpool,1qtaiy11gswx327s0vkibf70n,c8h9bw1l82s06h77xxrelzhur
+6y43q7avi4lmv89ifrue3613o,Newcastle United vs Tottenham Hotspur,17/04/2027,14:00:00Z,Newcastle United,Tottenham Hotspur,7vn2i2kd35zuetw6b38gw9jsz,22doj4sgsocqpxw45h607udje
+6xrua1k9coccwbfa1ov2tr4t0,Manchester City vs Crystal Palace,17/04/2027,14:00:00Z,Manchester City,Crystal Palace,a3nyxabgsqlnqfkeg41m6tnpp,1c8m2ko0wxq1asfkuykurdr0y
+6xfbqt8xsmvr5pid198z18e1g,Ipswich Town vs Manchester United,17/04/2027,14:00:00Z,Ipswich Town,Manchester United,8b523ujgl21tbc01me65q0aoh,6eqit8ye8aomdsrrq0hk3v7gh
+6x2ka76ygr4ach5r07fitzk7o,Hull City vs Coventry City,17/04/2027,14:00:00Z,Hull City,Coventry City,f0figafm2v9h8ofo6slajj7xf,dacoc20k0n3fxu4zek8wufmko
+6wq2fyvcj17gyu0hoe453mdqs,Fulham vs Sunderland,17/04/2027,14:00:00Z,Fulham,Sunderland,hzqh7z0mdl3v7gwete66syxp,1r3545b2dzan8yqa80gtmcjch
+6wdmeh6jqg422a02tt4i39mok,Everton vs Bournemouth,17/04/2027,14:00:00Z,Everton,Bournemouth,ehd2iemqmschhj2ec0vayztzz,1pse9ta7a45pi2w2grjim70ge
+6w1aq5mdytz1d4au7glxdv3tg,Brighton & Hove Albion vs Chelsea,17/04/2027,14:00:00Z,Brighton & Hove Albion,Chelsea,e5p0ehyguld7egzhiedpdnc3w,9q0arba2kbnywth8bkxlhgmdr
+6vorwvfl4lsa4m4iampbwsums,Brentford vs Leeds United,17/04/2027,14:00:00Z,Brentford,Leeds United,7yx5dqhhphyvfisohikodajhv,48gk2hpqtsl6p9sx9kjhaydq4
+6vbl9un4t6rbexq1a7obd61hw,Arsenal vs Aston Villa,17/04/2027,14:00:00Z,Arsenal,Aston Villa,4dsgumo7d4zupm2ugsvm4zm4d,b496gs285it6bheuikox6z9mj
+6uyq3frv8brbh39g4vsq44cus,Tottenham Hotspur vs Brentford,10/04/2027,14:00:00Z,Tottenham Hotspur,Brentford,22doj4sgsocqpxw45h607udje,7yx5dqhhphyvfisohikodajhv
+6um7ehzggnl4hj3717k5d1yj8,Sunderland vs Ipswich Town,10/04/2027,14:00:00Z,Sunderland,Ipswich Town,1r3545b2dzan8yqa80gtmcjch,8b523ujgl21tbc01me65q0aoh
+6u9q7gkri3awnvxnyapgi77ys,Manchester United vs Hull City,10/04/2027,14:00:00Z,Manchester United,Hull City,6eqit8ye8aomdsrrq0hk3v7gh,f0figafm2v9h8ofo6slajj7xf
+6txdyketk62l3h14q6gydehp0,Liverpool vs Newcastle United,10/04/2027,14:00:00Z,Liverpool,Newcastle United,c8h9bw1l82s06h77xxrelzhur,7vn2i2kd35zuetw6b38gw9jsz
+6tkxz6ok9rnidtcjkwmqsh1jo,Leeds United vs Nottingham Forest,10/04/2027,14:00:00Z,Leeds United,Nottingham Forest,48gk2hpqtsl6p9sx9kjhaydq4,1qtaiy11gswx327s0vkibf70n
+6t8ip11wm7p5owyo9zk7vrswk,Crystal Palace vs Everton,10/04/2027,14:00:00Z,Crystal Palace,Everton,1c8m2ko0wxq1asfkuykurdr0y,ehd2iemqmschhj2ec0vayztzz
+6sw5s6nua3niccwy22jd4h72s,Coventry City vs Arsenal,10/04/2027,14:00:00Z,Coventry City,Arsenal,dacoc20k0n3fxu4zek8wufmko,4dsgumo7d4zupm2ugsvm4zm4d
+6sjsexg9ifu5c2x30ng103cic,Chelsea vs Fulham,10/04/2027,14:00:00Z,Chelsea,Fulham,9q0arba2kbnywth8bkxlhgmdr,hzqh7z0mdl3v7gwete66syxp
+6s7gfz3uufvifo0fm29j8st1w,Aston Villa vs Brighton & Hove Albion,10/04/2027,14:00:00Z,Aston Villa,Brighton & Hove Albion,b496gs285it6bheuikox6z9mj,e5p0ehyguld7egzhiedpdnc3w
+6rv0bcrbycduciqz6ixsrmvx0,Bournemouth vs Manchester City,10/04/2027,14:00:00Z,Bournemouth,Manchester City,1pse9ta7a45pi2w2grjim70ge,a3nyxabgsqlnqfkeg41m6tnpp
+6ripe08r74lnatpw7wdj4k1sk,Nottingham Forest vs Aston Villa,20/03/2027,15:00:00Z,Nottingham Forest,Aston Villa,1qtaiy11gswx327s0vkibf70n,b496gs285it6bheuikox6z9mj
+6r6b7w4xxeo23z93z6nf4hus4,Newcastle United vs Leeds United,20/03/2027,15:00:00Z,Newcastle United,Leeds United,7vn2i2kd35zuetw6b38gw9jsz,48gk2hpqtsl6p9sx9kjhaydq4
+6qtiebng21xrn0g73vojyjmdw,Manchester City vs Manchester United,20/03/2027,15:00:00Z,Manchester City,Manchester United,a3nyxabgsqlnqfkeg41m6tnpp,6eqit8ye8aomdsrrq0hk3v7gh
+6qh5aavbvxmqq85sllwmz67f8,Ipswich Town vs Crystal Palace,20/03/2027,15:00:00Z,Ipswich Town,Crystal Palace,8b523ujgl21tbc01me65q0aoh,1c8m2ko0wxq1asfkuykurdr0y
+6q4ssy86cdvxucbm2qveaidck,Hull City vs Chelsea,20/03/2027,15:00:00Z,Hull City,Chelsea,f0figafm2v9h8ofo6slajj7xf,9q0arba2kbnywth8bkxlhgmdr
+6psfmahvsj8hoxmffu5p0utqs,Fulham vs Liverpool,20/03/2027,15:00:00Z,Fulham,Liverpool,hzqh7z0mdl3v7gwete66syxp,c8h9bw1l82s06h77xxrelzhur
+6pfvnfy57g1szgomt670v4owk,Everton vs Tottenham Hotspur,20/03/2027,15:00:00Z,Everton,Tottenham Hotspur,ehd2iemqmschhj2ec0vayztzz,22doj4sgsocqpxw45h607udje
+6p3ijeqnzejd1fbbz8afbncic,Brighton & Hove Albion vs Coventry City,20/03/2027,15:00:00Z,Brighton & Hove Albion,Coventry City,e5p0ehyguld7egzhiedpdnc3w,dacoc20k0n3fxu4zek8wufmko
+6or48tr5kxxbqhi1itj4qg1lg,Brentford vs Bournemouth,20/03/2027,15:00:00Z,Brentford,Bournemouth,7yx5dqhhphyvfisohikodajhv,1pse9ta7a45pi2w2grjim70ge
+6oe1f5srj7y6l3cwvrkwtcowk,Arsenal vs Sunderland,20/03/2027,15:00:00Z,Arsenal,Sunderland,4dsgumo7d4zupm2ugsvm4zm4d,1r3545b2dzan8yqa80gtmcjch
+6o1iflfse4k2wwip5oqrag8pg,Tottenham Hotspur vs Nottingham Forest,13/03/2027,15:00:00Z,Tottenham Hotspur,Nottingham Forest,22doj4sgsocqpxw45h607udje,1qtaiy11gswx327s0vkibf70n
+6nozb645cuoqzaociskwqt1ck,Sunderland vs Brentford,13/03/2027,15:00:00Z,Sunderland,Brentford,1r3545b2dzan8yqa80gtmcjch,7yx5dqhhphyvfisohikodajhv
+6nckhgsrtkq2ki0r68195ksgk,Manchester United vs Everton,13/03/2027,15:00:00Z,Manchester United,Everton,6eqit8ye8aomdsrrq0hk3v7gh,ehd2iemqmschhj2ec0vayztzz
+6n06hujntbpcfvo0ktkz9bi8k,Liverpool vs Ipswich Town,13/03/2027,15:00:00Z,Liverpool,Ipswich Town,c8h9bw1l82s06h77xxrelzhur,8b523ujgl21tbc01me65q0aoh
+6mnolnt82esmbm8lret1cy3h0,Leeds United vs Brighton & Hove Albion,13/03/2027,15:00:00Z,Leeds United,Brighton & Hove Albion,48gk2hpqtsl6p9sx9kjhaydq4,e5p0ehyguld7egzhiedpdnc3w
+6mbcqr754wp3subl281icx72s,Crystal Palace vs Fulham,13/03/2027,15:00:00Z,Crystal Palace,Fulham,1c8m2ko0wxq1asfkuykurdr0y,hzqh7z0mdl3v7gwete66syxp
+6lyyf533375qgyi6ehyv683kk,Coventry City vs Manchester City,13/03/2027,15:00:00Z,Coventry City,Manchester City,dacoc20k0n3fxu4zek8wufmko,a3nyxabgsqlnqfkeg41m6tnpp
+6lmntdhri5okep4c5qh39rklw,Chelsea vs Arsenal,13/03/2027,15:00:00Z,Chelsea,Arsenal,9q0arba2kbnywth8bkxlhgmdr,4dsgumo7d4zupm2ugsvm4zm4d
+6lad20hapqy9xdqowllbpspp0,Aston Villa vs Hull City,13/03/2027,15:00:00Z,Aston Villa,Hull City,b496gs285it6bheuikox6z9mj,f0figafm2v9h8ofo6slajj7xf
+6ky1erjga3yjvjtpmeuhk9qfo,Bournemouth vs Newcastle United,13/03/2027,15:00:00Z,Bournemouth,Newcastle United,1pse9ta7a45pi2w2grjim70ge,7vn2i2kd35zuetw6b38gw9jsz
+6klq4lpwssfw86s087os3807o,Sunderland vs Manchester United,03/03/2027,20:00:00Z,Sunderland,Manchester United,1r3545b2dzan8yqa80gtmcjch,6eqit8ye8aomdsrrq0hk3v7gh
+6k93r32ka596ozs9easbtlel0,Nottingham Forest vs Newcastle United,03/03/2027,20:00:00Z,Nottingham Forest,Newcastle United,1qtaiy11gswx327s0vkibf70n,7vn2i2kd35zuetw6b38gw9jsz
+6jwux5ohs4xognf0ztqg6uq6s,Manchester City vs Everton,03/03/2027,20:00:00Z,Manchester City,Everton,a3nyxabgsqlnqfkeg41m6tnpp,ehd2iemqmschhj2ec0vayztzz
+6jkglz566lf1wh1e62epe50yc,Liverpool vs Aston Villa,03/03/2027,20:00:00Z,Liverpool,Aston Villa,c8h9bw1l82s06h77xxrelzhur,b496gs285it6bheuikox6z9mj
+6j7zp4xzo8xpidni1fh176wpg,Leeds United vs Hull City,03/03/2027,20:00:00Z,Leeds United,Hull City,48gk2hpqtsl6p9sx9kjhaydq4,f0figafm2v9h8ofo6slajj7xf
+6iv5xks96fvcsmivllk0ab7ro,Chelsea vs Coventry City,03/03/2027,20:00:00Z,Chelsea,Coventry City,9q0arba2kbnywth8bkxlhgmdr,dacoc20k0n3fxu4zek8wufmko
+6iiit87oagsu0ztr009fno2l0,Brighton & Hove Albion vs Fulham,03/03/2027,20:00:00Z,Brighton & Hove Albion,Fulham,e5p0ehyguld7egzhiedpdnc3w,hzqh7z0mdl3v7gwete66syxp
+6i65djb31r55ddsdccfwquvpw,Brentford vs Ipswich Town,03/03/2027,20:00:00Z,Brentford,Ipswich Town,7yx5dqhhphyvfisohikodajhv,8b523ujgl21tbc01me65q0aoh
+6ht6n6fnlkoxhizd7ur6dx3pw,Arsenal vs Crystal Palace,03/03/2027,20:00:00Z,Arsenal,Crystal Palace,4dsgumo7d4zupm2ugsvm4zm4d,1c8m2ko0wxq1asfkuykurdr0y
+6hgux3i5ehge4etsggxaqb66s,Bournemouth vs Tottenham Hotspur,03/03/2027,20:00:00Z,Bournemouth,Tottenham Hotspur,1pse9ta7a45pi2w2grjim70ge,22doj4sgsocqpxw45h607udje
+6h4loqrswxdmk3htj9l7araxg,Tottenham Hotspur vs Liverpool,27/02/2027,15:00:00Z,Tottenham Hotspur,Liverpool,22doj4sgsocqpxw45h607udje,c8h9bw1l82s06h77xxrelzhur
+6gs710yjcggupohnw6q1sn190,Newcastle United vs Brentford,27/02/2027,15:00:00Z,Newcastle United,Brentford,7vn2i2kd35zuetw6b38gw9jsz,7yx5dqhhphyvfisohikodajhv
+6gfw7jruiwgiiu8qrwmij6wpg,Manchester United vs Arsenal,27/02/2027,15:00:00Z,Manchester United,Arsenal,6eqit8ye8aomdsrrq0hk3v7gh,4dsgumo7d4zupm2ugsvm4zm4d
+6g3jh0eoli11oh0p0kskxycr8,Ipswich Town vs Brighton & Hove Albion,27/02/2027,15:00:00Z,Ipswich Town,Brighton & Hove Albion,8b523ujgl21tbc01me65q0aoh,e5p0ehyguld7egzhiedpdnc3w
+6fr0ganj9xnfmtdduhc98gtn8,Hull City vs Manchester City,27/02/2027,15:00:00Z,Hull City,Manchester City,f0figafm2v9h8ofo6slajj7xf,a3nyxabgsqlnqfkeg41m6tnpp
+6felkmhyvjhfg5cqon7cx4f10,Fulham vs Leeds United,27/02/2027,15:00:00Z,Fulham,Leeds United,hzqh7z0mdl3v7gwete66syxp,48gk2hpqtsl6p9sx9kjhaydq4
+6f2a3ldsy729545pfiobqu0wk,Everton vs Nottingham Forest,27/02/2027,15:00:00Z,Everton,Nottingham Forest,ehd2iemqmschhj2ec0vayztzz,1qtaiy11gswx327s0vkibf70n
+6eptg9027omfm290yrx2zarro,Crystal Palace vs Sunderland,27/02/2027,15:00:00Z,Crystal Palace,Sunderland,1c8m2ko0wxq1asfkuykurdr0y,1r3545b2dzan8yqa80gtmcjch
+6edgu3j21kfhn0t75g7k2ftp0,Coventry City vs Bournemouth,27/02/2027,15:00:00Z,Coventry City,Bournemouth,dacoc20k0n3fxu4zek8wufmko,1pse9ta7a45pi2w2grjim70ge
+6e0pypc4arhl3ajte777qjbbo,Aston Villa vs Chelsea,27/02/2027,15:00:00Z,Aston Villa,Chelsea,b496gs285it6bheuikox6z9mj,9q0arba2kbnywth8bkxlhgmdr
+6do6mvq7xx1ngah6h1vomsmc4,Sunderland vs Everton,20/02/2027,15:00:00Z,Sunderland,Everton,1r3545b2dzan8yqa80gtmcjch,ehd2iemqmschhj2ec0vayztzz
+6dbx5paf752ghopq7bppbzuvo,Nottingham Forest vs Manchester United,20/02/2027,15:00:00Z,Nottingham Forest,Manchester United,1qtaiy11gswx327s0vkibf70n,6eqit8ye8aomdsrrq0hk3v7gh
+6czkhghx3q0avmkf671rtvi1g,Manchester City vs Newcastle United,20/02/2027,15:00:00Z,Manchester City,Newcastle United,a3nyxabgsqlnqfkeg41m6tnpp,7vn2i2kd35zuetw6b38gw9jsz
+6cn25yf0d2vzth4xis8g8i904,Liverpool vs Hull City,20/02/2027,15:00:00Z,Liverpool,Hull City,c8h9bw1l82s06h77xxrelzhur,f0figafm2v9h8ofo6slajj7xf
+6caqnttszwwoslzua5obe4ges,Leeds United vs Aston Villa,20/02/2027,15:00:00Z,Leeds United,Aston Villa,48gk2hpqtsl6p9sx9kjhaydq4,b496gs285it6bheuikox6z9mj
+6by7cis6goxf62x9go0gl4npw,Chelsea vs Ipswich Town,20/02/2027,15:00:00Z,Chelsea,Ipswich Town,9q0arba2kbnywth8bkxlhgmdr,8b523ujgl21tbc01me65q0aoh
+6blskl9iet9oghswkswsi7qxg,Brighton & Hove Albion vs Tottenham Hotspur,20/02/2027,15:00:00Z,Brighton & Hove Albion,Tottenham Hotspur,e5p0ehyguld7egzhiedpdnc3w,22doj4sgsocqpxw45h607udje
+6b8u4ocj09ce7uwy1tt29f4lw,Brentford vs Coventry City,20/02/2027,15:00:00Z,Brentford,Coventry City,7yx5dqhhphyvfisohikodajhv,dacoc20k0n3fxu4zek8wufmko
+6awdwjwcu3gtcod5tq1qq0aac,Arsenal vs Fulham,20/02/2027,15:00:00Z,Arsenal,Fulham,4dsgumo7d4zupm2ugsvm4zm4d,hzqh7z0mdl3v7gwete66syxp
+6ajzycn2pkkhvp4pyx4zksh78,Bournemouth vs Crystal Palace,20/02/2027,15:00:00Z,Bournemouth,Crystal Palace,1pse9ta7a45pi2w2grjim70ge,1c8m2ko0wxq1asfkuykurdr0y
+6a7h15expzs7nbumx28xhnspg,Tottenham Hotspur vs Manchester City,10/02/2027,20:00:00Z,Tottenham Hotspur,Manchester City,22doj4sgsocqpxw45h607udje,a3nyxabgsqlnqfkeg41m6tnpp
+69v532fohagrsyczc8mkse0ic,Newcastle United vs Chelsea,10/02/2027,20:00:00Z,Newcastle United,Chelsea,7vn2i2kd35zuetw6b38gw9jsz,9q0arba2kbnywth8bkxlhgmdr
+69iryxlmawpa29t1r3m6hz9xw,Manchester United vs Brighton & Hove Albion,10/02/2027,20:00:00Z,Manchester United,Brighton & Hove Albion,6eqit8ye8aomdsrrq0hk3v7gh,e5p0ehyguld7egzhiedpdnc3w
+696bj8gr0c5tywtidoqy0u0ic,Ipswich Town vs Arsenal,10/02/2027,20:00:00Z,Ipswich Town,Arsenal,8b523ujgl21tbc01me65q0aoh,4dsgumo7d4zupm2ugsvm4zm4d
+68tvu5582kl9g70am7svamnf8,Hull City vs Sunderland,10/02/2027,20:00:00Z,Hull City,Sunderland,f0figafm2v9h8ofo6slajj7xf,1r3545b2dzan8yqa80gtmcjch
+68hlvc58x781rijoas8hdjyfo,Fulham vs Nottingham Forest,10/02/2027,20:00:00Z,Fulham,Nottingham Forest,hzqh7z0mdl3v7gwete66syxp,1qtaiy11gswx327s0vkibf70n
+685bw2ag5w7u7del6dj5e62vo,Everton vs Leeds United,10/02/2027,20:00:00Z,Everton,Leeds United,ehd2iemqmschhj2ec0vayztzz,48gk2hpqtsl6p9sx9kjhaydq4
+67t0lg1g4k9lpsrbavd6ex3is,Crystal Palace vs Brentford,10/02/2027,20:00:00Z,Crystal Palace,Brentford,1c8m2ko0wxq1asfkuykurdr0y,7yx5dqhhphyvfisohikodajhv
+67gram4bh84jvrlomkui8k4yc,Coventry City vs Liverpool,10/02/2027,20:00:00Z,Coventry City,Liverpool,dacoc20k0n3fxu4zek8wufmko,c8h9bw1l82s06h77xxrelzhur
+674hvoc1ts3ahu1xmj9gidw5w,Aston Villa vs Bournemouth,10/02/2027,20:00:00Z,Aston Villa,Bournemouth,b496gs285it6bheuikox6z9mj,1pse9ta7a45pi2w2grjim70ge
+66s5sy2nni050l0ayynouc2l0,Sunderland vs Aston Villa,06/02/2027,15:00:00Z,Sunderland,Aston Villa,1r3545b2dzan8yqa80gtmcjch,b496gs285it6bheuikox6z9mj
+66fv7dy6i3ms28j6effupsaok,Nottingham Forest vs Brentford,06/02/2027,15:00:00Z,Nottingham Forest,Brentford,1qtaiy11gswx327s0vkibf70n,7yx5dqhhphyvfisohikodajhv
+662tr5phnpgvhalpq9wodtgk4,Manchester United vs Chelsea,06/02/2027,15:00:00Z,Manchester United,Chelsea,6eqit8ye8aomdsrrq0hk3v7gh,9q0arba2kbnywth8bkxlhgmdr
+65qgawyjflq9pgbkzy1fhxl3o,Leeds United vs Bournemouth,06/02/2027,15:00:00Z,Leeds United,Bournemouth,48gk2hpqtsl6p9sx9kjhaydq4,1pse9ta7a45pi2w2grjim70ge
+65e4rkucmcqd4uywoy7pof2fo,Ipswich Town vs Tottenham Hotspur,06/02/2027,15:00:00Z,Ipswich Town,Tottenham Hotspur,8b523ujgl21tbc01me65q0aoh,22doj4sgsocqpxw45h607udje
+651pws1xn97k08d9cvmyf3f2s,Fulham vs Manchester City,06/02/2027,15:00:00Z,Fulham,Manchester City,hzqh7z0mdl3v7gwete66syxp,a3nyxabgsqlnqfkeg41m6tnpp
+64osr842364mt3ayod78t3tp0,Everton vs Newcastle United,06/02/2027,15:00:00Z,Everton,Newcastle United,ehd2iemqmschhj2ec0vayztzz,7vn2i2kd35zuetw6b38gw9jsz
+64cbqft4so17u042liyeltgk4,Crystal Palace vs Coventry City,06/02/2027,15:00:00Z,Crystal Palace,Coventry City,1c8m2ko0wxq1asfkuykurdr0y,dacoc20k0n3fxu4zek8wufmko
+63zyu3capan3y1g1zre7b3uvo,Brighton & Hove Albion vs Hull City,06/02/2027,15:00:00Z,Brighton & Hove Albion,Hull City,e5p0ehyguld7egzhiedpdnc3w,f0figafm2v9h8ofo6slajj7xf
+63nj2mo931v0gvj9e8fov2rdg,Arsenal vs Liverpool,06/02/2027,15:00:00Z,Arsenal,Liverpool,4dsgumo7d4zupm2ugsvm4zm4d,c8h9bw1l82s06h77xxrelzhur
+63b7mdic5mfoxv41difc9xp1w,Tottenham Hotspur vs Sunderland,30/01/2027,15:00:00Z,Tottenham Hotspur,Sunderland,22doj4sgsocqpxw45h607udje,1r3545b2dzan8yqa80gtmcjch
+62yotwjvh2v1l4y7o3fh2cjys,Newcastle United vs Brighton & Hove Albion,30/01/2027,15:00:00Z,Newcastle United,Brighton & Hove Albion,7vn2i2kd35zuetw6b38gw9jsz,e5p0ehyguld7egzhiedpdnc3w
+62m9zfhxgui7wy298yfh60xzo,Manchester City vs Arsenal,30/01/2027,15:00:00Z,Manchester City,Arsenal,a3nyxabgsqlnqfkeg41m6tnpp,4dsgumo7d4zupm2ugsvm4zm4d
+629vp7bao22pnknwinknc3i1g,Liverpool vs Everton,30/01/2027,15:00:00Z,Liverpool,Everton,c8h9bw1l82s06h77xxrelzhur,ehd2iemqmschhj2ec0vayztzz
+61xo8i62xqgmvrlmeunvikl5g,Hull City vs Crystal Palace,30/01/2027,15:00:00Z,Hull City,Crystal Palace,f0figafm2v9h8ofo6slajj7xf,1c8m2ko0wxq1asfkuykurdr0y
+61le2a14cy3zf6qx5tofx6jo4,Coventry City vs Leeds United,30/01/2027,15:00:00Z,Coventry City,Leeds United,dacoc20k0n3fxu4zek8wufmko,48gk2hpqtsl6p9sx9kjhaydq4
+618vwwczp7wvtte6y41gu6gb8,Chelsea vs Nottingham Forest,30/01/2027,15:00:00Z,Chelsea,Nottingham Forest,9q0arba2kbnywth8bkxlhgmdr,1qtaiy11gswx327s0vkibf70n
+60w7fki65xgpby2yuxc44m1p0,Brentford vs Manchester United,30/01/2027,15:00:00Z,Brentford,Manchester United,7yx5dqhhphyvfisohikodajhv,6eqit8ye8aomdsrrq0hk3v7gh
+60juc5hjpunz70wcvu6zmszro,Aston Villa vs Ipswich Town,30/01/2027,15:00:00Z,Aston Villa,Ipswich Town,b496gs285it6bheuikox6z9mj,8b523ujgl21tbc01me65q0aoh
+607f3al3esrut8tt2td5w1xxw,Bournemouth vs Fulham,30/01/2027,15:00:00Z,Bournemouth,Fulham,1pse9ta7a45pi2w2grjim70ge,hzqh7z0mdl3v7gwete66syxp
+5zux8digdkwtez0gy4i7rcwes,Sunderland vs Coventry City,23/01/2027,15:00:00Z,Sunderland,Coventry City,1r3545b2dzan8yqa80gtmcjch,dacoc20k0n3fxu4zek8wufmko
+5zi8ccxdog66tkyr7gnmykvf8,Nottingham Forest vs Bournemouth,23/01/2027,15:00:00Z,Nottingham Forest,Bournemouth,1qtaiy11gswx327s0vkibf70n,1pse9ta7a45pi2w2grjim70ge
+5z5snobv307j02fimm73i51qs,Manchester United vs Liverpool,23/01/2027,15:00:00Z,Manchester United,Liverpool,6eqit8ye8aomdsrrq0hk3v7gh,c8h9bw1l82s06h77xxrelzhur
+5yt0h6x0pi92rtw936is6pwd0,Leeds United vs Chelsea,23/01/2027,15:00:00Z,Leeds United,Chelsea,48gk2hpqtsl6p9sx9kjhaydq4,9q0arba2kbnywth8bkxlhgmdr
+5ygl9r82t532kbhg6lath2adw,Ipswich Town vs Hull City,23/01/2027,15:00:00Z,Ipswich Town,Hull City,8b523ujgl21tbc01me65q0aoh,f0figafm2v9h8ofo6slajj7xf
+5y3bypmxfehkkwil72ps3faj8,Fulham vs Aston Villa,23/01/2027,15:00:00Z,Fulham,Aston Villa,hzqh7z0mdl3v7gwete66syxp,b496gs285it6bheuikox6z9mj
+5xqxygrll9jplww9f5dcldses,Everton vs Brentford,23/01/2027,15:00:00Z,Everton,Brentford,ehd2iemqmschhj2ec0vayztzz,7yx5dqhhphyvfisohikodajhv
+5xeij6cxtbdiusnlqzzftffo4,Crystal Palace vs Tottenham Hotspur,23/01/2027,15:00:00Z,Crystal Palace,Tottenham Hotspur,1c8m2ko0wxq1asfkuykurdr0y,22doj4sgsocqpxw45h607udje
+5x25tnwn079oiqw815eijmplg,Brighton & Hove Albion vs Manchester City,23/01/2027,15:00:00Z,Brighton & Hove Albion,Manchester City,e5p0ehyguld7egzhiedpdnc3w,a3nyxabgsqlnqfkeg41m6tnpp
+5wppuia9qbrjgvqp1m19krwno,Arsenal vs Newcastle United,23/01/2027,15:00:00Z,Arsenal,Newcastle United,4dsgumo7d4zupm2ugsvm4zm4d,7vn2i2kd35zuetw6b38gw9jsz
+5wdg927xrhlzzh002l1p6otn8,Tottenham Hotspur vs Leeds United,16/01/2027,15:00:00Z,Tottenham Hotspur,Leeds United,22doj4sgsocqpxw45h607udje,48gk2hpqtsl6p9sx9kjhaydq4
+5w0c1e2fy5xklis3wgfov8dn8,Newcastle United vs Fulham,16/01/2027,15:00:00Z,Newcastle United,Fulham,7vn2i2kd35zuetw6b38gw9jsz,hzqh7z0mdl3v7gwete66syxp
+5vnrqawtq7i6h488k86nytw5w,Manchester City vs Nottingham Forest,16/01/2027,15:00:00Z,Manchester City,Nottingham Forest,a3nyxabgsqlnqfkeg41m6tnpp,1qtaiy11gswx327s0vkibf70n
+5vbawhqsd161gywr9chahrjtg,Liverpool vs Crystal Palace,16/01/2027,15:00:00Z,Liverpool,Crystal Palace,c8h9bw1l82s06h77xxrelzhur,1c8m2ko0wxq1asfkuykurdr0y
+5uyw44v2dy39iaw2pcp2ax7h0,Hull City vs Arsenal,16/01/2027,15:00:00Z,Hull City,Arsenal,f0figafm2v9h8ofo6slajj7xf,4dsgumo7d4zupm2ugsvm4zm4d
+5umhna4qqjhasxhsrd4w7zmz8,Coventry City vs Everton,16/01/2027,15:00:00Z,Coventry City,Everton,dacoc20k0n3fxu4zek8wufmko,ehd2iemqmschhj2ec0vayztzz
+5ua1deql6tpmb1kkpw6yahbf8,Chelsea vs Sunderland,16/01/2027,15:00:00Z,Chelsea,Sunderland,9q0arba2kbnywth8bkxlhgmdr,1r3545b2dzan8yqa80gtmcjch
+5txssjdjhit6nepbzii9f455g,Brentford vs Brighton & Hove Albion,16/01/2027,15:00:00Z,Brentford,Brighton & Hove Albion,7yx5dqhhphyvfisohikodajhv,e5p0ehyguld7egzhiedpdnc3w
+5tlflrszgdaz6qa2fkmf4h8no,Aston Villa vs Manchester United,16/01/2027,15:00:00Z,Aston Villa,Manchester United,b496gs285it6bheuikox6z9mj,6eqit8ye8aomdsrrq0hk3v7gh
+5t8ljcr41ni2lxez1rkijmvx0,Bournemouth vs Ipswich Town,16/01/2027,15:00:00Z,Bournemouth,Ipswich Town,1pse9ta7a45pi2w2grjim70ge,8b523ujgl21tbc01me65q0aoh
+5s75i58b6bfzf36hqmgdoxi50,Manchester United vs Newcastle United,07/01/2027,20:00:00Z,Manchester United,Newcastle United,6eqit8ye8aomdsrrq0hk3v7gh,7vn2i2kd35zuetw6b38gw9jsz
+5rupsefuatjfzhxw5acs8q2ac,Leeds United vs Manchester City,06/01/2027,20:15:00Z,Leeds United,Manchester City,48gk2hpqtsl6p9sx9kjhaydq4,a3nyxabgsqlnqfkeg41m6tnpp
+5rh3n33wyo6t00af61qbdas5w,Ipswich Town vs Coventry City,06/01/2027,19:30:00Z,Ipswich Town,Coventry City,8b523ujgl21tbc01me65q0aoh,dacoc20k0n3fxu4zek8wufmko
+5r4qmkn4lkvedvtsm6gbq893o,Fulham vs Tottenham Hotspur,06/01/2027,19:30:00Z,Fulham,Tottenham Hotspur,hzqh7z0mdl3v7gwete66syxp,22doj4sgsocqpxw45h607udje
+5qg2fhfzeov65762qdczl4f10,Crystal Palace vs Chelsea,06/01/2027,19:30:00Z,Crystal Palace,Chelsea,1c8m2ko0wxq1asfkuykurdr0y,9q0arba2kbnywth8bkxlhgmdr
+5sw99vgpykkktj0zryw8rfor8,Sunderland vs Liverpool,05/01/2027,20:15:00Z,Sunderland,Liverpool,1r3545b2dzan8yqa80gtmcjch,c8h9bw1l82s06h77xxrelzhur
+5sjghl2duu3e3sx1x1z1x9r10,Nottingham Forest vs Hull City,05/01/2027,19:30:00Z,Nottingham Forest,Hull City,1qtaiy11gswx327s0vkibf70n,f0figafm2v9h8ofo6slajj7xf
+5qsfs53qz9rxw8llefvvhzv9w,Everton vs Aston Villa,05/01/2027,19:30:00Z,Everton,Aston Villa,ehd2iemqmschhj2ec0vayztzz,b496gs285it6bheuikox6z9mj
+5q3ub3oazfknvf9sxcl7pk0t0,Brighton & Hove Albion vs Bournemouth,05/01/2027,19:30:00Z,Brighton & Hove Albion,Bournemouth,e5p0ehyguld7egzhiedpdnc3w,1pse9ta7a45pi2w2grjim70ge
+5prc4y9luqzf0nopn2hwbgkd0,Arsenal vs Brentford,05/01/2027,19:30:00Z,Arsenal,Brentford,4dsgumo7d4zupm2ugsvm4zm4d,7yx5dqhhphyvfisohikodajhv
+5oqa4vd1i84x3co6djnmj3klw,Manchester City vs Tottenham Hotspur,03/01/2027,16:30:00Z,Manchester City,Tottenham Hotspur,a3nyxabgsqlnqfkeg41m6tnpp,22doj4sgsocqpxw45h607udje
+5np4xblfzp79c0j9btw7jpes4,Chelsea vs Newcastle United,03/01/2027,14:00:00Z,Chelsea,Newcastle United,9q0arba2kbnywth8bkxlhgmdr,7vn2i2kd35zuetw6b38gw9jsz
+5mbo67e34fr1tnz5njrruo4d0,Bournemouth vs Aston Villa,02/01/2027,17:30:00Z,Bournemouth,Aston Villa,1pse9ta7a45pi2w2grjim70ge,b496gs285it6bheuikox6z9mj
+5pf0ixhsg2tf2flnwr7nz87bo,Sunderland vs Hull City,02/01/2027,15:00:00Z,Sunderland,Hull City,1r3545b2dzan8yqa80gtmcjch,f0figafm2v9h8ofo6slajj7xf
+5p2l8qsq5puiseijsntfo953o,Nottingham Forest vs Fulham,02/01/2027,15:00:00Z,Nottingham Forest,Fulham,1qtaiy11gswx327s0vkibf70n,hzqh7z0mdl3v7gwete66syxp
+5odu2x8s5mlxcl271nnq0jkes,Liverpool vs Coventry City,02/01/2027,15:00:00Z,Liverpool,Coventry City,c8h9bw1l82s06h77xxrelzhur,dacoc20k0n3fxu4zek8wufmko
+5n0fber6ck9xgd8tjp60gpel0,Brentford vs Crystal Palace,02/01/2027,15:00:00Z,Brentford,Crystal Palace,7yx5dqhhphyvfisohikodajhv,1c8m2ko0wxq1asfkuykurdr0y
+5mo07j30gwx7oizdw6ypbse8k,Arsenal vs Ipswich Town,02/01/2027,15:00:00Z,Arsenal,Ipswich Town,4dsgumo7d4zupm2ugsvm4zm4d,8b523ujgl21tbc01me65q0aoh
+5ncutcyqm37dim21ztr2n5qtw,Brighton & Hove Albion vs Manchester United,02/01/2027,12:30:00Z,Brighton & Hove Albion,Manchester United,e5p0ehyguld7egzhiedpdnc3w,6eqit8ye8aomdsrrq0hk3v7gh
+5o1jbjdl9dgssrir56ilccums,Leeds United vs Everton,01/01/2027,20:00:00Z,Leeds United,Everton,48gk2hpqtsl6p9sx9kjhaydq4,ehd2iemqmschhj2ec0vayztzz
+5kxygexjnsjgg77hml9mv0is4,Ipswich Town vs Chelsea,30/12/2026,20:15:00Z,Ipswich Town,Chelsea,8b523ujgl21tbc01me65q0aoh,9q0arba2kbnywth8bkxlhgmdr
+5ivrpxr22fwm3jjae8v2d65g4,Aston Villa vs Liverpool,30/12/2026,20:15:00Z,Aston Villa,Liverpool,b496gs285it6bheuikox6z9mj,c8h9bw1l82s06h77xxrelzhur
+5lmxochmkgj778qw80j3dkcno,Newcastle United vs Nottingham Forest,30/12/2026,19:30:00Z,Newcastle United,Nottingham Forest,7vn2i2kd35zuetw6b38gw9jsz,1qtaiy11gswx327s0vkibf70n
+5la8l0tig69lnukmmmhy7ias4,Manchester United vs Sunderland,30/12/2026,19:30:00Z,Manchester United,Sunderland,6eqit8ye8aomdsrrq0hk3v7gh,1r3545b2dzan8yqa80gtmcjch
+5k98u10rvrdf6gp4vnc5fndas,Fulham vs Arsenal,30/12/2026,19:30:00Z,Fulham,Arsenal,hzqh7z0mdl3v7gwete66syxp,4dsgumo7d4zupm2ugsvm4zm4d
+5jkiu4ubr5wzrsymqf7bhxhxw,Crystal Palace vs Bournemouth,30/12/2026,19:30:00Z,Crystal Palace,Bournemouth,1c8m2ko0wxq1asfkuykurdr0y,1pse9ta7a45pi2w2grjim70ge
+5j846ncmq6iv3t0zewvgvxu6s,Coventry City vs Brentford,30/12/2026,19:30:00Z,Coventry City,Brentford,dacoc20k0n3fxu4zek8wufmko,7yx5dqhhphyvfisohikodajhv
+5jwvtvkjnau94j6w7q0ytwnx0,Everton vs Manchester City,29/12/2026,20:15:00Z,Everton,Manchester City,ehd2iemqmschhj2ec0vayztzz,a3nyxabgsqlnqfkeg41m6tnpp
+5lz9rztmdq37vjj4017qc2n84,Tottenham Hotspur vs Brighton & Hove Albion,29/12/2026,19:30:00Z,Tottenham Hotspur,Brighton & Hove Albion,22doj4sgsocqpxw45h607udje,e5p0ehyguld7egzhiedpdnc3w
+5kljw23kqbjkysivw19vpu13o,Hull City vs Leeds United,29/12/2026,19:30:00Z,Hull City,Leeds United,f0figafm2v9h8ofo6slajj7xf,48gk2hpqtsl6p9sx9kjhaydq4
+5g4ndt2olustigl6demznb95g,Crystal Palace vs Arsenal,27/12/2026,19:00:00Z,Crystal Palace,Arsenal,1c8m2ko0wxq1asfkuykurdr0y,4dsgumo7d4zupm2ugsvm4zm4d
+5hus55kbhcz9ubuaihuqahudw,Manchester United vs Nottingham Forest,27/12/2026,16:30:00Z,Manchester United,Nottingham Forest,6eqit8ye8aomdsrrq0hk3v7gh,1qtaiy11gswx327s0vkibf70n
+5fsam5dr4sedvr99z8il9rfv8,Coventry City vs Chelsea,27/12/2026,14:00:00Z,Coventry City,Chelsea,dacoc20k0n3fxu4zek8wufmko,9q0arba2kbnywth8bkxlhgmdr
+5i74bt2qby9nu2j4gxiauo1zo,Newcastle United vs Manchester City,26/12/2026,20:00:00Z,Newcastle United,Manchester City,7vn2i2kd35zuetw6b38gw9jsz,a3nyxabgsqlnqfkeg41m6tnpp
+5h67xupg12axj9m0v6e9t4ro4,Hull City vs Liverpool,26/12/2026,17:30:00Z,Hull City,Liverpool,f0figafm2v9h8ofo6slajj7xf,c8h9bw1l82s06h77xxrelzhur
+5ijft6cqa328msiqynqry2exg,Tottenham Hotspur vs Bournemouth,26/12/2026,15:00:00Z,Tottenham Hotspur,Bournemouth,22doj4sgsocqpxw45h607udje,1pse9ta7a45pi2w2grjim70ge
+5hiibs83bel1lssctvx4hgg0k,Ipswich Town vs Brentford,26/12/2026,15:00:00Z,Ipswich Town,Brentford,8b523ujgl21tbc01me65q0aoh,7yx5dqhhphyvfisohikodajhv
+5gtu6qmzu4mcv4iiv79gp6az8,Fulham vs Brighton & Hove Albion,26/12/2026,15:00:00Z,Fulham,Brighton & Hove Albion,hzqh7z0mdl3v7gwete66syxp,e5p0ehyguld7egzhiedpdnc3w
+5gh2922vm05hyo8y0y5o4s6xg,Everton vs Sunderland,26/12/2026,15:00:00Z,Everton,Sunderland,ehd2iemqmschhj2ec0vayztzz,1r3545b2dzan8yqa80gtmcjch
+5ffrow0svll0h4kpb0z4e347o,Aston Villa vs Leeds United,26/12/2026,12:30:00Z,Aston Villa,Leeds United,b496gs285it6bheuikox6z9mj,48gk2hpqtsl6p9sx9kjhaydq4
+5d9p7pp3ad4zdmz8jxoj8azh0,Chelsea vs Aston Villa,21/12/2026,20:00:00Z,Chelsea,Aston Villa,9q0arba2kbnywth8bkxlhgmdr,b496gs285it6bheuikox6z9mj
+5c8vms7il1p110lfq50eqts7o,Arsenal vs Manchester United,20/12/2026,16:30:00Z,Arsenal,Manchester United,4dsgumo7d4zupm2ugsvm4zm4d,6eqit8ye8aomdsrrq0hk3v7gh
+5f3djj870wu5if9dt7ko50cus,Sunderland vs Crystal Palace,20/12/2026,14:00:00Z,Sunderland,Crystal Palace,1r3545b2dzan8yqa80gtmcjch,1c8m2ko0wxq1asfkuykurdr0y
+5eqvg5gnv3uxa1yy7xun6e8t0,Nottingham Forest vs Everton,20/12/2026,14:00:00Z,Nottingham Forest,Everton,1qtaiy11gswx327s0vkibf70n,ehd2iemqmschhj2ec0vayztzz
+5cxhx0hckrs87gnahaky1zz84,Brighton & Hove Albion vs Ipswich Town,20/12/2026,14:00:00Z,Brighton & Hove Albion,Ipswich Town,e5p0ehyguld7egzhiedpdnc3w,8b523ujgl21tbc01me65q0aoh
+5e238cfa8puivg2aniwviz8yc,Liverpool vs Tottenham Hotspur,19/12/2026,17:30:00Z,Liverpool,Tottenham Hotspur,c8h9bw1l82s06h77xxrelzhur,22doj4sgsocqpxw45h607udje
+5eelckwx8xntlz5dl200pg844,Manchester City vs Hull City,19/12/2026,15:00:00Z,Manchester City,Hull City,a3nyxabgsqlnqfkeg41m6tnpp,f0figafm2v9h8ofo6slajj7xf
+5dpqwsgft7uxzwl6nfh7zoj6c,Leeds United vs Fulham,19/12/2026,15:00:00Z,Leeds United,Fulham,48gk2hpqtsl6p9sx9kjhaydq4,hzqh7z0mdl3v7gwete66syxp
+5bwga14g8hm7pvkxffghi85xw,Bournemouth vs Coventry City,19/12/2026,15:00:00Z,Bournemouth,Coventry City,1pse9ta7a45pi2w2grjim70ge,dacoc20k0n3fxu4zek8wufmko
+5cl8cy4rbw4u9xs79uquqml1w,Brentford vs Newcastle United,19/12/2026,12:30:00Z,Brentford,Newcastle United,7yx5dqhhphyvfisohikodajhv,7vn2i2kd35zuetw6b38gw9jsz
+5a6t8wvxzcq8q9wrbowi0r11w,Hull City vs Tottenham Hotspur,14/12/2026,20:00:00Z,Hull City,Tottenham Hotspur,f0figafm2v9h8ofo6slajj7xf,22doj4sgsocqpxw45h607udje
+59i0kxcmgwgrud4h9cfjwdedw,Crystal Palace vs Manchester United,13/12/2026,19:00:00Z,Crystal Palace,Manchester United,1c8m2ko0wxq1asfkuykurdr0y,6eqit8ye8aomdsrrq0hk3v7gh
+595pfbebhs2hjuzkcj7sx8a38,Coventry City vs Aston Villa,13/12/2026,16:30:00Z,Coventry City,Aston Villa,dacoc20k0n3fxu4zek8wufmko,b496gs285it6bheuikox6z9mj
+5bk5c0hvynox7fi45fjoazcwk,Sunderland vs Nottingham Forest,13/12/2026,14:00:00Z,Sunderland,Nottingham Forest,1r3545b2dzan8yqa80gtmcjch,1qtaiy11gswx327s0vkibf70n
+58tbc0usxl6an1oh9cg1v53x0,Brighton & Hove Albion vs Everton,13/12/2026,14:00:00Z,Brighton & Hove Albion,Everton,e5p0ehyguld7egzhiedpdnc3w,ehd2iemqmschhj2ec0vayztzz
+58gznr7rwmgnliua3iijo89hw,Arsenal vs Bournemouth,13/12/2026,14:00:00Z,Arsenal,Bournemouth,4dsgumo7d4zupm2ugsvm4zm4d,1pse9ta7a45pi2w2grjim70ge
+5b7xfkutud1xra2vpbzayl4wk,Manchester City vs Chelsea,12/12/2026,17:30:00Z,Manchester City,Chelsea,a3nyxabgsqlnqfkeg41m6tnpp,9q0arba2kbnywth8bkxlhgmdr
+5avjp0mqmtga7d84s0w7tpct0,Liverpool vs Leeds United,12/12/2026,15:00:00Z,Liverpool,Leeds United,c8h9bw1l82s06h77xxrelzhur,48gk2hpqtsl6p9sx9kjhaydq4
+5aj8rycv5qm3zq4llhgbl8t1w,Ipswich Town vs Newcastle United,12/12/2026,15:00:00Z,Ipswich Town,Newcastle United,8b523ujgl21tbc01me65q0aoh,7vn2i2kd35zuetw6b38gw9jsz
+59uetp1np8jwtpme47ah0vm6s,Fulham vs Brentford,12/12/2026,15:00:00Z,Fulham,Brentford,hzqh7z0mdl3v7gwete66syxp,7yx5dqhhphyvfisohikodajhv
+584lckogb2y11cgn9r6svik9g,Tottenham Hotspur vs Arsenal,06/12/2026,16:30:00Z,Tottenham Hotspur,Arsenal,22doj4sgsocqpxw45h607udje,4dsgumo7d4zupm2ugsvm4zm4d
+57fn4z2q2jhbwena9qk8fg3ro,Newcastle United vs Sunderland,06/12/2026,14:00:00Z,Newcastle United,Sunderland,7vn2i2kd35zuetw6b38gw9jsz,1r3545b2dzan8yqa80gtmcjch
+56eihtaseixzywyqswi67r95g,Everton vs Fulham,06/12/2026,14:00:00Z,Everton,Fulham,ehd2iemqmschhj2ec0vayztzz,hzqh7z0mdl3v7gwete66syxp
+55pp8b8cyxpiy72sczz29b384,Brentford vs Manchester City,05/12/2026,20:00:00Z,Brentford,Manchester City,7yx5dqhhphyvfisohikodajhv,a3nyxabgsqlnqfkeg41m6tnpp
+57s32jq6prz7t3jxzaketqfis,Nottingham Forest vs Brighton & Hove Albion,05/12/2026,17:30:00Z,Nottingham Forest,Brighton & Hove Albion,1qtaiy11gswx327s0vkibf70n,e5p0ehyguld7egzhiedpdnc3w
+573b0ixr5iimdkxglz3jrkmj8,Manchester United vs Coventry City,05/12/2026,15:00:00Z,Manchester United,Coventry City,6eqit8ye8aomdsrrq0hk3v7gh,dacoc20k0n3fxu4zek8wufmko
+56qzrrgzz1b8tzdpgvac7ehas,Leeds United vs Ipswich Town,05/12/2026,15:00:00Z,Leeds United,Ipswich Town,48gk2hpqtsl6p9sx9kjhaydq4,8b523ujgl21tbc01me65q0aoh
+55daddblcrppejid4vu4aoaok,Aston Villa vs Crystal Palace,05/12/2026,15:00:00Z,Aston Villa,Crystal Palace,b496gs285it6bheuikox6z9mj,1c8m2ko0wxq1asfkuykurdr0y
+550j9jxj63vkn3k11wf338gt0,Bournemouth vs Hull City,05/12/2026,15:00:00Z,Bournemouth,Hull City,1pse9ta7a45pi2w2grjim70ge,f0figafm2v9h8ofo6slajj7xf
+5624cul5b9zx5jb207e8ea51w,Chelsea vs Liverpool,05/12/2026,12:30:00Z,Chelsea,Liverpool,9q0arba2kbnywth8bkxlhgmdr,c8h9bw1l82s06h77xxrelzhur
+54o6696j9950up6ebiks6ip78,Tottenham Hotspur vs Fulham,03/12/2026,20:00:00Z,Tottenham Hotspur,Fulham,22doj4sgsocqpxw45h607udje,hzqh7z0mdl3v7gwete66syxp
+54bt4z6uy616ht0uuwwsierro,Newcastle United vs Manchester United,02/12/2026,20:15:00Z,Newcastle United,Manchester United,7vn2i2kd35zuetw6b38gw9jsz,6eqit8ye8aomdsrrq0hk3v7gh
+528zl2icfwoc7korh1rbw9d04,Brentford vs Arsenal,02/12/2026,20:15:00Z,Brentford,Arsenal,7yx5dqhhphyvfisohikodajhv,4dsgumo7d4zupm2ugsvm4zm4d
+51wjt0puoi72ifaitud1stslw,Aston Villa vs Everton,02/12/2026,20:15:00Z,Aston Villa,Everton,b496gs285it6bheuikox6z9mj,ehd2iemqmschhj2ec0vayztzz
+51k68t843d19lpl1nszm2fs44,Bournemouth vs Brighton & Hove Albion,02/12/2026,20:15:00Z,Bournemouth,Brighton & Hove Albion,1pse9ta7a45pi2w2grjim70ge,e5p0ehyguld7egzhiedpdnc3w
+53z04m6lha8l3b3g8jf19xes4,Manchester City vs Leeds United,02/12/2026,19:30:00Z,Manchester City,Leeds United,a3nyxabgsqlnqfkeg41m6tnpp,48gk2hpqtsl6p9sx9kjhaydq4
+53mk1jiw224x1ku63z2bp06j8,Liverpool vs Sunderland,02/12/2026,19:30:00Z,Liverpool,Sunderland,c8h9bw1l82s06h77xxrelzhur,1r3545b2dzan8yqa80gtmcjch
+53a27wjesgizejpszo91w3fo4,Hull City vs Nottingham Forest,02/12/2026,19:30:00Z,Hull City,Nottingham Forest,f0figafm2v9h8ofo6slajj7xf,1qtaiy11gswx327s0vkibf70n
+52lc0z39gxa6uopeg4xcflwd0,Chelsea vs Crystal Palace,02/12/2026,19:30:00Z,Chelsea,Crystal Palace,9q0arba2kbnywth8bkxlhgmdr,1c8m2ko0wxq1asfkuykurdr0y
+52xqxvu7y7hc67mvhinj4cums,Coventry City vs Ipswich Town,01/12/2026,20:00:00Z,Coventry City,Ipswich Town,dacoc20k0n3fxu4zek8wufmko,8b523ujgl21tbc01me65q0aoh
+4y511icl4rh1gdodgh8yfyuj8,Arsenal vs Manchester City,29/11/2026,16:30:00Z,Arsenal,Manchester City,4dsgumo7d4zupm2ugsvm4zm4d,a3nyxabgsqlnqfkeg41m6tnpp
+517yiaqo5ate11vb50dzqjxg4,Sunderland vs Tottenham Hotspur,29/11/2026,14:05:00Z,Sunderland,Tottenham Hotspur,1r3545b2dzan8yqa80gtmcjch,22doj4sgsocqpxw45h607udje
+4ziiy3aasjo4n1tb3ebo2qmfo,Fulham vs Bournemouth,29/11/2026,14:05:00Z,Fulham,Bournemouth,hzqh7z0mdl3v7gwete66syxp,1pse9ta7a45pi2w2grjim70ge
+4ytv1n33103848wg5nyl9kro4,Crystal Palace vs Hull City,29/11/2026,14:05:00Z,Crystal Palace,Hull City,1c8m2ko0wxq1asfkuykurdr0y,f0figafm2v9h8ofo6slajj7xf
+4yhdm5euzrw8hrcpxudi4ww0k,Brighton & Hove Albion vs Newcastle United,29/11/2026,14:05:00Z,Brighton & Hove Albion,Newcastle United,e5p0ehyguld7egzhiedpdnc3w,7vn2i2kd35zuetw6b38gw9jsz
+4z662ui6nyfuzjmsmyuwq6dxw,Everton vs Liverpool,29/11/2026,12:00:00Z,Everton,Liverpool,ehd2iemqmschhj2ec0vayztzz,c8h9bw1l82s06h77xxrelzhur
+4zurtmi011eq32l7f6zze9mvo,Ipswich Town vs Aston Villa,28/11/2026,17:30:00Z,Ipswich Town,Aston Villa,8b523ujgl21tbc01me65q0aoh,b496gs285it6bheuikox6z9mj
+50jewe5a2x1vi9xqmjovi63o4,Manchester United vs Brentford,28/11/2026,15:00:00Z,Manchester United,Brentford,6eqit8ye8aomdsrrq0hk3v7gh,7yx5dqhhphyvfisohikodajhv
+50740jm2kvu0czl8o7kwiw8pg,Leeds United vs Coventry City,28/11/2026,15:00:00Z,Leeds United,Coventry City,48gk2hpqtsl6p9sx9kjhaydq4,dacoc20k0n3fxu4zek8wufmko
+50voo5vk1cmq1r4gjo2dwh4pg,Nottingham Forest vs Chelsea,27/11/2026,20:00:00Z,Nottingham Forest,Chelsea,1qtaiy11gswx327s0vkibf70n,9q0arba2kbnywth8bkxlhgmdr
+4veowc3ye0ziovl62553c2g44,Brentford vs Everton,23/11/2026,20:00:00Z,Brentford,Everton,7yx5dqhhphyvfisohikodajhv,ehd2iemqmschhj2ec0vayztzz
+4wrsp64aq5fpx9pq0b76gdlhw,Liverpool vs Manchester United,22/11/2026,16:30:00Z,Liverpool,Manchester United,c8h9bw1l82s06h77xxrelzhur,6eqit8ye8aomdsrrq0hk3v7gh
+4wfi4qj9ndn19vvw8gc5e71n8,Hull City vs Brighton & Hove Albion,22/11/2026,14:00:00Z,Hull City,Brighton & Hove Albion,f0figafm2v9h8ofo6slajj7xf,e5p0ehyguld7egzhiedpdnc3w
+4xgd5lkdaorn0jxd9qsx1rqxg,Newcastle United vs Arsenal,21/11/2026,17:30:00Z,Newcastle United,Arsenal,7vn2i2kd35zuetw6b38gw9jsz,4dsgumo7d4zupm2ugsvm4zm4d
+4xsnkddrdioejztg91k7ducyc,Tottenham Hotspur vs Ipswich Town,21/11/2026,15:00:00Z,Tottenham Hotspur,Ipswich Town,22doj4sgsocqpxw45h607udje,8b523ujgl21tbc01me65q0aoh
+4w3atupelzlb2at14x7zk7578,Coventry City vs Crystal Palace,21/11/2026,15:00:00Z,Coventry City,Crystal Palace,dacoc20k0n3fxu4zek8wufmko,1c8m2ko0wxq1asfkuykurdr0y
+4vqxpltefcdchpzkgwz3yr310,Chelsea vs Leeds United,21/11/2026,15:00:00Z,Chelsea,Leeds United,9q0arba2kbnywth8bkxlhgmdr,48gk2hpqtsl6p9sx9kjhaydq4
+4v2b3zg4479svvku6mezupfro,Aston Villa vs Sunderland,21/11/2026,15:00:00Z,Aston Villa,Sunderland,b496gs285it6bheuikox6z9mj,1r3545b2dzan8yqa80gtmcjch
+4uq3dwjemb2o2xavhsk9wszdg,Bournemouth vs Nottingham Forest,21/11/2026,15:00:00Z,Bournemouth,Nottingham Forest,1pse9ta7a45pi2w2grjim70ge,1qtaiy11gswx327s0vkibf70n
+4x42j8f8ikdvp1z6nmqoxstn8,Manchester City vs Fulham,21/11/2026,12:30:00Z,Manchester City,Fulham,a3nyxabgsqlnqfkeg41m6tnpp,hzqh7z0mdl3v7gwete66syxp
+4tp842gtjqyx0bbp23n3em9zo,Manchester United vs Aston Villa,08/11/2026,16:30:00Z,Manchester United,Aston Villa,6eqit8ye8aomdsrrq0hk3v7gh,b496gs285it6bheuikox6z9mj
+4udr40bbnxxk2p3gvjc4ksa38,Sunderland vs Chelsea,08/11/2026,14:00:00Z,Sunderland,Chelsea,1r3545b2dzan8yqa80gtmcjch,9q0arba2kbnywth8bkxlhgmdr
+4t0kj0d23mecwwrpni9lebvh0,Ipswich Town vs Bournemouth,08/11/2026,14:00:00Z,Ipswich Town,Bournemouth,8b523ujgl21tbc01me65q0aoh,1pse9ta7a45pi2w2grjim70ge
+4rzggs7gqjqkev8uodw9nd1xw,Crystal Palace vs Liverpool,08/11/2026,14:00:00Z,Crystal Palace,Liverpool,1c8m2ko0wxq1asfkuykurdr0y,c8h9bw1l82s06h77xxrelzhur
+4rl64g43l669h2o5d0ezt3578,Brighton & Hove Albion vs Brentford,08/11/2026,14:00:00Z,Brighton & Hove Albion,Brentford,e5p0ehyguld7egzhiedpdnc3w,7yx5dqhhphyvfisohikodajhv
+4u1k5749ii8osii3y6ornxq8k,Nottingham Forest vs Manchester City,07/11/2026,17:30:00Z,Nottingham Forest,Manchester City,1qtaiy11gswx327s0vkibf70n,a3nyxabgsqlnqfkeg41m6tnpp
+4so8347i4izxb1tz0389f39jo,Fulham vs Newcastle United,07/11/2026,15:00:00Z,Fulham,Newcastle United,hzqh7z0mdl3v7gwete66syxp,7vn2i2kd35zuetw6b38gw9jsz
+4r89qpxwvwa8fk2nohapha3o4,Arsenal vs Hull City,07/11/2026,15:00:00Z,Arsenal,Hull City,4dsgumo7d4zupm2ugsvm4zm4d,f0figafm2v9h8ofo6slajj7xf
+4td0q5thw5doxepvancz4skd0,Leeds United vs Tottenham Hotspur,07/11/2026,12:30:00Z,Leeds United,Tottenham Hotspur,48gk2hpqtsl6p9sx9kjhaydq4,22doj4sgsocqpxw45h607udje
+4sbvntlrcii2yfgkq0rdnd1xw,Everton vs Coventry City,06/11/2026,20:00:00Z,Everton,Coventry City,ehd2iemqmschhj2ec0vayztzz,dacoc20k0n3fxu4zek8wufmko
+4qjixhdd2f9gezkf1h74ret5g,Newcastle United vs Everton,02/11/2026,20:00:00Z,Newcastle United,Everton,7vn2i2kd35zuetw6b38gw9jsz,ehd2iemqmschhj2ec0vayztzz
+4puow2c0vlsgh93x62dhbymms,Liverpool vs Arsenal,01/11/2026,16:30:00Z,Liverpool,Arsenal,c8h9bw1l82s06h77xxrelzhur,4dsgumo7d4zupm2ugsvm4zm4d
+4o4rufwm3s1q40tk3ycltku1g,Aston Villa vs Fulham,31/10/2026,20:00:00Z,Aston Villa,Fulham,b496gs285it6bheuikox6z9mj,hzqh7z0mdl3v7gwete66syxp
+4qvyalwcljbxbkm7jsujlg6j8,Tottenham Hotspur vs Crystal Palace,31/10/2026,17:30:00Z,Tottenham Hotspur,Crystal Palace,22doj4sgsocqpxw45h607udje,1c8m2ko0wxq1asfkuykurdr0y
+4q7435ng87zcog6oo7tnugb2s,Manchester City vs Brighton & Hove Albion,31/10/2026,15:00:00Z,Manchester City,Brighton & Hove Albion,a3nyxabgsqlnqfkeg41m6tnpp,e5p0ehyguld7egzhiedpdnc3w
+4pi7i7z79l8iotr00ev7ugu1g,Hull City vs Ipswich Town,31/10/2026,15:00:00Z,Hull City,Ipswich Town,f0figafm2v9h8ofo6slajj7xf,8b523ujgl21tbc01me65q0aoh
+4p5x2v91kk8ag0wx59qi51puc,Coventry City vs Sunderland,31/10/2026,15:00:00Z,Coventry City,Sunderland,dacoc20k0n3fxu4zek8wufmko,1r3545b2dzan8yqa80gtmcjch
+4oh5hbmm8f67d46idn1vikrh0,Brentford vs Nottingham Forest,31/10/2026,15:00:00Z,Brentford,Nottingham Forest,7yx5dqhhphyvfisohikodajhv,1qtaiy11gswx327s0vkibf70n
+4ns7ytn6kjicdsbftfttvl9g4,Bournemouth vs Leeds United,31/10/2026,15:00:00Z,Bournemouth,Leeds United,1pse9ta7a45pi2w2grjim70ge,48gk2hpqtsl6p9sx9kjhaydq4
+4othg6zhiyox0rivijbld3swk,Chelsea vs Manchester United,31/10/2026,12:30:00Z,Chelsea,Manchester United,9q0arba2kbnywth8bkxlhgmdr,6eqit8ye8aomdsrrq0hk3v7gh
+4nfrui6ejgrtoklvnhthn7itw,Sunderland vs Leeds United,25/10/2026,16:30:00Z,Sunderland,Leeds United,1r3545b2dzan8yqa80gtmcjch,48gk2hpqtsl6p9sx9kjhaydq4
+4n3frqf8oggpkxs3v2rc0ry8k,Manchester United vs Bournemouth,25/10/2026,14:00:00Z,Manchester United,Bournemouth,6eqit8ye8aomdsrrq0hk3v7gh,1pse9ta7a45pi2w2grjim70ge
+4mr2fpdoxrh2o9m6dj4lpopw4,Liverpool vs Brighton & Hove Albion,25/10/2026,14:00:00Z,Liverpool,Brighton & Hove Albion,c8h9bw1l82s06h77xxrelzhur,e5p0ehyguld7egzhiedpdnc3w
+4m2a2k3grc513iy0rnlif3uvo,Hull City vs Brentford,25/10/2026,14:00:00Z,Hull City,Brentford,f0figafm2v9h8ofo6slajj7xf,7yx5dqhhphyvfisohikodajhv
+4lpv8sflfhjjzuchmwc3ra044,Crystal Palace vs Newcastle United,25/10/2026,14:00:00Z,Crystal Palace,Newcastle United,1c8m2ko0wxq1asfkuykurdr0y,7vn2i2kd35zuetw6b38gw9jsz
+4l1660rx10dpak25e9nmsisr8,Chelsea vs Tottenham Hotspur,24/10/2026,16:30:00Z,Chelsea,Tottenham Hotspur,9q0arba2kbnywth8bkxlhgmdr,22doj4sgsocqpxw45h607udje
+4ldnthn6008rbss5s6rtumo7o,Coventry City vs Fulham,24/10/2026,14:00:00Z,Coventry City,Fulham,dacoc20k0n3fxu4zek8wufmko,hzqh7z0mdl3v7gwete66syxp
+4kc7fdehz6sv99vvg40sp2yvo,Arsenal vs Everton,24/10/2026,14:00:00Z,Arsenal,Everton,4dsgumo7d4zupm2ugsvm4zm4d,ehd2iemqmschhj2ec0vayztzz
+4kovg95px5v2zo09qs9md8cgk,Aston Villa vs Manchester City,24/10/2026,11:30:00Z,Aston Villa,Manchester City,b496gs285it6bheuikox6z9mj,a3nyxabgsqlnqfkeg41m6tnpp
+4menn6y99opv9bjtltni9faxg,Ipswich Town vs Nottingham Forest,23/10/2026,19:00:00Z,Ipswich Town,Nottingham Forest,8b523ujgl21tbc01me65q0aoh,1qtaiy11gswx327s0vkibf70n
+4jzrwlbjz3g6rdfsb2bzezmdw,Tottenham Hotspur vs Coventry City,19/10/2026,19:00:00Z,Tottenham Hotspur,Coventry City,22doj4sgsocqpxw45h607udje,dacoc20k0n3fxu4zek8wufmko
+4jnc5oa6ta5avt8amdcunz8r8,Nottingham Forest vs Arsenal,18/10/2026,15:30:00Z,Nottingham Forest,Arsenal,1qtaiy11gswx327s0vkibf70n,4dsgumo7d4zupm2ugsvm4zm4d
+4im1i75y6j3aow3jgfvz2u2hg,Leeds United vs Manchester United,18/10/2026,13:00:00Z,Leeds United,Manchester United,48gk2hpqtsl6p9sx9kjhaydq4,6eqit8ye8aomdsrrq0hk3v7gh
+4hktrud73j8uystb2jsp1gc2c,Brighton & Hove Albion vs Crystal Palace,18/10/2026,13:00:00Z,Brighton & Hove Albion,Crystal Palace,e5p0ehyguld7egzhiedpdnc3w,1c8m2ko0wxq1asfkuykurdr0y
+4gw5jqw8d8q4rob9mrndf2k9g,Bournemouth vs Sunderland,18/10/2026,13:00:00Z,Bournemouth,Sunderland,1pse9ta7a45pi2w2grjim70ge,1r3545b2dzan8yqa80gtmcjch
+4javirh6ixq84grdzlciafdw4,Newcastle United vs Aston Villa,17/10/2026,16:30:00Z,Newcastle United,Aston Villa,7vn2i2kd35zuetw6b38gw9jsz,b496gs285it6bheuikox6z9mj
+4iyiiuk7cxberkv3t2myuv95g,Manchester City vs Ipswich Town,17/10/2026,14:00:00Z,Manchester City,Ipswich Town,a3nyxabgsqlnqfkeg41m6tnpp,8b523ujgl21tbc01me65q0aoh
+4i9pyemat9nta35ao51zr4aok,Fulham vs Hull City,17/10/2026,14:00:00Z,Fulham,Hull City,hzqh7z0mdl3v7gwete66syxp,f0figafm2v9h8ofo6slajj7xf
+4h8foczvol1zhy7usmy11maz8,Brentford vs Liverpool,17/10/2026,14:00:00Z,Brentford,Liverpool,7yx5dqhhphyvfisohikodajhv,c8h9bw1l82s06h77xxrelzhur
+4hxbc4v9rbvzofyoku22ebbpw,Everton vs Chelsea,17/10/2026,11:30:00Z,Everton,Chelsea,ehd2iemqmschhj2ec0vayztzz,9q0arba2kbnywth8bkxlhgmdr
+4egq70v53sjh7a2ll4qw3vz10,Coventry City vs Newcastle United,12/10/2026,19:00:00Z,Coventry City,Newcastle United,dacoc20k0n3fxu4zek8wufmko,7vn2i2kd35zuetw6b38gw9jsz
+4funfoy0bxp3y7thhhbxnbk7o,Liverpool vs Manchester City,11/10/2026,15:30:00Z,Liverpool,Manchester City,c8h9bw1l82s06h77xxrelzhur,a3nyxabgsqlnqfkeg41m6tnpp
+4f5zpfadwx2i2gdvlssm52iac,Hull City vs Everton,11/10/2026,13:00:00Z,Hull City,Everton,f0figafm2v9h8ofo6slajj7xf,ehd2iemqmschhj2ec0vayztzz
+4etqbp13pk1u891po4h5e0zkk,Crystal Palace vs Nottingham Forest,11/10/2026,13:00:00Z,Crystal Palace,Nottingham Forest,1c8m2ko0wxq1asfkuykurdr0y,1qtaiy11gswx327s0vkibf70n
+4g75p1zyxl4j8c7wmeo4ezor8,Manchester United vs Tottenham Hotspur,10/10/2026,16:30:00Z,Manchester United,Tottenham Hotspur,6eqit8ye8aomdsrrq0hk3v7gh,22doj4sgsocqpxw45h607udje
+4gjpgi1ro54wpsdyszerqkd90,Sunderland vs Brighton & Hove Albion,10/10/2026,14:00:00Z,Sunderland,Brighton & Hove Albion,1r3545b2dzan8yqa80gtmcjch,e5p0ehyguld7egzhiedpdnc3w
+4fi88wq0dav2nku2er9hno104,Ipswich Town vs Fulham,10/10/2026,14:00:00Z,Ipswich Town,Fulham,8b523ujgl21tbc01me65q0aoh,hzqh7z0mdl3v7gwete66syxp
+4e49rik2nzapnydfefykkhkic,Chelsea vs Bournemouth,10/10/2026,14:00:00Z,Chelsea,Bournemouth,9q0arba2kbnywth8bkxlhgmdr,1pse9ta7a45pi2w2grjim70ge
+4drsuw1f48ivwefp3vd6fi61g,Aston Villa vs Brentford,10/10/2026,14:00:00Z,Aston Villa,Brentford,b496gs285it6bheuikox6z9mj,7yx5dqhhphyvfisohikodajhv
+4dfeuonuytszjsligsh4vuexg,Arsenal vs Leeds United,10/10/2026,11:30:00Z,Arsenal,Leeds United,4dsgumo7d4zupm2ugsvm4zm4d,48gk2hpqtsl6p9sx9kjhaydq4
+4bdh1k5miiggomnrfvy7egb2s,Fulham vs Manchester United,20/09/2026,15:30:00Z,Fulham,Manchester United,hzqh7z0mdl3v7gwete66syxp,6eqit8ye8aomdsrrq0hk3v7gh
+4c25rlhvkcbs10hrimy0g04d0,Manchester City vs Sunderland,20/09/2026,13:00:00Z,Manchester City,Sunderland,a3nyxabgsqlnqfkeg41m6tnpp,1r3545b2dzan8yqa80gtmcjch
+4bpw8slei74daupau2ykm94pg,Leeds United vs Crystal Palace,20/09/2026,13:00:00Z,Leeds United,Crystal Palace,48gk2hpqtsl6p9sx9kjhaydq4,1c8m2ko0wxq1asfkuykurdr0y
+4a02bpu58i6coz6znfsom036c,Bournemouth vs Liverpool,20/09/2026,13:00:00Z,Bournemouth,Liverpool,1pse9ta7a45pi2w2grjim70ge,c8h9bw1l82s06h77xxrelzhur
+4cqqn9ika412c1oni7qp3okr8,Nottingham Forest vs Coventry City,19/09/2026,16:30:00Z,Nottingham Forest,Coventry City,1qtaiy11gswx327s0vkibf70n,dacoc20k0n3fxu4zek8wufmko
+4cegp76qyw1gbmr5g6ay3ff9w,Newcastle United vs Hull City,19/09/2026,14:00:00Z,Newcastle United,Hull City,7vn2i2kd35zuetw6b38gw9jsz,f0figafm2v9h8ofo6slajj7xf
+4b13m8wmzbe553745oaid4u1g,Everton vs Ipswich Town,19/09/2026,14:00:00Z,Everton,Ipswich Town,ehd2iemqmschhj2ec0vayztzz,8b523ujgl21tbc01me65q0aoh
+4aork3roy705vtmxjs4ichhck,Brighton & Hove Albion vs Arsenal,19/09/2026,14:00:00Z,Brighton & Hove Albion,Arsenal,e5p0ehyguld7egzhiedpdnc3w,4dsgumo7d4zupm2ugsvm4zm4d
+4d34tyqtozntqvmvslwkr58no,Tottenham Hotspur vs Aston Villa,19/09/2026,11:30:00Z,Tottenham Hotspur,Aston Villa,22doj4sgsocqpxw45h607udje,b496gs285it6bheuikox6z9mj
+4accr4wsq3tdmnz0arn5e0t90,Brentford vs Chelsea,18/09/2026,19:00:00Z,Brentford,Chelsea,7yx5dqhhphyvfisohikodajhv,9q0arba2kbnywth8bkxlhgmdr
+48aird0y0iwyt5r5he4o9474k,Leeds United vs Newcastle United,14/09/2026,19:00:00Z,Leeds United,Newcastle United,48gk2hpqtsl6p9sx9kjhaydq4,7vn2i2kd35zuetw6b38gw9jsz
+48z6gh2pq3ycstu7r7zhaq7f8,Manchester United vs Manchester City,13/09/2026,15:30:00Z,Manchester United,Manchester City,6eqit8ye8aomdsrrq0hk3v7gh,a3nyxabgsqlnqfkeg41m6tnpp
+47lty5binhtq56cij0a1ibi1g,Coventry City vs Brighton & Hove Albion,13/09/2026,13:00:00Z,Coventry City,Brighton & Hove Albion,dacoc20k0n3fxu4zek8wufmko,e5p0ehyguld7egzhiedpdnc3w
+49bge6tbymd5aaw88zl3trgno,Sunderland vs Arsenal,12/09/2026,19:00:00Z,Sunderland,Arsenal,1r3545b2dzan8yqa80gtmcjch,4dsgumo7d4zupm2ugsvm4zm4d
+49nqhm11erhj0q7ktzt7bcdg4,Tottenham Hotspur vs Everton,12/09/2026,16:30:00Z,Tottenham Hotspur,Everton,22doj4sgsocqpxw45h607udje,ehd2iemqmschhj2ec0vayztzz
+48mw1s8v0qhii5if1m4yvf3f8,Liverpool vs Fulham,12/09/2026,14:00:00Z,Liverpool,Fulham,c8h9bw1l82s06h77xxrelzhur,hzqh7z0mdl3v7gwete66syxp
+47y7rm3fy0wp7vx8vj89hxt04,Crystal Palace vs Ipswich Town,12/09/2026,14:00:00Z,Crystal Palace,Ipswich Town,1c8m2ko0wxq1asfkuykurdr0y,8b523ujgl21tbc01me65q0aoh
+47987470fmi9lh22nm3ovpl3o,Chelsea vs Hull City,12/09/2026,14:00:00Z,Chelsea,Hull City,9q0arba2kbnywth8bkxlhgmdr,f0figafm2v9h8ofo6slajj7xf
+46wtoyb4dsmnjq9kw2652pwd0,Aston Villa vs Nottingham Forest,12/09/2026,14:00:00Z,Aston Villa,Nottingham Forest,b496gs285it6bheuikox6z9mj,1qtaiy11gswx327s0vkibf70n
+46keym6q0h6l0kgzluk84he6s,Bournemouth vs Brentford,12/09/2026,14:00:00Z,Bournemouth,Brentford,1pse9ta7a45pi2w2grjim70ge,7yx5dqhhphyvfisohikodajhv
+434k88c48bhwdqrkp8muqp1jo,Arsenal vs Chelsea,06/09/2026,15:30:00Z,Arsenal,Chelsea,4dsgumo7d4zupm2ugsvm4zm4d,9q0arba2kbnywth8bkxlhgmdr
+445lpt3o7zph0b4hxgg8kpdsk,Everton vs Manchester United,06/09/2026,13:00:00Z,Everton,Manchester United,ehd2iemqmschhj2ec0vayztzz,6eqit8ye8aomdsrrq0hk3v7gh
+44uaj06204zl4ewsec3uhc6qc,Hull City vs Aston Villa,05/09/2026,16:30:00Z,Hull City,Aston Villa,f0figafm2v9h8ofo6slajj7xf,b496gs285it6bheuikox6z9mj
+467zh1mrggui2e8hj64ztirro,Nottingham Forest vs Tottenham Hotspur,05/09/2026,14:00:00Z,Nottingham Forest,Tottenham Hotspur,1qtaiy11gswx327s0vkibf70n,22doj4sgsocqpxw45h607udje
+45j4mvjg8w419d15dhupjdlp0,Manchester City vs Coventry City,05/09/2026,14:00:00Z,Manchester City,Coventry City,a3nyxabgsqlnqfkeg41m6tnpp,dacoc20k0n3fxu4zek8wufmko
+44hxnqqwany6x13xgeg2am238,Fulham vs Crystal Palace,05/09/2026,14:00:00Z,Fulham,Crystal Palace,hzqh7z0mdl3v7gwete66syxp,1c8m2ko0wxq1asfkuykurdr0y
+43t7qbr8buk1s37329ht3pa1g,Brighton & Hove Albion vs Leeds United,05/09/2026,14:00:00Z,Brighton & Hove Albion,Leeds United,e5p0ehyguld7egzhiedpdnc3w,48gk2hpqtsl6p9sx9kjhaydq4
+43gvmueb9hvvlbjftmmpypzis,Brentford vs Sunderland,05/09/2026,14:00:00Z,Brentford,Sunderland,7yx5dqhhphyvfisohikodajhv,1r3545b2dzan8yqa80gtmcjch
+45vj5sy88ps31vik1s69deot0,Newcastle United vs Bournemouth,05/09/2026,11:30:00Z,Newcastle United,Bournemouth,7vn2i2kd35zuetw6b38gw9jsz,1pse9ta7a45pi2w2grjim70ge
+456r7l56tjgjsbqaqmgdm9zis,Ipswich Town vs Liverpool,04/09/2026,19:00:00Z,Ipswich Town,Liverpool,8b523ujgl21tbc01me65q0aoh,c8h9bw1l82s06h77xxrelzhur
+3zzcrcpu0s0jll1qgh4moe61g,Aston Villa vs Arsenal,31/08/2026,19:00:00Z,Aston Villa,Arsenal,b496gs285it6bheuikox6z9mj,4dsgumo7d4zupm2ugsvm4zm4d
+422vd3oj6haw9xll17akl4qvo,Manchester United vs Ipswich Town,30/08/2026,15:30:00Z,Manchester United,Ipswich Town,6eqit8ye8aomdsrrq0hk3v7gh,8b523ujgl21tbc01me65q0aoh
+42f91wyn0h0g752w5571bx1qs,Sunderland vs Fulham,30/08/2026,13:00:00Z,Sunderland,Fulham,1r3545b2dzan8yqa80gtmcjch,hzqh7z0mdl3v7gwete66syxp
+41dnjd3d56plx2q9z6tx4f6dw,Leeds United vs Brentford,30/08/2026,13:00:00Z,Leeds United,Brentford,48gk2hpqtsl6p9sx9kjhaydq4,7yx5dqhhphyvfisohikodajhv
+40c1vmb9vw5uej4dtni094jro,Chelsea vs Brighton & Hove Albion,30/08/2026,13:00:00Z,Chelsea,Brighton & Hove Albion,9q0arba2kbnywth8bkxlhgmdr,e5p0ehyguld7egzhiedpdnc3w
+42s6tlesqp6dtkw3w8e1jli50,Tottenham Hotspur vs Newcastle United,29/08/2026,16:30:00Z,Tottenham Hotspur,Newcastle United,22doj4sgsocqpxw45h607udje,7vn2i2kd35zuetw6b38gw9jsz
+40oktevjjl90difd30w69pnv8,Coventry City vs Hull City,29/08/2026,14:00:00Z,Coventry City,Hull City,dacoc20k0n3fxu4zek8wufmko,f0figafm2v9h8ofo6slajj7xf
+3zmz0kt7umpdf4qtp3p9hjo5w,Bournemouth vs Everton,29/08/2026,14:00:00Z,Bournemouth,Everton,1pse9ta7a45pi2w2grjim70ge,ehd2iemqmschhj2ec0vayztzz
+41pzhuky7918y0ygksvgtej9w,Liverpool vs Nottingham Forest,29/08/2026,11:30:00Z,Liverpool,Nottingham Forest,c8h9bw1l82s06h77xxrelzhur,1qtaiy11gswx327s0vkibf70n
+410ybn3q7p02h3ow44jopvl78,Crystal Palace vs Manchester City,28/08/2026,19:00:00Z,Crystal Palace,Manchester City,1c8m2ko0wxq1asfkuykurdr0y,a3nyxabgsqlnqfkeg41m6tnpp
+3zanwwudms3ktzt5y7te4auqc,Fulham vs Chelsea,24/08/2026,19:00:00Z,Fulham,Chelsea,hzqh7z0mdl3v7gwete66syxp,9q0arba2kbnywth8bkxlhgmdr
+3yvcc0v7iav64ttnqxs1ojpxw,Newcastle United vs Liverpool,23/08/2026,15:30:00Z,Newcastle United,Liverpool,7vn2i2kd35zuetw6b38gw9jsz,c8h9bw1l82s06h77xxrelzhur
+3yfh8a9q5jl1ytxc9s20y5zpw,Manchester City vs Bournemouth,23/08/2026,13:00:00Z,Manchester City,Bournemouth,a3nyxabgsqlnqfkeg41m6tnpp,1pse9ta7a45pi2w2grjim70ge
+3y08iqdz1i1v016825tlzr190,Brighton & Hove Albion vs Aston Villa,23/08/2026,13:00:00Z,Brighton & Hove Albion,Aston Villa,e5p0ehyguld7egzhiedpdnc3w,b496gs285it6bheuikox6z9mj
+3vv3vs7rv9ho7gsqvixb3a80k,Brentford vs Tottenham Hotspur,22/08/2026,16:30:00Z,Brentford,Tottenham Hotspur,7yx5dqhhphyvfisohikodajhv,22doj4sgsocqpxw45h607udje
+3xkw1j4dcl4zh9r25p8muick4,Nottingham Forest vs Leeds United,22/08/2026,14:00:00Z,Nottingham Forest,Leeds United,1qtaiy11gswx327s0vkibf70n,48gk2hpqtsl6p9sx9kjhaydq4
+3x5mghe7cr553a48m5fnq4x04,Ipswich Town vs Sunderland,22/08/2026,14:00:00Z,Ipswich Town,Sunderland,8b523ujgl21tbc01me65q0aoh,1r3545b2dzan8yqa80gtmcjch
+3wag62ozffa2g6afs7okkwhsk,Everton vs Crystal Palace,22/08/2026,14:00:00Z,Everton,Crystal Palace,ehd2iemqmschhj2ec0vayztzz,1c8m2ko0wxq1asfkuykurdr0y
+3wq9hncqqa8jbtggi5dxokc2c,Hull City vs Manchester United,22/08/2026,11:30:00Z,Hull City,Manchester United,f0figafm2v9h8ofo6slajj7xf,6eqit8ye8aomdsrrq0hk3v7gh
+3vbv2xjkan2xyjoah3kjz7uok,Arsenal vs Coventry City,21/08/2026,19:00:00Z,Arsenal,Coventry City,4dsgumo7d4zupm2ugsvm4zm4d,dacoc20k0n3fxu4zek8wufmko

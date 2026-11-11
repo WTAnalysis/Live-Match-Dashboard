@@ -1,0 +1,178 @@
+id,description,date,time,Home_Team,Away_Team,Home_Team_ID,Away_Team_ID
+4lrwfymxehexmya5bzfsnvv2s,KuPS vs Inter Turku,08/11/2026,13:00:00Z,KuPS,Inter Turku,1c7dv8ays675v9kp6a04sd8pq,8eab5wbcnttsiosd1o8c71gmk
+4lfjscgn4y9wv9efhdo0rjq50,Gnistan vs VPS,08/11/2026,13:00:00Z,Gnistan,VPS,3cbke8cbou2ms925872vk6dwx,duspptyvnr5kpx2iko5gerhnz
+4l39bqad96tpf3hq3conki7f8,HJK vs Oulu,08/11/2026,13:00:00Z,HJK,Oulu,303582z192rnbr2x28o2t7u38,cy6zs39z79dcfbr4xzkp38z7q
+4kr1yb4wseolrj6pmdqi75kic,Inter Turku vs Gnistan,02/11/2026,16:00:00Z,Inter Turku,Gnistan,8eab5wbcnttsiosd1o8c71gmk,3cbke8cbou2ms925872vk6dwx
+4keo1qcaz90i23za6en7kvzmc,VPS vs HJK,02/11/2026,16:00:00Z,VPS,HJK,duspptyvnr5kpx2iko5gerhnz,303582z192rnbr2x28o2t7u38
+4k2a7dci5kvhuutrcrvhf12j8,Oulu vs KuPS,01/11/2026,13:00:00Z,Oulu,KuPS,cy6zs39z79dcfbr4xzkp38z7q,1c7dv8ays675v9kp6a04sd8pq
+4jpyfbkt3dfmpvb4s4gd1az9w,KuPS vs Gnistan,29/10/2026,17:00:00Z,KuPS,Gnistan,1c7dv8ays675v9kp6a04sd8pq,3cbke8cbou2ms925872vk6dwx
+4jdlnl40rt6zd0yea3hj11mok,Inter Turku vs HJK,29/10/2026,16:00:00Z,Inter Turku,HJK,8eab5wbcnttsiosd1o8c71gmk,303582z192rnbr2x28o2t7u38
+4j19tstpdz2fml587r0gtbzmc,Oulu vs VPS,28/10/2026,16:00:00Z,Oulu,VPS,cy6zs39z79dcfbr4xzkp38z7q,duspptyvnr5kpx2iko5gerhnz
+4iozrhxrhhx0ohxq9l2u42c5w,HJK vs KuPS,25/10/2026,13:00:00Z,HJK,KuPS,303582z192rnbr2x28o2t7u38,1c7dv8ays675v9kp6a04sd8pq
+4ickszsjbni76johmjuwamz9w,Gnistan vs Oulu,24/10/2026,14:00:00Z,Gnistan,Oulu,3cbke8cbou2ms925872vk6dwx,cy6zs39z79dcfbr4xzkp38z7q
+4i08zdhaoq9hxmzw3l7dwgc9g,VPS vs Inter Turku,24/10/2026,11:00:00Z,VPS,Inter Turku,duspptyvnr5kpx2iko5gerhnz,8eab5wbcnttsiosd1o8c71gmk
+4hnuo6im19jgc7jcy5qyjmplg,KuPS vs VPS,18/10/2026,12:00:00Z,KuPS,VPS,1c7dv8ays675v9kp6a04sd8pq,duspptyvnr5kpx2iko5gerhnz
+4hbfrms7om4jkvk9spzkw7l04,Inter Turku vs Oulu,17/10/2026,15:00:00Z,Inter Turku,Oulu,8eab5wbcnttsiosd1o8c71gmk,cy6zs39z79dcfbr4xzkp38z7q
+4gyyylzsd9zoe03i1wxkkehw4,HJK vs Gnistan,17/10/2026,13:00:00Z,HJK,Gnistan,303582z192rnbr2x28o2t7u38,3cbke8cbou2ms925872vk6dwx
+37pwotd3xdmhwwe86sq48j1g4,Jaro vs Mariehamn,17/10/2026,11:00:00Z,Jaro,Mariehamn,7efqk7uh63928il0yffxijnv7,3ptum5fjcgw51mqui0gu6uuf4
+37gtla3c0glwee6vkvebvuck4,Lahti vs TPS,17/10/2026,11:00:00Z,Lahti,TPS,8hrhwh8rty0eoykwj44ew04ng,bzi3odajl7kfbut8jbi7wioa8
+377pdg4f2dn24wu4xtxgm6590,Ilves vs SJK,17/10/2026,11:00:00Z,Ilves,SJK,2rdnn9p03qrmmv34tyx1nahpa,ea3yd0dgq6uy6pupkpn17j5xg
+4gmmigvm9t9h1ugwlf5wuvdw4,Oulu vs HJK,12/10/2026,16:00:00Z,Oulu,HJK,cy6zs39z79dcfbr4xzkp38z7q,303582z192rnbr2x28o2t7u38
+4ga4888tpwl57241gw78r4jdg,VPS vs Gnistan,12/10/2026,15:00:00Z,VPS,Gnistan,duspptyvnr5kpx2iko5gerhnz,3cbke8cbou2ms925872vk6dwx
+4fxv0o3rt5bcyn689lkuqvw2c,Inter Turku vs KuPS,11/10/2026,12:00:00Z,Inter Turku,KuPS,8eab5wbcnttsiosd1o8c71gmk,1c7dv8ays675v9kp6a04sd8pq
+36yqq3ddqpwxnve0we40g5kb8,Mariehamn vs Ilves,10/10/2026,16:00:00Z,Mariehamn,Ilves,3ptum5fjcgw51mqui0gu6uuf4,2rdnn9p03qrmmv34tyx1nahpa
+36pppidah2q139621n5o1hul0,TPS vs Jaro,10/10/2026,14:00:00Z,TPS,Jaro,bzi3odajl7kfbut8jbi7wioa8,7efqk7uh63928il0yffxijnv7
+36gngyt0o8wu0px8znvg44nx0,SJK vs Lahti,09/10/2026,15:00:00Z,SJK,Lahti,ea3yd0dgq6uy6pupkpn17j5xg,8hrhwh8rty0eoykwj44ew04ng
+4fleue0hfwz806n2g81m2fyfo,KuPS vs Oulu,08/10/2026,16:00:00Z,KuPS,Oulu,1c7dv8ays675v9kp6a04sd8pq,cy6zs39z79dcfbr4xzkp38z7q
+4f92px0sf1loeurg54bkacmc4,HJK vs VPS,08/10/2026,15:00:00Z,HJK,VPS,303582z192rnbr2x28o2t7u38,duspptyvnr5kpx2iko5gerhnz
+4ewlw5zkbhamkyuggl9lltx5g,Gnistan vs Inter Turku,07/10/2026,16:00:00Z,Gnistan,Inter Turku,3cbke8cbou2ms925872vk6dwx,8eab5wbcnttsiosd1o8c71gmk
+4ekeqa8ptc751tqi5x1bhvx1w,VPS vs KuPS,19/09/2026,14:00:00Z,VPS,KuPS,duspptyvnr5kpx2iko5gerhnz,1c7dv8ays675v9kp6a04sd8pq
+367g8ab2vtfkukwlma4fmdgd0,TPS vs Ilves,19/09/2026,12:00:00Z,TPS,Ilves,bzi3odajl7kfbut8jbi7wioa8,2rdnn9p03qrmmv34tyx1nahpa
+4e78aa2x3z5exgzl2b05muvpw,Gnistan vs HJK,18/09/2026,16:00:00Z,Gnistan,HJK,3cbke8cbou2ms925872vk6dwx,303582z192rnbr2x28o2t7u38
+4dulcwuwoafvnepbeibe0hq1g,Oulu vs Inter Turku,18/09/2026,16:00:00Z,Oulu,Inter Turku,cy6zs39z79dcfbr4xzkp38z7q,8eab5wbcnttsiosd1o8c71gmk
+35ycdlsyomklogd2neyg3s3ys,Lahti vs Jaro,18/09/2026,15:00:00Z,Lahti,Jaro,8hrhwh8rty0eoykwj44ew04ng,7efqk7uh63928il0yffxijnv7
+35pc3hx86n2zapfju8hrav2tw,SJK vs Mariehamn,18/09/2026,15:00:00Z,SJK,Mariehamn,ea3yd0dgq6uy6pupkpn17j5xg,3ptum5fjcgw51mqui0gu6uuf4
+4di97w0uo0zexuky0qjm9bpck,Inter Turku vs VPS,14/09/2026,15:00:00Z,Inter Turku,VPS,8eab5wbcnttsiosd1o8c71gmk,duspptyvnr5kpx2iko5gerhnz
+4d5dgfharyneqnp5atqt8io0k,KuPS vs HJK,13/09/2026,12:00:00Z,KuPS,HJK,1c7dv8ays675v9kp6a04sd8pq,303582z192rnbr2x28o2t7u38
+4csb9wb0fs9rz059ablvee42c,Oulu vs Gnistan,12/09/2026,16:00:00Z,Oulu,Gnistan,cy6zs39z79dcfbr4xzkp38z7q,3cbke8cbou2ms925872vk6dwx
+35ga4xgkti5pzxfbksnlfbv9w,Jaro vs SJK,12/09/2026,16:00:00Z,Jaro,SJK,7efqk7uh63928il0yffxijnv7,ea3yd0dgq6uy6pupkpn17j5xg
+3577c8fw8m2jslc3fc9nwfy1g,Ilves vs Lahti,12/09/2026,16:00:00Z,Ilves,Lahti,2rdnn9p03qrmmv34tyx1nahpa,8hrhwh8rty0eoykwj44ew04ng
+34y7zbff9biat3soaxz3536s4,Mariehamn vs TPS,12/09/2026,14:00:00Z,Mariehamn,TPS,3ptum5fjcgw51mqui0gu6uuf4,bzi3odajl7kfbut8jbi7wioa8
+4cfioh7as2p3wy6nac209gu8k,HJK vs Inter Turku,09/09/2026,15:00:00Z,HJK,Inter Turku,303582z192rnbr2x28o2t7u38,8eab5wbcnttsiosd1o8c71gmk
+4bzxe7bc83vogr367ejnr651w,Gnistan vs KuPS,08/09/2026,16:00:00Z,Gnistan,KuPS,3cbke8cbou2ms925872vk6dwx,1c7dv8ays675v9kp6a04sd8pq
+4bhn86ikx7jjgefbltfarqyvo,VPS vs Oulu,08/09/2026,15:00:00Z,VPS,Oulu,duspptyvnr5kpx2iko5gerhnz,cy6zs39z79dcfbr4xzkp38z7q
+34p91sbllae4z0qpykhzfdudw,Lahti vs Mariehamn,08/09/2026,15:00:00Z,Lahti,Mariehamn,8hrhwh8rty0eoykwj44ew04ng,3ptum5fjcgw51mqui0gu6uuf4
+34g6xzo1odlpc08iqjaz7q39w,Ilves vs Jaro,08/09/2026,15:00:00Z,Ilves,Jaro,2rdnn9p03qrmmv34tyx1nahpa,7efqk7uh63928il0yffxijnv7
+3449s76etn5cynxc1rzpkv8r8,TPS vs SJK,08/09/2026,15:00:00Z,TPS,SJK,bzi3odajl7kfbut8jbi7wioa8,ea3yd0dgq6uy6pupkpn17j5xg
+3zn50ur5i27y8cuqo9yyliu50,Ilves vs HJK,31/08/2026,16:00:00Z,Ilves,HJK,2rdnn9p03qrmmv34tyx1nahpa,303582z192rnbr2x28o2t7u38
+3z3vheoymk1rg1muzktqamhw4,Oulu vs SJK,31/08/2026,16:00:00Z,Oulu,SJK,cy6zs39z79dcfbr4xzkp38z7q,ea3yd0dgq6uy6pupkpn17j5xg
+3yl2plnujvxehz3vectn6zr4k,Gnistan vs TPS,31/08/2026,16:00:00Z,Gnistan,TPS,3cbke8cbou2ms925872vk6dwx,bzi3odajl7kfbut8jbi7wioa8
+3y3eld7jmvtcaze0z75bpdyqc,Inter Turku vs KuPS,31/08/2026,16:00:00Z,Inter Turku,KuPS,8eab5wbcnttsiosd1o8c71gmk,1c7dv8ays675v9kp6a04sd8pq
+3xlp5hhaku03smm3jcoyz4w0k,VPS vs Lahti,31/08/2026,16:00:00Z,VPS,Lahti,duspptyvnr5kpx2iko5gerhnz,8hrhwh8rty0eoykwj44ew04ng
+3x3h7foa1c90yhivzb0yhyhhw,Mariehamn vs Jaro,31/08/2026,16:00:00Z,Mariehamn,Jaro,3ptum5fjcgw51mqui0gu6uuf4,7efqk7uh63928il0yffxijnv7
+3ukpurjg3k4qspf7r1lt476s4,TPS vs Inter Turku,23/08/2026,15:00:00Z,TPS,Inter Turku,bzi3odajl7kfbut8jbi7wioa8,8eab5wbcnttsiosd1o8c71gmk
+3wm75li0cue8r0n2ahjhudgd0,HJK vs Gnistan,23/08/2026,12:00:00Z,HJK,Gnistan,303582z192rnbr2x28o2t7u38,3cbke8cbou2ms925872vk6dwx
+3vntu3jjz60huw14kxouv61w4,KuPS vs Mariehamn,23/08/2026,12:00:00Z,KuPS,Mariehamn,1c7dv8ays675v9kp6a04sd8pq,3ptum5fjcgw51mqui0gu6uuf4
+3w4uuon9y5sk4vp3esi8qeadw,Ilves vs VPS,22/08/2026,14:00:00Z,Ilves,VPS,2rdnn9p03qrmmv34tyx1nahpa,duspptyvnr5kpx2iko5gerhnz
+3v6qijhcqeiplvfcoyij633f8,Jaro vs Oulu,22/08/2026,14:00:00Z,Jaro,Oulu,7efqk7uh63928il0yffxijnv7,cy6zs39z79dcfbr4xzkp38z7q
+3ty5kc7imb5pvd7hmxbrqpjpw,SJK vs Lahti,21/08/2026,16:00:00Z,SJK,Lahti,ea3yd0dgq6uy6pupkpn17j5xg,8hrhwh8rty0eoykwj44ew04ng
+3tg4jv68vs36wffzes0s17bbo,Gnistan vs Ilves,17/08/2026,15:00:00Z,Gnistan,Ilves,3cbke8cbou2ms925872vk6dwx,2rdnn9p03qrmmv34tyx1nahpa
+3rzxcjadea4dmwde0gqr17c44,Oulu vs Inter Turku,16/08/2026,14:00:00Z,Oulu,Inter Turku,cy6zs39z79dcfbr4xzkp38z7q,8eab5wbcnttsiosd1o8c71gmk
+3ridg5s9l0nm2awgl99vlnqc4,Lahti vs KuPS,16/08/2026,14:00:00Z,Lahti,KuPS,8hrhwh8rty0eoykwj44ew04ng,1c7dv8ays675v9kp6a04sd8pq
+3syw3ako6cmzqifvt2uxwtono,HJK vs Jaro,16/08/2026,13:00:00Z,HJK,Jaro,303582z192rnbr2x28o2t7u38,7efqk7uh63928il0yffxijnv7
+3shmwmq0xqol0f9ip3fmc91xw,Mariehamn vs SJK,15/08/2026,16:00:00Z,Mariehamn,SJK,3ptum5fjcgw51mqui0gu6uuf4,ea3yd0dgq6uy6pupkpn17j5xg
+3r0p47b8dksyph8mywv46yexg,VPS vs TPS,14/08/2026,15:00:00Z,VPS,TPS,duspptyvnr5kpx2iko5gerhnz,bzi3odajl7kfbut8jbi7wioa8
+3oj27u5xv1dyz5lp6u1k0bspg,Oulu vs HJK,09/08/2026,16:00:00Z,Oulu,HJK,cy6zs39z79dcfbr4xzkp38z7q,303582z192rnbr2x28o2t7u38
+3phba1jbod6w1d82oby7c9n9w,Ilves vs Mariehamn,09/08/2026,15:00:00Z,Ilves,Mariehamn,2rdnn9p03qrmmv34tyx1nahpa,3ptum5fjcgw51mqui0gu6uuf4
+3q149btq7v2pgfwpanqu22p78,Inter Turku vs Lahti,09/08/2026,14:00:00Z,Inter Turku,Lahti,8eab5wbcnttsiosd1o8c71gmk,8hrhwh8rty0eoykwj44ew04ng
+3p067dio4spmlg1wvsbxq6gb8,KuPS vs TPS,09/08/2026,12:00:00Z,KuPS,TPS,1c7dv8ays675v9kp6a04sd8pq,bzi3odajl7kfbut8jbi7wioa8
+3qie4thbsx3cjc6pe1kzl7xg4,Jaro vs VPS,08/08/2026,16:00:00Z,Jaro,VPS,7efqk7uh63928il0yffxijnv7,duspptyvnr5kpx2iko5gerhnz
+3nzrdykgtj4wxu2rpng7pyuxg,SJK vs Gnistan,07/08/2026,16:00:00Z,SJK,Gnistan,ea3yd0dgq6uy6pupkpn17j5xg,3cbke8cbou2ms925872vk6dwx
+3nhlspngatfky6v3as8jdi5n8,SJK vs HJK,03/08/2026,16:00:00Z,SJK,HJK,ea3yd0dgq6uy6pupkpn17j5xg,303582z192rnbr2x28o2t7u38
+3m1mrqr7d2l4yt8fyoothgv10,Oulu vs Ilves,02/08/2026,14:00:00Z,Oulu,Ilves,cy6zs39z79dcfbr4xzkp38z7q,2rdnn9p03qrmmv34tyx1nahpa
+3lji4w8ft4trx5mgaywu5p5p0,VPS vs Inter Turku,02/08/2026,12:00:00Z,VPS,Inter Turku,duspptyvnr5kpx2iko5gerhnz,8eab5wbcnttsiosd1o8c71gmk
+3n05gd51qbuykdav4fhkym590,Gnistan vs KuPS,01/08/2026,16:00:00Z,Gnistan,KuPS,3cbke8cbou2ms925872vk6dwx,1c7dv8ays675v9kp6a04sd8pq
+3mitxrrjw8i01tnyp162bckk4,Lahti vs Jaro,01/08/2026,15:00:00Z,Lahti,Jaro,8hrhwh8rty0eoykwj44ew04ng,7efqk7uh63928il0yffxijnv7
+3l1l3mezo1dynusy9msygj7ro,TPS vs Mariehamn,01/08/2026,12:00:00Z,TPS,Mariehamn,bzi3odajl7kfbut8jbi7wioa8,3ptum5fjcgw51mqui0gu6uuf4
+3ki69umzemy9dn4hmxelhg5qs,HJK vs TPS,26/07/2026,14:00:00Z,HJK,TPS,303582z192rnbr2x28o2t7u38,bzi3odajl7kfbut8jbi7wioa8
+3k13wnoxyvs6yuvpj39x4qexg,Inter Turku vs Gnistan,26/07/2026,12:00:00Z,Inter Turku,Gnistan,8eab5wbcnttsiosd1o8c71gmk,3cbke8cbou2ms925872vk6dwx
+3jjq830mccgc4h70ircntk36c,Ilves vs Lahti,26/07/2026,12:00:00Z,Ilves,Lahti,2rdnn9p03qrmmv34tyx1nahpa,8hrhwh8rty0eoykwj44ew04ng
+3j2bnw89aslnidtmxsk0rc00k,KuPS vs VPS,25/07/2026,14:00:00Z,KuPS,VPS,1c7dv8ays675v9kp6a04sd8pq,duspptyvnr5kpx2iko5gerhnz
+3il1oggwxkyxuhqmw7ep7uivo,Mariehamn vs Oulu,25/07/2026,13:30:00Z,Mariehamn,Oulu,3ptum5fjcgw51mqui0gu6uuf4,cy6zs39z79dcfbr4xzkp38z7q
+3i3rpv0bcuyvniddv7htc3zf8,Jaro vs SJK,24/07/2026,16:00:00Z,Jaro,SJK,7efqk7uh63928il0yffxijnv7,ea3yd0dgq6uy6pupkpn17j5xg
+3hlc4442uf0hsv2ynsvl8sl5g,Mariehamn vs Lahti,20/07/2026,16:00:00Z,Mariehamn,Lahti,3ptum5fjcgw51mqui0gu6uuf4,8hrhwh8rty0eoykwj44ew04ng
+3h3xejl3k3m7e95xwj18l0vtg,TPS vs Ilves,20/07/2026,15:00:00Z,TPS,Ilves,bzi3odajl7kfbut8jbi7wioa8,2rdnn9p03qrmmv34tyx1nahpa
+3gli5e3ma73203wj4sltznp5g,Jaro vs Inter Turku,19/07/2026,15:30:00Z,Jaro,Inter Turku,7efqk7uh63928il0yffxijnv7,8eab5wbcnttsiosd1o8c71gmk
+3g456w1blyga60rr58r1aihas,Oulu vs Gnistan,18/07/2026,14:00:00Z,Oulu,Gnistan,cy6zs39z79dcfbr4xzkp38z7q,3cbke8cbou2ms925872vk6dwx
+3fkmksrh92hsv3diibnkkfq50,SJK vs KuPS,18/07/2026,14:00:00Z,SJK,KuPS,ea3yd0dgq6uy6pupkpn17j5xg,1c7dv8ays675v9kp6a04sd8pq
+3f3g9lp8m1i795beydgomehhw,HJK vs VPS,18/07/2026,12:00:00Z,HJK,VPS,303582z192rnbr2x28o2t7u38,duspptyvnr5kpx2iko5gerhnz
+3em46s3h5e11vnt9bn70qwmxg,TPS vs Oulu,11/07/2026,14:00:00Z,TPS,Oulu,bzi3odajl7kfbut8jbi7wioa8,cy6zs39z79dcfbr4xzkp38z7q
+3e4n7iwuvvrurw6uoh3qv4h04,Gnistan vs Mariehamn,11/07/2026,14:00:00Z,Gnistan,Mariehamn,3cbke8cbou2ms925872vk6dwx,3ptum5fjcgw51mqui0gu6uuf4
+3dn26ankj3o7tgsbzndq9gphw,Lahti vs HJK,11/07/2026,12:00:00Z,Lahti,HJK,8hrhwh8rty0eoykwj44ew04ng,303582z192rnbr2x28o2t7u38
+3d4zjfah7x0pzdycpvbyobvv8,VPS vs SJK,10/07/2026,16:00:00Z,VPS,SJK,duspptyvnr5kpx2iko5gerhnz,ea3yd0dgq6uy6pupkpn17j5xg
+3cnn2sqz2n3qlo7ll3lwbr3mc,VPS vs Mariehamn,04/07/2026,15:00:00Z,VPS,Mariehamn,duspptyvnr5kpx2iko5gerhnz,3ptum5fjcgw51mqui0gu6uuf4
+3c68wj5z8xr2cbvsqvkhbp8gk,SJK vs TPS,04/07/2026,14:00:00Z,SJK,TPS,ea3yd0dgq6uy6pupkpn17j5xg,bzi3odajl7kfbut8jbi7wioa8
+3boheyeh7dyektnnwwizuzmdw,Jaro vs Ilves,04/07/2026,14:00:00Z,Jaro,Ilves,7efqk7uh63928il0yffxijnv7,2rdnn9p03qrmmv34tyx1nahpa
+3b6fjfy952ut0wm0u4nphq61g,Lahti vs Gnistan,04/07/2026,12:00:00Z,Lahti,Gnistan,8hrhwh8rty0eoykwj44ew04ng,3cbke8cbou2ms925872vk6dwx
+3anh3u7qhpssjrmzvml6vvrx0,Oulu vs Lahti,27/06/2026,18:00:00Z,Oulu,Lahti,cy6zs39z79dcfbr4xzkp38z7q,8hrhwh8rty0eoykwj44ew04ng
+3a5ob2lqv4qjb3yci9rxoq4no,TPS vs Jaro,27/06/2026,16:00:00Z,TPS,Jaro,bzi3odajl7kfbut8jbi7wioa8,7efqk7uh63928il0yffxijnv7
+39octh2piionpr2vb6dpymk9g,Gnistan vs VPS,27/06/2026,16:00:00Z,Gnistan,VPS,3cbke8cbou2ms925872vk6dwx,duspptyvnr5kpx2iko5gerhnz
+3972bq05n7ppb5mmf0afejaj8,Mariehamn vs Inter Turku,27/06/2026,14:00:00Z,Mariehamn,Inter Turku,3ptum5fjcgw51mqui0gu6uuf4,8eab5wbcnttsiosd1o8c71gmk
+38oh2xi1g5eomyi6fdv39xpuc,HJK vs KuPS,27/06/2026,14:00:00Z,HJK,KuPS,303582z192rnbr2x28o2t7u38,1c7dv8ays675v9kp6a04sd8pq
+381kkbfuhwjkigkm99uj1ywic,Ilves vs SJK,27/06/2026,11:00:00Z,Ilves,SJK,2rdnn9p03qrmmv34tyx1nahpa,ea3yd0dgq6uy6pupkpn17j5xg
+37coyqauru84906ga8qcrepzo,Mariehamn vs HJK,23/06/2026,17:00:00Z,Mariehamn,HJK,3ptum5fjcgw51mqui0gu6uuf4,303582z192rnbr2x28o2t7u38
+36sqn8fzcsbdsx8h6c04k2al0,Inter Turku vs SJK,23/06/2026,16:00:00Z,Inter Turku,SJK,8eab5wbcnttsiosd1o8c71gmk,ea3yd0dgq6uy6pupkpn17j5xg
+366gy5q2sr10x9ow2rwlhdvkk,Jaro vs Gnistan,23/06/2026,16:00:00Z,Jaro,Gnistan,7efqk7uh63928il0yffxijnv7,3cbke8cbou2ms925872vk6dwx
+35iwhb44lrmpmdhfs7eq7fkt0,VPS vs Oulu,23/06/2026,15:00:00Z,VPS,Oulu,duspptyvnr5kpx2iko5gerhnz,cy6zs39z79dcfbr4xzkp38z7q
+34t64vvx9emwx9asic2qp1s7o,Lahti vs TPS,23/06/2026,15:00:00Z,Lahti,TPS,8hrhwh8rty0eoykwj44ew04ng,bzi3odajl7kfbut8jbi7wioa8
+3476mir8ofkg4s0g2jj82eolw,KuPS vs Ilves,23/06/2026,15:00:00Z,KuPS,Ilves,1c7dv8ays675v9kp6a04sd8pq,2rdnn9p03qrmmv34tyx1nahpa
+32l7few7g3i2zoi9ya9lxyf4k,Oulu vs Mariehamn,18/06/2026,09:59:00Z,Oulu,Mariehamn,cy6zs39z79dcfbr4xzkp38z7q,3ptum5fjcgw51mqui0gu6uuf4
+33lyws4x950c3x9gbvv5psbh0,Gnistan vs Lahti,17/06/2026,18:00:00Z,Gnistan,Lahti,3cbke8cbou2ms925872vk6dwx,8hrhwh8rty0eoykwj44ew04ng
+3342zjeyfydvbfa512z0d5hqs,SJK vs VPS,17/06/2026,18:00:00Z,SJK,VPS,ea3yd0dgq6uy6pupkpn17j5xg,duspptyvnr5kpx2iko5gerhnz
+322w60ol9za9y0z2lv5dm268k,TPS vs KuPS,17/06/2026,15:00:00Z,TPS,KuPS,bzi3odajl7kfbut8jbi7wioa8,1c7dv8ays675v9kp6a04sd8pq
+31kicpbqiosfnwq5g9h5px250,Ilves vs Jaro,17/06/2026,15:00:00Z,Ilves,Jaro,2rdnn9p03qrmmv34tyx1nahpa,7efqk7uh63928il0yffxijnv7
+3136tfmkn0oo5zi2jnqr8fjtg,HJK vs Inter Turku,17/06/2026,15:00:00Z,HJK,Inter Turku,303582z192rnbr2x28o2t7u38,8eab5wbcnttsiosd1o8c71gmk
+30ll530jmm6xv2l7jyc53wx04,Mariehamn vs Gnistan,13/06/2026,16:00:00Z,Mariehamn,Gnistan,3ptum5fjcgw51mqui0gu6uuf4,3cbke8cbou2ms925872vk6dwx
+3048h7qhurds88nucn59gnpqs,Lahti vs SJK,13/06/2026,16:00:00Z,Lahti,SJK,8hrhwh8rty0eoykwj44ew04ng,ea3yd0dgq6uy6pupkpn17j5xg
+2zl170bugcucc4moe7ddfoidw,VPS vs KuPS,13/06/2026,14:00:00Z,VPS,KuPS,duspptyvnr5kpx2iko5gerhnz,1c7dv8ays675v9kp6a04sd8pq
+2z3mbe5xxmd26vnqb373w96ok,Jaro vs HJK,13/06/2026,14:00:00Z,Jaro,HJK,7efqk7uh63928il0yffxijnv7,303582z192rnbr2x28o2t7u38
+2ylysn6cay7gjkcbgb98ug3ys,Inter Turku vs Oulu,13/06/2026,12:00:00Z,Inter Turku,Oulu,8eab5wbcnttsiosd1o8c71gmk,cy6zs39z79dcfbr4xzkp38z7q
+2y4vdvok46h7dtgnviwe1ug44,Ilves vs TPS,13/06/2026,12:00:00Z,Ilves,TPS,2rdnn9p03qrmmv34tyx1nahpa,bzi3odajl7kfbut8jbi7wioa8
+2xmqvdrv5rc43qe76surq4kd0,Oulu vs Jaro,31/05/2026,13:00:00Z,Oulu,Jaro,cy6zs39z79dcfbr4xzkp38z7q,7efqk7uh63928il0yffxijnv7
+2x5ac41pelfleltlp05f3i7mc,Lahti vs Ilves,30/05/2026,14:00:00Z,Lahti,Ilves,8hrhwh8rty0eoykwj44ew04ng,2rdnn9p03qrmmv34tyx1nahpa
+2wn49l5pjzx27ts8spdglzh1w,Gnistan vs SJK,30/05/2026,14:00:00Z,Gnistan,SJK,3cbke8cbou2ms925872vk6dwx,ea3yd0dgq6uy6pupkpn17j5xg
+2w46bf5kggydwq80p6mfoo5jo,TPS vs VPS,30/05/2026,14:00:00Z,TPS,VPS,bzi3odajl7kfbut8jbi7wioa8,duspptyvnr5kpx2iko5gerhnz
+2vi39vbxf7mfedqq14lfp4e8k,KuPS vs Inter Turku,30/05/2026,14:00:00Z,KuPS,Inter Turku,1c7dv8ays675v9kp6a04sd8pq,8eab5wbcnttsiosd1o8c71gmk
+2utf8oncto86hb65l49tqd1ck,HJK vs Mariehamn,30/05/2026,12:00:00Z,HJK,Mariehamn,303582z192rnbr2x28o2t7u38,3ptum5fjcgw51mqui0gu6uuf4
+2u5hvdzldirlak0btbvcgljis,SJK vs Oulu,23/05/2026,14:00:00Z,SJK,Oulu,ea3yd0dgq6uy6pupkpn17j5xg,cy6zs39z79dcfbr4xzkp38z7q
+2to2u9tg2soj09orb7cjqjbbo,Jaro vs Mariehamn,23/05/2026,14:00:00Z,Jaro,Mariehamn,7efqk7uh63928il0yffxijnv7,3ptum5fjcgw51mqui0gu6uuf4
+2t6rlqbfiw1pzmb9s7birt91w,Ilves vs Gnistan,23/05/2026,14:00:00Z,Ilves,Gnistan,2rdnn9p03qrmmv34tyx1nahpa,3cbke8cbou2ms925872vk6dwx
+2soyiliup6aqtvqex6rp37zf8,KuPS vs Lahti,23/05/2026,14:00:00Z,KuPS,Lahti,1c7dv8ays675v9kp6a04sd8pq,8hrhwh8rty0eoykwj44ew04ng
+2s50yvq7x8r8eexniku5xme50,Inter Turku vs TPS,23/05/2026,11:00:00Z,Inter Turku,TPS,8eab5wbcnttsiosd1o8c71gmk,bzi3odajl7kfbut8jbi7wioa8
+2rnn84bhy0wtmzwap2x1kb85w,VPS vs HJK,22/05/2026,16:00:00Z,VPS,HJK,duspptyvnr5kpx2iko5gerhnz,303582z192rnbr2x28o2t7u38
+2r57smbckojj4a12bwubui8lw,KuPS vs Jaro,20/05/2026,16:00:00Z,KuPS,Jaro,1c7dv8ays675v9kp6a04sd8pq,7efqk7uh63928il0yffxijnv7
+2qhznxlt9nnx6o1oupputn6l0,Ilves vs Inter Turku,20/05/2026,15:00:00Z,Ilves,Inter Turku,2rdnn9p03qrmmv34tyx1nahpa,8eab5wbcnttsiosd1o8c71gmk
+2pxvge8umw0kil66wugqm6psk,Lahti vs VPS,18/05/2026,15:00:00Z,Lahti,VPS,8hrhwh8rty0eoykwj44ew04ng,duspptyvnr5kpx2iko5gerhnz
+2pgadjivyqopslqnt6x9hkq38,Oulu vs TPS,16/05/2026,16:00:00Z,Oulu,TPS,cy6zs39z79dcfbr4xzkp38z7q,bzi3odajl7kfbut8jbi7wioa8
+2ox849fils0ltdc1q89j68sus,Gnistan vs Jaro,16/05/2026,16:00:00Z,Gnistan,Jaro,3cbke8cbou2ms925872vk6dwx,7efqk7uh63928il0yffxijnv7
+2ofyszsi4big2sduocb6l9vro,SJK vs Inter Turku,16/05/2026,14:00:00Z,SJK,Inter Turku,ea3yd0dgq6uy6pupkpn17j5xg,8eab5wbcnttsiosd1o8c71gmk
+2nyvrwjh10yfjhux17z84jxuc,Mariehamn vs KuPS,16/05/2026,14:00:00Z,Mariehamn,KuPS,3ptum5fjcgw51mqui0gu6uuf4,1c7dv8ays675v9kp6a04sd8pq
+2nhm5hjxtk5zl6p93fpa6y3v8,HJK vs Ilves,16/05/2026,11:00:00Z,HJK,Ilves,303582z192rnbr2x28o2t7u38,2rdnn9p03qrmmv34tyx1nahpa
+2n0jcjwdgvdazfk2hguo1b384,Lahti vs Mariehamn,10/05/2026,12:00:00Z,Lahti,Mariehamn,8hrhwh8rty0eoykwj44ew04ng,3ptum5fjcgw51mqui0gu6uuf4
+2mjh0s5ufsxcqwz1a2bupos9g,VPS vs Gnistan,09/05/2026,14:00:00Z,VPS,Gnistan,duspptyvnr5kpx2iko5gerhnz,3cbke8cbou2ms925872vk6dwx
+2m2pifn9p3hh8uvluok4374lw,Inter Turku vs Jaro,09/05/2026,12:00:00Z,Inter Turku,Jaro,8eab5wbcnttsiosd1o8c71gmk,7efqk7uh63928il0yffxijnv7
+2llpj947q7dr8apxye5cubt3o,KuPS vs SJK,08/05/2026,17:00:00Z,KuPS,SJK,1c7dv8ays675v9kp6a04sd8pq,ea3yd0dgq6uy6pupkpn17j5xg
+2ky06gumz3uxnpry9jaj0o74k,TPS vs HJK,08/05/2026,15:00:00Z,TPS,HJK,bzi3odajl7kfbut8jbi7wioa8,303582z192rnbr2x28o2t7u38
+2kbbyvhkk43bhhx7k24dfk178,Ilves vs Oulu,08/05/2026,15:00:00Z,Ilves,Oulu,2rdnn9p03qrmmv34tyx1nahpa,cy6zs39z79dcfbr4xzkp38z7q
+2jpkk1568hap59arjg5s4qp78,Gnistan vs Inter Turku,05/05/2026,16:00:00Z,Gnistan,Inter Turku,3cbke8cbou2ms925872vk6dwx,8eab5wbcnttsiosd1o8c71gmk
+2j8fbvbyfvtd2xbfhq9bm2kgk,HJK vs Lahti,04/05/2026,16:00:00Z,HJK,Lahti,303582z192rnbr2x28o2t7u38,8hrhwh8rty0eoykwj44ew04ng
+2invwutw0kcxdp59e638sejh0,Oulu vs KuPS,02/05/2026,16:00:00Z,Oulu,KuPS,cy6zs39z79dcfbr4xzkp38z7q,1c7dv8ays675v9kp6a04sd8pq
+2i657zews302chcdjrznxy784,Mariehamn vs VPS,02/05/2026,14:00:00Z,Mariehamn,VPS,3ptum5fjcgw51mqui0gu6uuf4,duspptyvnr5kpx2iko5gerhnz
+2hnqw7mhvmoywmrfnjtabw5ck,Jaro vs TPS,02/05/2026,14:00:00Z,Jaro,TPS,7efqk7uh63928il0yffxijnv7,bzi3odajl7kfbut8jbi7wioa8
+2h6jy09gl8rqs3givl6a61d04,SJK vs Ilves,02/05/2026,12:00:00Z,SJK,Ilves,ea3yd0dgq6uy6pupkpn17j5xg,2rdnn9p03qrmmv34tyx1nahpa
+2gp7o3gv702ulrtfe14o9a61g,Inter Turku vs HJK,29/04/2026,16:00:00Z,Inter Turku,HJK,8eab5wbcnttsiosd1o8c71gmk,303582z192rnbr2x28o2t7u38
+2g7w6ft0krzvu5jgkl31qmyhg,KuPS vs HJK,26/04/2026,13:00:00Z,KuPS,HJK,1c7dv8ays675v9kp6a04sd8pq,303582z192rnbr2x28o2t7u38
+2fqjngk1bwoi1vbh39jkiebys,Inter Turku vs Mariehamn,25/04/2026,14:00:00Z,Inter Turku,Mariehamn,8eab5wbcnttsiosd1o8c71gmk,3ptum5fjcgw51mqui0gu6uuf4
+2f9cidwdlhur9nv8gdj8navpw,Lahti vs Oulu,25/04/2026,12:00:00Z,Lahti,Oulu,8hrhwh8rty0eoykwj44ew04ng,cy6zs39z79dcfbr4xzkp38z7q
+2epwkacto4g9ncc4zdo3cyhp0,SJK vs Jaro,24/04/2026,16:00:00Z,SJK,Jaro,ea3yd0dgq6uy6pupkpn17j5xg,7efqk7uh63928il0yffxijnv7
+2e6oleh93axbc2pk3f3wcrspg,VPS vs Ilves,24/04/2026,15:00:00Z,VPS,Ilves,duspptyvnr5kpx2iko5gerhnz,2rdnn9p03qrmmv34tyx1nahpa
+2dlngk0pc0kvyj5itgmx31xck,TPS vs Gnistan,24/04/2026,15:00:00Z,TPS,Gnistan,bzi3odajl7kfbut8jbi7wioa8,3cbke8cbou2ms925872vk6dwx
+2d41s3zrw8ftdllh8e6uhnv2s,KuPS vs Oulu,22/04/2026,15:00:00Z,KuPS,Oulu,1c7dv8ays675v9kp6a04sd8pq,cy6zs39z79dcfbr4xzkp38z7q
+2cmz8vet826r86arspq99ahw4,Mariehamn vs Ilves,18/04/2026,16:00:00Z,Mariehamn,Ilves,3ptum5fjcgw51mqui0gu6uuf4,2rdnn9p03qrmmv34tyx1nahpa
+2c658ksva99vs5e4j9242q3h0,Oulu vs VPS,18/04/2026,14:00:00Z,Oulu,VPS,cy6zs39z79dcfbr4xzkp38z7q,duspptyvnr5kpx2iko5gerhnz
+2bp4343fu77gov3ob2q0cl7o4,TPS vs SJK,18/04/2026,14:00:00Z,TPS,SJK,bzi3odajl7kfbut8jbi7wioa8,ea3yd0dgq6uy6pupkpn17j5xg
+2b8f98lc6v5zs4mr69g7s915g,Lahti vs Inter Turku,18/04/2026,14:00:00Z,Lahti,Inter Turku,8hrhwh8rty0eoykwj44ew04ng,8eab5wbcnttsiosd1o8c71gmk
+2arbigt8wppodv7j7hcb53ml0,Jaro vs KuPS,18/04/2026,13:00:00Z,Jaro,KuPS,7efqk7uh63928il0yffxijnv7,1c7dv8ays675v9kp6a04sd8pq
+2a9vimap5dwy6j14vfqpraec4,Gnistan vs HJK,18/04/2026,11:00:00Z,Gnistan,HJK,3cbke8cbou2ms925872vk6dwx,303582z192rnbr2x28o2t7u38
+29q71f0q9ow4vwiuuobwvo07o,Inter Turku vs Ilves,11/04/2026,16:00:00Z,Inter Turku,Ilves,8eab5wbcnttsiosd1o8c71gmk,2rdnn9p03qrmmv34tyx1nahpa
+295fq7o5413nqxz4u00u7o3dg,HJK vs Oulu,11/04/2026,14:00:00Z,HJK,Oulu,303582z192rnbr2x28o2t7u38,cy6zs39z79dcfbr4xzkp38z7q
+28mqzsl8zh4kfjqt8r7q6ihas,KuPS vs Gnistan,11/04/2026,11:00:00Z,KuPS,Gnistan,1c7dv8ays675v9kp6a04sd8pq,3cbke8cbou2ms925872vk6dwx
+285o4tbmx6acbs7qpnxfo1rmc,VPS vs Jaro,10/04/2026,17:00:00Z,VPS,Jaro,duspptyvnr5kpx2iko5gerhnz,7efqk7uh63928il0yffxijnv7
+27p1jdvs652mzcjdl7b9ybi1g,SJK vs Mariehamn,10/04/2026,16:00:00Z,SJK,Mariehamn,ea3yd0dgq6uy6pupkpn17j5xg,3ptum5fjcgw51mqui0gu6uuf4
+278ea2znvevtkwqnksr78sw7o,TPS vs Lahti,10/04/2026,15:00:00Z,TPS,Lahti,bzi3odajl7kfbut8jbi7wioa8,8hrhwh8rty0eoykwj44ew04ng
+26rpczmm85egq6wyfi670u2vo,Gnistan vs Oulu,04/04/2026,16:00:00Z,Gnistan,Oulu,3cbke8cbou2ms925872vk6dwx,cy6zs39z79dcfbr4xzkp38z7q
+267sb4i1vc5wolcf8c413l2c4,Jaro vs Lahti,04/04/2026,14:00:00Z,Jaro,Lahti,7efqk7uh63928il0yffxijnv7,8hrhwh8rty0eoykwj44ew04ng
+25o5ey9iw9fbqh3wtaf7kzi1g,Ilves vs KuPS,04/04/2026,14:00:00Z,Ilves,KuPS,2rdnn9p03qrmmv34tyx1nahpa,1c7dv8ays675v9kp6a04sd8pq
+2542paux0ogj7268kifapmrkk,Mariehamn vs TPS,04/04/2026,14:00:00Z,Mariehamn,TPS,3ptum5fjcgw51mqui0gu6uuf4,bzi3odajl7kfbut8jbi7wioa8
+24j0fmplcohs0tduu40vo2k2c,HJK vs SJK,04/04/2026,12:00:00Z,HJK,SJK,303582z192rnbr2x28o2t7u38,ea3yd0dgq6uy6pupkpn17j5xg
+23w7r62r8xhgsi3sr9sthyf4k,Inter Turku vs VPS,04/04/2026,10:00:00Z,Inter Turku,VPS,8eab5wbcnttsiosd1o8c71gmk,duspptyvnr5kpx2iko5gerhnz
