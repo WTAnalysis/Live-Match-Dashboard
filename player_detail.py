@@ -391,7 +391,7 @@ def performance_figure(events, rankings, metric, name, team, colours, outlines, 
     fig.update_layout(template="plotly_white", height=435, showlegend=False, margin=dict(l=55, r=20, t=65, b=80),
                       title=dict(text=f"{html.escape(name)} - Ongoing Match Ranking",
                                  x=0.5, xanchor="center",
-                                 font=dict(family="Comic Sans MS, cursive", size=22, color="#24202b")),
+                                 font=dict(family="Comic Neue, cursive", size=22, color="#24202b")),
                       yaxis_title="Player Ranking",
                       xaxis=dict(range=[0, max(horizon, 1)], tickmode="array", tickvals=ticks, ticktext=[tick_labels[tick] for tick in ticks], tickangle=-45),
                       yaxis=dict(

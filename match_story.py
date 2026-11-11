@@ -44,7 +44,7 @@ def story_figure(events,entries,teams,colours,outlines):
                                  hovertemplate=t+' · %{x}<br>%{y}<extra></extra>'),row=row,col=1)
     fig.update_layout(title=dict(text='<b>15-Minute Match Story</b>',x=.5),height=660,barmode='group',showlegend=False,
                       template='plotly_white',paper_bgcolor='white',plot_bgcolor='white',
-                      font=dict(family='Comic Sans MS, cursive',color='#24202b'),margin=dict(l=40,r=25,t=95,b=45))
+                      font=dict(family='Comic Neue, cursive',color='#24202b'),margin=dict(l=40,r=25,t=95,b=45))
     return fig
 
 def block_story(events,teams,colours,outlines,kind,badges,brand_path):
@@ -69,7 +69,7 @@ def block_story(events,teams,colours,outlines,kind,badges,brand_path):
     title='True Possession · 15-Minute Blocks' if possession else 'xG · 15-Minute Blocks' if kind=='xg' else 'xThreat · 15-Minute Blocks'
     fig.update_layout(title=dict(text=f'<b>{title}</b>',x=.5,xanchor='center',y=.935,yanchor='middle',font=dict(size=22)),height=360,
                       barmode='group',showlegend=False,template='plotly_white',paper_bgcolor='white',plot_bgcolor='white',
-                      font=dict(family='Comic Sans MS, cursive',color='#24202b'),margin=dict(l=45,r=25,t=60,b=45))
+                      font=dict(family='Comic Neue, cursive',color='#24202b'),margin=dict(l=45,r=25,t=60,b=45))
     fig.update_xaxes(title='Minutes',showgrid=False)
     fig.update_yaxes(title='True Possession Share' if possession else 'Total Expected Goals' if kind=='xg' else 'Total xThreat',
                      range=[0,100] if possession else None,gridcolor='#eee9ed')
@@ -101,7 +101,7 @@ def entries_figure(entries,teams,colours,outlines,badges):
         fig.update_xaxes(range=[-3,71],visible=False,row=1,col=i+1)
         fig.update_yaxes(range=[-3,108],visible=False,scaleanchor=xr,scaleratio=1,row=1,col=i+1)
     fig.update_layout(title=dict(text='<b>Box Entries</b>',x=.5),height=610,template='plotly_white',showlegend=False,
-                      font=dict(family='Comic Sans MS, cursive',color='#24202b'),margin=dict(l=15,r=15,t=95,b=20),paper_bgcolor='white',plot_bgcolor='white')
+                      font=dict(family='Comic Neue, cursive',color='#24202b'),margin=dict(l=15,r=15,t=95,b=20),paper_bgcolor='white',plot_bgcolor='white')
     return fig
 
 

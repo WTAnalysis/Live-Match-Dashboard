@@ -1,3 +1,5 @@
+from typography import configure_fonts, page_font_css, embed_svg_font
+configure_fonts()
 from player_faces import show_face_lineup
 from pathlib import Path
 import base64
@@ -18,10 +20,11 @@ from league_lookup import league_label
 from team_badges import badge_sources
 from match_story import box_entries,block_story,entries_figure,add_substitutions
 
-plt.rcParams['font.family'] = ['Comic Sans MS', 'DejaVu Sans']
+plt.rcParams['font.family'] = ['Comic Neue', 'DejaVu Sans']
 ROOT=Path(__file__).parent
 st.set_page_config(page_title='Live Match Dashboard · WT Analysis',page_icon='⚽',layout='wide')
-st.markdown('''<style>.stApp,.stApp p,.stApp label,.stApp input,.stApp button,.stApp h1,.stApp h2,.stApp h3,.stApp table,.stApp [data-baseweb="select"]{font-family:"Comic Sans MS",cursive!important}
+st.html(page_font_css())
+st.markdown('''<style>.stApp,.stApp p,.stApp label,.stApp input,.stApp button,.stApp h1,.stApp h2,.stApp h3,.stApp table,.stApp [data-baseweb="select"]{font-family:"Comic Neue",cursive!important}
 .stApp{background:#faf7f8;color:#24202b;color-scheme:light}
 .stApp h1,.stApp h2,.stApp h3,.stApp p,.stApp label,.stApp [data-testid="stMetricValue"],.stApp [data-testid="stMetricLabel"],.stApp [data-testid="stMarkdownContainer"]{color:#24202b}
 .stApp [data-testid="stCaptionContainer"] p{color:#615a67}
@@ -351,11 +354,11 @@ if missing_xgot.any():
     st.warning(f'{int(missing_xgot.sum())} unblocked on-target shot(s) have no recorded xGOT. xGOT totals include recorded values only; where shown, probability estimates use zero xGOT for those missing shots and may be understated.')
 
 def layout(fig,title,height=360):
-    fig.update_layout(template='plotly_white',title=dict(text=title,font=dict(color='#24202b',size=19)),showlegend=False,height=height,paper_bgcolor='white',plot_bgcolor='white',font=dict(family='Comic Sans MS, cursive',color='#24202b'),margin=dict(l=45,r=25,t=60,b=45),legend=dict(orientation='h',y=-.2),hovermode='x unified')
+    fig.update_layout(template='plotly_white',title=dict(text=title,font=dict(color='#24202b',size=19)),showlegend=False,height=height,paper_bgcolor='white',plot_bgcolor='white',font=dict(family='Comic Neue, cursive',color='#24202b'),margin=dict(l=45,r=25,t=60,b=45),legend=dict(orientation='h',y=-.2),hovermode='x unified')
     fig.update_xaxes(showgrid=False,zeroline=False,tickfont=dict(color='#514958'),title_font=dict(color='#514958'))
     fig.update_yaxes(gridcolor='#eee9ed',zeroline=False,tickfont=dict(color='#514958'),title_font=dict(color='#514958'))
     fig.update_traces(textfont=dict(color='#24202b'),selector=dict(type='scatter'))
-    fig.update_layout(hoverlabel=dict(bgcolor='white',font_color='#24202b',font_family='Comic Sans MS, cursive'))
+    fig.update_layout(hoverlabel=dict(bgcolor='white',font_color='#24202b',font_family='Comic Neue, cursive'))
     return fig
 
 def timeline(kind):
@@ -451,7 +454,7 @@ if len(shots):
         fig.add_trace(go.Scatter(x=s.order,y=np.zeros(len(s)),mode='markers',name=t,customdata=np.stack([s.playerName.fillna('Unknown'),s.xg,s.xgot,s.typeId],axis=1),marker=dict(symbol=['star' if g else 'circle' for g in s.goal],size=[0 if own else 22 for own in s._own_goal],color=colours[i],line=dict(color=outlines[i],width=2)),hovertemplate=t+' · %{customdata[0]}<br>%{customdata[3]} · xG %{customdata[1]:.2f} · xGOT %{customdata[2]:.2f}<extra></extra>'))
     for _,shot in shots.iterrows():
         fig.add_annotation(x=int(shot.order),y=0,yshift=-13,text=f'{int(shot.timeMin)}′',showarrow=False,
-                           xanchor='center',yanchor='top',font=dict(size=12,color='#24202b',family='Comic Sans MS, cursive'))
+                           xanchor='center',yanchor='top',font=dict(size=12,color='#24202b',family='Comic Neue, cursive'))
         recipient=shot.scorer if shot['_own_goal'] else shot.team
         source=badges.get(recipient)
         if shot['_own_goal']:
@@ -494,8 +497,8 @@ def canonical_team(source):
 def player_card(rank,name,team,number,small=False,value=None):
     idx=teams.index(team)
     number='—' if pd.isna(number) else str(number).removesuffix('.0')
-    shirt=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 90"><path d="M30 5 L15 12 L2 31 L20 44 L27 34 L27 85 L73 85 L73 34 L80 44 L98 31 L85 12 L70 5 Q50 22 30 5 Z" fill="{colours[idx]}" stroke="{outlines[idx]}" stroke-width="3"/><text x="50" y="59" text-anchor="middle" font-family="Comic Sans MS,cursive" font-size="29" font-weight="bold" fill="{outlines[idx]}">{html.escape(number)}</text></svg>'
-    uri='data:image/svg+xml;base64,'+base64.b64encode(shirt.encode()).decode()
+    shirt=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 90"><path d="M30 5 L15 12 L2 31 L20 44 L27 34 L27 85 L73 85 L73 34 L80 44 L98 31 L85 12 L70 5 Q50 22 30 5 Z" fill="{colours[idx]}" stroke="{outlines[idx]}" stroke-width="3"/><text x="50" y="59" text-anchor="middle" font-family="Comic Neue,cursive" font-size="29" font-weight="bold" fill="{outlines[idx]}">{html.escape(number)}</text></svg>'
+    uri='data:image/svg+xml;base64,'+base64.b64encode(embed_svg_font(shirt).encode()).decode()
     image_size=38 if small else 50
     badge_size=28 if small else 36
     team_badge=badge(team).replace('<img ',f'<img style="height:{badge_size}px;width:{badge_size}px;object-fit:contain;flex-shrink:0" ')

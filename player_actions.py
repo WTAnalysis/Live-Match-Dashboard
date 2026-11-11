@@ -1,3 +1,5 @@
+from typography import configure_fonts
+configure_fonts()
 """Player links and live renderers adapted from the notebook's overview exports."""
 import ast
 import base64
@@ -22,7 +24,7 @@ PitchLineColor = "black"
 HullColor = BackgroundColor
 SaveColor = "#20b26b"
 GoalColor = "#e63946"
-title_font = FontProperties(family=["Comic Sans MS", "DejaVu Sans"], size=15)
+title_font = FontProperties(family=["Comic Neue", "DejaVu Sans"], size=15)
 
 
 def query_colour(value,default):

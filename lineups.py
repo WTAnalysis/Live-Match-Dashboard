@@ -1,3 +1,4 @@
+from typography import embed_svg_font
 import base64
 import html
 import json
@@ -8,8 +9,8 @@ import plotly.graph_objects as go
 
 def shirt(number,base,outline):
     number='—' if pd.isna(number) else str(number).removesuffix('.0')
-    svg=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 90"><path d="M30 5 L15 12 L2 31 L20 44 L27 34 L27 85 L73 85 L73 34 L80 44 L98 31 L85 12 L70 5 Q50 22 30 5 Z" fill="{base}" stroke="{outline}" stroke-width="3"/><text x="50" y="59" text-anchor="middle" font-family="Comic Sans MS,cursive" font-size="30" font-weight="bold" fill="{outline}">{html.escape(number)}</text></svg>'
-    return 'data:image/svg+xml;base64,'+base64.b64encode(svg.encode()).decode()
+    svg=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 90"><path d="M30 5 L15 12 L2 31 L20 44 L27 34 L27 85 L73 85 L73 34 L80 44 L98 31 L85 12 L70 5 Q50 22 30 5 Z" fill="{base}" stroke="{outline}" stroke-width="3"/><text x="50" y="59" text-anchor="middle" font-family="Comic Neue,cursive" font-size="30" font-weight="bold" fill="{outline}">{html.escape(number)}</text></svg>'
+    return 'data:image/svg+xml;base64,'+base64.b64encode(embed_svg_font(svg).encode()).decode()
 
 
 def player_icons(events,team,name,star=False):
@@ -35,12 +36,12 @@ def icon_source(icons):
       'on':'<path d="M18 10 H4 M9 4 L3 10 L9 16" fill="none" stroke="#168c43" stroke-width="3"/>',
       'goal':'<circle cx="10" cy="10" r="8" fill="white" stroke="#24202b"/><path d="M10 5 L15 8 L13 14 H7 L5 8 Z" fill="#24202b"/><path d="M10 2 V5 M18 8 L15 8 M15 17 L13 14 M5 17 L7 14 M2 8 L5 8" stroke="#24202b"/>',
       'own_goal':'<circle cx="10" cy="10" r="8" fill="white" stroke="#d92b36"/><path d="M10 5 L15 8 L13 14 H7 L5 8 Z" fill="#d92b36"/><path d="M10 2 V5 M18 8 L15 8 M15 17 L13 14 M5 17 L7 14 M2 8 L5 8" stroke="#d92b36"/>',
-      'assist':'<circle cx="10" cy="10" r="8" fill="white" stroke="#24202b"/><text x="10" y="14" text-anchor="middle" font-size="12" font-family="Arial" font-weight="bold">A</text>',
+      'assist':'<circle cx="10" cy="10" r="8" fill="white" stroke="#24202b"/><text x="10" y="14" text-anchor="middle" font-size="12" font-family="Comic Neue" font-weight="bold">A</text>',
       'yellow':'<rect x="6" y="1" width="9" height="18" rx="1" fill="#f2cf29" stroke="#514958"/>',
       'red':'<rect x="6" y="1" width="9" height="18" rx="1" fill="#e32e3a" stroke="#514958"/>',
       'star':'<path d="M10 1 L13 7 L20 8 L15 13 L16 20 L10 16 L4 20 L5 13 L0 8 L7 7 Z" fill="#e5b52c" stroke="#8c6500" stroke-width=".7"/>'}
     svg=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {22*len(icons)} 22">'+''.join(f'<g transform="translate({22*i},0)">{drawings[k]}</g>' for i,k in enumerate(icons))+'</svg>'
-    return 'data:image/svg+xml;base64,'+base64.b64encode(svg.encode()).decode()
+    return 'data:image/svg+xml;base64,'+base64.b64encode(embed_svg_font(svg).encode()).decode()
 
 def lineup_figure(roster,team,base,outline,badge,root,events=None,par_winner=None,ending=False,link_context=None,formation=None,current=False,pre_match=False,competition_logo=None,player_faces=None):
     from player_actions import linked_name
@@ -136,9 +137,9 @@ def lineup_figure(roster,team,base,outline,badge,root,events=None,par_winner=Non
             padding=max(30,len(name)*11.6)+10
             total=padding+icon_width
             strip=strip.replace(f'viewBox="0 0 {icon_width} 22"',f'viewBox="0 0 {total} 22"')
-            content=f'<text x="0" y="15" font-family="Comic Sans MS,cursive" font-size="20" font-weight="bold" fill="#24202b"></text><g transform="translate({padding},0)">'
+            content=f'<text x="0" y="15" font-family="Comic Neue,cursive" font-size="20" font-weight="bold" fill="#24202b"></text><g transform="translate({padding},0)">'
             strip=strip.replace('><g ', '>'+content+'<g ',1).replace('</svg>','</g></svg>')
-            source='data:image/svg+xml;base64,'+base64.b64encode(strip.encode()).decode()
+            source='data:image/svg+xml;base64,'+base64.b64encode(embed_svg_font(strip).encode()).decode()
             fig.add_layout_image(source=source,xref='x',yref='y',x=82,y=y+1.3,
                                  sizex=min(total*.12,27),sizey=2.64,
                                  xanchor='left',yanchor='middle',sizing='contain')
@@ -152,7 +153,7 @@ def lineup_figure(roster,team,base,outline,badge,root,events=None,par_winner=Non
     lineup_label=('Current Lineup' if current else 'Ending Lineup') if ending else 'Starting Lineup'
     heading=f'{team} - {lineup_label}'+(f' - {formation}' if formation else '')
     fig.add_annotation(x=53,y=114,text=f'<b>{html.escape(heading)}</b>',showarrow=False,font=dict(size=14 if len(heading)<=49 else 12),xanchor='center',yanchor='middle')
-    fig.update_layout(width=578,height=650,showlegend=False,template='plotly_white',paper_bgcolor='white',plot_bgcolor='white',margin=dict(l=8,r=8,t=12,b=12),font=dict(family='Comic Sans MS, cursive',color='#24202b'))
+    fig.update_layout(width=578,height=650,showlegend=False,template='plotly_white',paper_bgcolor='white',plot_bgcolor='white',margin=dict(l=8,r=8,t=12,b=12),font=dict(family='Comic Neue, cursive',color='#24202b'))
     fig.update_xaxes(range=[-2,112],visible=False,fixedrange=True,constrain='domain')
     fig.update_yaxes(range=[-5,122],visible=False,scaleanchor='x',scaleratio=1,fixedrange=True)
     return fig,missing,len(starters)

@@ -59,7 +59,7 @@ def defensive_figure(events,team,base,outline,badge,brand_path):
     if badge:fig.add_layout_image(source=badge,xref='x',yref='y',x=2,y=103,sizex=8,sizey=8,xanchor='left',yanchor='top',sizing='contain')
     fig.update_layout(title=dict(text=f'<b>{html.escape(team)} · Defensive Actions</b>',x=.5,font=dict(size=22)),height=740,
                       template='plotly_white',paper_bgcolor='white',plot_bgcolor='white',showlegend=False,
-                      font=dict(family='Comic Sans MS, cursive',color='#24202b'),margin=dict(l=15,r=15,t=65,b=15))
+                      font=dict(family='Comic Neue, cursive',color='#24202b'),margin=dict(l=15,r=15,t=65,b=15))
     fig.update_xaxes(range=[-2,70],visible=False,fixedrange=True)
     fig.update_yaxes(range=[-2,108],visible=False,scaleanchor='x',scaleratio=1,fixedrange=True)
     return fig,len(e),int(e._pressing12.sum())

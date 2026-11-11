@@ -1,0 +1,15 @@
+Comic Neue dashboard update
+
+1. Extract this ZIP.
+2. Upload ALL files inside to the TOP LEVEL of WTAnalysis/Live-Match-Dashboard, replacing the existing .py files when prompted.
+3. The four ComicNeue-*.ttf files, typography.py and ComicNeue-LICENSE.txt must sit beside app.py. Do not upload the enclosing folder itself.
+4. Commit changes. Streamlit will reload the app. Refresh your browser once deployment finishes.
+
+No .streamlit folder, requirements.txt changes or schedule-folder changes are needed. Keep Python 3.12 selected for the hosted app.
+
+This updates page text, widgets, Plotly charts, lineup graphics and Matplotlib image exports. The font is bundled and loaded locally; there is no Google Fonts dependency. Existing branding images retain the lettering already contained in those images. Symbols unavailable in Comic Neue use a fallback font.
+
+The update retains your repository's top-level Excel Files, Scoresway Schedules and Fotmob Schedules layout. Repository privacy and app access settings are unchanged.
+
+Comic Neue source: https://github.com/google/fonts/tree/main/ofl/comicneue
+License: SIL Open Font License 1.1, included in ComicNeue-LICENSE.txt.

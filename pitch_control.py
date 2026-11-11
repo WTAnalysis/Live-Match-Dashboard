@@ -67,7 +67,7 @@ def control_figure(counts,teams,colours,badges,brand_path):
     fig.add_layout_image(source=brand,xref='x',yref='y',x=52.5,y=34,sizex=12,sizey=12,
                          xanchor='center',yanchor='middle',sizing='contain',opacity=.5)
     fig.update_layout(template='plotly_white',title=dict(text='<b>Pitch Control Map</b>',x=.5),height=680,
-                      font=dict(family='Comic Sans MS, cursive',color='#24202b'),paper_bgcolor='white',plot_bgcolor='white',
+                      font=dict(family='Comic Neue, cursive',color='#24202b'),paper_bgcolor='white',plot_bgcolor='white',
                       margin=dict(l=25,r=25,t=70,b=15),showlegend=False,hoverlabel=dict(bgcolor='white',font_color='#24202b'))
     fig.update_xaxes(range=[-3,108],visible=False,fixedrange=True)
     fig.update_yaxes(range=[-13,71],visible=False,scaleanchor='x',scaleratio=1,fixedrange=True)

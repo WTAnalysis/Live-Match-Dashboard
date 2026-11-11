@@ -53,7 +53,7 @@ def average_figure(positions,teams,colours,outlines,badges,brand_path,minute_ran
     title=f'{teams[0]} v {teams[1]} · Average Positions · {minute_range[0]}′–{minute_range[1]}′'
     fig.update_layout(template='plotly_white',title=dict(text='<b>'+html.escape(title)+'</b>',x=.5,font=dict(size=21)),
         height=680,paper_bgcolor='white',plot_bgcolor='white',showlegend=False,
-        font=dict(family='Comic Sans MS, cursive',color='#24202b'),margin=dict(l=25,r=25,t=70,b=15),
+        font=dict(family='Comic Neue, cursive',color='#24202b'),margin=dict(l=25,r=25,t=70,b=15),
         hoverlabel=dict(bgcolor='white',font_color='#24202b'))
     fig.update_xaxes(range=[-3,108],visible=False,fixedrange=True)
     fig.update_yaxes(range=[-13,71],visible=False,scaleanchor='x',scaleratio=1,fixedrange=True)

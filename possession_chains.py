@@ -104,6 +104,6 @@ def chain_figure(chains,team,badge,brand_path):
         fig.update_xaxes(range=[-3,71],visible=False,fixedrange=True,row=row,col=col)
         fig.update_yaxes(range=[-3,119],visible=False,scaleanchor=xr,scaleratio=1,fixedrange=True,row=row,col=col)
     fig.update_layout(height=1020,margin=dict(l=6,r=6,t=40,b=12),paper_bgcolor='white',plot_bgcolor='white',
-                      font=dict(family='Comic Sans MS, cursive',color='#24202b'),showlegend=False,
+                      font=dict(family='Comic Neue, cursive',color='#24202b'),showlegend=False,
                       hoverlabel=dict(bgcolor='white',font_color='#24202b'))
     return fig

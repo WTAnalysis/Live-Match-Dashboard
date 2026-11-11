@@ -67,7 +67,7 @@ def attacking_figure(events,team,base,outline,badge,brand_path):
     if badge:fig.add_layout_image(source=badge,xref='x',yref='y',x=2,y=103,sizex=7,sizey=7,xanchor='left',yanchor='top',sizing='contain')
     fig.update_layout(title=dict(text=f'<b>{team} · Attacking Areas</b>',x=.5,font=dict(size=22)),height=520,
                       paper_bgcolor='white',plot_bgcolor='white',template='plotly_white',showlegend=False,
-                      font=dict(family='Comic Sans MS, cursive',color='#24202b'),margin=dict(l=15,r=15,t=65,b=35))
+                      font=dict(family='Comic Neue, cursive',color='#24202b'),margin=dict(l=15,r=15,t=65,b=35))
     fig.update_xaxes(range=[-2,70],visible=False,fixedrange=True)
     fig.update_yaxes(range=[51,108],visible=False,scaleanchor='x',scaleratio=1,fixedrange=True)
     return fig,int(attacking_data(events,team)[1].sum()),len(passes)
