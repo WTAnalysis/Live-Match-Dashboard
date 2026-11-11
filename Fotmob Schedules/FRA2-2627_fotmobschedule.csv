@@ -1,0 +1,307 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5803209,2026-08-08T18:45:00Z,Boulogne,Nancy,0 - 0,FT,True,True,False,FRA2
+1,1,,5803210,2026-08-08T18:45:00Z,Clermont Foot,Reims,0 - 0,FT,True,True,False,FRA2
+1,1,,5803211,2026-08-08T18:45:00Z,Dunkerque,Grenoble,4 - 2,FT,True,True,False,FRA2
+1,1,,5803212,2026-08-08T18:45:00Z,Metz,Guingamp,2 - 1,FT,True,True,False,FRA2
+1,1,,5803213,2026-08-08T18:45:00Z,Montpellier,Dijon,1 - 1,FT,True,True,False,FRA2
+1,1,,5803214,2026-08-08T18:45:00Z,Nantes,Red Star,0 - 1,FT,True,True,False,FRA2
+1,1,,5803215,2026-08-08T18:45:00Z,Pau,Annecy FC,0 - 1,FT,True,True,False,FRA2
+1,1,,5803216,2026-08-08T18:45:00Z,Rodez,Laval,3 - 1,FT,True,True,False,FRA2
+1,1,,5803217,2026-08-08T18:45:00Z,Sochaux,Saint-Étienne,0 - 3,FT,True,True,False,FRA2
+2,2,,5803218,2026-08-14T18:45:00Z,Annecy FC,Rodez,2 - 0,FT,True,True,False,FRA2
+2,2,,5803219,2026-08-14T18:45:00Z,Dijon,Pau,0 - 1,FT,True,True,False,FRA2
+2,2,,5803220,2026-08-14T18:45:00Z,Grenoble,Metz,0 - 0,FT,True,True,False,FRA2
+2,2,,5803221,2026-08-14T18:45:00Z,Guingamp,Boulogne,1 - 0,FT,True,True,False,FRA2
+2,2,,5803222,2026-08-14T18:45:00Z,Laval,Nantes,2 - 1,FT,True,True,False,FRA2
+2,2,,5803223,2026-08-14T18:45:00Z,Nancy,Montpellier,0 - 1,FT,True,True,False,FRA2
+2,2,,5803224,2026-08-14T18:45:00Z,Red Star,Sochaux,0 - 0,FT,True,True,False,FRA2
+2,2,,5803225,2026-08-14T18:45:00Z,Reims,Dunkerque,3 - 3,FT,True,True,False,FRA2
+2,2,,5803226,2026-08-14T18:45:00Z,Saint-Étienne,Clermont Foot,3 - 1,FT,True,True,False,FRA2
+3,3,,5803227,2026-08-21T18:00:00Z,Boulogne,Red Star,1 - 1,FT,True,True,False,FRA2
+3,3,,5803228,2026-08-21T18:00:00Z,Clermont Foot,Dijon,1 - 1,FT,True,True,False,FRA2
+3,3,,5803229,2026-08-21T18:00:00Z,Dunkerque,Montpellier,0 - 1,FT,True,True,False,FRA2
+3,3,,5803232,2026-08-21T18:00:00Z,Pau,Nancy,0 - 1,FT,True,True,False,FRA2
+3,3,,5803234,2026-08-21T18:00:00Z,Sochaux,Guingamp,1 - 0,FT,True,True,False,FRA2
+3,3,,5803230,2026-08-22T12:00:00Z,Metz,Laval,1 - 1,FT,True,True,False,FRA2
+3,3,,5803231,2026-08-22T12:00:00Z,Nantes,Rodez,2 - 5,FT,True,True,False,FRA2
+3,3,,5803235,2026-08-22T18:00:00Z,Saint-Étienne,Grenoble,4 - 0,FT,True,True,False,FRA2
+3,3,,5803233,2026-08-24T18:45:00Z,Reims,Annecy FC,3 - 1,FT,True,True,False,FRA2
+4,4,,5803237,2026-08-28T18:00:00Z,Clermont Foot,Sochaux,0 - 0,FT,True,True,False,FRA2
+4,4,,5803240,2026-08-28T18:00:00Z,Laval,Grenoble,0 - 3,FT,True,True,False,FRA2
+4,4,,5803241,2026-08-28T18:00:00Z,Montpellier,Boulogne,0 - 0,FT,True,True,False,FRA2
+4,4,,5803242,2026-08-28T18:00:00Z,Nancy,Dunkerque,2 - 0,FT,True,True,False,FRA2
+4,4,,5803244,2026-08-28T18:00:00Z,Rodez,Pau,2 - 2,FT,True,True,False,FRA2
+4,4,,5803236,2026-08-29T12:00:00Z,Annecy FC,Metz,1 - 1,FT,True,True,False,FRA2
+4,4,,5803243,2026-08-29T12:00:00Z,Red Star,Reims,1 - 4,FT,True,True,False,FRA2
+4,4,,5803239,2026-08-29T18:00:00Z,Guingamp,Nantes,3 - 3,FT,True,True,False,FRA2
+4,4,,5803238,2026-08-31T18:45:00Z,Dijon,Saint-Étienne,2 - 3,FT,True,True,False,FRA2
+5,5,,5803245,2026-09-04T18:00:00Z,Boulogne,Dijon,1 - 1,FT,True,True,False,FRA2
+5,5,,5803246,2026-09-04T18:00:00Z,Dunkerque,Clermont Foot,1 - 1,FT,True,True,False,FRA2
+5,5,,5803247,2026-09-04T18:00:00Z,Grenoble,Annecy FC,1 - 2,FT,True,True,False,FRA2
+5,5,,5803248,2026-09-04T18:00:00Z,Laval,Red Star,1 - 2,FT,True,True,False,FRA2
+5,5,,5803251,2026-09-04T18:00:00Z,Pau,Sochaux,1 - 1,FT,True,True,False,FRA2
+5,5,,5803249,2026-09-05T12:00:00Z,Metz,Rodez,4 - 1,FT,True,True,False,FRA2
+5,5,,5803252,2026-09-05T12:00:00Z,Reims,Guingamp,2 - 2,FT,True,True,False,FRA2
+5,5,,5803253,2026-09-05T18:00:00Z,Saint-Étienne,Montpellier,3 - 1,FT,True,True,False,FRA2
+5,5,,5803250,2026-09-07T18:45:00Z,Nantes,Nancy,1 - 0,FT,True,True,False,FRA2
+6,6,,5803254,2026-09-11T18:00:00Z,Clermont Foot,Boulogne,0 - 0,FT,True,True,False,FRA2
+6,6,,5803255,2026-09-11T18:00:00Z,Dijon,Laval,3 - 2,FT,True,True,False,FRA2
+6,6,,5803258,2026-09-11T18:00:00Z,Montpellier,Pau,1 - 0,FT,True,True,False,FRA2
+6,6,,5803259,2026-09-11T18:00:00Z,Nancy,Reims,1 - 2,FT,True,True,False,FRA2
+6,6,,5803261,2026-09-11T18:00:00Z,Rodez,Grenoble,0 - 1,FT,True,True,False,FRA2
+6,6,,5803257,2026-09-12T12:00:00Z,Guingamp,Annecy FC,2 - 1,FT,True,True,False,FRA2
+6,6,,5803262,2026-09-12T12:00:00Z,Sochaux,Nantes,1 - 0,FT,True,True,False,FRA2
+6,6,,5803256,2026-09-12T18:00:00Z,Dunkerque,Saint-Étienne,2 - 1,FT,True,True,False,FRA2
+6,6,,5803260,2026-09-14T18:45:00Z,Red Star,Metz,1 - 0,FT,True,True,False,FRA2
+7,7,,5803263,2026-09-18T18:00:00Z,Annecy FC,Dijon,1 - 2,FT,True,True,False,FRA2
+7,7,,5803265,2026-09-18T18:00:00Z,Grenoble,Clermont Foot,1 - 1,FT,True,True,False,FRA2
+7,7,,5803267,2026-09-18T18:00:00Z,Laval,Sochaux,1 - 1,FT,True,True,False,FRA2
+7,7,,5803269,2026-09-18T18:00:00Z,Pau,Dunkerque,2 - 0,FT,True,True,False,FRA2
+7,7,,5803270,2026-09-18T18:00:00Z,Reims,Montpellier,1 - 1,FT,True,True,False,FRA2
+7,7,,5803271,2026-09-18T18:00:00Z,Rodez,Nancy,3 - 4,FT,True,True,False,FRA2
+7,7,,5803264,2026-09-19T12:00:00Z,Boulogne,Nantes,1 - 2,FT,True,True,False,FRA2
+7,7,,5803266,2026-09-19T12:00:00Z,Guingamp,Red Star,1 - 3,FT,True,True,False,FRA2
+7,7,,5803268,2026-09-19T18:00:00Z,Metz,Saint-Étienne,2 - 2,FT,True,True,False,FRA2
+8,8,,5803274,2026-10-09T18:00:00Z,Dunkerque,Annecy FC,,,False,False,False,FRA2
+8,8,,5803275,2026-10-09T18:00:00Z,Montpellier,Grenoble,,,False,False,False,FRA2
+8,8,,5803276,2026-10-09T18:00:00Z,Nancy,Guingamp,,,False,False,False,FRA2
+8,8,,5803278,2026-10-09T18:00:00Z,Pau,Laval,,,False,False,False,FRA2
+8,8,,5803279,2026-10-09T18:00:00Z,Sochaux,Boulogne,,,False,False,False,FRA2
+8,8,,5803272,2026-10-10T12:00:00Z,Clermont Foot,Red Star,,,False,False,False,FRA2
+8,8,,5803277,2026-10-10T12:00:00Z,Nantes,Reims,,,False,False,False,FRA2
+8,8,,5803280,2026-10-10T18:00:00Z,Saint-Étienne,Rodez,,,False,False,False,FRA2
+8,8,,5803273,2026-10-12T18:45:00Z,Dijon,Metz,,,False,False,False,FRA2
+9,9,,5803281,2026-10-16T18:00:00Z,Annecy FC,Nancy,,,False,False,False,FRA2
+9,9,,5803282,2026-10-16T18:00:00Z,Grenoble,Boulogne,,,False,False,False,FRA2
+9,9,,5803283,2026-10-16T18:00:00Z,Guingamp,Pau,,,False,False,False,FRA2
+9,9,,5803284,2026-10-16T18:00:00Z,Laval,Clermont Foot,,,False,False,False,FRA2
+9,9,,5803288,2026-10-16T18:00:00Z,Reims,Dijon,,,False,False,False,FRA2
+9,9,,5803285,2026-10-17T12:00:00Z,Metz,Sochaux,,,False,False,False,FRA2
+9,9,,5803286,2026-10-17T12:00:00Z,Nantes,Dunkerque,,,False,False,False,FRA2
+9,9,,5803287,2026-10-17T18:00:00Z,Red Star,Saint-Étienne,,,False,False,False,FRA2
+9,9,,5803289,2026-10-19T18:45:00Z,Rodez,Montpellier,,,False,False,False,FRA2
+10,10,,5803291,2026-10-23T18:00:00Z,Clermont Foot,Guingamp,,,False,False,False,FRA2
+10,10,,5803293,2026-10-23T18:00:00Z,Dunkerque,Metz,,,False,False,False,FRA2
+10,10,,5803295,2026-10-23T18:00:00Z,Nancy,Laval,,,False,False,False,FRA2
+10,10,,5803296,2026-10-23T18:00:00Z,Pau,Grenoble,,,False,False,False,FRA2
+10,10,,5803297,2026-10-23T18:00:00Z,Sochaux,Annecy FC,,,False,False,False,FRA2
+10,10,,5803292,2026-10-24T12:00:00Z,Dijon,Rodez,,,False,False,False,FRA2
+10,10,,5803294,2026-10-24T12:00:00Z,Montpellier,Red Star,,,False,False,False,FRA2
+10,10,,5803298,2026-10-24T18:00:00Z,Saint-Étienne,Nantes,,,False,False,False,FRA2
+10,10,,5803290,2026-10-26T19:45:00Z,Boulogne,Reims,,,False,False,False,FRA2
+11,11,,5803300,2026-10-30T19:00:00Z,Grenoble,Dijon,,,False,False,False,FRA2
+11,11,,5803302,2026-10-30T19:00:00Z,Laval,Boulogne,,,False,False,False,FRA2
+11,11,,5803303,2026-10-30T19:00:00Z,Metz,Pau,,,False,False,False,FRA2
+11,11,,5803304,2026-10-30T19:00:00Z,Nantes,Clermont Foot,,,False,False,False,FRA2
+11,11,,5803307,2026-10-30T19:00:00Z,Rodez,Dunkerque,,,False,False,False,FRA2
+11,11,,5803299,2026-10-31T13:00:00Z,Annecy FC,Montpellier,,,False,False,False,FRA2
+11,11,,5803306,2026-10-31T13:00:00Z,Reims,Sochaux,,,False,False,False,FRA2
+11,11,,5803301,2026-10-31T19:00:00Z,Guingamp,Saint-Étienne,,,False,False,False,FRA2
+11,11,,5803305,2026-11-02T19:45:00Z,Red Star,Nancy,,,False,False,False,FRA2
+12,12,,5803308,2026-11-06T19:00:00Z,Boulogne,Annecy FC,,,False,False,False,FRA2
+12,12,,5803310,2026-11-06T19:00:00Z,Dijon,Red Star,,,False,False,False,FRA2
+12,12,,5803311,2026-11-06T19:00:00Z,Dunkerque,Guingamp,,,False,False,False,FRA2
+12,12,,5803312,2026-11-06T19:00:00Z,Grenoble,Reims,,,False,False,False,FRA2
+12,12,,5803314,2026-11-06T19:00:00Z,Nancy,Sochaux,,,False,False,False,FRA2
+12,12,,5803309,2026-11-07T13:00:00Z,Clermont Foot,Rodez,,,False,False,False,FRA2
+12,12,,5803313,2026-11-07T13:00:00Z,Montpellier,Metz,,,False,False,False,FRA2
+12,12,,5803315,2026-11-07T19:00:00Z,Pau,Nantes,,,False,False,False,FRA2
+12,12,,5803316,2026-11-07T19:00:00Z,Saint-Étienne,Laval,,,False,False,False,FRA2
+13,13,,5803317,2026-11-20T19:00:00Z,Annecy FC,Clermont Foot,,,False,False,False,FRA2
+13,13,,5803318,2026-11-20T19:00:00Z,Guingamp,Rodez,,,False,False,False,FRA2
+13,13,,5803319,2026-11-20T19:00:00Z,Laval,Montpellier,,,False,False,False,FRA2
+13,13,,5803320,2026-11-20T19:00:00Z,Metz,Boulogne,,,False,False,False,FRA2
+13,13,,5803321,2026-11-20T19:00:00Z,Nancy,Dijon,,,False,False,False,FRA2
+13,13,,5803322,2026-11-20T19:00:00Z,Nantes,Grenoble,,,False,False,False,FRA2
+13,13,,5803323,2026-11-20T19:00:00Z,Red Star,Pau,,,False,False,False,FRA2
+13,13,,5803324,2026-11-20T19:00:00Z,Reims,Saint-Étienne,,,False,False,False,FRA2
+13,13,,5803325,2026-11-20T19:00:00Z,Sochaux,Dunkerque,,,False,False,False,FRA2
+14,14,,5803326,2026-12-04T19:00:00Z,Annecy FC,Laval,,,False,False,False,FRA2
+14,14,,5803327,2026-12-04T19:00:00Z,Boulogne,Pau,,,False,False,False,FRA2
+14,14,,5803328,2026-12-04T19:00:00Z,Clermont Foot,Metz,,,False,False,False,FRA2
+14,14,,5803329,2026-12-04T19:00:00Z,Dijon,Sochaux,,,False,False,False,FRA2
+14,14,,5803330,2026-12-04T19:00:00Z,Dunkerque,Red Star,,,False,False,False,FRA2
+14,14,,5803331,2026-12-04T19:00:00Z,Grenoble,Guingamp,,,False,False,False,FRA2
+14,14,,5803332,2026-12-04T19:00:00Z,Montpellier,Nantes,,,False,False,False,FRA2
+14,14,,5803333,2026-12-04T19:00:00Z,Rodez,Reims,,,False,False,False,FRA2
+14,14,,5803334,2026-12-04T19:00:00Z,Saint-Étienne,Nancy,,,False,False,False,FRA2
+15,15,,5803335,2026-12-11T19:00:00Z,Boulogne,Rodez,,,False,False,False,FRA2
+15,15,,5803336,2026-12-11T19:00:00Z,Guingamp,Dijon,,,False,False,False,FRA2
+15,15,,5803337,2026-12-11T19:00:00Z,Laval,Dunkerque,,,False,False,False,FRA2
+15,15,,5803338,2026-12-11T19:00:00Z,Metz,Reims,,,False,False,False,FRA2
+15,15,,5803339,2026-12-11T19:00:00Z,Nancy,Clermont Foot,,,False,False,False,FRA2
+15,15,,5803340,2026-12-11T19:00:00Z,Nantes,Annecy FC,,,False,False,False,FRA2
+15,15,,5803341,2026-12-11T19:00:00Z,Pau,Saint-Étienne,,,False,False,False,FRA2
+15,15,,5803342,2026-12-11T19:00:00Z,Red Star,Grenoble,,,False,False,False,FRA2
+15,15,,5803343,2026-12-11T19:00:00Z,Sochaux,Montpellier,,,False,False,False,FRA2
+16,16,,5803344,2027-01-02T19:00:00Z,Annecy FC,Saint-Étienne,,,False,False,False,FRA2
+16,16,,5803345,2027-01-02T19:00:00Z,Clermont Foot,Pau,,,False,False,False,FRA2
+16,16,,5803346,2027-01-02T19:00:00Z,Dijon,Nantes,,,False,False,False,FRA2
+16,16,,5803347,2027-01-02T19:00:00Z,Dunkerque,Boulogne,,,False,False,False,FRA2
+16,16,,5803348,2027-01-02T19:00:00Z,Grenoble,Sochaux,,,False,False,False,FRA2
+16,16,,5803349,2027-01-02T19:00:00Z,Metz,Nancy,,,False,False,False,FRA2
+16,16,,5803350,2027-01-02T19:00:00Z,Montpellier,Guingamp,,,False,False,False,FRA2
+16,16,,5803351,2027-01-02T19:00:00Z,Reims,Laval,,,False,False,False,FRA2
+16,16,,5803352,2027-01-02T19:00:00Z,Rodez,Red Star,,,False,False,False,FRA2
+17,17,,5803353,2027-01-15T19:00:00Z,Dijon,Dunkerque,,,False,False,False,FRA2
+17,17,,5803354,2027-01-15T19:00:00Z,Laval,Guingamp,,,False,False,False,FRA2
+17,17,,5803355,2027-01-15T19:00:00Z,Montpellier,Clermont Foot,,,False,False,False,FRA2
+17,17,,5803356,2027-01-15T19:00:00Z,Nancy,Grenoble,,,False,False,False,FRA2
+17,17,,5803357,2027-01-15T19:00:00Z,Nantes,Metz,,,False,False,False,FRA2
+17,17,,5803358,2027-01-15T19:00:00Z,Pau,Reims,,,False,False,False,FRA2
+17,17,,5803359,2027-01-15T19:00:00Z,Red Star,Annecy FC,,,False,False,False,FRA2
+17,17,,5803360,2027-01-15T19:00:00Z,Sochaux,Rodez,,,False,False,False,FRA2
+17,17,,5803361,2027-01-15T19:00:00Z,Saint-Étienne,Boulogne,,,False,False,False,FRA2
+18,18,,5803362,2027-01-22T19:00:00Z,Boulogne,Sochaux,,,False,False,False,FRA2
+18,18,,5803363,2027-01-22T19:00:00Z,Clermont Foot,Saint-Étienne,,,False,False,False,FRA2
+18,18,,5803364,2027-01-22T19:00:00Z,Dunkerque,Nantes,,,False,False,False,FRA2
+18,18,,5803365,2027-01-22T19:00:00Z,Grenoble,Montpellier,,,False,False,False,FRA2
+18,18,,5803366,2027-01-22T19:00:00Z,Guingamp,Nancy,,,False,False,False,FRA2
+18,18,,5803367,2027-01-22T19:00:00Z,Laval,Pau,,,False,False,False,FRA2
+18,18,,5803368,2027-01-22T19:00:00Z,Metz,Dijon,,,False,False,False,FRA2
+18,18,,5803369,2027-01-22T19:00:00Z,Reims,Red Star,,,False,False,False,FRA2
+18,18,,5803370,2027-01-22T19:00:00Z,Rodez,Annecy FC,,,False,False,False,FRA2
+19,19,,5803371,2027-01-29T19:00:00Z,Annecy FC,Grenoble,,,False,False,False,FRA2
+19,19,,5803372,2027-01-29T19:00:00Z,Dijon,Clermont Foot,,,False,False,False,FRA2
+19,19,,5803373,2027-01-29T19:00:00Z,Montpellier,Rodez,,,False,False,False,FRA2
+19,19,,5803374,2027-01-29T19:00:00Z,Nancy,Boulogne,,,False,False,False,FRA2
+19,19,,5803375,2027-01-29T19:00:00Z,Nantes,Guingamp,,,False,False,False,FRA2
+19,19,,5803376,2027-01-29T19:00:00Z,Pau,Metz,,,False,False,False,FRA2
+19,19,,5803377,2027-01-29T19:00:00Z,Red Star,Laval,,,False,False,False,FRA2
+19,19,,5803378,2027-01-29T19:00:00Z,Sochaux,Reims,,,False,False,False,FRA2
+19,19,,5803379,2027-01-29T19:00:00Z,Saint-Étienne,Dunkerque,,,False,False,False,FRA2
+20,20,,5803380,2027-02-05T19:00:00Z,Boulogne,Clermont Foot,,,False,False,False,FRA2
+20,20,,5803381,2027-02-05T19:00:00Z,Grenoble,Saint-Étienne,,,False,False,False,FRA2
+20,20,,5803382,2027-02-05T19:00:00Z,Guingamp,Dunkerque,,,False,False,False,FRA2
+20,20,,5803383,2027-02-05T19:00:00Z,Laval,Dijon,,,False,False,False,FRA2
+20,20,,5803384,2027-02-05T19:00:00Z,Metz,Annecy FC,,,False,False,False,FRA2
+20,20,,5803385,2027-02-05T19:00:00Z,Red Star,Montpellier,,,False,False,False,FRA2
+20,20,,5803386,2027-02-05T19:00:00Z,Reims,Nancy,,,False,False,False,FRA2
+20,20,,5803387,2027-02-05T19:00:00Z,Rodez,Nantes,,,False,False,False,FRA2
+20,20,,5803388,2027-02-05T19:00:00Z,Sochaux,Pau,,,False,False,False,FRA2
+21,21,,5803389,2027-02-12T19:00:00Z,Annecy FC,Sochaux,,,False,False,False,FRA2
+21,21,,5803390,2027-02-12T19:00:00Z,Clermont Foot,Laval,,,False,False,False,FRA2
+21,21,,5803391,2027-02-12T19:00:00Z,Dijon,Grenoble,,,False,False,False,FRA2
+21,21,,5803392,2027-02-12T19:00:00Z,Dunkerque,Pau,,,False,False,False,FRA2
+21,21,,5803393,2027-02-12T19:00:00Z,Montpellier,Reims,,,False,False,False,FRA2
+21,21,,5803394,2027-02-12T19:00:00Z,Nancy,Red Star,,,False,False,False,FRA2
+21,21,,5803395,2027-02-12T19:00:00Z,Nantes,Boulogne,,,False,False,False,FRA2
+21,21,,5803396,2027-02-12T19:00:00Z,Rodez,Guingamp,,,False,False,False,FRA2
+21,21,,5803397,2027-02-12T19:00:00Z,Saint-Étienne,Metz,,,False,False,False,FRA2
+22,22,,5803398,2027-02-19T19:00:00Z,Boulogne,Saint-Étienne,,,False,False,False,FRA2
+22,22,,5803399,2027-02-19T19:00:00Z,Dunkerque,Nancy,,,False,False,False,FRA2
+22,22,,5803400,2027-02-19T19:00:00Z,Grenoble,Rodez,,,False,False,False,FRA2
+22,22,,5803401,2027-02-19T19:00:00Z,Guingamp,Clermont Foot,,,False,False,False,FRA2
+22,22,,5803402,2027-02-19T19:00:00Z,Laval,Annecy FC,,,False,False,False,FRA2
+22,22,,5803403,2027-02-19T19:00:00Z,Metz,Montpellier,,,False,False,False,FRA2
+22,22,,5803404,2027-02-19T19:00:00Z,Pau,Red Star,,,False,False,False,FRA2
+22,22,,5803405,2027-02-19T19:00:00Z,Reims,Nantes,,,False,False,False,FRA2
+22,22,,5803406,2027-02-19T19:00:00Z,Sochaux,Dijon,,,False,False,False,FRA2
+23,23,,5803407,2027-02-26T19:00:00Z,Annecy FC,Reims,,,False,False,False,FRA2
+23,23,,5803408,2027-02-26T19:00:00Z,Clermont Foot,Dunkerque,,,False,False,False,FRA2
+23,23,,5803409,2027-02-26T19:00:00Z,Dijon,Nancy,,,False,False,False,FRA2
+23,23,,5803410,2027-02-26T19:00:00Z,Metz,Grenoble,,,False,False,False,FRA2
+23,23,,5803411,2027-02-26T19:00:00Z,Montpellier,Laval,,,False,False,False,FRA2
+23,23,,5803412,2027-02-26T19:00:00Z,Nantes,Pau,,,False,False,False,FRA2
+23,23,,5803413,2027-02-26T19:00:00Z,Red Star,Guingamp,,,False,False,False,FRA2
+23,23,,5803414,2027-02-26T19:00:00Z,Rodez,Boulogne,,,False,False,False,FRA2
+23,23,,5803415,2027-02-26T19:00:00Z,Saint-Étienne,Sochaux,,,False,False,False,FRA2
+24,24,,5803416,2027-03-05T19:00:00Z,Boulogne,Laval,,,False,False,False,FRA2
+24,24,,5803417,2027-03-05T19:00:00Z,Dunkerque,Dijon,,,False,False,False,FRA2
+24,24,,5803418,2027-03-05T19:00:00Z,Grenoble,Red Star,,,False,False,False,FRA2
+24,24,,5803419,2027-03-05T19:00:00Z,Montpellier,Annecy FC,,,False,False,False,FRA2
+24,24,,5803420,2027-03-05T19:00:00Z,Nancy,Nantes,,,False,False,False,FRA2
+24,24,,5803421,2027-03-05T19:00:00Z,Pau,Clermont Foot,,,False,False,False,FRA2
+24,24,,5803422,2027-03-05T19:00:00Z,Reims,Rodez,,,False,False,False,FRA2
+24,24,,5803423,2027-03-05T19:00:00Z,Sochaux,Metz,,,False,False,False,FRA2
+24,24,,5803424,2027-03-05T19:00:00Z,Saint-Étienne,Guingamp,,,False,False,False,FRA2
+25,25,,5803425,2027-03-12T19:00:00Z,Annecy FC,Boulogne,,,False,False,False,FRA2
+25,25,,5803426,2027-03-12T19:00:00Z,Clermont Foot,Montpellier,,,False,False,False,FRA2
+25,25,,5803427,2027-03-12T19:00:00Z,Guingamp,Grenoble,,,False,False,False,FRA2
+25,25,,5803428,2027-03-12T19:00:00Z,Laval,Reims,,,False,False,False,FRA2
+25,25,,5803429,2027-03-12T19:00:00Z,Metz,Dunkerque,,,False,False,False,FRA2
+25,25,,5803430,2027-03-12T19:00:00Z,Nancy,Pau,,,False,False,False,FRA2
+25,25,,5803431,2027-03-12T19:00:00Z,Nantes,Saint-Étienne,,,False,False,False,FRA2
+25,25,,5803432,2027-03-12T19:00:00Z,Red Star,Dijon,,,False,False,False,FRA2
+25,25,,5803433,2027-03-12T19:00:00Z,Rodez,Sochaux,,,False,False,False,FRA2
+26,26,,5803434,2027-03-19T19:00:00Z,Boulogne,Metz,,,False,False,False,FRA2
+26,26,,5803435,2027-03-19T19:00:00Z,Dijon,Annecy FC,,,False,False,False,FRA2
+26,26,,5803436,2027-03-19T19:00:00Z,Dunkerque,Rodez,,,False,False,False,FRA2
+26,26,,5803437,2027-03-19T19:00:00Z,Grenoble,Nantes,,,False,False,False,FRA2
+26,26,,5803438,2027-03-19T19:00:00Z,Guingamp,Laval,,,False,False,False,FRA2
+26,26,,5803439,2027-03-19T19:00:00Z,Pau,Montpellier,,,False,False,False,FRA2
+26,26,,5803440,2027-03-19T19:00:00Z,Reims,Clermont Foot,,,False,False,False,FRA2
+26,26,,5803441,2027-03-19T19:00:00Z,Sochaux,Nancy,,,False,False,False,FRA2
+26,26,,5803442,2027-03-19T19:00:00Z,Saint-Étienne,Red Star,,,False,False,False,FRA2
+27,27,,5803443,2027-04-02T18:00:00Z,Annecy FC,Guingamp,,,False,False,False,FRA2
+27,27,,5803444,2027-04-02T18:00:00Z,Clermont Foot,Grenoble,,,False,False,False,FRA2
+27,27,,5803445,2027-04-02T18:00:00Z,Laval,Metz,,,False,False,False,FRA2
+27,27,,5803446,2027-04-02T18:00:00Z,Montpellier,Dunkerque,,,False,False,False,FRA2
+27,27,,5803447,2027-04-02T18:00:00Z,Nancy,Saint-Étienne,,,False,False,False,FRA2
+27,27,,5803448,2027-04-02T18:00:00Z,Nantes,Sochaux,,,False,False,False,FRA2
+27,27,,5803449,2027-04-02T18:00:00Z,Red Star,Boulogne,,,False,False,False,FRA2
+27,27,,5803450,2027-04-02T18:00:00Z,Reims,Pau,,,False,False,False,FRA2
+27,27,,5803451,2027-04-02T18:00:00Z,Rodez,Dijon,,,False,False,False,FRA2
+28,28,,5803452,2027-04-09T18:00:00Z,Boulogne,Grenoble,,,False,False,False,FRA2
+28,28,,5803453,2027-04-09T18:00:00Z,Clermont Foot,Nancy,,,False,False,False,FRA2
+28,28,,5803454,2027-04-09T18:00:00Z,Dijon,Reims,,,False,False,False,FRA2
+28,28,,5803455,2027-04-09T18:00:00Z,Dunkerque,Laval,,,False,False,False,FRA2
+28,28,,5803456,2027-04-09T18:00:00Z,Guingamp,Montpellier,,,False,False,False,FRA2
+28,28,,5803457,2027-04-09T18:00:00Z,Metz,Nantes,,,False,False,False,FRA2
+28,28,,5803458,2027-04-09T18:00:00Z,Pau,Rodez,,,False,False,False,FRA2
+28,28,,5803459,2027-04-09T18:00:00Z,Sochaux,Red Star,,,False,False,False,FRA2
+28,28,,5803460,2027-04-09T18:00:00Z,Saint-Étienne,Annecy FC,,,False,False,False,FRA2
+29,29,,5803461,2027-04-16T18:00:00Z,Annecy FC,Dunkerque,,,False,False,False,FRA2
+29,29,,5803462,2027-04-16T18:00:00Z,Dijon,Guingamp,,,False,False,False,FRA2
+29,29,,5803463,2027-04-16T18:00:00Z,Grenoble,Nancy,,,False,False,False,FRA2
+29,29,,5803464,2027-04-16T18:00:00Z,Laval,Saint-Étienne,,,False,False,False,FRA2
+29,29,,5803465,2027-04-16T18:00:00Z,Montpellier,Sochaux,,,False,False,False,FRA2
+29,29,,5803466,2027-04-16T18:00:00Z,Pau,Boulogne,,,False,False,False,FRA2
+29,29,,5803467,2027-04-16T18:00:00Z,Red Star,Nantes,,,False,False,False,FRA2
+29,29,,5803468,2027-04-16T18:00:00Z,Reims,Metz,,,False,False,False,FRA2
+29,29,,5803469,2027-04-16T18:00:00Z,Rodez,Clermont Foot,,,False,False,False,FRA2
+30,30,,5803470,2027-04-23T18:00:00Z,Boulogne,Dunkerque,,,False,False,False,FRA2
+30,30,,5803471,2027-04-23T18:00:00Z,Grenoble,Pau,,,False,False,False,FRA2
+30,30,,5803472,2027-04-23T18:00:00Z,Guingamp,Reims,,,False,False,False,FRA2
+30,30,,5803473,2027-04-23T18:00:00Z,Metz,Clermont Foot,,,False,False,False,FRA2
+30,30,,5803474,2027-04-23T18:00:00Z,Nancy,Annecy FC,,,False,False,False,FRA2
+30,30,,5803475,2027-04-23T18:00:00Z,Nantes,Montpellier,,,False,False,False,FRA2
+30,30,,5803476,2027-04-23T18:00:00Z,Red Star,Rodez,,,False,False,False,FRA2
+30,30,,5803477,2027-04-23T18:00:00Z,Sochaux,Laval,,,False,False,False,FRA2
+30,30,,5803478,2027-04-23T18:00:00Z,Saint-Étienne,Dijon,,,False,False,False,FRA2
+31,31,,5803479,2027-04-30T18:00:00Z,Annecy FC,Red Star,,,False,False,False,FRA2
+31,31,,5803480,2027-04-30T18:00:00Z,Clermont Foot,Nantes,,,False,False,False,FRA2
+31,31,,5803481,2027-04-30T18:00:00Z,Dijon,Boulogne,,,False,False,False,FRA2
+31,31,,5803482,2027-04-30T18:00:00Z,Dunkerque,Sochaux,,,False,False,False,FRA2
+31,31,,5803483,2027-04-30T18:00:00Z,Laval,Nancy,,,False,False,False,FRA2
+31,31,,5803484,2027-04-30T18:00:00Z,Montpellier,Saint-Étienne,,,False,False,False,FRA2
+31,31,,5803485,2027-04-30T18:00:00Z,Pau,Guingamp,,,False,False,False,FRA2
+31,31,,5803486,2027-04-30T18:00:00Z,Reims,Grenoble,,,False,False,False,FRA2
+31,31,,5803487,2027-04-30T18:00:00Z,Rodez,Metz,,,False,False,False,FRA2
+32,32,,5803488,2027-05-07T18:00:00Z,Annecy FC,Pau,,,False,False,False,FRA2
+32,32,,5803489,2027-05-07T18:00:00Z,Boulogne,Montpellier,,,False,False,False,FRA2
+32,32,,5803490,2027-05-07T18:00:00Z,Grenoble,Laval,,,False,False,False,FRA2
+32,32,,5803491,2027-05-07T18:00:00Z,Guingamp,Metz,,,False,False,False,FRA2
+32,32,,5803492,2027-05-07T18:00:00Z,Nancy,Rodez,,,False,False,False,FRA2
+32,32,,5803493,2027-05-07T18:00:00Z,Nantes,Dijon,,,False,False,False,FRA2
+32,32,,5803494,2027-05-07T18:00:00Z,Red Star,Dunkerque,,,False,False,False,FRA2
+32,32,,5803495,2027-05-07T18:00:00Z,Sochaux,Clermont Foot,,,False,False,False,FRA2
+32,32,,5803496,2027-05-07T18:00:00Z,Saint-Étienne,Reims,,,False,False,False,FRA2
+33,33,,5803497,2027-05-14T18:00:00Z,Boulogne,Guingamp,,,False,False,False,FRA2
+33,33,,5803498,2027-05-14T18:00:00Z,Clermont Foot,Annecy FC,,,False,False,False,FRA2
+33,33,,5803499,2027-05-14T18:00:00Z,Dunkerque,Reims,,,False,False,False,FRA2
+33,33,,5803500,2027-05-14T18:00:00Z,Metz,Red Star,,,False,False,False,FRA2
+33,33,,5803501,2027-05-14T18:00:00Z,Montpellier,Nancy,,,False,False,False,FRA2
+33,33,,5803502,2027-05-14T18:00:00Z,Nantes,Laval,,,False,False,False,FRA2
+33,33,,5803503,2027-05-14T18:00:00Z,Pau,Dijon,,,False,False,False,FRA2
+33,33,,5803504,2027-05-14T18:00:00Z,Rodez,Saint-Étienne,,,False,False,False,FRA2
+33,33,,5803505,2027-05-14T18:00:00Z,Sochaux,Grenoble,,,False,False,False,FRA2
+34,34,,5803506,2027-05-22T18:00:00Z,Annecy FC,Nantes,,,False,False,False,FRA2
+34,34,,5803507,2027-05-22T18:00:00Z,Dijon,Montpellier,,,False,False,False,FRA2
+34,34,,5803508,2027-05-22T18:00:00Z,Grenoble,Dunkerque,,,False,False,False,FRA2
+34,34,,5803509,2027-05-22T18:00:00Z,Guingamp,Sochaux,,,False,False,False,FRA2
+34,34,,5803510,2027-05-22T18:00:00Z,Laval,Rodez,,,False,False,False,FRA2
+34,34,,5803511,2027-05-22T18:00:00Z,Nancy,Metz,,,False,False,False,FRA2
+34,34,,5803512,2027-05-22T18:00:00Z,Red Star,Clermont Foot,,,False,False,False,FRA2
+34,34,,5803513,2027-05-22T18:00:00Z,Reims,Boulogne,,,False,False,False,FRA2
+34,34,,5803514,2027-05-22T18:00:00Z,Saint-Étienne,Pau,,,False,False,False,FRA2

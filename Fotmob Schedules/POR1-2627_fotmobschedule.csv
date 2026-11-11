@@ -1,0 +1,307 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5887559,2026-08-07T19:15:00Z,Estoril,Famalicão,1 - 1,FT,True,True,False,POR1
+1,1,,5887561,2026-08-08T14:30:00Z,Marítimo,Casa Pia AC,1 - 0,FT,True,True,False,POR1
+1,1,,5887566,2026-08-08T17:00:00Z,Vitória de Guimarães,Arouca,0 - 1,FT,True,True,False,POR1
+1,1,,5887558,2026-08-08T19:30:00Z,Estrela da Amadora,Sporting CP,2 - 2,FT,True,True,False,POR1
+1,1,,5887563,2026-08-09T17:00:00Z,FC Porto,Alverca,2 - 0,FT,True,True,False,POR1
+1,1,,5887560,2026-08-09T19:30:00Z,Gil Vicente,Rio Ave,1 - 0,FT,True,True,False,POR1
+1,1,,5887562,2026-08-09T19:30:00Z,Moreirense,Braga,2 - 2,FT,True,True,False,POR1
+1,1,,5887565,2026-08-09T19:30:00Z,Benfica,Académico Viseu,2 - 2,FT,True,True,False,POR1
+1,1,,5887564,2026-08-10T19:15:00Z,Santa Clara,Nacional,2 - 2,FT,True,True,False,POR1
+2,2,,5887599,2026-08-14T19:15:00Z,Sporting CP,Vitória de Guimarães,3 - 2,FT,True,True,False,POR1
+2,2,,5887592,2026-08-15T14:30:00Z,Alverca,Estrela da Amadora,2 - 2,FT,True,True,False,POR1
+2,2,,5887591,2026-08-15T17:00:00Z,Académico Viseu,Santa Clara,0 - 1,FT,True,True,False,POR1
+2,2,,5887598,2026-08-15T19:30:00Z,Rio Ave,FC Porto,0 - 2,FT,True,True,False,POR1
+2,2,,5887597,2026-08-16T14:30:00Z,Nacional,Estoril,2 - 0,FT,True,True,False,POR1
+2,2,,5887593,2026-08-16T17:00:00Z,Arouca,Moreirense,4 - 0,FT,True,True,False,POR1
+2,2,,5887594,2026-08-16T19:30:00Z,Braga,Gil Vicente,,PP,False,False,True,POR1
+2,2,,5887596,2026-08-16T19:30:00Z,Famalicão,Marítimo,1 - 2,FT,True,True,False,POR1
+2,2,,5887595,2026-08-17T19:15:00Z,Casa Pia AC,Benfica,0 - 7,FT,True,True,False,POR1
+3,3,,5887603,2026-08-22T14:30:00Z,Marítimo,Académico Viseu,2 - 2,FT,True,True,False,POR1
+3,3,,5887601,2026-08-22T17:00:00Z,Estoril,Rio Ave,0 - 2,FT,True,True,False,POR1
+3,3,,5887607,2026-08-22T19:30:00Z,Sporting CP,Alverca,3 - 1,FT,True,True,False,POR1
+3,3,,5887608,2026-08-23T14:30:00Z,Vitória de Guimarães,Nacional,1 - 0,FT,True,True,False,POR1
+3,3,,5887606,2026-08-23T17:00:00Z,Santa Clara,Famalicão,1 - 0,FT,True,True,False,POR1
+3,3,,5887605,2026-08-23T19:30:00Z,FC Porto,Arouca,2 - 0,FT,True,True,False,POR1
+3,3,,5887602,2026-08-24T19:15:00Z,Gil Vicente,Casa Pia AC,2 - 0,FT,True,True,False,POR1
+4,4,,5887616,2026-08-28T19:15:00Z,Rio Ave,Sporting CP,0 - 4,FT,True,True,False,POR1
+4,4,,5887610,2026-08-29T14:30:00Z,Alverca,Santa Clara,1 - 1,FT,True,True,False,POR1
+4,4,,5887611,2026-08-29T14:30:00Z,Arouca,Marítimo,2 - 1,FT,True,True,False,POR1
+4,4,,5887609,2026-08-29T17:00:00Z,Académico Viseu,FC Porto,0 - 3,FT,True,True,False,POR1
+4,4,,5887615,2026-08-30T14:30:00Z,Nacional,Estrela da Amadora,2 - 3,FT,True,True,False,POR1
+4,4,,5887613,2026-08-30T17:00:00Z,Casa Pia AC,Moreirense,0 - 1,FT,True,True,False,POR1
+4,4,,5887614,2026-08-30T19:30:00Z,Famalicão,Gil Vicente,0 - 0,FT,True,True,False,POR1
+4,4,,5887612,2026-08-31T19:15:00Z,Braga,Vitória de Guimarães,1 - 0,FT,True,True,False,POR1
+4,4,,5887617,2026-08-31T19:15:00Z,Benfica,Estoril,2 - 1,FT,True,True,False,POR1
+5,5,,5887623,2026-09-04T19:15:00Z,FC Porto,Moreirense,2 - 1,FT,True,True,False,POR1
+5,5,,5887619,2026-09-05T14:30:00Z,Estrela da Amadora,Famalicão,2 - 2,FT,True,True,False,POR1
+5,5,,5887618,2026-09-05T17:00:00Z,Alverca,Braga,1 - 2,FT,True,True,False,POR1
+5,5,,5887622,2026-09-05T17:00:00Z,Marítimo,Benfica,0 - 3,FT,True,True,False,POR1
+5,5,,5887625,2026-09-05T19:30:00Z,Sporting CP,Nacional,2 - 0,FT,True,True,False,POR1
+5,5,,5887624,2026-09-06T14:30:00Z,Santa Clara,Rio Ave,4 - 0,FT,True,True,False,POR1
+5,5,,5887626,2026-09-06T17:00:00Z,Vitória de Guimarães,Casa Pia AC,0 - 0,FT,True,True,False,POR1
+5,5,,5887621,2026-09-06T19:30:00Z,Gil Vicente,Académico Viseu,0 - 1,FT,True,True,False,POR1
+5,5,,5887620,2026-09-07T19:15:00Z,Estoril,Arouca,0 - 0,FT,True,True,False,POR1
+3,3,,5887604,2026-09-09T19:45:00Z,Moreirense,Benfica,0 - 4,FT,True,True,False,POR1
+3,3,,5887600,2026-09-10T19:15:00Z,Estrela da Amadora,Braga,2 - 1,FT,True,True,False,POR1
+6,6,,5887633,2026-09-12T14:30:00Z,Nacional,Alverca,1 - 3,FT,True,True,False,POR1
+6,6,,5887630,2026-09-12T17:00:00Z,Casa Pia AC,FC Porto,1 - 4,FT,True,True,False,POR1
+6,6,,5887627,2026-09-12T19:30:00Z,Académico Viseu,Vitória de Guimarães,2 - 1,FT,True,True,False,POR1
+6,6,,5887628,2026-09-13T17:00:00Z,Arouca,Santa Clara,1 - 2,FT,True,True,False,POR1
+6,6,,5887635,2026-09-13T17:00:00Z,Benfica,Gil Vicente,3 - 1,FT,True,True,False,POR1
+6,6,,5887631,2026-09-13T19:30:00Z,Famalicão,Sporting CP,1 - 1,FT,True,True,False,POR1
+6,6,,5887634,2026-09-14T17:45:00Z,Rio Ave,Estrela da Amadora,3 - 3,FT,True,True,False,POR1
+6,6,,5887632,2026-09-14T19:15:00Z,Moreirense,Marítimo,3 - 1,FT,True,True,False,POR1
+6,6,,5887629,2026-09-14T19:45:00Z,Braga,Estoril,1 - 0,FT,True,True,False,POR1
+7,7,,5887639,2026-09-19T14:30:00Z,Gil Vicente,Marítimo,1 - 1,FT,True,True,False,POR1
+7,7,,5887640,2026-09-19T14:30:00Z,Nacional,Famalicão,0 - 4,FT,True,True,False,POR1
+7,7,,5887636,2026-09-19T17:00:00Z,Alverca,Rio Ave,1 - 0,FT,True,True,False,POR1
+7,7,,5887643,2026-09-19T19:30:00Z,Sporting CP,Arouca,2 - 2,FT,True,True,False,POR1
+8,8,,5887651,2026-10-09T17:45:00Z,Moreirense,Gil Vicente,,,False,False,False,POR1
+8,8,,5887647,2026-10-09T19:15:00Z,Braga,Sporting CP,,,False,False,False,POR1
+8,8,,5887648,2026-10-10T14:30:00Z,Casa Pia AC,Santa Clara,,,False,False,False,POR1
+8,8,,5887650,2026-10-10T17:00:00Z,Marítimo,FC Porto,,,False,False,False,POR1
+8,8,,5887645,2026-10-10T19:30:00Z,Académico Viseu,Estoril,,,False,False,False,POR1
+8,8,,5887652,2026-10-11T14:30:00Z,Rio Ave,Nacional,,,False,False,False,POR1
+8,8,,5887653,2026-10-11T17:00:00Z,Benfica,Vitória de Guimarães,,,False,False,False,POR1
+8,8,,5887646,2026-10-11T19:30:00Z,Arouca,Estrela da Amadora,,,False,False,False,POR1
+8,8,,5887649,2026-10-12T19:15:00Z,Famalicão,Alverca,,,False,False,False,POR1
+9,9,,5887662,2026-10-23T19:45:00Z,Vitória de Guimarães,Marítimo,,,False,False,False,POR1
+9,9,,5887655,2026-10-24T14:30:00Z,Estrela da Amadora,Casa Pia AC,,,False,False,False,POR1
+9,9,,5887654,2026-10-24T17:00:00Z,Alverca,Arouca,,,False,False,False,POR1
+9,9,,5887657,2026-10-24T19:30:00Z,Gil Vicente,FC Porto,,,False,False,False,POR1
+9,9,,5887656,2026-10-25T15:30:00Z,Estoril,Moreirense,,,False,False,False,POR1
+9,9,,5887658,2026-10-25T18:00:00Z,Nacional,Braga,,,False,False,False,POR1
+9,9,,5887659,2026-10-25T18:00:00Z,Rio Ave,Famalicão,,,False,False,False,POR1
+9,9,,5887661,2026-10-25T20:30:00Z,Sporting CP,Académico Viseu,,,False,False,False,POR1
+9,9,,5887660,2026-10-26T18:45:00Z,Santa Clara,Benfica,,,False,False,False,POR1
+10,10,,5887666,2026-10-30T20:15:00Z,Casa Pia AC,Sporting CP,,,False,False,False,POR1
+10,10,,5887669,2026-10-31T15:30:00Z,Moreirense,Estrela da Amadora,,,False,False,False,POR1
+10,10,,5887670,2026-10-31T20:30:00Z,FC Porto,Estoril,,,False,False,False,POR1
+10,10,,5887664,2026-11-01T15:30:00Z,Arouca,Nacional,,,False,False,False,POR1
+10,10,,5887663,2026-11-01T18:00:00Z,Académico Viseu,Rio Ave,,,False,False,False,POR1
+10,10,,5887668,2026-11-01T18:00:00Z,Marítimo,Santa Clara,,,False,False,False,POR1
+10,10,,5887665,2026-11-01T20:30:00Z,Braga,Famalicão,,,False,False,False,POR1
+10,10,,5887667,2026-11-02T20:15:00Z,Gil Vicente,Vitória de Guimarães,,,False,False,False,POR1
+10,10,,5887671,2026-11-02T20:15:00Z,Benfica,Alverca,,,False,False,False,POR1
+11,11,,5887675,2026-11-06T20:45:00Z,Famalicão,Arouca,,,False,False,False,POR1
+11,11,,5887676,2026-11-07T15:30:00Z,Nacional,Académico Viseu,,,False,False,False,POR1
+11,11,,5887672,2026-11-07T18:00:00Z,Alverca,Casa Pia AC,,,False,False,False,POR1
+11,11,,5887679,2026-11-07T20:30:00Z,Sporting CP,Moreirense,,,False,False,False,POR1
+11,11,,5887674,2026-11-08T15:30:00Z,Estoril,Marítimo,,,False,False,False,POR1
+11,11,,5887678,2026-11-08T15:30:00Z,Santa Clara,Gil Vicente,,,False,False,False,POR1
+11,11,,5887680,2026-11-08T18:00:00Z,Vitória de Guimarães,FC Porto,,,False,False,False,POR1
+11,11,,5887673,2026-11-08T20:30:00Z,Estrela da Amadora,Benfica,,,False,False,False,POR1
+11,11,,5887677,2026-11-08T20:30:00Z,Rio Ave,Braga,,,False,False,False,POR1
+12,12,,5887685,2026-11-27T20:15:00Z,Marítimo,Nacional,,,False,False,False,POR1
+12,12,,5887682,2026-11-28T15:30:00Z,Arouca,Rio Ave,,,False,False,False,POR1
+12,12,,5887686,2026-11-28T15:30:00Z,Moreirense,Santa Clara,,,False,False,False,POR1
+12,12,,5887681,2026-11-28T18:00:00Z,Académico Viseu,Alverca,,,False,False,False,POR1
+12,12,,5887689,2026-11-28T20:30:00Z,Vitória de Guimarães,Estrela da Amadora,,,False,False,False,POR1
+12,12,,5887684,2026-11-29T18:00:00Z,Gil Vicente,Estoril,,,False,False,False,POR1
+12,12,,5887687,2026-11-29T20:30:00Z,FC Porto,Sporting CP,,,False,False,False,POR1
+12,12,,5887683,2026-11-30T20:15:00Z,Casa Pia AC,Braga,,,False,False,False,POR1
+12,12,,5887688,2026-11-30T20:15:00Z,Benfica,Famalicão,,,False,False,False,POR1
+13,13,,5887690,2026-12-06T17:00:00Z,Alverca,Moreirense,,,False,False,False,POR1
+13,13,,5887691,2026-12-06T17:00:00Z,Estrela da Amadora,Gil Vicente,,,False,False,False,POR1
+13,13,,5887692,2026-12-06T17:00:00Z,Braga,Arouca,,,False,False,False,POR1
+13,13,,5887693,2026-12-06T17:00:00Z,Estoril,Vitória de Guimarães,,,False,False,False,POR1
+13,13,,5887694,2026-12-06T17:00:00Z,Famalicão,Académico Viseu,,,False,False,False,POR1
+13,13,,5887695,2026-12-06T17:00:00Z,Nacional,Benfica,,,False,False,False,POR1
+13,13,,5887696,2026-12-06T17:00:00Z,Rio Ave,Casa Pia AC,,,False,False,False,POR1
+13,13,,5887697,2026-12-06T17:00:00Z,Santa Clara,FC Porto,,,False,False,False,POR1
+13,13,,5887698,2026-12-06T17:00:00Z,Sporting CP,Marítimo,,,False,False,False,POR1
+14,14,,5887699,2026-12-13T17:00:00Z,Académico Viseu,Arouca,,,False,False,False,POR1
+14,14,,5887700,2026-12-13T17:00:00Z,Casa Pia AC,Nacional,,,False,False,False,POR1
+14,14,,5887701,2026-12-13T17:00:00Z,Estoril,Santa Clara,,,False,False,False,POR1
+14,14,,5887702,2026-12-13T17:00:00Z,Gil Vicente,Sporting CP,,,False,False,False,POR1
+14,14,,5887703,2026-12-13T17:00:00Z,Marítimo,Rio Ave,,,False,False,False,POR1
+14,14,,5887704,2026-12-13T17:00:00Z,Moreirense,Famalicão,,,False,False,False,POR1
+14,14,,5887705,2026-12-13T17:00:00Z,FC Porto,Estrela da Amadora,,,False,False,False,POR1
+14,14,,5887706,2026-12-13T17:00:00Z,Benfica,Braga,,,False,False,False,POR1
+14,14,,5887707,2026-12-13T17:00:00Z,Vitória de Guimarães,Alverca,,,False,False,False,POR1
+15,15,,5887708,2026-12-20T17:00:00Z,Alverca,Gil Vicente,,,False,False,False,POR1
+15,15,,5887709,2026-12-20T17:00:00Z,Estrela da Amadora,Marítimo,,,False,False,False,POR1
+15,15,,5887710,2026-12-20T17:00:00Z,Arouca,Casa Pia AC,,,False,False,False,POR1
+15,15,,5887711,2026-12-20T17:00:00Z,Braga,Académico Viseu,,,False,False,False,POR1
+15,15,,5887712,2026-12-20T17:00:00Z,Famalicão,FC Porto,,,False,False,False,POR1
+15,15,,5887713,2026-12-20T17:00:00Z,Nacional,Moreirense,,,False,False,False,POR1
+15,15,,5887714,2026-12-20T17:00:00Z,Rio Ave,Benfica,,,False,False,False,POR1
+15,15,,5887715,2026-12-20T17:00:00Z,Santa Clara,Vitória de Guimarães,,,False,False,False,POR1
+15,15,,5887716,2026-12-20T17:00:00Z,Sporting CP,Estoril,,,False,False,False,POR1
+16,16,,5887717,2026-12-27T17:00:00Z,Casa Pia AC,Famalicão,,,False,False,False,POR1
+16,16,,5887718,2026-12-27T17:00:00Z,Estoril,Alverca,,,False,False,False,POR1
+16,16,,5887719,2026-12-27T17:00:00Z,Gil Vicente,Arouca,,,False,False,False,POR1
+16,16,,5887720,2026-12-27T17:00:00Z,Marítimo,Braga,,,False,False,False,POR1
+16,16,,5887721,2026-12-27T17:00:00Z,Moreirense,Académico Viseu,,,False,False,False,POR1
+16,16,,5887722,2026-12-27T17:00:00Z,FC Porto,Nacional,,,False,False,False,POR1
+16,16,,5887723,2026-12-27T17:00:00Z,Santa Clara,Estrela da Amadora,,,False,False,False,POR1
+16,16,,5887724,2026-12-27T17:00:00Z,Benfica,Sporting CP,,,False,False,False,POR1
+16,16,,5887725,2026-12-27T17:00:00Z,Vitória de Guimarães,Rio Ave,,,False,False,False,POR1
+17,17,,5887726,2027-01-10T17:00:00Z,Académico Viseu,Casa Pia AC,,,False,False,False,POR1
+17,17,,5887727,2027-01-10T17:00:00Z,Alverca,Marítimo,,,False,False,False,POR1
+17,17,,5887728,2027-01-10T17:00:00Z,Estrela da Amadora,Estoril,,,False,False,False,POR1
+17,17,,5887729,2027-01-10T17:00:00Z,Arouca,Benfica,,,False,False,False,POR1
+17,17,,5887730,2027-01-10T17:00:00Z,Braga,FC Porto,,,False,False,False,POR1
+17,17,,5887731,2027-01-10T17:00:00Z,Famalicão,Vitória de Guimarães,,,False,False,False,POR1
+17,17,,5887732,2027-01-10T17:00:00Z,Nacional,Gil Vicente,,,False,False,False,POR1
+17,17,,5887733,2027-01-10T17:00:00Z,Rio Ave,Moreirense,,,False,False,False,POR1
+17,17,,5887734,2027-01-10T17:00:00Z,Sporting CP,Santa Clara,,,False,False,False,POR1
+18,18,,5887735,2027-01-17T17:00:00Z,Sporting CP,Estrela da Amadora,,,False,False,False,POR1
+18,18,,5887736,2027-01-17T17:00:00Z,Famalicão,Estoril,,,False,False,False,POR1
+18,18,,5887737,2027-01-17T17:00:00Z,Rio Ave,Gil Vicente,,,False,False,False,POR1
+18,18,,5887738,2027-01-17T17:00:00Z,Casa Pia AC,Marítimo,,,False,False,False,POR1
+18,18,,5887739,2027-01-17T17:00:00Z,Braga,Moreirense,,,False,False,False,POR1
+18,18,,5887740,2027-01-17T17:00:00Z,Alverca,FC Porto,,,False,False,False,POR1
+18,18,,5887741,2027-01-17T17:00:00Z,Nacional,Santa Clara,,,False,False,False,POR1
+18,18,,5887742,2027-01-17T17:00:00Z,Académico Viseu,Benfica,,,False,False,False,POR1
+18,18,,5887743,2027-01-17T17:00:00Z,Arouca,Vitória de Guimarães,,,False,False,False,POR1
+19,19,,5887744,2027-01-24T17:00:00Z,Santa Clara,Académico Viseu,,,False,False,False,POR1
+19,19,,5887745,2027-01-24T17:00:00Z,Estrela da Amadora,Alverca,,,False,False,False,POR1
+19,19,,5887746,2027-01-24T17:00:00Z,Moreirense,Arouca,,,False,False,False,POR1
+19,19,,5887747,2027-01-24T17:00:00Z,Gil Vicente,Braga,,,False,False,False,POR1
+19,19,,5887748,2027-01-24T17:00:00Z,Benfica,Casa Pia AC,,,False,False,False,POR1
+19,19,,5887749,2027-01-24T17:00:00Z,Marítimo,Famalicão,,,False,False,False,POR1
+19,19,,5887750,2027-01-24T17:00:00Z,Estoril,Nacional,,,False,False,False,POR1
+19,19,,5887751,2027-01-24T17:00:00Z,FC Porto,Rio Ave,,,False,False,False,POR1
+19,19,,5887752,2027-01-24T17:00:00Z,Vitória de Guimarães,Sporting CP,,,False,False,False,POR1
+20,20,,5887753,2027-01-31T17:00:00Z,Braga,Estrela da Amadora,,,False,False,False,POR1
+20,20,,5887754,2027-01-31T17:00:00Z,Rio Ave,Estoril,,,False,False,False,POR1
+20,20,,5887755,2027-01-31T17:00:00Z,Casa Pia AC,Gil Vicente,,,False,False,False,POR1
+20,20,,5887756,2027-01-31T17:00:00Z,Académico Viseu,Marítimo,,,False,False,False,POR1
+20,20,,5887757,2027-01-31T17:00:00Z,Benfica,Moreirense,,,False,False,False,POR1
+20,20,,5887758,2027-01-31T17:00:00Z,Arouca,FC Porto,,,False,False,False,POR1
+20,20,,5887759,2027-01-31T17:00:00Z,Famalicão,Santa Clara,,,False,False,False,POR1
+20,20,,5887760,2027-01-31T17:00:00Z,Alverca,Sporting CP,,,False,False,False,POR1
+20,20,,5887761,2027-01-31T17:00:00Z,Nacional,Vitória de Guimarães,,,False,False,False,POR1
+21,21,,5887762,2027-02-07T17:00:00Z,FC Porto,Académico Viseu,,,False,False,False,POR1
+21,21,,5887763,2027-02-07T17:00:00Z,Santa Clara,Alverca,,,False,False,False,POR1
+21,21,,5887764,2027-02-07T17:00:00Z,Marítimo,Arouca,,,False,False,False,POR1
+21,21,,5887765,2027-02-07T17:00:00Z,Vitória de Guimarães,Braga,,,False,False,False,POR1
+21,21,,5887766,2027-02-07T17:00:00Z,Moreirense,Casa Pia AC,,,False,False,False,POR1
+21,21,,5887767,2027-02-07T17:00:00Z,Gil Vicente,Famalicão,,,False,False,False,POR1
+21,21,,5887768,2027-02-07T17:00:00Z,Estrela da Amadora,Nacional,,,False,False,False,POR1
+21,21,,5887769,2027-02-07T17:00:00Z,Sporting CP,Rio Ave,,,False,False,False,POR1
+21,21,,5887770,2027-02-07T17:00:00Z,Estoril,Benfica,,,False,False,False,POR1
+22,22,,5887771,2027-02-14T17:00:00Z,Braga,Alverca,,,False,False,False,POR1
+22,22,,5887772,2027-02-14T17:00:00Z,Famalicão,Estrela da Amadora,,,False,False,False,POR1
+22,22,,5887773,2027-02-14T17:00:00Z,Arouca,Estoril,,,False,False,False,POR1
+22,22,,5887774,2027-02-14T17:00:00Z,Académico Viseu,Gil Vicente,,,False,False,False,POR1
+22,22,,5887775,2027-02-14T17:00:00Z,Benfica,Marítimo,,,False,False,False,POR1
+22,22,,5887776,2027-02-14T17:00:00Z,Moreirense,FC Porto,,,False,False,False,POR1
+22,22,,5887777,2027-02-14T17:00:00Z,Rio Ave,Santa Clara,,,False,False,False,POR1
+22,22,,5887778,2027-02-14T17:00:00Z,Nacional,Sporting CP,,,False,False,False,POR1
+22,22,,5887779,2027-02-14T17:00:00Z,Casa Pia AC,Vitória de Guimarães,,,False,False,False,POR1
+23,23,,5887780,2027-02-21T17:00:00Z,Vitória de Guimarães,Académico Viseu,,,False,False,False,POR1
+23,23,,5887781,2027-02-21T17:00:00Z,Santa Clara,Arouca,,,False,False,False,POR1
+23,23,,5887782,2027-02-21T17:00:00Z,Estoril,Braga,,,False,False,False,POR1
+23,23,,5887783,2027-02-21T17:00:00Z,FC Porto,Casa Pia AC,,,False,False,False,POR1
+23,23,,5887784,2027-02-21T17:00:00Z,Sporting CP,Famalicão,,,False,False,False,POR1
+23,23,,5887785,2027-02-21T17:00:00Z,Marítimo,Moreirense,,,False,False,False,POR1
+23,23,,5887786,2027-02-21T17:00:00Z,Alverca,Nacional,,,False,False,False,POR1
+23,23,,5887787,2027-02-21T17:00:00Z,Estrela da Amadora,Rio Ave,,,False,False,False,POR1
+23,23,,5887788,2027-02-21T17:00:00Z,Gil Vicente,Benfica,,,False,False,False,POR1
+24,24,,5887789,2027-02-28T17:00:00Z,Rio Ave,Alverca,,,False,False,False,POR1
+24,24,,5887790,2027-02-28T17:00:00Z,Académico Viseu,Estrela da Amadora,,,False,False,False,POR1
+24,24,,5887791,2027-02-28T17:00:00Z,Casa Pia AC,Estoril,,,False,False,False,POR1
+24,24,,5887792,2027-02-28T17:00:00Z,Marítimo,Gil Vicente,,,False,False,False,POR1
+24,24,,5887793,2027-02-28T17:00:00Z,Famalicão,Nacional,,,False,False,False,POR1
+24,24,,5887794,2027-02-28T17:00:00Z,Benfica,FC Porto,,,False,False,False,POR1
+24,24,,5887795,2027-02-28T17:00:00Z,Braga,Santa Clara,,,False,False,False,POR1
+24,24,,5887796,2027-02-28T17:00:00Z,Arouca,Sporting CP,,,False,False,False,POR1
+24,24,,5887797,2027-02-28T17:00:00Z,Moreirense,Vitória de Guimarães,,,False,False,False,POR1
+25,25,,5887798,2027-03-07T17:00:00Z,Estoril,Académico Viseu,,,False,False,False,POR1
+25,25,,5887799,2027-03-07T17:00:00Z,Estrela da Amadora,Arouca,,,False,False,False,POR1
+25,25,,5887800,2027-03-07T17:00:00Z,Sporting CP,Braga,,,False,False,False,POR1
+25,25,,5887801,2027-03-07T17:00:00Z,Santa Clara,Casa Pia AC,,,False,False,False,POR1
+25,25,,5887802,2027-03-07T17:00:00Z,Alverca,Famalicão,,,False,False,False,POR1
+25,25,,5887803,2027-03-07T17:00:00Z,FC Porto,Marítimo,,,False,False,False,POR1
+25,25,,5887804,2027-03-07T17:00:00Z,Gil Vicente,Moreirense,,,False,False,False,POR1
+25,25,,5887805,2027-03-07T17:00:00Z,Nacional,Rio Ave,,,False,False,False,POR1
+25,25,,5887806,2027-03-07T17:00:00Z,Vitória de Guimarães,Benfica,,,False,False,False,POR1
+26,26,,5887807,2027-03-14T17:00:00Z,Arouca,Alverca,,,False,False,False,POR1
+26,26,,5887808,2027-03-14T17:00:00Z,Casa Pia AC,Estrela da Amadora,,,False,False,False,POR1
+26,26,,5887809,2027-03-14T17:00:00Z,Moreirense,Estoril,,,False,False,False,POR1
+26,26,,5887810,2027-03-14T17:00:00Z,FC Porto,Gil Vicente,,,False,False,False,POR1
+26,26,,5887811,2027-03-14T17:00:00Z,Braga,Nacional,,,False,False,False,POR1
+26,26,,5887812,2027-03-14T17:00:00Z,Famalicão,Rio Ave,,,False,False,False,POR1
+26,26,,5887813,2027-03-14T17:00:00Z,Benfica,Santa Clara,,,False,False,False,POR1
+26,26,,5887814,2027-03-14T17:00:00Z,Académico Viseu,Sporting CP,,,False,False,False,POR1
+26,26,,5887815,2027-03-14T17:00:00Z,Marítimo,Vitória de Guimarães,,,False,False,False,POR1
+27,27,,5887816,2027-03-21T17:00:00Z,Rio Ave,Académico Viseu,,,False,False,False,POR1
+27,27,,5887817,2027-03-21T17:00:00Z,Nacional,Arouca,,,False,False,False,POR1
+27,27,,5887818,2027-03-21T17:00:00Z,Famalicão,Braga,,,False,False,False,POR1
+27,27,,5887819,2027-03-21T17:00:00Z,Sporting CP,Casa Pia AC,,,False,False,False,POR1
+27,27,,5887820,2027-03-21T17:00:00Z,Vitória de Guimarães,Gil Vicente,,,False,False,False,POR1
+27,27,,5887821,2027-03-21T17:00:00Z,Santa Clara,Marítimo,,,False,False,False,POR1
+27,27,,5887822,2027-03-21T17:00:00Z,Estrela da Amadora,Moreirense,,,False,False,False,POR1
+27,27,,5887823,2027-03-21T17:00:00Z,Estoril,FC Porto,,,False,False,False,POR1
+27,27,,5887824,2027-03-21T17:00:00Z,Alverca,Benfica,,,False,False,False,POR1
+28,28,,5887825,2027-04-04T16:00:00Z,Casa Pia AC,Alverca,,,False,False,False,POR1
+28,28,,5887826,2027-04-04T16:00:00Z,Benfica,Estrela da Amadora,,,False,False,False,POR1
+28,28,,5887827,2027-04-04T16:00:00Z,Marítimo,Estoril,,,False,False,False,POR1
+28,28,,5887828,2027-04-04T16:00:00Z,Arouca,Famalicão,,,False,False,False,POR1
+28,28,,5887829,2027-04-04T16:00:00Z,Académico Viseu,Nacional,,,False,False,False,POR1
+28,28,,5887830,2027-04-04T16:00:00Z,Braga,Rio Ave,,,False,False,False,POR1
+28,28,,5887831,2027-04-04T16:00:00Z,Gil Vicente,Santa Clara,,,False,False,False,POR1
+28,28,,5887832,2027-04-04T16:00:00Z,Moreirense,Sporting CP,,,False,False,False,POR1
+28,28,,5887833,2027-04-04T16:00:00Z,FC Porto,Vitória de Guimarães,,,False,False,False,POR1
+29,29,,5887834,2027-04-11T16:00:00Z,Alverca,Académico Viseu,,,False,False,False,POR1
+29,29,,5887835,2027-04-11T16:00:00Z,Rio Ave,Arouca,,,False,False,False,POR1
+29,29,,5887836,2027-04-11T16:00:00Z,Braga,Casa Pia AC,,,False,False,False,POR1
+29,29,,5887837,2027-04-11T16:00:00Z,Estoril,Gil Vicente,,,False,False,False,POR1
+29,29,,5887838,2027-04-11T16:00:00Z,Nacional,Marítimo,,,False,False,False,POR1
+29,29,,5887839,2027-04-11T16:00:00Z,Santa Clara,Moreirense,,,False,False,False,POR1
+29,29,,5887840,2027-04-11T16:00:00Z,Sporting CP,FC Porto,,,False,False,False,POR1
+29,29,,5887841,2027-04-11T16:00:00Z,Famalicão,Benfica,,,False,False,False,POR1
+29,29,,5887842,2027-04-11T16:00:00Z,Estrela da Amadora,Vitória de Guimarães,,,False,False,False,POR1
+30,30,,5887843,2027-04-18T16:00:00Z,Moreirense,Alverca,,,False,False,False,POR1
+30,30,,5887844,2027-04-18T16:00:00Z,Gil Vicente,Estrela da Amadora,,,False,False,False,POR1
+30,30,,5887845,2027-04-18T16:00:00Z,Arouca,Braga,,,False,False,False,POR1
+30,30,,5887846,2027-04-18T16:00:00Z,Vitória de Guimarães,Estoril,,,False,False,False,POR1
+30,30,,5887847,2027-04-18T16:00:00Z,Académico Viseu,Famalicão,,,False,False,False,POR1
+30,30,,5887848,2027-04-18T16:00:00Z,Benfica,Nacional,,,False,False,False,POR1
+30,30,,5887849,2027-04-18T16:00:00Z,Casa Pia AC,Rio Ave,,,False,False,False,POR1
+30,30,,5887850,2027-04-18T16:00:00Z,FC Porto,Santa Clara,,,False,False,False,POR1
+30,30,,5887851,2027-04-18T16:00:00Z,Marítimo,Sporting CP,,,False,False,False,POR1
+31,31,,5887852,2027-04-25T16:00:00Z,Arouca,Académico Viseu,,,False,False,False,POR1
+31,31,,5887853,2027-04-25T16:00:00Z,Nacional,Casa Pia AC,,,False,False,False,POR1
+31,31,,5887854,2027-04-25T16:00:00Z,Santa Clara,Estoril,,,False,False,False,POR1
+31,31,,5887855,2027-04-25T16:00:00Z,Sporting CP,Gil Vicente,,,False,False,False,POR1
+31,31,,5887856,2027-04-25T16:00:00Z,Rio Ave,Marítimo,,,False,False,False,POR1
+31,31,,5887857,2027-04-25T16:00:00Z,Famalicão,Moreirense,,,False,False,False,POR1
+31,31,,5887858,2027-04-25T16:00:00Z,Estrela da Amadora,FC Porto,,,False,False,False,POR1
+31,31,,5887859,2027-04-25T16:00:00Z,Braga,Benfica,,,False,False,False,POR1
+31,31,,5887860,2027-04-25T16:00:00Z,Alverca,Vitória de Guimarães,,,False,False,False,POR1
+32,32,,5887861,2027-05-02T16:00:00Z,Gil Vicente,Alverca,,,False,False,False,POR1
+32,32,,5887862,2027-05-02T16:00:00Z,Marítimo,Estrela da Amadora,,,False,False,False,POR1
+32,32,,5887863,2027-05-02T16:00:00Z,Casa Pia AC,Arouca,,,False,False,False,POR1
+32,32,,5887864,2027-05-02T16:00:00Z,Académico Viseu,Braga,,,False,False,False,POR1
+32,32,,5887865,2027-05-02T16:00:00Z,FC Porto,Famalicão,,,False,False,False,POR1
+32,32,,5887866,2027-05-02T16:00:00Z,Moreirense,Nacional,,,False,False,False,POR1
+32,32,,5887867,2027-05-02T16:00:00Z,Benfica,Rio Ave,,,False,False,False,POR1
+32,32,,5887868,2027-05-02T16:00:00Z,Vitória de Guimarães,Santa Clara,,,False,False,False,POR1
+32,32,,5887869,2027-05-02T16:00:00Z,Estoril,Sporting CP,,,False,False,False,POR1
+33,33,,5887870,2027-05-09T16:00:00Z,Famalicão,Casa Pia AC,,,False,False,False,POR1
+33,33,,5887871,2027-05-09T16:00:00Z,Alverca,Estoril,,,False,False,False,POR1
+33,33,,5887872,2027-05-09T16:00:00Z,Arouca,Gil Vicente,,,False,False,False,POR1
+33,33,,5887873,2027-05-09T16:00:00Z,Braga,Marítimo,,,False,False,False,POR1
+33,33,,5887874,2027-05-09T16:00:00Z,Académico Viseu,Moreirense,,,False,False,False,POR1
+33,33,,5887875,2027-05-09T16:00:00Z,Nacional,FC Porto,,,False,False,False,POR1
+33,33,,5887876,2027-05-09T16:00:00Z,Estrela da Amadora,Santa Clara,,,False,False,False,POR1
+33,33,,5887877,2027-05-09T16:00:00Z,Sporting CP,Benfica,,,False,False,False,POR1
+33,33,,5887878,2027-05-09T16:00:00Z,Rio Ave,Vitória de Guimarães,,,False,False,False,POR1
+34,34,,5887879,2027-05-16T16:00:00Z,Casa Pia AC,Académico Viseu,,,False,False,False,POR1
+34,34,,5887880,2027-05-16T16:00:00Z,Marítimo,Alverca,,,False,False,False,POR1
+34,34,,5887881,2027-05-16T16:00:00Z,Estoril,Estrela da Amadora,,,False,False,False,POR1
+34,34,,5887882,2027-05-16T16:00:00Z,Benfica,Arouca,,,False,False,False,POR1
+34,34,,5887883,2027-05-16T16:00:00Z,FC Porto,Braga,,,False,False,False,POR1
+34,34,,5887884,2027-05-16T16:00:00Z,Vitória de Guimarães,Famalicão,,,False,False,False,POR1
+34,34,,5887885,2027-05-16T16:00:00Z,Gil Vicente,Nacional,,,False,False,False,POR1
+34,34,,5887886,2027-05-16T16:00:00Z,Moreirense,Rio Ave,,,False,False,False,POR1
+34,34,,5887887,2027-05-16T16:00:00Z,Santa Clara,Sporting CP,,,False,False,False,POR1
+7,7,,5887637,2026-09-20T14:30:00.000Z,Estrela da Amadora,Académico Viseu,0 - 2,FT,True,True,False,POR1
+7,7,,5887638,2026-09-20T17:00:00.000Z,Estoril,Casa Pia AC,1 - 2,FT,True,True,False,POR1
+7,7,,5887641,2026-09-20T19:30:00.000Z,FC Porto,Benfica,1 - 0,,False,True,False,POR1
+7,7,,5887642,2026-09-20T17:00:00.000Z,Santa Clara,Braga,0 - 0,FT,True,True,False,POR1
+7,7,,5887644,2026-09-20T14:30:00.000Z,Vitória de Guimarães,Moreirense,1 - 1,FT,True,True,False,POR1

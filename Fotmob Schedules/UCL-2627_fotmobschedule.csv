@@ -1,0 +1,145 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,6106295,2026-09-08T16:45:00Z,Club Brugge,Aston Villa,2 - 3,FT,True,True,False,UCL
+1,1,,6106404,2026-09-08T16:45:00Z,AEK Athens,LASK,1 - 0,FT,True,True,False,UCL
+1,1,,6106242,2026-09-08T19:00:00Z,Real Madrid,Inter,2 - 1,FT,True,True,False,UCL
+1,1,,6106272,2026-09-08T19:00:00Z,Borussia Dortmund,Villarreal,3 - 2,FT,True,True,False,UCL
+1,1,,6106286,2026-09-08T19:00:00Z,FC Porto,Manchester City,0 - 2,FT,True,True,False,UCL
+1,1,,6106311,2026-09-08T19:00:00Z,Lille,Real Betis,2 - 3,FT,True,True,False,UCL
+1,1,,6106264,2026-09-09T16:45:00Z,Barcelona,Feyenoord,5 - 1,FT,True,True,False,UCL
+1,1,,6106400,2026-09-09T16:45:00Z,VfB Stuttgart,Viking,3 - 1,FT,True,True,False,UCL
+1,1,,6106237,2026-09-09T19:00:00Z,Paris Saint-Germain,Slovan Bratislava,6 - 1,FT,True,True,False,UCL
+1,1,,6106246,2026-09-09T19:00:00Z,Liverpool,Atlético Madrid,2 - 1,FT,True,True,False,UCL
+1,1,,6106280,2026-09-09T19:00:00Z,Sporting CP,Galatasaray,3 - 1,FT,True,True,False,UCL
+1,1,,6106318,2026-09-09T19:00:00Z,Napoli,Arsenal,0 - 1,FT,True,True,False,UCL
+1,1,,6106304,2026-09-10T16:45:00Z,PSV Eindhoven,Shakhtar Donetsk,1 - 1,FT,True,True,False,UCL
+1,1,,6106331,2026-09-10T16:45:00Z,Fenerbahçe,Roma,1 - 1,FT,True,True,False,UCL
+1,1,,6106240,2026-09-10T19:00:00Z,Bayern München,Bodø/Glimt,5 - 0,FT,True,True,False,UCL
+1,1,,6106293,2026-09-10T19:00:00Z,Manchester United,Sabah FK,4 - 0,FT,True,True,False,UCL
+1,1,,6106392,2026-09-10T19:00:00Z,Slavia Prague,Lens,2 - 3,FT,True,True,False,UCL
+1,1,,6106411,2026-09-10T19:00:00Z,Como,RB Leipzig,4 - 1,FT,True,True,False,UCL
+2,2,,6106414,2026-10-13T16:45:00Z,Lens,Sporting CP,0 - 2,FT,True,True,False,UCL
+2,2,,6106424,2026-10-13T16:45:00Z,Sabah FK,Slavia Prague,2 - 0,FT,True,True,False,UCL
+2,2,,6106251,2026-10-13T19:00:00Z,Inter,Club Brugge,3 - 4,FT,True,True,False,UCL
+2,2,,6106260,2026-10-13T19:00:00Z,Arsenal,Lille,3 - 0,FT,True,True,False,UCL
+2,2,,6106267,2026-10-13T19:00:00Z,Atlético Madrid,Manchester United,2 - 0,FT,True,True,False,UCL
+2,2,,6106323,2026-10-13T19:00:00Z,RB Leipzig,PSV Eindhoven,1 - 0,FT,True,True,False,UCL
+2,2,,6106328,2026-10-13T19:00:00Z,Villarreal,Napoli,3 - 1,FT,True,True,False,UCL
+2,2,,6106338,2026-10-13T19:00:00Z,Galatasaray,Barcelona,1 - 4,FT,True,True,False,UCL
+2,2,,6106417,2026-10-13T19:00:00Z,Viking,Bayern München,3 - 3,FT,True,True,False,UCL
+2,2,,6106309,2026-10-14T16:45:00Z,Feyenoord,Como,3 - 2,FT,True,True,False,UCL
+2,2,,6106405,2026-10-14T16:45:00Z,LASK,Liverpool,3 - 6,FT,True,True,False,UCL
+2,2,,6106254,2026-10-14T19:00:00Z,Manchester City,Paris Saint-Germain,2 - 4,FT,True,True,False,UCL
+2,2,,6106274,2026-10-14T19:00:00Z,Roma,Real Madrid,3 - 4,FT,True,True,False,UCL
+2,2,,6106284,2026-10-14T19:00:00Z,Aston Villa,Fenerbahçe,6 - 0,FT,True,True,False,UCL
+2,2,,6106299,2026-10-14T19:00:00Z,Real Betis,FC Porto,3 - 2,FT,True,True,False,UCL
+2,2,,6106315,2026-10-14T19:00:00Z,Bodø/Glimt,Borussia Dortmund,1 - 0,FT,True,True,False,UCL
+2,2,,6106337,2026-10-14T19:00:00Z,Shakhtar Donetsk,AEK Athens,3 - 1,FT,True,True,False,UCL
+2,2,,6106396,2026-10-14T19:00:00Z,Slovan Bratislava,VfB Stuttgart,0 - 3,FT,True,True,False,UCL
+3,3,,6106312,2026-10-21T16:45:00Z,Lille,Galatasaray,,,False,False,False,UCL
+3,3,,6106410,2026-10-21T16:45:00Z,Como,Manchester United,,,False,False,False,UCL
+3,3,,6106238,2026-10-21T19:00:00Z,Bayern München,Arsenal,,,False,False,False,UCL
+3,3,,6106244,2026-10-21T19:00:00Z,Real Madrid,RB Leipzig,,,False,False,False,UCL
+3,3,,6106252,2026-10-21T19:00:00Z,Inter,Shakhtar Donetsk,,,False,False,False,UCL
+3,3,,6106281,2026-10-21T19:00:00Z,Sporting CP,LASK,,,False,False,False,UCL
+3,3,,6106285,2026-10-21T19:00:00Z,Aston Villa,Viking,,,False,False,False,UCL
+3,3,,6106297,2026-10-21T19:00:00Z,Club Brugge,Lens,,,False,False,False,UCL
+3,3,,6106300,2026-10-21T19:00:00Z,Real Betis,Feyenoord,,,False,False,False,UCL
+4,4,,6106335,2026-11-03T17:45:00Z,Shakhtar Donetsk,Sporting CP,,,False,False,False,UCL
+4,4,,6106341,2026-11-03T17:45:00Z,Galatasaray,VfB Stuttgart,,,False,False,False,UCL
+4,4,,6106263,2026-11-03T20:00:00Z,Barcelona,Aston Villa,,,False,False,False,UCL
+4,4,,6106266,2026-11-03T20:00:00Z,Atlético Madrid,Bayern München,,,False,False,False,UCL
+4,4,,6106291,2026-11-03T20:00:00Z,Manchester United,Roma,,,False,False,False,UCL
+4,4,,6106306,2026-11-03T20:00:00Z,Feyenoord,Inter,,,False,False,False,UCL
+4,4,,6106316,2026-11-03T20:00:00Z,Bodø/Glimt,Lille,,,False,False,False,UCL
+4,4,,6106326,2026-11-03T20:00:00Z,Villarreal,Paris Saint-Germain,,,False,False,False,UCL
+4,4,,6106408,2026-11-03T20:00:00Z,LASK,Slovan Bratislava,,,False,False,False,UCL
+4,4,,6106330,2026-11-04T17:45:00Z,Fenerbahçe,Liverpool,,,False,False,False,UCL
+4,4,,6106401,2026-11-04T17:45:00Z,AEK Athens,Real Madrid,,,False,False,False,UCL
+4,4,,6106271,2026-11-04T20:00:00Z,Borussia Dortmund,Real Betis,,,False,False,False,UCL
+4,4,,6106288,2026-11-04T20:00:00Z,FC Porto,Napoli,,,False,False,False,UCL
+4,4,,6106303,2026-11-04T20:00:00Z,PSV Eindhoven,Club Brugge,,,False,False,False,UCL
+4,4,,6106322,2026-11-04T20:00:00Z,RB Leipzig,Manchester City,,,False,False,False,UCL
+4,4,,6106389,2026-11-04T20:00:00Z,Slavia Prague,Arsenal,,,False,False,False,UCL
+4,4,,6106416,2026-11-04T20:00:00Z,Lens,Como,,,False,False,False,UCL
+4,4,,6106420,2026-11-04T20:00:00Z,Viking,Sabah FK,,,False,False,False,UCL
+5,5,,6106317,2026-11-24T17:45:00Z,Bodø/Glimt,LASK,,,False,False,False,UCL
+5,5,,6106339,2026-11-24T17:45:00Z,Galatasaray,Aston Villa,,,False,False,False,UCL
+5,5,,6106243,2026-11-24T20:00:00Z,Real Madrid,PSV Eindhoven,,,False,False,False,UCL
+5,5,,6106256,2026-11-24T20:00:00Z,Manchester City,Napoli,,,False,False,False,UCL
+5,5,,6106259,2026-11-24T20:00:00Z,Arsenal,Borussia Dortmund,,,False,False,False,UCL
+5,5,,6106307,2026-11-24T20:00:00Z,Feyenoord,FC Porto,,,False,False,False,UCL
+5,5,,6106325,2026-11-24T20:00:00Z,RB Leipzig,Lens,,,False,False,False,UCL
+5,5,,6106394,2026-11-24T20:00:00Z,Slovan Bratislava,Real Betis,,,False,False,False,UCL
+5,5,,6106412,2026-11-24T20:00:00Z,Como,AEK Athens,,,False,False,False,UCL
+5,5,,6106391,2026-11-25T17:45:00Z,Slavia Prague,Villarreal,,,False,False,False,UCL
+5,5,,6106421,2026-11-25T17:45:00Z,Sabah FK,Barcelona,,,False,False,False,UCL
+5,5,,6106235,2026-11-25T20:00:00Z,Paris Saint-Germain,Roma,,,False,False,False,UCL
+5,5,,6106253,2026-11-25T20:00:00Z,Inter,VfB Stuttgart,,,False,False,False,UCL
+5,5,,6106269,2026-11-25T20:00:00Z,Atlético Madrid,Viking,,,False,False,False,UCL
+5,5,,6106279,2026-11-25T20:00:00Z,Sporting CP,Manchester United,,,False,False,False,UCL
+5,5,,6106294,2026-11-25T20:00:00Z,Club Brugge,Liverpool,,,False,False,False,UCL
+5,5,,6106310,2026-11-25T20:00:00Z,Lille,Bayern München,,,False,False,False,UCL
+5,5,,6106336,2026-11-25T20:00:00Z,Shakhtar Donetsk,Fenerbahçe,,,False,False,False,UCL
+6,6,,6106329,2026-12-08T17:45:00Z,Villarreal,Sabah FK,,,False,False,False,UCL
+6,6,,6106419,2026-12-08T17:45:00Z,Viking,Feyenoord,,,False,False,False,UCL
+6,6,,6106241,2026-12-08T20:00:00Z,Bayern München,Slavia Prague,,,False,False,False,UCL
+6,6,,6106262,2026-12-08T20:00:00Z,Barcelona,Manchester City,,,False,False,False,UCL
+6,6,,6106275,2026-12-08T20:00:00Z,Roma,Sporting CP,,,False,False,False,UCL
+6,6,,6106282,2026-12-08T20:00:00Z,Aston Villa,Paris Saint-Germain,,,False,False,False,UCL
+6,6,,6106292,2026-12-08T20:00:00Z,Manchester United,RB Leipzig,,,False,False,False,UCL
+6,6,,6106319,2026-12-08T20:00:00Z,Napoli,Club Brugge,,,False,False,False,UCL
+6,6,,6106403,2026-12-08T20:00:00Z,AEK Athens,Galatasaray,,,False,False,False,UCL
+6,6,,6106301,2026-12-09T17:45:00Z,Real Betis,Como,,,False,False,False,UCL
+6,6,,6106395,2026-12-09T17:45:00Z,Slovan Bratislava,Shakhtar Donetsk,,,False,False,False,UCL
+6,6,,6106247,2026-12-09T20:00:00Z,Liverpool,FC Porto,,,False,False,False,UCL
+6,6,,6106258,2026-12-09T20:00:00Z,Arsenal,Real Madrid,,,False,False,False,UCL
+6,6,,6106270,2026-12-09T20:00:00Z,Borussia Dortmund,Inter,,,False,False,False,UCL
+6,6,,6106302,2026-12-09T20:00:00Z,PSV Eindhoven,Atlético Madrid,,,False,False,False,UCL
+6,6,,6106399,2026-12-09T20:00:00Z,VfB Stuttgart,Lille,,,False,False,False,UCL
+6,6,,6106407,2026-12-09T20:00:00Z,LASK,Fenerbahçe,,,False,False,False,UCL
+6,6,,6106415,2026-12-09T20:00:00Z,Lens,Bodø/Glimt,,,False,False,False,UCL
+7,7,,6106314,2027-01-19T17:45:00Z,Bodø/Glimt,Atlético Madrid,,,False,False,False,UCL
+7,7,,6106340,2027-01-19T17:45:00Z,Galatasaray,Feyenoord,,,False,False,False,UCL
+7,7,,6106245,2027-01-19T20:00:00Z,Real Madrid,LASK,,,False,False,False,UCL
+7,7,,6106250,2027-01-19T20:00:00Z,Inter,Liverpool,,,False,False,False,UCL
+7,7,,6106283,2027-01-19T20:00:00Z,Aston Villa,Borussia Dortmund,,,False,False,False,UCL
+7,7,,6106289,2027-01-19T20:00:00Z,FC Porto,Slavia Prague,,,False,False,False,UCL
+7,7,,6106313,2027-01-19T20:00:00Z,Lille,Slovan Bratislava,,,False,False,False,UCL
+7,7,,6106398,2027-01-19T20:00:00Z,VfB Stuttgart,Club Brugge,,,False,False,False,UCL
+7,7,,6106402,2027-01-19T20:00:00Z,AEK Athens,Roma,,,False,False,False,UCL
+7,7,,6106332,2027-01-20T17:45:00Z,Fenerbahçe,Villarreal,,,False,False,False,UCL
+7,7,,6106423,2027-01-20T17:45:00Z,Sabah FK,Napoli,,,False,False,False,UCL
+7,7,,6106278,2027-01-20T20:00:00Z,Sporting CP,Barcelona,,,False,False,False,UCL
+7,7,,6106290,2027-01-20T20:00:00Z,Manchester United,Bayern München,,,False,False,False,UCL
+7,7,,6106298,2027-01-20T20:00:00Z,Real Betis,Arsenal,,,False,False,False,UCL
+7,7,,6106324,2027-01-20T20:00:00Z,RB Leipzig,Shakhtar Donetsk,,,False,False,False,UCL
+7,7,,6106409,2027-01-20T20:00:00Z,Como,Paris Saint-Germain,,,False,False,False,UCL
+7,7,,6106413,2027-01-20T20:00:00Z,Lens,Manchester City,,,False,False,False,UCL
+7,7,,6106418,2027-01-20T20:00:00Z,Viking,PSV Eindhoven,,,False,False,False,UCL
+8,8,,6106236,2027-01-27T20:00:00Z,Paris Saint-Germain,Galatasaray,,,False,False,False,UCL
+8,8,,6106239,2027-01-27T20:00:00Z,Bayern München,Real Betis,,,False,False,False,UCL
+8,8,,6106249,2027-01-27T20:00:00Z,Liverpool,Lens,,,False,False,False,UCL
+8,8,,6106255,2027-01-27T20:00:00Z,Manchester City,Sporting CP,,,False,False,False,UCL
+8,8,,6106261,2027-01-27T20:00:00Z,Arsenal,Sabah FK,,,False,False,False,UCL
+8,8,,6106265,2027-01-27T20:00:00Z,Barcelona,Como,,,False,False,False,UCL
+8,8,,6106268,2027-01-27T20:00:00Z,Atlético Madrid,Fenerbahçe,,,False,False,False,UCL
+8,8,,6106273,2027-01-27T20:00:00Z,Borussia Dortmund,AEK Athens,,,False,False,False,UCL
+8,8,,6106276,2027-01-27T20:00:00Z,Roma,Lille,,,False,False,False,UCL
+8,8,,6106296,2027-01-27T20:00:00Z,Club Brugge,Bodø/Glimt,,,False,False,False,UCL
+8,8,,6106305,2027-01-27T20:00:00Z,PSV Eindhoven,VfB Stuttgart,,,False,False,False,UCL
+8,8,,6106308,2027-01-27T20:00:00Z,Feyenoord,RB Leipzig,,,False,False,False,UCL
+8,8,,6106321,2027-01-27T20:00:00Z,Napoli,Viking,,,False,False,False,UCL
+8,8,,6106327,2027-01-27T20:00:00Z,Villarreal,Manchester United,,,False,False,False,UCL
+8,8,,6106334,2027-01-27T20:00:00Z,Shakhtar Donetsk,Real Madrid,,,False,False,False,UCL
+8,8,,6106390,2027-01-27T20:00:00Z,Slavia Prague,Aston Villa,,,False,False,False,UCL
+8,8,,6106393,2027-01-27T20:00:00Z,Slovan Bratislava,Inter,,,False,False,False,UCL
+8,8,,6106406,2027-01-27T20:00:00Z,LASK,FC Porto,,,False,False,False,UCL
+3,3,,6106234,2026-10-20T19:00:00.000Z,Paris Saint-Germain,Barcelona,4 - 2,FT,True,True,False,UCL
+3,3,,6106248,2026-10-20T19:00:00.000Z,Liverpool,Villarreal,4 - 3,FT,True,True,False,UCL
+3,3,,6106257,2026-10-20T19:00:00.000Z,Manchester City,AEK Athens,5 - 1,FT,True,True,False,UCL
+3,3,,6106277,2026-10-20T19:00:00.000Z,Roma,Slovan Bratislava,4 - 0,FT,True,True,False,UCL
+3,3,,6106287,2026-10-20T19:00:00.000Z,FC Porto,PSV Eindhoven,0 - 1,FT,True,True,False,UCL
+3,3,,6106320,2026-10-20T19:00:00.000Z,Napoli,Bodø/Glimt,4 - 3,FT,True,True,False,UCL
+3,3,,6106333,2026-10-20T16:45:00.000Z,Fenerbahçe,Slavia Prague,2 - 2,FT,True,True,False,UCL
+3,3,,6106397,2026-10-20T19:00:00.000Z,VfB Stuttgart,Atlético Madrid,1 - 1,FT,True,True,False,UCL
+3,3,,6106422,2026-10-20T16:45:00.000Z,Sabah FK,Borussia Dortmund,1 - 2,FT,True,True,False,UCL

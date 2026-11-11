@@ -1,0 +1,183 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5943225,2026-08-22T17:00:00Z,AEK Athens,Iraklis,4 - 0,FT,True,True,False,GRE1
+1,1,,5943226,2026-08-22T17:00:00Z,Kalamata,Aris Thessaloniki,2 - 3,FT,True,True,False,GRE1
+1,1,,5943228,2026-08-22T18:30:00Z,Olympiacos,Atromitos,1 - 0,FT,True,True,False,GRE1
+1,1,,5943227,2026-08-23T16:30:00Z,OFI Crete,NFC Volos,2 - 0,FT,True,True,False,GRE1
+1,1,,5943231,2026-08-23T18:00:00Z,PAOK Thessaloniki,Levadiakos,4 - 0,FT,True,True,False,GRE1
+1,1,,5943230,2026-08-23T18:30:00Z,Panetolikos,Asteras Tripolis,3 - 1,FT,True,True,False,GRE1
+2,2,,5943238,2026-08-29T16:30:00Z,NFC Volos,Iraklis,1 - 1,FT,True,True,False,GRE1
+2,2,,5943237,2026-08-29T18:30:00Z,Panetolikos,Kalamata,2 - 0,FT,True,True,False,GRE1
+2,2,,5943232,2026-08-30T16:30:00Z,Aris Thessaloniki,OFI Crete,2 - 1,FT,True,True,False,GRE1
+2,2,,5943234,2026-08-30T17:15:00Z,Atromitos,PAOK Thessaloniki,1 - 2,FT,True,True,False,GRE1
+2,2,,5943233,2026-08-30T18:00:00Z,Asteras Tripolis,Olympiacos,0 - 1,FT,True,True,False,GRE1
+2,2,,5943235,2026-08-30T18:00:00Z,Kifisia FC,AEK Athens,1 - 1,FT,True,True,False,GRE1
+2,2,,5943236,2026-08-31T16:30:00Z,Levadiakos,Panathinaikos,0 - 2,FT,True,True,False,GRE1
+3,3,,5943245,2026-09-05T16:00:00Z,NFC Volos,Olympiacos,1 - 1,FT,True,True,False,GRE1
+3,3,,5943239,2026-09-05T18:00:00Z,AEK Athens,Aris Thessaloniki,5 - 0,FT,True,True,False,GRE1
+3,3,,5943240,2026-09-06T16:00:00Z,Atromitos,Kalamata,1 - 1,FT,True,True,False,GRE1
+3,3,,5943243,2026-09-06T16:30:00Z,OFI Crete,Kifisia FC,2 - 0,FT,True,True,False,GRE1
+3,3,,5943242,2026-09-06T17:00:00Z,Levadiakos,Panetolikos,0 - 2,FT,True,True,False,GRE1
+3,3,,5943244,2026-09-06T18:30:00Z,Panathinaikos,PAOK Thessaloniki,3 - 1,FT,True,True,False,GRE1
+3,3,,5943351,2026-09-07T15:00:00Z,Asteras Tripolis,Iraklis,0 - 2,FT,True,True,False,GRE1
+1,1,,5943229,2026-09-10T18:15:00Z,Panathinaikos,Kifisia FC,3 - 1,FT,True,True,False,GRE1
+4,4,,5943250,2026-09-12T16:00:00Z,Olympiacos,OFI Crete,0 - 1,FT,True,True,False,GRE1
+4,4,,5943247,2026-09-12T18:00:00Z,Iraklis,Atromitos,1 - 1,FT,True,True,False,GRE1
+4,4,,5943248,2026-09-13T15:00:00Z,Kalamata,NFC Volos,3 - 1,FT,True,True,False,GRE1
+4,4,,5943246,2026-09-13T16:00:00Z,Asteras Tripolis,AEK Athens,1 - 1,FT,True,True,False,GRE1
+4,4,,5943249,2026-09-13T18:00:00Z,Kifisia FC,Levadiakos,0 - 0,FT,True,True,False,GRE1
+4,4,,5943252,2026-09-13T18:00:00Z,PAOK Thessaloniki,Aris Thessaloniki,2 - 0,FT,True,True,False,GRE1
+4,4,,5943251,2026-09-13T18:30:00Z,Panathinaikos,Panetolikos,3 - 0,FT,True,True,False,GRE1
+5,5,,5943254,2026-09-19T16:00:00Z,Atromitos,Kifisia FC,1 - 2,FT,True,True,False,GRE1
+5,5,,5943253,2026-09-19T16:30:00Z,Aris Thessaloniki,Iraklis,0 - 0,FT,True,True,False,GRE1
+5,5,,5943256,2026-09-20T14:00:00Z,Levadiakos,Olympiacos,0 - 1,FT,True,True,False,GRE1
+5,5,,5943259,2026-09-20T15:00:00Z,NFC Volos,AEK Athens,1 - 2,FT,True,True,False,GRE1
+5,5,,5943257,2026-09-20T16:00:00Z,OFI Crete,Asteras Tripolis,2 - 2,FT,True,True,False,GRE1
+5,5,,5943255,2026-09-20T16:30:00Z,Kalamata,Panathinaikos,0 - 1,FT,True,True,False,GRE1
+5,5,,5943258,2026-09-20T18:00:00Z,Panetolikos,PAOK Thessaloniki,1 - 3,FT,True,True,False,GRE1
+6,6,,5943260,2026-10-10T16:30:00Z,AEK Athens,OFI Crete,3 - 0,FT,True,True,False,GRE1
+6,6,,5943262,2026-10-10T16:30:00Z,Asteras Tripolis,Atromitos,2 - 1,FT,True,True,False,GRE1
+6,6,,5943263,2026-10-11T14:00:00Z,Iraklis,Levadiakos,2 - 0,FT,True,True,False,GRE1
+6,6,,5943264,2026-10-11T14:00:00Z,Kifisia FC,Panetolikos,2 - 0,FT,True,True,False,GRE1
+6,6,,5943261,2026-10-11T16:00:00Z,Aris Thessaloniki,NFC Volos,3 - 2,FT,True,True,False,GRE1
+6,6,,5943265,2026-10-11T18:00:00Z,Olympiacos,Panathinaikos,1 - 0,FT,True,True,False,GRE1
+6,6,,5943266,2026-10-12T15:00:00Z,PAOK Thessaloniki,Kalamata,1 - 3,FT,True,True,False,GRE1
+7,7,,5943270,2026-10-17T14:00:00Z,Levadiakos,NFC Volos,0 - 0,FT,True,True,False,GRE1
+7,7,,5943267,2026-10-17T16:30:00Z,Atromitos,AEK Athens,,PP,False,False,True,GRE1
+7,7,,5943268,2026-10-18T13:00:00Z,Kalamata,OFI Crete,4 - 3,FT,True,True,False,GRE1
+7,7,,5943272,2026-10-18T14:00:00Z,Panetolikos,Olympiacos,0 - 2,FT,True,True,False,GRE1
+7,7,,5943271,2026-10-18T14:30:00Z,Panathinaikos,Asteras Tripolis,5 - 1,FT,True,True,False,GRE1
+7,7,,5943269,2026-10-18T17:00:00Z,Kifisia FC,Aris Thessaloniki,1 - 2,FT,True,True,False,GRE1
+7,7,,5943273,2026-10-18T18:00:00Z,PAOK Thessaloniki,Iraklis,2 - 1,FT,True,True,False,GRE1
+8,8,,5943277,2026-10-24T16:00:00Z,Iraklis,Kifisia FC,2 - 3,FT,True,True,False,GRE1
+8,8,,5943276,2026-10-24T16:30:00Z,Asteras Tripolis,Levadiakos,0 - 0,FT,True,True,False,GRE1
+8,8,,5943274,2026-10-24T17:00:00Z,AEK Athens,Panetolikos,5 - 0,FT,True,True,False,GRE1
+9,9,,5943283,2026-10-31T17:00:00Z,Kifisia FC,Olympiacos,,,False,False,False,GRE1
+9,9,,5943284,2026-11-01T15:00:00Z,Levadiakos,Aris Thessaloniki,,,False,False,False,GRE1
+9,9,,5943286,2026-11-01T16:00:00Z,Panetolikos,OFI Crete,,,False,False,False,GRE1
+9,9,,5943285,2026-11-01T17:00:00Z,Panathinaikos,AEK Athens,,,False,False,False,GRE1
+9,9,,5943287,2026-11-01T17:00:00Z,PAOK Thessaloniki,Asteras Tripolis,,,False,False,False,GRE1
+9,9,,5943281,2026-11-02T16:00:00Z,Atromitos,NFC Volos,,,False,False,False,GRE1
+9,9,,5943282,2026-11-02T17:30:00Z,Kalamata,Iraklis,,,False,False,False,GRE1
+10,10,,5943294,2026-11-07T15:00:00Z,NFC Volos,Kifisia FC,,,False,False,False,GRE1
+10,10,,5943289,2026-11-07T17:30:00Z,Aris Thessaloniki,Panetolikos,,,False,False,False,GRE1
+10,10,,5943288,2026-11-08T15:00:00Z,AEK Athens,Levadiakos,,,False,False,False,GRE1
+10,10,,5943290,2026-11-08T15:00:00Z,Asteras Tripolis,Kalamata,,,False,False,False,GRE1
+10,10,,5943291,2026-11-08T15:30:00Z,Iraklis,Panathinaikos,,,False,False,False,GRE1
+10,10,,5943292,2026-11-08T17:00:00Z,OFI Crete,Atromitos,,,False,False,False,GRE1
+10,10,,5943293,2026-11-08T19:00:00Z,Olympiacos,PAOK Thessaloniki,,,False,False,False,GRE1
+11,11,,5943296,2026-11-21T17:30:00Z,Kalamata,AEK Athens,,,False,False,False,GRE1
+11,11,,5943297,2026-11-22T14:00:00Z,Levadiakos,Atromitos,,,False,False,False,GRE1
+11,11,,5943300,2026-11-22T15:00:00Z,Panetolikos,NFC Volos,,,False,False,False,GRE1
+11,11,,5943299,2026-11-22T15:30:00Z,Panathinaikos,OFI Crete,,,False,False,False,GRE1
+11,11,,5943298,2026-11-22T17:00:00Z,Olympiacos,Iraklis,,,False,False,False,GRE1
+11,11,,5943301,2026-11-22T17:30:00Z,PAOK Thessaloniki,Kifisia FC,,,False,False,False,GRE1
+11,11,,5943295,2026-11-23T15:00:00Z,Asteras Tripolis,Aris Thessaloniki,,,False,False,False,GRE1
+12,12,,5943308,2026-11-28T15:00:00Z,NFC Volos,Asteras Tripolis,,,False,False,False,GRE1
+12,12,,5943306,2026-11-28T18:00:00Z,Kifisia FC,Kalamata,,,False,False,False,GRE1
+12,12,,5943305,2026-11-28T19:00:00Z,Iraklis,Panetolikos,,,False,False,False,GRE1
+12,12,,5943304,2026-11-29T15:00:00Z,Atromitos,Panathinaikos,,,False,False,False,GRE1
+12,12,,5943307,2026-11-29T15:30:00Z,OFI Crete,Levadiakos,,,False,False,False,GRE1
+12,12,,5943303,2026-11-29T17:00:00Z,Aris Thessaloniki,Olympiacos,,,False,False,False,GRE1
+12,12,,5943302,2026-11-29T19:00:00Z,AEK Athens,PAOK Thessaloniki,,,False,False,False,GRE1
+13,13,,5943312,2026-12-05T18:00:00Z,Olympiacos,AEK Athens,,,False,False,False,GRE1
+13,13,,5943310,2026-12-06T13:00:00Z,Kalamata,Levadiakos,,,False,False,False,GRE1
+13,13,,5943309,2026-12-06T14:00:00Z,Asteras Tripolis,Kifisia FC,,,False,False,False,GRE1
+13,13,,5943313,2026-12-06T15:30:00Z,Panathinaikos,Aris Thessaloniki,,,False,False,False,GRE1
+13,13,,5943315,2026-12-06T17:30:00Z,PAOK Thessaloniki,NFC Volos,,,False,False,False,GRE1
+13,13,,5943311,2026-12-06T18:00:00Z,OFI Crete,Iraklis,,,False,False,False,GRE1
+13,13,,5943314,2026-12-07T17:00:00Z,Panetolikos,Atromitos,,,False,False,False,GRE1
+14,14,,5943319,2026-12-12T15:00:00Z,Kalamata,Panetolikos,,,False,False,False,GRE1
+14,14,,5943321,2026-12-12T17:30:00Z,Levadiakos,Asteras Tripolis,,,False,False,False,GRE1
+14,14,,5943318,2026-12-12T19:00:00Z,Iraklis,Aris Thessaloniki,,,False,False,False,GRE1
+14,14,,5943317,2026-12-13T15:00:00Z,Atromitos,Olympiacos,,,False,False,False,GRE1
+14,14,,5943316,2026-12-13T17:00:00Z,AEK Athens,NFC Volos,,,False,False,False,GRE1
+14,14,,5943322,2026-12-13T17:30:00Z,PAOK Thessaloniki,Panathinaikos,,,False,False,False,GRE1
+14,14,,5943320,2026-12-14T17:00:00Z,Kifisia FC,OFI Crete,,,False,False,False,GRE1
+15,15,,5943329,2026-12-19T15:00:00Z,NFC Volos,Levadiakos,,,False,False,False,GRE1
+15,15,,5943324,2026-12-19T17:30:00Z,Asteras Tripolis,PAOK Thessaloniki,,,False,False,False,GRE1
+15,15,,5943325,2026-12-19T18:00:00Z,Kifisia FC,Atromitos,,,False,False,False,GRE1
+15,15,,5943327,2026-12-20T15:00:00Z,Olympiacos,Panetolikos,,,False,False,False,GRE1
+15,15,,5943328,2026-12-20T15:30:00Z,Panathinaikos,Iraklis,,,False,False,False,GRE1
+15,15,,5943323,2026-12-20T17:30:00Z,Aris Thessaloniki,AEK Athens,,,False,False,False,GRE1
+15,15,,5943326,2026-12-20T17:30:00Z,OFI Crete,Kalamata,,,False,False,False,GRE1
+16,16,,5943335,2027-01-09T15:00:00Z,Levadiakos,OFI Crete,,,False,False,False,GRE1
+16,16,,5943330,2027-01-09T17:00:00Z,AEK Athens,Atromitos,,,False,False,False,GRE1
+16,16,,5943334,2027-01-09T17:30:00Z,Kalamata,Olympiacos,,,False,False,False,GRE1
+16,16,,5943333,2027-01-09T18:00:00Z,Iraklis,NFC Volos,,,False,False,False,GRE1
+16,16,,5943332,2027-01-10T15:00:00Z,Asteras Tripolis,Panathinaikos,,,False,False,False,GRE1
+16,16,,5943331,2027-01-10T17:30:00Z,Aris Thessaloniki,PAOK Thessaloniki,,,False,False,False,GRE1
+16,16,,5943336,2027-01-10T17:30:00Z,Panetolikos,Kifisia FC,,,False,False,False,GRE1
+17,17,,5943337,2027-01-16T16:00:00Z,AEK Athens,Kalamata,,,False,False,False,GRE1
+17,17,,5943338,2027-01-16T16:00:00Z,Atromitos,Panetolikos,,,False,False,False,GRE1
+17,17,,5943339,2027-01-16T16:00:00Z,Kifisia FC,Asteras Tripolis,,,False,False,False,GRE1
+17,17,,5943340,2027-01-16T16:00:00Z,Levadiakos,Iraklis,,,False,False,False,GRE1
+17,17,,5943341,2027-01-16T16:00:00Z,OFI Crete,Panathinaikos,,,False,False,False,GRE1
+17,17,,5943342,2027-01-16T16:00:00Z,PAOK Thessaloniki,Olympiacos,,,False,False,False,GRE1
+17,17,,5943343,2027-01-16T16:00:00Z,NFC Volos,Aris Thessaloniki,,,False,False,False,GRE1
+18,18,,5943344,2027-01-23T16:00:00Z,Aris Thessaloniki,Kifisia FC,,,False,False,False,GRE1
+18,18,,5943345,2027-01-23T16:00:00Z,Iraklis,PAOK Thessaloniki,,,False,False,False,GRE1
+18,18,,5943346,2027-01-23T16:00:00Z,Kalamata,Asteras Tripolis,,,False,False,False,GRE1
+18,18,,5943347,2027-01-23T16:00:00Z,Olympiacos,Levadiakos,,,False,False,False,GRE1
+18,18,,5943348,2027-01-23T16:00:00Z,Panathinaikos,Atromitos,,,False,False,False,GRE1
+18,18,,5943349,2027-01-23T16:00:00Z,Panetolikos,AEK Athens,,,False,False,False,GRE1
+18,18,,5943350,2027-01-23T16:00:00Z,NFC Volos,OFI Crete,,,False,False,False,GRE1
+19,19,,5943241,2027-01-30T16:00:00Z,Iraklis,Asteras Tripolis,,,False,False,False,GRE1
+19,19,,5943352,2027-01-30T16:00:00Z,Atromitos,Aris Thessaloniki,,,False,False,False,GRE1
+19,19,,5943353,2027-01-30T16:00:00Z,Kifisia FC,NFC Volos,,,False,False,False,GRE1
+19,19,,5943354,2027-01-30T16:00:00Z,Levadiakos,Kalamata,,,False,False,False,GRE1
+19,19,,5943355,2027-01-30T16:00:00Z,OFI Crete,AEK Athens,,,False,False,False,GRE1
+19,19,,5943356,2027-01-30T16:00:00Z,Panathinaikos,Olympiacos,,,False,False,False,GRE1
+19,19,,5943357,2027-01-30T16:00:00Z,PAOK Thessaloniki,Panetolikos,,,False,False,False,GRE1
+20,20,,5943358,2027-02-06T16:00:00Z,AEK Athens,Kifisia FC,,,False,False,False,GRE1
+20,20,,5943359,2027-02-06T16:00:00Z,Aris Thessaloniki,Panathinaikos,,,False,False,False,GRE1
+20,20,,5943360,2027-02-06T16:00:00Z,Iraklis,OFI Crete,,,False,False,False,GRE1
+20,20,,5943361,2027-02-06T16:00:00Z,Kalamata,PAOK Thessaloniki,,,False,False,False,GRE1
+20,20,,5943362,2027-02-06T16:00:00Z,Olympiacos,Asteras Tripolis,,,False,False,False,GRE1
+20,20,,5943363,2027-02-06T16:00:00Z,Panetolikos,Levadiakos,,,False,False,False,GRE1
+20,20,,5943364,2027-02-06T16:00:00Z,NFC Volos,Atromitos,,,False,False,False,GRE1
+21,21,,5943365,2027-02-13T16:00:00Z,Asteras Tripolis,Panetolikos,,,False,False,False,GRE1
+21,21,,5943366,2027-02-13T16:00:00Z,Atromitos,Iraklis,,,False,False,False,GRE1
+21,21,,5943367,2027-02-13T16:00:00Z,Levadiakos,Kifisia FC,,,False,False,False,GRE1
+21,21,,5943368,2027-02-13T16:00:00Z,OFI Crete,Aris Thessaloniki,,,False,False,False,GRE1
+21,21,,5943369,2027-02-13T16:00:00Z,Olympiacos,NFC Volos,,,False,False,False,GRE1
+21,21,,5943370,2027-02-13T16:00:00Z,Panathinaikos,Kalamata,,,False,False,False,GRE1
+21,21,,5943371,2027-02-13T16:00:00Z,PAOK Thessaloniki,AEK Athens,,,False,False,False,GRE1
+22,22,,5943372,2027-02-20T16:00:00Z,AEK Athens,Asteras Tripolis,,,False,False,False,GRE1
+22,22,,5943373,2027-02-20T16:00:00Z,Aris Thessaloniki,Levadiakos,,,False,False,False,GRE1
+22,22,,5943374,2027-02-20T16:00:00Z,Atromitos,OFI Crete,,,False,False,False,GRE1
+22,22,,5943375,2027-02-20T16:00:00Z,Iraklis,Olympiacos,,,False,False,False,GRE1
+22,22,,5943376,2027-02-20T16:00:00Z,Kifisia FC,PAOK Thessaloniki,,,False,False,False,GRE1
+22,22,,5943377,2027-02-20T16:00:00Z,Panetolikos,Panathinaikos,,,False,False,False,GRE1
+22,22,,5943378,2027-02-20T16:00:00Z,NFC Volos,Kalamata,,,False,False,False,GRE1
+23,23,,5943379,2027-02-27T16:00:00Z,Asteras Tripolis,OFI Crete,,,False,False,False,GRE1
+23,23,,5943380,2027-02-27T16:00:00Z,Kalamata,Kifisia FC,,,False,False,False,GRE1
+23,23,,5943381,2027-02-27T16:00:00Z,Levadiakos,AEK Athens,,,False,False,False,GRE1
+23,23,,5943382,2027-02-27T16:00:00Z,Olympiacos,Aris Thessaloniki,,,False,False,False,GRE1
+23,23,,5943383,2027-02-27T16:00:00Z,Panathinaikos,NFC Volos,,,False,False,False,GRE1
+23,23,,5943384,2027-02-27T16:00:00Z,Panetolikos,Iraklis,,,False,False,False,GRE1
+23,23,,5943385,2027-02-27T16:00:00Z,PAOK Thessaloniki,Atromitos,,,False,False,False,GRE1
+24,24,,5943386,2027-03-06T16:00:00Z,AEK Athens,Olympiacos,,,False,False,False,GRE1
+24,24,,5943387,2027-03-06T16:00:00Z,Aris Thessaloniki,Asteras Tripolis,,,False,False,False,GRE1
+24,24,,5943388,2027-03-06T16:00:00Z,Atromitos,Levadiakos,,,False,False,False,GRE1
+24,24,,5943389,2027-03-06T16:00:00Z,Iraklis,Kalamata,,,False,False,False,GRE1
+24,24,,5943390,2027-03-06T16:00:00Z,Kifisia FC,Panathinaikos,,,False,False,False,GRE1
+24,24,,5943391,2027-03-06T16:00:00Z,OFI Crete,Panetolikos,,,False,False,False,GRE1
+24,24,,5943392,2027-03-06T16:00:00Z,NFC Volos,PAOK Thessaloniki,,,False,False,False,GRE1
+25,25,,5943393,2027-03-13T16:00:00Z,Asteras Tripolis,NFC Volos,,,False,False,False,GRE1
+25,25,,5943394,2027-03-13T16:00:00Z,Iraklis,AEK Athens,,,False,False,False,GRE1
+25,25,,5943395,2027-03-13T16:00:00Z,Kalamata,Atromitos,,,False,False,False,GRE1
+25,25,,5943396,2027-03-13T16:00:00Z,Olympiacos,Kifisia FC,,,False,False,False,GRE1
+25,25,,5943397,2027-03-13T16:00:00Z,Panathinaikos,Levadiakos,,,False,False,False,GRE1
+25,25,,5943398,2027-03-13T16:00:00Z,Panetolikos,Aris Thessaloniki,,,False,False,False,GRE1
+25,25,,5943399,2027-03-13T16:00:00Z,PAOK Thessaloniki,OFI Crete,,,False,False,False,GRE1
+26,26,,5943400,2027-03-20T16:00:00Z,AEK Athens,Panathinaikos,,,False,False,False,GRE1
+26,26,,5943401,2027-03-20T16:00:00Z,Aris Thessaloniki,Kalamata,,,False,False,False,GRE1
+26,26,,5943402,2027-03-20T16:00:00Z,Atromitos,Asteras Tripolis,,,False,False,False,GRE1
+26,26,,5943403,2027-03-20T16:00:00Z,Kifisia FC,Iraklis,,,False,False,False,GRE1
+26,26,,5943404,2027-03-20T16:00:00Z,Levadiakos,PAOK Thessaloniki,,,False,False,False,GRE1
+26,26,,5943405,2027-03-20T16:00:00Z,OFI Crete,Olympiacos,,,False,False,False,GRE1
+26,26,,5943406,2027-03-20T16:00:00Z,NFC Volos,Panetolikos,,,False,False,False,GRE1
+8,8,,5943275,2026-10-25T17:30:00.000Z,Aris Thessaloniki,Atromitos,3 - 1,FT,True,True,False,GRE1
+8,8,,5943278,2026-10-25T18:00:00.000Z,OFI Crete,PAOK Thessaloniki,2 - 1,FT,True,True,False,GRE1
+8,8,,5943279,2026-10-25T14:00:00.000Z,Olympiacos,Kalamata,5 - 0,FT,True,True,False,GRE1
+8,8,,5943280,2026-10-25T16:00:00.000Z,NFC Volos,Panathinaikos,0 - 1,FT,True,True,False,GRE1

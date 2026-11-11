@@ -1,0 +1,381 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5803519,2026-08-07T10:25:00Z,Yokohama F.Marinos,Kashima Antlers,3 - 4,FT,True,True,False,JAP1
+1,1,,5803518,2026-08-07T10:30:00Z,Gamba Osaka,Urawa Red Diamonds,4 - 3,FT,True,True,False,JAP1
+1,1,,5803520,2026-08-08T10:00:00Z,Avispa Fukuoka,Vissel Kobe,0 - 1,FT,True,True,False,JAP1
+1,1,,5803521,2026-08-08T10:00:00Z,Cerezo Osaka,Fagiano Okayama FC,2 - 1,FT,True,True,False,JAP1
+1,1,,5803522,2026-08-08T10:00:00Z,FC Tokyo,Machida Zelvia,1 - 5,FT,True,True,False,JAP1
+1,1,,5803523,2026-08-08T10:00:00Z,Kashiwa Reysol,Mito Hollyhock,2 - 1,FT,True,True,False,JAP1
+1,1,,5803524,2026-08-08T10:00:00Z,Nagoya Grampus,Shimizu S-Pulse,0 - 1,FT,True,True,False,JAP1
+1,1,,5803525,2026-08-08T10:15:00Z,Sanfrecce Hiroshima,JEF United Chiba,3 - 0,FT,True,True,False,JAP1
+1,1,,5803526,2026-08-09T09:00:00Z,Tokyo Verdy,Kawasaki Frontale,1 - 1,FT,True,True,False,JAP1
+1,1,,5803527,2026-08-09T10:00:00Z,V-Varen Nagasaki,Kyoto Sanga FC,2 - 1,FT,True,True,False,JAP1
+2,2,,5803528,2026-08-14T10:00:00Z,Tokyo Verdy,Kashiwa Reysol,1 - 3,FT,True,True,False,JAP1
+2,2,,5803531,2026-08-15T09:00:00Z,Kashima Antlers,Nagoya Grampus,2 - 1,FT,True,True,False,JAP1
+2,2,,5803533,2026-08-15T09:00:00Z,Mito Hollyhock,Gamba Osaka,1 - 1,FT,True,True,False,JAP1
+2,2,,5803535,2026-08-15T09:30:00Z,Shimizu S-Pulse,Yokohama F.Marinos,0 - 1,FT,True,True,False,JAP1
+2,2,,5803534,2026-08-15T09:55:00Z,Fagiano Okayama FC,V-Varen Nagasaki,1 - 0,FT,True,True,False,JAP1
+2,2,,5803529,2026-08-15T10:00:00Z,Avispa Fukuoka,Cerezo Osaka,3 - 0,FT,True,True,False,JAP1
+2,2,,5803530,2026-08-15T10:00:00Z,JEF United Chiba,Machida Zelvia,0 - 4,FT,True,True,False,JAP1
+2,2,,5803532,2026-08-15T10:00:00Z,Kawasaki Frontale,Kyoto Sanga FC,2 - 2,FT,True,True,False,JAP1
+2,2,,5803536,2026-08-15T10:00:00Z,Urawa Red Diamonds,Sanfrecce Hiroshima,1 - 4,FT,True,True,False,JAP1
+2,2,,5803537,2026-08-15T10:00:00Z,Vissel Kobe,FC Tokyo,2 - 2,FT,True,True,False,JAP1
+3,3,,5803539,2026-08-21T10:00:00Z,Kashiwa Reysol,V-Varen Nagasaki,4 - 2,FT,True,True,False,JAP1
+3,3,,5803538,2026-08-21T10:30:00Z,FC Tokyo,JEF United Chiba,2 - 0,FT,True,True,False,JAP1
+3,3,,5803541,2026-08-22T09:00:00Z,Kashima Antlers,Avispa Fukuoka,3 - 2,FT,True,True,False,JAP1
+3,3,,5803544,2026-08-22T09:30:00Z,Fagiano Okayama FC,Tokyo Verdy,0 - 0,FT,True,True,False,JAP1
+3,3,,5803540,2026-08-22T10:00:00Z,Cerezo Osaka,Shimizu S-Pulse,1 - 0,FT,True,True,False,JAP1
+3,3,,5803542,2026-08-22T10:00:00Z,Kyoto Sanga FC,Mito Hollyhock,1 - 3,FT,True,True,False,JAP1
+3,3,,5803543,2026-08-22T10:00:00Z,Nagoya Grampus,Gamba Osaka,3 - 1,FT,True,True,False,JAP1
+3,3,,5803545,2026-08-22T10:15:00Z,Sanfrecce Hiroshima,Kawasaki Frontale,1 - 1,FT,True,True,False,JAP1
+3,3,,5803546,2026-08-22T10:30:00Z,Yokohama F.Marinos,Vissel Kobe,1 - 0,FT,True,True,False,JAP1
+3,3,,5803547,2026-08-23T10:30:00Z,Machida Zelvia,Urawa Red Diamonds,3 - 1,FT,True,True,False,JAP1
+4,4,,5803548,2026-08-29T09:00:00Z,Gamba Osaka,Sanfrecce Hiroshima,0 - 0,FT,True,True,False,JAP1
+4,4,,5803551,2026-08-29T09:00:00Z,Mito Hollyhock,Machida Zelvia,1 - 1,FT,True,True,False,JAP1
+4,4,,5803553,2026-08-29T09:30:00Z,Shimizu S-Pulse,Kashiwa Reysol,0 - 1,FT,True,True,False,JAP1
+4,4,,5803557,2026-08-29T09:30:00Z,V-Varen Nagasaki,FC Tokyo,0 - 3,FT,True,True,False,JAP1
+4,4,,5803549,2026-08-29T10:00:00Z,Kawasaki Frontale,JEF United Chiba,4 - 2,FT,True,True,False,JAP1
+4,4,,5803550,2026-08-29T10:00:00Z,Kyoto Sanga FC,Avispa Fukuoka,2 - 1,FT,True,True,False,JAP1
+4,4,,5803552,2026-08-29T10:00:00Z,Nagoya Grampus,Fagiano Okayama FC,2 - 1,FT,True,True,False,JAP1
+4,4,,5803554,2026-08-29T10:00:00Z,Urawa Red Diamonds,Yokohama F.Marinos,3 - 2,FT,True,True,False,JAP1
+4,4,,5803555,2026-08-29T10:00:00Z,Tokyo Verdy,Kashima Antlers,0 - 2,FT,True,True,False,JAP1
+4,4,,5803556,2026-08-29T10:00:00Z,Vissel Kobe,Cerezo Osaka,1 - 0,FT,True,True,False,JAP1
+5,5,,5803558,2026-09-02T10:00:00Z,Avispa Fukuoka,Urawa Red Diamonds,2 - 3,FT,True,True,False,JAP1
+5,5,,5803559,2026-09-02T10:00:00Z,Cerezo Osaka,Kashiwa Reysol,2 - 0,FT,True,True,False,JAP1
+5,5,,5803560,2026-09-02T10:00:00Z,JEF United Chiba,Fagiano Okayama FC,1 - 2,FT,True,True,False,JAP1
+5,5,,5803561,2026-09-02T10:00:00Z,Machida Zelvia,Kawasaki Frontale,2 - 1,FT,True,True,False,JAP1
+5,5,,5803562,2026-09-02T10:00:00Z,Mito Hollyhock,Kashima Antlers,4 - 2,FT,True,True,False,JAP1
+5,5,,5803563,2026-09-02T10:00:00Z,Sanfrecce Hiroshima,Nagoya Grampus,3 - 0,FT,True,True,False,JAP1
+5,5,,5803564,2026-09-02T10:00:00Z,Shimizu S-Pulse,FC Tokyo,1 - 1,FT,True,True,False,JAP1
+5,5,,5803565,2026-09-02T10:00:00Z,Tokyo Verdy,Vissel Kobe,0 - 2,FT,True,True,False,JAP1
+5,5,,5803566,2026-09-02T10:00:00Z,V-Varen Nagasaki,Gamba Osaka,2 - 2,FT,True,True,False,JAP1
+5,5,,5803567,2026-09-02T10:00:00Z,Yokohama F.Marinos,Kyoto Sanga FC,1 - 1,FT,True,True,False,JAP1
+6,6,,5803568,2026-09-05T10:00:00Z,Avispa Fukuoka,Mito Hollyhock,1 - 1,FT,True,True,False,JAP1
+6,6,,5803570,2026-09-06T09:00:00Z,JEF United Chiba,Gamba Osaka,2 - 0,FT,True,True,False,JAP1
+6,6,,5803572,2026-09-06T09:00:00Z,Kashima Antlers,Urawa Red Diamonds,0 - 1,FT,True,True,False,JAP1
+6,6,,5803574,2026-09-06T09:00:00Z,Nagoya Grampus,Machida Zelvia,1 - 3,FT,True,True,False,JAP1
+6,6,,5803575,2026-09-06T09:00:00Z,Fagiano Okayama FC,Sanfrecce Hiroshima,3 - 2,FT,True,True,False,JAP1
+6,6,,5803569,2026-09-06T10:00:00Z,Cerezo Osaka,Tokyo Verdy,0 - 0,FT,True,True,False,JAP1
+6,6,,5803573,2026-09-06T10:00:00Z,Kashiwa Reysol,Yokohama F.Marinos,0 - 2,FT,True,True,False,JAP1
+6,6,,5803576,2026-09-06T10:00:00Z,Vissel Kobe,V-Varen Nagasaki,3 - 1,FT,True,True,False,JAP1
+6,6,,5803577,2026-09-06T10:00:00Z,Kawasaki Frontale,Shimizu S-Pulse,3 - 1,FT,True,True,False,JAP1
+6,6,,5803571,2026-09-06T10:30:00Z,FC Tokyo,Kyoto Sanga FC,2 - 0,FT,True,True,False,JAP1
+7,7,,5803579,2026-09-11T10:00:00Z,Kyoto Sanga FC,Kashiwa Reysol,2 - 3,FT,True,True,False,JAP1
+7,7,,5803586,2026-09-11T10:00:00Z,Vissel Kobe,Kashima Antlers,2 - 1,FT,True,True,False,JAP1
+7,7,,5803581,2026-09-12T09:00:00Z,Mito Hollyhock,Kawasaki Frontale,0 - 1,FT,True,True,False,JAP1
+7,7,,5803583,2026-09-12T09:30:00Z,Shimizu S-Pulse,Avispa Fukuoka,1 - 0,FT,True,True,False,JAP1
+7,7,,5803578,2026-09-12T10:00:00Z,Gamba Osaka,FC Tokyo,0 - 2,FT,True,True,False,JAP1
+7,7,,5803580,2026-09-12T10:00:00Z,Machida Zelvia,Yokohama F.Marinos,1 - 1,FT,True,True,False,JAP1
+7,7,,5803582,2026-09-12T10:00:00Z,Sanfrecce Hiroshima,Cerezo Osaka,6 - 1,FT,True,True,False,JAP1
+7,7,,5803587,2026-09-12T10:00:00Z,V-Varen Nagasaki,Nagoya Grampus,2 - 0,FT,True,True,False,JAP1
+7,7,,5803585,2026-09-13T09:00:00Z,Tokyo Verdy,JEF United Chiba,1 - 1,FT,True,True,False,JAP1
+7,7,,5803584,2026-09-13T09:30:00Z,Urawa Red Diamonds,Fagiano Okayama FC,1 - 2,FT,True,True,False,JAP1
+8,8,,5803588,2026-09-19T09:00:00Z,Avispa Fukuoka,Sanfrecce Hiroshima,0 - 1,FT,True,True,False,JAP1
+8,8,,5803591,2026-09-19T09:00:00Z,Kawasaki Frontale,Kashima Antlers,3 - 3,FT,True,True,False,JAP1
+8,8,,5803594,2026-09-19T09:30:00Z,Shimizu S-Pulse,JEF United Chiba,2 - 1,FT,True,True,False,JAP1
+8,8,,5803595,2026-09-19T09:30:00Z,Urawa Red Diamonds,Tokyo Verdy,3 - 1,FT,True,True,False,JAP1
+8,8,,5803596,2026-09-19T09:30:00Z,V-Varen Nagasaki,Cerezo Osaka,1 - 1,FT,True,True,False,JAP1
+8,8,,5803589,2026-09-19T10:00:00Z,FC Tokyo,Nagoya Grampus,1 - 0,FT,True,True,False,JAP1
+8,8,,5803593,2026-09-19T10:00:00Z,Fagiano Okayama FC,Kyoto Sanga FC,1 - 2,FT,True,True,False,JAP1
+8,8,,5803597,2026-09-19T10:30:00Z,Yokohama F.Marinos,Mito Hollyhock,2 - 0,FT,True,True,False,JAP1
+8,8,,5803590,2026-09-20T08:00:00Z,Gamba Osaka,Vissel Kobe,0 - 1,FT,True,True,False,JAP1
+8,8,,5803592,2026-09-20T08:00:00Z,Machida Zelvia,Kashiwa Reysol,2 - 4,FT,True,True,False,JAP1
+9,9,,5803602,2026-10-09T10:00:00Z,Kashima Antlers,Gamba Osaka,2 - 0,FT,True,True,False,JAP1
+9,9,,5803603,2026-10-09T10:00:00Z,Kashiwa Reysol,Vissel Kobe,4 - 2,FT,True,True,False,JAP1
+9,9,,5803599,2026-10-10T05:00:00Z,Cerezo Osaka,Yokohama F.Marinos,0 - 0,FT,True,True,False,JAP1
+9,9,,5803598,2026-10-10T06:00:00Z,Avispa Fukuoka,Fagiano Okayama FC,2 - 1,FT,True,True,False,JAP1
+9,9,,5803601,2026-10-10T06:00:00Z,FC Tokyo,Urawa Red Diamonds,3 - 0,FT,True,True,False,JAP1
+9,9,,5803605,2026-10-10T10:00:00Z,Kyoto Sanga FC,Machida Zelvia,0 - 1,FT,True,True,False,JAP1
+9,9,,5803600,2026-10-11T05:00:00Z,JEF United Chiba,V-Varen Nagasaki,1 - 1,FT,True,True,False,JAP1
+9,9,,5803606,2026-10-11T06:00:00Z,Mito Hollyhock,Shimizu S-Pulse,1 - 2,FT,True,True,False,JAP1
+9,9,,5803607,2026-10-11T06:00:00Z,Tokyo Verdy,Sanfrecce Hiroshima,0 - 2,FT,True,True,False,JAP1
+9,9,,5803604,2026-10-11T07:00:00Z,Kawasaki Frontale,Nagoya Grampus,1 - 2,FT,True,True,False,JAP1
+10,10,,5803616,2026-10-17T04:00:00Z,Shimizu S-Pulse,Gamba Osaka,,,False,False,False,JAP1
+10,10,,5803609,2026-10-17T05:00:00Z,JEF United Chiba,Yokohama F.Marinos,,,False,False,False,JAP1
+10,10,,5803615,2026-10-17T05:00:00Z,Sanfrecce Hiroshima,Kyoto Sanga FC,,,False,False,False,JAP1
+10,10,,5803617,2026-10-17T05:00:00Z,Tokyo Verdy,FC Tokyo,,,False,False,False,JAP1
+10,10,,5803608,2026-10-17T06:00:00Z,Cerezo Osaka,Kawasaki Frontale,,,False,False,False,JAP1
+10,10,,5803610,2026-10-17T06:00:00Z,Kashima Antlers,V-Varen Nagasaki,,,False,False,False,JAP1
+10,10,,5803613,2026-10-17T07:00:00Z,Mito Hollyhock,Urawa Red Diamonds,,,False,False,False,JAP1
+10,10,,5803611,2026-10-17T10:00:00Z,Kashiwa Reysol,Nagoya Grampus,,,False,False,False,JAP1
+10,10,,5803614,2026-10-18T04:55:00Z,Fagiano Okayama FC,Vissel Kobe,,,False,False,False,JAP1
+10,10,,5803612,2026-10-18T07:00:00Z,Machida Zelvia,Avispa Fukuoka,,,False,False,False,JAP1
+11,11,,5803618,2026-10-21T10:00:00Z,Avispa Fukuoka,Gamba Osaka,,,False,False,False,JAP1
+11,11,,5803619,2026-10-21T10:00:00Z,FC Tokyo,Kashiwa Reysol,,,False,False,False,JAP1
+11,11,,5803620,2026-10-21T10:00:00Z,Kawasaki Frontale,Vissel Kobe,,,False,False,False,JAP1
+11,11,,5803621,2026-10-21T10:00:00Z,Kyoto Sanga FC,Kashima Antlers,,,False,False,False,JAP1
+11,11,,5803622,2026-10-21T10:00:00Z,Nagoya Grampus,Cerezo Osaka,,,False,False,False,JAP1
+11,11,,5803623,2026-10-21T10:00:00Z,Fagiano Okayama FC,Mito Hollyhock,,,False,False,False,JAP1
+11,11,,5803624,2026-10-21T10:00:00Z,Shimizu S-Pulse,Machida Zelvia,,,False,False,False,JAP1
+11,11,,5803626,2026-10-21T10:00:00Z,V-Varen Nagasaki,Sanfrecce Hiroshima,,,False,False,False,JAP1
+11,11,,5803627,2026-10-21T10:00:00Z,Yokohama F.Marinos,Tokyo Verdy,,,False,False,False,JAP1
+11,11,,5803625,2026-10-21T10:30:00Z,Urawa Red Diamonds,JEF United Chiba,,,False,False,False,JAP1
+12,12,,5803634,2026-10-24T05:00:00Z,Sanfrecce Hiroshima,Shimizu S-Pulse,,,False,False,False,JAP1
+12,12,,5803631,2026-10-24T06:00:00Z,Kashima Antlers,Kashiwa Reysol,,,False,False,False,JAP1
+12,12,,5803636,2026-10-24T06:00:00Z,Tokyo Verdy,Avispa Fukuoka,,,False,False,False,JAP1
+12,12,,5803637,2026-10-24T06:00:00Z,Vissel Kobe,Machida Zelvia,,,False,False,False,JAP1
+12,12,,5803630,2026-10-24T07:00:00Z,Gamba Osaka,Kyoto Sanga FC,,,False,False,False,JAP1
+12,12,,5803633,2026-10-25T05:00:00Z,Nagoya Grampus,Yokohama F.Marinos,,,False,False,False,JAP1
+12,12,,5803628,2026-10-25T06:00:00Z,Cerezo Osaka,JEF United Chiba,,,False,False,False,JAP1
+12,12,,5803635,2026-10-25T06:00:00Z,Urawa Red Diamonds,V-Varen Nagasaki,,,False,False,False,JAP1
+12,12,,5803629,2026-10-25T07:00:00Z,FC Tokyo,Mito Hollyhock,,,False,False,False,JAP1
+12,12,,5803632,2026-10-25T07:00:00Z,Kawasaki Frontale,Fagiano Okayama FC,,,False,False,False,JAP1
+13,13,,5803641,2026-10-31T05:00:00Z,Kyoto Sanga FC,Shimizu S-Pulse,,,False,False,False,JAP1
+13,13,,5803643,2026-10-31T05:00:00Z,Mito Hollyhock,Sanfrecce Hiroshima,,,False,False,False,JAP1
+13,13,,5803644,2026-10-31T05:00:00Z,Fagiano Okayama FC,FC Tokyo,,,False,False,False,JAP1
+13,13,,5803639,2026-10-31T06:00:00Z,Kashima Antlers,Cerezo Osaka,,,False,False,False,JAP1
+13,13,,5803645,2026-10-31T06:00:00Z,Vissel Kobe,Nagoya Grampus,,,False,False,False,JAP1
+13,13,,5803640,2026-10-31T07:00:00Z,Kashiwa Reysol,Urawa Red Diamonds,,,False,False,False,JAP1
+13,13,,5803647,2026-11-01T04:00:00Z,Yokohama F.Marinos,Kawasaki Frontale,,,False,False,False,JAP1
+13,13,,5803638,2026-11-01T05:00:00Z,JEF United Chiba,Avispa Fukuoka,,,False,False,False,JAP1
+13,13,,5803646,2026-11-01T05:00:00Z,V-Varen Nagasaki,Tokyo Verdy,,,False,False,False,JAP1
+13,13,,5803642,2026-11-01T07:00:00Z,Machida Zelvia,Gamba Osaka,,,False,False,False,JAP1
+14,14,,5803655,2026-11-07T04:00:00Z,Shimizu S-Pulse,Tokyo Verdy,,,False,False,False,JAP1
+14,14,,5803654,2026-11-07T05:00:00Z,Nagoya Grampus,Kyoto Sanga FC,,,False,False,False,JAP1
+14,14,,5803656,2026-11-07T05:00:00Z,Yokohama F.Marinos,Fagiano Okayama FC,,,False,False,False,JAP1
+14,14,,5803648,2026-11-07T06:00:00Z,Avispa Fukuoka,V-Varen Nagasaki,,,False,False,False,JAP1
+14,14,,5803650,2026-11-07T06:00:00Z,FC Tokyo,Kashima Antlers,,,False,False,False,JAP1
+14,14,,5803652,2026-11-07T07:00:00Z,Kashiwa Reysol,Kawasaki Frontale,,,False,False,False,JAP1
+14,14,,5803653,2026-11-08T05:00:00Z,Machida Zelvia,Sanfrecce Hiroshima,,,False,False,False,JAP1
+14,14,,5803657,2026-11-08T05:00:00Z,Vissel Kobe,Urawa Red Diamonds,,,False,False,False,JAP1
+14,14,,5803651,2026-11-08T06:00:00Z,Gamba Osaka,Cerezo Osaka,,,False,False,False,JAP1
+14,14,,5803649,2026-11-08T08:00:00Z,JEF United Chiba,Mito Hollyhock,,,False,False,False,JAP1
+15,15,,5803660,2026-11-20T10:00:00Z,Kashima Antlers,Shimizu S-Pulse,,,False,False,False,JAP1
+15,15,,5803661,2026-11-20T10:00:00Z,Kashiwa Reysol,JEF United Chiba,,,False,False,False,JAP1
+15,15,,5803667,2026-11-20T10:00:00Z,Vissel Kobe,Mito Hollyhock,,,False,False,False,JAP1
+15,15,,5803663,2026-11-21T05:00:00Z,Kyoto Sanga FC,Urawa Red Diamonds,,,False,False,False,JAP1
+15,15,,5803664,2026-11-21T05:00:00Z,Machida Zelvia,V-Varen Nagasaki,,,False,False,False,JAP1
+15,15,,5803665,2026-11-21T05:00:00Z,Sanfrecce Hiroshima,Yokohama F.Marinos,,,False,False,False,JAP1
+15,15,,5803666,2026-11-21T05:00:00Z,Tokyo Verdy,Nagoya Grampus,,,False,False,False,JAP1
+15,15,,5803658,2026-11-21T06:00:00Z,Cerezo Osaka,FC Tokyo,,,False,False,False,JAP1
+15,15,,5803662,2026-11-21T06:00:00Z,Kawasaki Frontale,Avispa Fukuoka,,,False,False,False,JAP1
+15,15,,5803659,2026-11-21T07:00:00Z,Gamba Osaka,Fagiano Okayama FC,,,False,False,False,JAP1
+16,16,,5803668,2026-11-25T10:00:00Z,Avispa Fukuoka,Yokohama F.Marinos,,,False,False,False,JAP1
+16,16,,5803669,2026-11-25T10:00:00Z,JEF United Chiba,Nagoya Grampus,,,False,False,False,JAP1
+16,16,,5803670,2026-11-25T10:00:00Z,FC Tokyo,Sanfrecce Hiroshima,,,False,False,False,JAP1
+16,16,,5803671,2026-11-25T10:00:00Z,Mito Hollyhock,Tokyo Verdy,,,False,False,False,JAP1
+16,16,,5803672,2026-11-25T10:00:00Z,Fagiano Okayama FC,Shimizu S-Pulse,,,False,False,False,JAP1
+16,16,,5803674,2026-11-25T10:00:00Z,V-Varen Nagasaki,Kawasaki Frontale,,,False,False,False,JAP1
+16,16,,5803673,2026-11-25T10:30:00Z,Urawa Red Diamonds,Cerezo Osaka,,,False,False,False,JAP1
+17,17,,5803678,2026-11-28T05:00:00Z,Kyoto Sanga FC,Cerezo Osaka,,,False,False,False,JAP1
+17,17,,5803682,2026-11-28T05:00:00Z,Shimizu S-Pulse,Urawa Red Diamonds,,,False,False,False,JAP1
+17,17,,5803675,2026-11-28T06:00:00Z,Kashima Antlers,Fagiano Okayama FC,,,False,False,False,JAP1
+17,17,,5803683,2026-11-28T06:00:00Z,Vissel Kobe,JEF United Chiba,,,False,False,False,JAP1
+17,17,,5803676,2026-11-28T07:00:00Z,Kashiwa Reysol,Sanfrecce Hiroshima,,,False,False,False,JAP1
+17,17,,5803680,2026-11-29T05:00:00Z,Mito Hollyhock,V-Varen Nagasaki,,,False,False,False,JAP1
+17,17,,5803684,2026-11-29T05:00:00Z,Yokohama F.Marinos,FC Tokyo,,,False,False,False,JAP1
+17,17,,5803677,2026-11-29T06:00:00Z,Kawasaki Frontale,Gamba Osaka,,,False,False,False,JAP1
+17,17,,5803681,2026-11-29T06:00:00Z,Nagoya Grampus,Avispa Fukuoka,,,False,False,False,JAP1
+17,17,,5803679,2026-11-29T07:00:00Z,Machida Zelvia,Tokyo Verdy,,,False,False,False,JAP1
+18,18,,5803685,2026-12-04T09:30:00Z,FC Tokyo,Kawasaki Frontale,,,False,False,False,JAP1
+18,18,,5803687,2026-12-05T04:00:00Z,JEF United Chiba,Kashima Antlers,,,False,False,False,JAP1
+18,18,,5803692,2026-12-05T05:00:00Z,Urawa Red Diamonds,Nagoya Grampus,,,False,False,False,JAP1
+18,18,,5803693,2026-12-05T05:00:00Z,Tokyo Verdy,Kyoto Sanga FC,,,False,False,False,JAP1
+18,18,,5803686,2026-12-05T06:00:00Z,Cerezo Osaka,Mito Hollyhock,,,False,False,False,JAP1
+18,18,,5803694,2026-12-05T06:00:00Z,V-Varen Nagasaki,Shimizu S-Pulse,,,False,False,False,JAP1
+18,18,,5803691,2026-12-06T05:00:00Z,Sanfrecce Hiroshima,Vissel Kobe,,,False,False,False,JAP1
+18,18,,5803688,2026-12-06T06:00:00Z,Gamba Osaka,Yokohama F.Marinos,,,False,False,False,JAP1
+18,18,,5803689,2026-12-06T07:00:00Z,Kashiwa Reysol,Avispa Fukuoka,,,False,False,False,JAP1
+18,18,,5803690,2026-12-06T07:00:00Z,Machida Zelvia,Fagiano Okayama FC,,,False,False,False,JAP1
+19,19,,5803696,2026-12-12T05:00:00Z,Cerezo Osaka,Machida Zelvia,,,False,False,False,JAP1
+19,19,,5803702,2026-12-12T05:00:00Z,Shimizu S-Pulse,Vissel Kobe,,,False,False,False,JAP1
+19,19,,5803697,2026-12-12T07:00:00Z,Gamba Osaka,Tokyo Verdy,,,False,False,False,JAP1
+19,19,,5803704,2026-12-13T04:00:00Z,Yokohama F.Marinos,V-Varen Nagasaki,,,False,False,False,JAP1
+19,19,,5803698,2026-12-13T05:00:00Z,Kyoto Sanga FC,JEF United Chiba,,,False,False,False,JAP1
+19,19,,5803700,2026-12-13T05:00:00Z,Fagiano Okayama FC,Kashiwa Reysol,,,False,False,False,JAP1
+19,19,,5803701,2026-12-13T05:00:00Z,Sanfrecce Hiroshima,Kashima Antlers,,,False,False,False,JAP1
+19,19,,5803695,2026-12-13T06:00:00Z,Avispa Fukuoka,FC Tokyo,,,False,False,False,JAP1
+19,19,,5803699,2026-12-13T06:00:00Z,Nagoya Grampus,Mito Hollyhock,,,False,False,False,JAP1
+19,19,,5803703,2026-12-13T06:00:00Z,Urawa Red Diamonds,Kawasaki Frontale,,,False,False,False,JAP1
+16,16,,5803705,2026-12-16T10:00:00Z,Gamba Osaka,Kashiwa Reysol,,,False,False,False,JAP1
+16,16,,5803706,2026-12-16T10:00:00Z,Kashima Antlers,Machida Zelvia,,,False,False,False,JAP1
+20,20,,5803709,2026-12-19T04:00:00Z,JEF United Chiba,Cerezo Osaka,,,False,False,False,JAP1
+20,20,,5803713,2026-12-19T04:00:00Z,Kyoto Sanga FC,Fagiano Okayama FC,,,False,False,False,JAP1
+20,20,,5803714,2026-12-19T05:00:00Z,Mito Hollyhock,FC Tokyo,,,False,False,False,JAP1
+20,20,,5803715,2026-12-19T05:00:00Z,Nagoya Grampus,Sanfrecce Hiroshima,,,False,False,False,JAP1
+20,20,,5803708,2026-12-19T05:30:00Z,Avispa Fukuoka,Shimizu S-Pulse,,,False,False,False,JAP1
+20,20,,5803717,2026-12-19T05:30:00Z,V-Varen Nagasaki,Urawa Red Diamonds,,,False,False,False,JAP1
+20,20,,5803711,2026-12-19T06:00:00Z,Kashima Antlers,Tokyo Verdy,,,False,False,False,JAP1
+20,20,,5803716,2026-12-19T06:00:00Z,Vissel Kobe,Yokohama F.Marinos,,,False,False,False,JAP1
+20,20,,5803710,2026-12-19T07:00:00Z,Gamba Osaka,Machida Zelvia,,,False,False,False,JAP1
+20,20,,5803712,2026-12-19T07:00:00Z,Kawasaki Frontale,Kashiwa Reysol,,,False,False,False,JAP1
+21,21,,5803718,2027-02-13T11:00:00Z,Cerezo Osaka,Gamba Osaka,,,False,False,False,JAP1
+21,21,,5803719,2027-02-13T11:00:00Z,Kashima Antlers,Mito Hollyhock,,,False,False,False,JAP1
+21,21,,5803720,2027-02-13T11:00:00Z,Kashiwa Reysol,Shimizu S-Pulse,,,False,False,False,JAP1
+21,21,,5803721,2027-02-13T11:00:00Z,Kyoto Sanga FC,Yokohama F.Marinos,,,False,False,False,JAP1
+21,21,,5803722,2027-02-13T11:00:00Z,Machida Zelvia,JEF United Chiba,,,False,False,False,JAP1
+21,21,,5803723,2027-02-13T11:00:00Z,Nagoya Grampus,FC Tokyo,,,False,False,False,JAP1
+21,21,,5803724,2027-02-13T11:00:00Z,Sanfrecce Hiroshima,Fagiano Okayama FC,,,False,False,False,JAP1
+21,21,,5803725,2027-02-13T11:00:00Z,Vissel Kobe,Kawasaki Frontale,,,False,False,False,JAP1
+21,21,,5803726,2027-02-13T11:00:00Z,V-Varen Nagasaki,Avispa Fukuoka,,,False,False,False,JAP1
+21,21,,5803727,2027-02-14T11:00:00Z,Tokyo Verdy,Urawa Red Diamonds,,,False,False,False,JAP1
+22,22,,5803728,2027-02-20T11:00:00Z,Avispa Fukuoka,Nagoya Grampus,,,False,False,False,JAP1
+22,22,,5803729,2027-02-20T11:00:00Z,Cerezo Osaka,Vissel Kobe,,,False,False,False,JAP1
+22,22,,5803730,2027-02-20T11:00:00Z,JEF United Chiba,Kawasaki Frontale,,,False,False,False,JAP1
+22,22,,5803731,2027-02-20T11:00:00Z,FC Tokyo,V-Varen Nagasaki,,,False,False,False,JAP1
+22,22,,5803732,2027-02-20T11:00:00Z,Mito Hollyhock,Kashiwa Reysol,,,False,False,False,JAP1
+22,22,,5803733,2027-02-20T11:00:00Z,Fagiano Okayama FC,Gamba Osaka,,,False,False,False,JAP1
+22,22,,5803734,2027-02-20T11:00:00Z,Sanfrecce Hiroshima,Tokyo Verdy,,,False,False,False,JAP1
+22,22,,5803735,2027-02-20T11:00:00Z,Shimizu S-Pulse,Kyoto Sanga FC,,,False,False,False,JAP1
+22,22,,5803736,2027-02-20T11:00:00Z,Urawa Red Diamonds,Kashima Antlers,,,False,False,False,JAP1
+22,22,,5803737,2027-02-20T11:00:00Z,Yokohama F.Marinos,Machida Zelvia,,,False,False,False,JAP1
+23,23,,5803738,2027-02-27T11:00:00Z,JEF United Chiba,FC Tokyo,,,False,False,False,JAP1
+23,23,,5803739,2027-02-27T11:00:00Z,Gamba Osaka,Avispa Fukuoka,,,False,False,False,JAP1
+23,23,,5803740,2027-02-27T11:00:00Z,Kawasaki Frontale,Machida Zelvia,,,False,False,False,JAP1
+23,23,,5803741,2027-02-27T11:00:00Z,Kyoto Sanga FC,Tokyo Verdy,,,False,False,False,JAP1
+23,23,,5803742,2027-02-27T11:00:00Z,Mito Hollyhock,Vissel Kobe,,,False,False,False,JAP1
+23,23,,5803743,2027-02-27T11:00:00Z,Nagoya Grampus,Urawa Red Diamonds,,,False,False,False,JAP1
+23,23,,5803744,2027-02-27T11:00:00Z,Fagiano Okayama FC,Kashima Antlers,,,False,False,False,JAP1
+23,23,,5803745,2027-02-27T11:00:00Z,Shimizu S-Pulse,Sanfrecce Hiroshima,,,False,False,False,JAP1
+23,23,,5803746,2027-02-27T11:00:00Z,V-Varen Nagasaki,Kashiwa Reysol,,,False,False,False,JAP1
+23,23,,5803747,2027-02-27T11:00:00Z,Yokohama F.Marinos,Cerezo Osaka,,,False,False,False,JAP1
+24,24,,5803748,2027-03-06T11:00:00Z,Avispa Fukuoka,Kashiwa Reysol,,,False,False,False,JAP1
+24,24,,5803749,2027-03-06T11:00:00Z,Cerezo Osaka,Sanfrecce Hiroshima,,,False,False,False,JAP1
+24,24,,5803750,2027-03-06T11:00:00Z,Gamba Osaka,Nagoya Grampus,,,False,False,False,JAP1
+24,24,,5803751,2027-03-06T11:00:00Z,Kashima Antlers,JEF United Chiba,,,False,False,False,JAP1
+24,24,,5803752,2027-03-06T11:00:00Z,Kawasaki Frontale,Urawa Red Diamonds,,,False,False,False,JAP1
+24,24,,5803753,2027-03-06T11:00:00Z,Kyoto Sanga FC,FC Tokyo,,,False,False,False,JAP1
+24,24,,5803754,2027-03-06T11:00:00Z,Machida Zelvia,Shimizu S-Pulse,,,False,False,False,JAP1
+24,24,,5803755,2027-03-06T11:00:00Z,Tokyo Verdy,Yokohama F.Marinos,,,False,False,False,JAP1
+24,24,,5803756,2027-03-06T11:00:00Z,Vissel Kobe,Fagiano Okayama FC,,,False,False,False,JAP1
+24,24,,5803757,2027-03-06T11:00:00Z,V-Varen Nagasaki,Mito Hollyhock,,,False,False,False,JAP1
+25,25,,5803758,2027-03-10T11:00:00Z,JEF United Chiba,Tokyo Verdy,,,False,False,False,JAP1
+25,25,,5803759,2027-03-10T11:00:00Z,Kashiwa Reysol,Kyoto Sanga FC,,,False,False,False,JAP1
+25,25,,5803760,2027-03-10T11:00:00Z,Machida Zelvia,Kashima Antlers,,,False,False,False,JAP1
+25,25,,5803761,2027-03-10T11:00:00Z,Mito Hollyhock,Cerezo Osaka,,,False,False,False,JAP1
+25,25,,5803762,2027-03-10T11:00:00Z,Nagoya Grampus,V-Varen Nagasaki,,,False,False,False,JAP1
+25,25,,5803763,2027-03-10T11:00:00Z,Fagiano Okayama FC,Yokohama F.Marinos,,,False,False,False,JAP1
+25,25,,5803764,2027-03-10T11:00:00Z,Sanfrecce Hiroshima,Avispa Fukuoka,,,False,False,False,JAP1
+25,25,,5803765,2027-03-10T11:00:00Z,Shimizu S-Pulse,Kawasaki Frontale,,,False,False,False,JAP1
+25,25,,5803766,2027-03-10T11:00:00Z,Urawa Red Diamonds,FC Tokyo,,,False,False,False,JAP1
+25,25,,5803767,2027-03-10T11:00:00Z,Vissel Kobe,Gamba Osaka,,,False,False,False,JAP1
+26,26,,5803768,2027-03-13T11:00:00Z,FC Tokyo,Cerezo Osaka,,,False,False,False,JAP1
+26,26,,5803769,2027-03-13T11:00:00Z,Gamba Osaka,V-Varen Nagasaki,,,False,False,False,JAP1
+26,26,,5803770,2027-03-13T11:00:00Z,Kashima Antlers,Sanfrecce Hiroshima,,,False,False,False,JAP1
+26,26,,5803771,2027-03-13T11:00:00Z,Kashiwa Reysol,Fagiano Okayama FC,,,False,False,False,JAP1
+26,26,,5803772,2027-03-13T11:00:00Z,Kyoto Sanga FC,Kawasaki Frontale,,,False,False,False,JAP1
+26,26,,5803773,2027-03-13T11:00:00Z,Machida Zelvia,Nagoya Grampus,,,False,False,False,JAP1
+26,26,,5803774,2027-03-13T11:00:00Z,Tokyo Verdy,Mito Hollyhock,,,False,False,False,JAP1
+26,26,,5803775,2027-03-13T11:00:00Z,Vissel Kobe,Shimizu S-Pulse,,,False,False,False,JAP1
+26,26,,5803776,2027-03-13T11:00:00Z,Yokohama F.Marinos,Avispa Fukuoka,,,False,False,False,JAP1
+26,26,,5803777,2027-03-14T11:00:00Z,JEF United Chiba,Urawa Red Diamonds,,,False,False,False,JAP1
+27,27,,5803778,2027-03-20T11:00:00Z,Avispa Fukuoka,JEF United Chiba,,,False,False,False,JAP1
+27,27,,5803779,2027-03-20T11:00:00Z,Cerezo Osaka,Kyoto Sanga FC,,,False,False,False,JAP1
+27,27,,5803780,2027-03-20T11:00:00Z,Kashiwa Reysol,Tokyo Verdy,,,False,False,False,JAP1
+27,27,,5803781,2027-03-20T11:00:00Z,Kawasaki Frontale,FC Tokyo,,,False,False,False,JAP1
+27,27,,5803782,2027-03-20T11:00:00Z,Machida Zelvia,Mito Hollyhock,,,False,False,False,JAP1
+27,27,,5803783,2027-03-20T11:00:00Z,Nagoya Grampus,Vissel Kobe,,,False,False,False,JAP1
+27,27,,5803784,2027-03-20T11:00:00Z,Sanfrecce Hiroshima,Gamba Osaka,,,False,False,False,JAP1
+27,27,,5803785,2027-03-20T11:00:00Z,V-Varen Nagasaki,Fagiano Okayama FC,,,False,False,False,JAP1
+27,27,,5803786,2027-03-20T11:00:00Z,Yokohama F.Marinos,Urawa Red Diamonds,,,False,False,False,JAP1
+27,27,,5803787,2027-03-21T11:00:00Z,Shimizu S-Pulse,Kashima Antlers,,,False,False,False,JAP1
+28,28,,5803788,2027-04-03T10:00:00Z,FC Tokyo,Avispa Fukuoka,,,False,False,False,JAP1
+28,28,,5803789,2027-04-03T10:00:00Z,Gamba Osaka,Kawasaki Frontale,,,False,False,False,JAP1
+28,28,,5803790,2027-04-03T10:00:00Z,Kashima Antlers,Yokohama F.Marinos,,,False,False,False,JAP1
+28,28,,5803791,2027-04-03T10:00:00Z,Kashiwa Reysol,Cerezo Osaka,,,False,False,False,JAP1
+28,28,,5803792,2027-04-03T10:00:00Z,Kyoto Sanga FC,V-Varen Nagasaki,,,False,False,False,JAP1
+28,28,,5803793,2027-04-03T10:00:00Z,Mito Hollyhock,JEF United Chiba,,,False,False,False,JAP1
+28,28,,5803794,2027-04-03T10:00:00Z,Fagiano Okayama FC,Nagoya Grampus,,,False,False,False,JAP1
+28,28,,5803795,2027-04-03T10:00:00Z,Urawa Red Diamonds,Shimizu S-Pulse,,,False,False,False,JAP1
+28,28,,5803796,2027-04-03T10:00:00Z,Tokyo Verdy,Machida Zelvia,,,False,False,False,JAP1
+28,28,,5803797,2027-04-03T10:00:00Z,Vissel Kobe,Sanfrecce Hiroshima,,,False,False,False,JAP1
+29,29,,5803798,2027-04-09T10:00:00Z,Cerezo Osaka,Avispa Fukuoka,,,False,False,False,JAP1
+29,29,,5803799,2027-04-10T10:00:00Z,JEF United Chiba,Kyoto Sanga FC,,,False,False,False,JAP1
+29,29,,5803800,2027-04-10T10:00:00Z,FC Tokyo,Fagiano Okayama FC,,,False,False,False,JAP1
+29,29,,5803801,2027-04-10T10:00:00Z,Kawasaki Frontale,V-Varen Nagasaki,,,False,False,False,JAP1
+29,29,,5803802,2027-04-10T10:00:00Z,Machida Zelvia,Vissel Kobe,,,False,False,False,JAP1
+29,29,,5803803,2027-04-10T10:00:00Z,Nagoya Grampus,Kashima Antlers,,,False,False,False,JAP1
+29,29,,5803804,2027-04-10T10:00:00Z,Shimizu S-Pulse,Mito Hollyhock,,,False,False,False,JAP1
+29,29,,5803805,2027-04-10T10:00:00Z,Urawa Red Diamonds,Kashiwa Reysol,,,False,False,False,JAP1
+29,29,,5803806,2027-04-10T10:00:00Z,Tokyo Verdy,Gamba Osaka,,,False,False,False,JAP1
+29,29,,5803807,2027-04-10T10:00:00Z,Yokohama F.Marinos,Sanfrecce Hiroshima,,,False,False,False,JAP1
+16,16,,5803707,2027-04-14T10:00:00Z,Kyoto Sanga FC,Vissel Kobe,,,False,False,False,JAP1
+30,30,,5803808,2027-04-16T10:00:00Z,Sanfrecce Hiroshima,FC Tokyo,,,False,False,False,JAP1
+30,30,,5803809,2027-04-17T10:00:00Z,Avispa Fukuoka,Machida Zelvia,,,False,False,False,JAP1
+30,30,,5803810,2027-04-17T10:00:00Z,Cerezo Osaka,Kashima Antlers,,,False,False,False,JAP1
+30,30,,5803811,2027-04-17T10:00:00Z,Gamba Osaka,JEF United Chiba,,,False,False,False,JAP1
+30,30,,5803812,2027-04-17T10:00:00Z,Kawasaki Frontale,Tokyo Verdy,,,False,False,False,JAP1
+30,30,,5803813,2027-04-17T10:00:00Z,Mito Hollyhock,Kyoto Sanga FC,,,False,False,False,JAP1
+30,30,,5803814,2027-04-17T10:00:00Z,Fagiano Okayama FC,Urawa Red Diamonds,,,False,False,False,JAP1
+30,30,,5803815,2027-04-17T10:00:00Z,Shimizu S-Pulse,Nagoya Grampus,,,False,False,False,JAP1
+30,30,,5803816,2027-04-17T10:00:00Z,V-Varen Nagasaki,Vissel Kobe,,,False,False,False,JAP1
+30,30,,5803817,2027-04-17T10:00:00Z,Yokohama F.Marinos,Kashiwa Reysol,,,False,False,False,JAP1
+31,31,,5803818,2027-04-24T10:00:00Z,FC Tokyo,Yokohama F.Marinos,,,False,False,False,JAP1
+31,31,,5803819,2027-04-24T10:00:00Z,Kashima Antlers,Kyoto Sanga FC,,,False,False,False,JAP1
+31,31,,5803820,2027-04-24T10:00:00Z,Kashiwa Reysol,Gamba Osaka,,,False,False,False,JAP1
+31,31,,5803821,2027-04-24T10:00:00Z,Nagoya Grampus,Kawasaki Frontale,,,False,False,False,JAP1
+31,31,,5803822,2027-04-24T10:00:00Z,Fagiano Okayama FC,Cerezo Osaka,,,False,False,False,JAP1
+31,31,,5803823,2027-04-24T10:00:00Z,Sanfrecce Hiroshima,Machida Zelvia,,,False,False,False,JAP1
+31,31,,5803824,2027-04-24T10:00:00Z,Urawa Red Diamonds,Mito Hollyhock,,,False,False,False,JAP1
+31,31,,5803825,2027-04-24T10:00:00Z,Tokyo Verdy,Shimizu S-Pulse,,,False,False,False,JAP1
+31,31,,5803826,2027-04-24T10:00:00Z,Vissel Kobe,Avispa Fukuoka,,,False,False,False,JAP1
+31,31,,5803827,2027-04-24T10:00:00Z,V-Varen Nagasaki,JEF United Chiba,,,False,False,False,JAP1
+32,32,,5803828,2027-04-29T10:00:00Z,Avispa Fukuoka,Tokyo Verdy,,,False,False,False,JAP1
+32,32,,5803829,2027-04-29T10:00:00Z,Cerezo Osaka,V-Varen Nagasaki,,,False,False,False,JAP1
+32,32,,5803830,2027-04-29T10:00:00Z,JEF United Chiba,Sanfrecce Hiroshima,,,False,False,False,JAP1
+32,32,,5803831,2027-04-29T10:00:00Z,Kashima Antlers,Vissel Kobe,,,False,False,False,JAP1
+32,32,,5803832,2027-04-29T10:00:00Z,Kashiwa Reysol,FC Tokyo,,,False,False,False,JAP1
+32,32,,5803833,2027-04-29T10:00:00Z,Kawasaki Frontale,Mito Hollyhock,,,False,False,False,JAP1
+32,32,,5803834,2027-04-29T10:00:00Z,Kyoto Sanga FC,Gamba Osaka,,,False,False,False,JAP1
+32,32,,5803835,2027-04-29T10:00:00Z,Shimizu S-Pulse,Fagiano Okayama FC,,,False,False,False,JAP1
+32,32,,5803836,2027-04-29T10:00:00Z,Urawa Red Diamonds,Machida Zelvia,,,False,False,False,JAP1
+32,32,,5803837,2027-04-29T10:00:00Z,Yokohama F.Marinos,Nagoya Grampus,,,False,False,False,JAP1
+33,33,,5803838,2027-05-03T10:00:00Z,FC Tokyo,Shimizu S-Pulse,,,False,False,False,JAP1
+33,33,,5803839,2027-05-03T10:00:00Z,Gamba Osaka,Kashima Antlers,,,False,False,False,JAP1
+33,33,,5803840,2027-05-03T10:00:00Z,Machida Zelvia,Kyoto Sanga FC,,,False,False,False,JAP1
+33,33,,5803841,2027-05-03T10:00:00Z,Mito Hollyhock,Avispa Fukuoka,,,False,False,False,JAP1
+33,33,,5803842,2027-05-03T10:00:00Z,Nagoya Grampus,JEF United Chiba,,,False,False,False,JAP1
+33,33,,5803843,2027-05-03T10:00:00Z,Fagiano Okayama FC,Kawasaki Frontale,,,False,False,False,JAP1
+33,33,,5803844,2027-05-03T10:00:00Z,Sanfrecce Hiroshima,Urawa Red Diamonds,,,False,False,False,JAP1
+33,33,,5803845,2027-05-03T10:00:00Z,Tokyo Verdy,Cerezo Osaka,,,False,False,False,JAP1
+33,33,,5803846,2027-05-03T10:00:00Z,Vissel Kobe,Kashiwa Reysol,,,False,False,False,JAP1
+33,33,,5803847,2027-05-03T10:00:00Z,V-Varen Nagasaki,Yokohama F.Marinos,,,False,False,False,JAP1
+34,34,,5803848,2027-05-09T10:00:00Z,Avispa Fukuoka,Kyoto Sanga FC,,,False,False,False,JAP1
+34,34,,5803849,2027-05-09T10:00:00Z,Cerezo Osaka,Nagoya Grampus,,,False,False,False,JAP1
+34,34,,5803850,2027-05-09T10:00:00Z,JEF United Chiba,Shimizu S-Pulse,,,False,False,False,JAP1
+34,34,,5803851,2027-05-09T10:00:00Z,FC Tokyo,Tokyo Verdy,,,False,False,False,JAP1
+34,34,,5803852,2027-05-09T10:00:00Z,Kashima Antlers,Kawasaki Frontale,,,False,False,False,JAP1
+34,34,,5803853,2027-05-09T10:00:00Z,Kashiwa Reysol,Machida Zelvia,,,False,False,False,JAP1
+34,34,,5803854,2027-05-09T10:00:00Z,Mito Hollyhock,Fagiano Okayama FC,,,False,False,False,JAP1
+34,34,,5803855,2027-05-09T10:00:00Z,Sanfrecce Hiroshima,V-Varen Nagasaki,,,False,False,False,JAP1
+34,34,,5803856,2027-05-09T10:00:00Z,Urawa Red Diamonds,Vissel Kobe,,,False,False,False,JAP1
+34,34,,5803857,2027-05-09T10:00:00Z,Yokohama F.Marinos,Gamba Osaka,,,False,False,False,JAP1
+35,35,,5803858,2027-05-15T10:00:00Z,Gamba Osaka,Mito Hollyhock,,,False,False,False,JAP1
+35,35,,5803859,2027-05-15T10:00:00Z,Kawasaki Frontale,Yokohama F.Marinos,,,False,False,False,JAP1
+35,35,,5803860,2027-05-15T10:00:00Z,Kyoto Sanga FC,Sanfrecce Hiroshima,,,False,False,False,JAP1
+35,35,,5803861,2027-05-15T10:00:00Z,Machida Zelvia,FC Tokyo,,,False,False,False,JAP1
+35,35,,5803862,2027-05-15T10:00:00Z,Nagoya Grampus,Kashiwa Reysol,,,False,False,False,JAP1
+35,35,,5803863,2027-05-15T10:00:00Z,Fagiano Okayama FC,JEF United Chiba,,,False,False,False,JAP1
+35,35,,5803864,2027-05-15T10:00:00Z,Shimizu S-Pulse,Cerezo Osaka,,,False,False,False,JAP1
+35,35,,5803865,2027-05-15T10:00:00Z,Urawa Red Diamonds,Avispa Fukuoka,,,False,False,False,JAP1
+35,35,,5803866,2027-05-15T10:00:00Z,Vissel Kobe,Tokyo Verdy,,,False,False,False,JAP1
+35,35,,5803867,2027-05-15T10:00:00Z,V-Varen Nagasaki,Kashima Antlers,,,False,False,False,JAP1
+36,36,,5803868,2027-05-22T10:00:00Z,Avispa Fukuoka,Kashima Antlers,,,False,False,False,JAP1
+36,36,,5803869,2027-05-22T10:00:00Z,JEF United Chiba,Vissel Kobe,,,False,False,False,JAP1
+36,36,,5803870,2027-05-22T10:00:00Z,FC Tokyo,Gamba Osaka,,,False,False,False,JAP1
+36,36,,5803871,2027-05-22T10:00:00Z,Kawasaki Frontale,Cerezo Osaka,,,False,False,False,JAP1
+36,36,,5803872,2027-05-22T10:00:00Z,Mito Hollyhock,Nagoya Grampus,,,False,False,False,JAP1
+36,36,,5803873,2027-05-22T10:00:00Z,Fagiano Okayama FC,Machida Zelvia,,,False,False,False,JAP1
+36,36,,5803874,2027-05-22T10:00:00Z,Sanfrecce Hiroshima,Kashiwa Reysol,,,False,False,False,JAP1
+36,36,,5803875,2027-05-22T10:00:00Z,Urawa Red Diamonds,Kyoto Sanga FC,,,False,False,False,JAP1
+36,36,,5803876,2027-05-22T10:00:00Z,Tokyo Verdy,V-Varen Nagasaki,,,False,False,False,JAP1
+36,36,,5803877,2027-05-22T10:00:00Z,Yokohama F.Marinos,Shimizu S-Pulse,,,False,False,False,JAP1
+37,37,,5803878,2027-05-29T10:00:00Z,Avispa Fukuoka,Kawasaki Frontale,,,False,False,False,JAP1
+37,37,,5803879,2027-05-29T10:00:00Z,Cerezo Osaka,Urawa Red Diamonds,,,False,False,False,JAP1
+37,37,,5803880,2027-05-29T10:00:00Z,FC Tokyo,Vissel Kobe,,,False,False,False,JAP1
+37,37,,5803881,2027-05-29T10:00:00Z,Gamba Osaka,Shimizu S-Pulse,,,False,False,False,JAP1
+37,37,,5803882,2027-05-29T10:00:00Z,Kashiwa Reysol,Kashima Antlers,,,False,False,False,JAP1
+37,37,,5803883,2027-05-29T10:00:00Z,Kyoto Sanga FC,Nagoya Grampus,,,False,False,False,JAP1
+37,37,,5803884,2027-05-29T10:00:00Z,Sanfrecce Hiroshima,Mito Hollyhock,,,False,False,False,JAP1
+37,37,,5803885,2027-05-29T10:00:00Z,Tokyo Verdy,Fagiano Okayama FC,,,False,False,False,JAP1
+37,37,,5803886,2027-05-29T10:00:00Z,V-Varen Nagasaki,Machida Zelvia,,,False,False,False,JAP1
+37,37,,5803887,2027-05-29T10:00:00Z,Yokohama F.Marinos,JEF United Chiba,,,False,False,False,JAP1
+38,38,,5803888,2027-06-06T10:00:00Z,JEF United Chiba,Kashiwa Reysol,,,False,False,False,JAP1
+38,38,,5803889,2027-06-06T10:00:00Z,Kashima Antlers,FC Tokyo,,,False,False,False,JAP1
+38,38,,5803890,2027-06-06T10:00:00Z,Kawasaki Frontale,Sanfrecce Hiroshima,,,False,False,False,JAP1
+38,38,,5803891,2027-06-06T10:00:00Z,Machida Zelvia,Cerezo Osaka,,,False,False,False,JAP1
+38,38,,5803892,2027-06-06T10:00:00Z,Mito Hollyhock,Yokohama F.Marinos,,,False,False,False,JAP1
+38,38,,5803893,2027-06-06T10:00:00Z,Nagoya Grampus,Tokyo Verdy,,,False,False,False,JAP1
+38,38,,5803894,2027-06-06T10:00:00Z,Fagiano Okayama FC,Avispa Fukuoka,,,False,False,False,JAP1
+38,38,,5803895,2027-06-06T10:00:00Z,Shimizu S-Pulse,V-Varen Nagasaki,,,False,False,False,JAP1
+38,38,,5803896,2027-06-06T10:00:00Z,Urawa Red Diamonds,Gamba Osaka,,,False,False,False,JAP1
+38,38,,5803897,2027-06-06T10:00:00Z,Vissel Kobe,Kyoto Sanga FC,,,False,False,False,JAP1

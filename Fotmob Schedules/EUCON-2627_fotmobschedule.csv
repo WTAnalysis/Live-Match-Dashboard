@@ -1,0 +1,109 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,6112413,2026-10-15T16:45:00Z,Gent,AGF,1 - 0,FT,True,True,False,EUCON
+1,1,,6112415,2026-10-15T16:45:00Z,Panathinaikos,Borac Banja Luka,2 - 1,FT,True,True,False,EUCON
+1,1,,6112473,2026-10-15T16:45:00Z,Lugano,FK Crvena Zvezda,3 - 2,FT,True,True,False,EUCON
+1,1,,6112478,2026-10-15T16:45:00Z,KuPS,Trabzonspor,2 - 4,FT,True,True,False,EUCON
+1,1,,6112505,2026-10-15T16:45:00Z,Universitatea Craiova,Getafe,1 - 1,FT,True,True,False,EUCON
+1,1,,6112521,2026-10-15T16:45:00Z,Riga FC,Kairat Almaty,1 - 1,FT,True,True,False,EUCON
+1,1,,6112523,2026-10-15T16:45:00Z,Hajduk Split,Ajax,2 - 1,FT,True,True,False,EUCON
+1,1,,6112541,2026-10-15T16:45:00Z,CSKA Sofia,Monaco,1 - 2,FT,True,True,False,EUCON
+1,1,,6112549,2026-10-15T16:45:00Z,Mjällby,Inter Club d'Escaldes,2 - 0,FT,True,True,False,EUCON
+1,1,,6112553,2026-10-15T16:45:00Z,Egnatia,FC Midtjylland,1 - 1,FT,True,True,False,EUCON
+1,1,,6112387,2026-10-15T19:00:00Z,Atalanta,Pafos FC,3 - 1,FT,True,True,False,EUCON
+1,1,,6112398,2026-10-15T19:00:00Z,Freiburg,Jablonec,3 - 2,FT,True,True,False,EUCON
+1,1,,6112402,2026-10-15T19:00:00Z,FC København,Braga,3 - 0,FT,True,True,False,EUCON
+1,1,,6112422,2026-10-15T19:00:00Z,Brighton & Hove Albion,FK Kauno Žalgiris,4 - 0,FT,True,True,False,EUCON
+1,1,,6112482,2026-10-15T19:00:00Z,FC Twente,Thun,1 - 0,FT,True,True,False,EUCON
+1,1,,6112491,2026-10-15T19:00:00Z,St.Truiden,Iberia 1999,2 - 0,FT,True,True,False,EUCON
+1,1,,6112493,2026-10-15T19:00:00Z,Brann,Lincoln Red Imps FC,2 - 1,FT,True,True,False,EUCON
+1,1,,6112497,2026-10-15T19:00:00Z,Heart of Midlothian,Nordsjælland,1 - 1,FT,True,True,False,EUCON
+2,2,,6112498,2026-10-22T14:30:00Z,Kairat Almaty,Panathinaikos,,,False,False,False,EUCON
+2,2,,6112408,2026-10-22T16:45:00Z,FK Crvena Zvezda,FC København,,,False,False,False,EUCON
+2,2,,6112419,2026-10-22T16:45:00Z,Pafos FC,Riga FC,,,False,False,False,EUCON
+2,2,,6112475,2026-10-22T16:45:00Z,Getafe,Lugano,,,False,False,False,EUCON
+2,2,,6112502,2026-10-22T16:45:00Z,Trabzonspor,Heart of Midlothian,,,False,False,False,EUCON
+2,2,,6112526,2026-10-22T16:45:00Z,Jablonec,Brighton & Hove Albion,,,False,False,False,EUCON
+2,2,,6112531,2026-10-22T16:45:00Z,Nordsjælland,CSKA Sofia,,,False,False,False,EUCON
+2,2,,6112536,2026-10-22T16:45:00Z,Inter Club d'Escaldes,Universitatea Craiova,,,False,False,False,EUCON
+2,2,,6112545,2026-10-22T16:45:00Z,FK Kauno Žalgiris,Brann,,,False,False,False,EUCON
+2,2,,6112552,2026-10-22T16:45:00Z,Iberia 1999,Mjällby,,,False,False,False,EUCON
+2,2,,6112390,2026-10-22T19:00:00Z,Braga,Gent,,,False,False,False,EUCON
+2,2,,6112393,2026-10-22T19:00:00Z,Ajax,Atalanta,,,False,False,False,EUCON
+2,2,,6112399,2026-10-22T19:00:00Z,Monaco,Freiburg,,,False,False,False,EUCON
+2,2,,6112406,2026-10-22T19:00:00Z,FC Midtjylland,St.Truiden,,,False,False,False,EUCON
+2,2,,6112484,2026-10-22T19:00:00Z,Lincoln Red Imps FC,FC Twente,,,False,False,False,EUCON
+2,2,,6112487,2026-10-22T19:00:00Z,Borac Banja Luka,KuPS,,,False,False,False,EUCON
+2,2,,6112534,2026-10-22T19:00:00Z,AGF,Egnatia,,,False,False,False,EUCON
+2,2,,6112540,2026-10-22T19:00:00Z,Thun,Hajduk Split,,,False,False,False,EUCON
+3,3,,6112388,2026-11-05T17:45:00Z,Atalanta,Kairat Almaty,,,False,False,False,EUCON
+3,3,,6112405,2026-11-05T17:45:00Z,FC Midtjylland,Ajax,,,False,False,False,EUCON
+3,3,,6112410,2026-11-05T17:45:00Z,FK Crvena Zvezda,Inter Club d'Escaldes,,,False,False,False,EUCON
+3,3,,6112477,2026-11-05T17:45:00Z,KuPS,Gent,,,False,False,False,EUCON
+3,3,,6112485,2026-11-05T17:45:00Z,Lincoln Red Imps FC,Hajduk Split,,,False,False,False,EUCON
+3,3,,6112501,2026-11-05T17:45:00Z,Trabzonspor,Freiburg,,,False,False,False,EUCON
+3,3,,6112532,2026-11-05T17:45:00Z,AGF,Braga,,,False,False,False,EUCON
+3,3,,6112539,2026-11-05T17:45:00Z,Thun,Heart of Midlothian,,,False,False,False,EUCON
+3,3,,6112548,2026-11-05T17:45:00Z,Mjällby,Borac Banja Luka,,,False,False,False,EUCON
+3,3,,6112401,2026-11-05T20:00:00Z,Monaco,Nordsjælland,,,False,False,False,EUCON
+3,3,,6112404,2026-11-05T20:00:00Z,FC København,Iberia 1999,,,False,False,False,EUCON
+3,3,,6112416,2026-11-05T20:00:00Z,Panathinaikos,CSKA Sofia,,,False,False,False,EUCON
+3,3,,6112471,2026-11-05T20:00:00Z,Lugano,FK Kauno Žalgiris,,,False,False,False,EUCON
+3,3,,6112474,2026-11-05T20:00:00Z,Getafe,Brighton & Hove Albion,,,False,False,False,EUCON
+3,3,,6112480,2026-11-05T20:00:00Z,FC Twente,Pafos FC,,,False,False,False,EUCON
+3,3,,6112490,2026-11-05T20:00:00Z,St.Truiden,Brann,,,False,False,False,EUCON
+3,3,,6112506,2026-11-05T20:00:00Z,Universitatea Craiova,Egnatia,,,False,False,False,EUCON
+3,3,,6112522,2026-11-05T20:00:00Z,Riga FC,Jablonec,,,False,False,False,EUCON
+4,4,,6112500,2026-11-26T15:30:00Z,Kairat Almaty,Mjällby,,,False,False,False,EUCON
+4,4,,6112395,2026-11-26T17:45:00Z,Ajax,Thun,,,False,False,False,EUCON
+4,4,,6112417,2026-11-26T17:45:00Z,Pafos FC,FC Midtjylland,,,False,False,False,EUCON
+4,4,,6112421,2026-11-26T17:45:00Z,Brighton & Hove Albion,Universitatea Craiova,,,False,False,False,EUCON
+4,4,,6112494,2026-11-26T17:45:00Z,Brann,AGF,,,False,False,False,EUCON
+4,4,,6112495,2026-11-26T17:45:00Z,Heart of Midlothian,Monaco,,,False,False,False,EUCON
+4,4,,6112527,2026-11-26T17:45:00Z,Jablonec,Lugano,,,False,False,False,EUCON
+4,4,,6112546,2026-11-26T17:45:00Z,FK Kauno Žalgiris,Riga FC,,,False,False,False,EUCON
+4,4,,6112551,2026-11-26T17:45:00Z,Iberia 1999,Getafe,,,False,False,False,EUCON
+4,4,,6112554,2026-11-26T17:45:00Z,Egnatia,Lincoln Red Imps FC,,,False,False,False,EUCON
+4,4,,6112391,2026-11-26T20:00:00Z,Braga,KuPS,,,False,False,False,EUCON
+4,4,,6112397,2026-11-26T20:00:00Z,Freiburg,FC Twente,,,False,False,False,EUCON
+4,4,,6112411,2026-11-26T20:00:00Z,Gent,FK Crvena Zvezda,,,False,False,False,EUCON
+4,4,,6112486,2026-11-26T20:00:00Z,Borac Banja Luka,Atalanta,,,False,False,False,EUCON
+4,4,,6112524,2026-11-26T20:00:00Z,Hajduk Split,St.Truiden,,,False,False,False,EUCON
+4,4,,6112529,2026-11-26T20:00:00Z,Nordsjælland,Panathinaikos,,,False,False,False,EUCON
+4,4,,6112535,2026-11-26T20:00:00Z,Inter Club d'Escaldes,FC København,,,False,False,False,EUCON
+4,4,,6112542,2026-11-26T20:00:00Z,CSKA Sofia,Trabzonspor,,,False,False,False,EUCON
+5,5,,6112499,2026-12-10T15:30:00Z,Kairat Almaty,Universitatea Craiova,,,False,False,False,EUCON
+5,5,,6112396,2026-12-10T17:45:00Z,Freiburg,Panathinaikos,,,False,False,False,EUCON
+5,5,,6112403,2026-12-10T17:45:00Z,FC København,Lugano,,,False,False,False,EUCON
+5,5,,6112476,2026-12-10T17:45:00Z,Getafe,Inter Club d'Escaldes,,,False,False,False,EUCON
+5,5,,6112479,2026-12-10T17:45:00Z,KuPS,CSKA Sofia,,,False,False,False,EUCON
+5,5,,6112483,2026-12-10T17:45:00Z,Lincoln Red Imps FC,FC Midtjylland,,,False,False,False,EUCON
+5,5,,6112492,2026-12-10T17:45:00Z,Brann,Braga,,,False,False,False,EUCON
+5,5,,6112503,2026-12-10T17:45:00Z,Trabzonspor,Jablonec,,,False,False,False,EUCON
+5,5,,6112520,2026-12-10T17:45:00Z,Riga FC,Atalanta,,,False,False,False,EUCON
+5,5,,6112550,2026-12-10T17:45:00Z,Iberia 1999,FK Crvena Zvezda,,,False,False,False,EUCON
+5,5,,6112420,2026-12-10T20:00:00Z,Brighton & Hove Albion,Monaco,,,False,False,False,EUCON
+5,5,,6112489,2026-12-10T20:00:00Z,St.Truiden,Ajax,,,False,False,False,EUCON
+5,5,,6112496,2026-12-10T20:00:00Z,Heart of Midlothian,Borac Banja Luka,,,False,False,False,EUCON
+5,5,,6112525,2026-12-10T20:00:00Z,Hajduk Split,Nordsjælland,,,False,False,False,EUCON
+5,5,,6112533,2026-12-10T20:00:00Z,AGF,FC Twente,,,False,False,False,EUCON
+5,5,,6112538,2026-12-10T20:00:00Z,Thun,Gent,,,False,False,False,EUCON
+5,5,,6112547,2026-12-10T20:00:00Z,Mjällby,Pafos FC,,,False,False,False,EUCON
+5,5,,6112555,2026-12-10T20:00:00Z,Egnatia,FK Kauno Žalgiris,,,False,False,False,EUCON
+6,6,,6112389,2026-12-17T20:00:00Z,Atalanta,Mjällby,,,False,False,False,EUCON
+6,6,,6112392,2026-12-17T20:00:00Z,Braga,Egnatia,,,False,False,False,EUCON
+6,6,,6112394,2026-12-17T20:00:00Z,Ajax,Getafe,,,False,False,False,EUCON
+6,6,,6112400,2026-12-17T20:00:00Z,Monaco,Lincoln Red Imps FC,,,False,False,False,EUCON
+6,6,,6112407,2026-12-17T20:00:00Z,FC Midtjylland,Hajduk Split,,,False,False,False,EUCON
+6,6,,6112409,2026-12-17T20:00:00Z,FK Crvena Zvezda,Trabzonspor,,,False,False,False,EUCON
+6,6,,6112412,2026-12-17T20:00:00Z,Gent,Brann,,,False,False,False,EUCON
+6,6,,6112414,2026-12-17T20:00:00Z,Panathinaikos,Brighton & Hove Albion,,,False,False,False,EUCON
+6,6,,6112418,2026-12-17T20:00:00Z,Pafos FC,Heart of Midlothian,,,False,False,False,EUCON
+6,6,,6112472,2026-12-17T20:00:00Z,Lugano,St.Truiden,,,False,False,False,EUCON
+6,6,,6112481,2026-12-17T20:00:00Z,FC Twente,Kairat Almaty,,,False,False,False,EUCON
+6,6,,6112488,2026-12-17T20:00:00Z,Borac Banja Luka,Riga FC,,,False,False,False,EUCON
+6,6,,6112504,2026-12-17T20:00:00Z,Universitatea Craiova,FC København,,,False,False,False,EUCON
+6,6,,6112528,2026-12-17T20:00:00Z,Jablonec,Iberia 1999,,,False,False,False,EUCON
+6,6,,6112530,2026-12-17T20:00:00Z,Nordsjælland,KuPS,,,False,False,False,EUCON
+6,6,,6112537,2026-12-17T20:00:00Z,Inter Club d'Escaldes,AGF,,,False,False,False,EUCON
+6,6,,6112543,2026-12-17T20:00:00Z,CSKA Sofia,Thun,,,False,False,False,EUCON
+6,6,,6112544,2026-12-17T20:00:00Z,FK Kauno Žalgiris,Freiburg,,,False,False,False,EUCON

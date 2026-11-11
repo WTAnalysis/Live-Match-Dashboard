@@ -1,0 +1,553 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5837087,2026-08-15T11:30:00Z,Notts County,Leicester City,1 - 1,FT,True,True,False,ENG3
+1,1,,5837088,2026-08-15T11:30:00Z,Oxford United,Milton Keynes Dons,2 - 2,FT,True,True,False,ENG3
+1,1,,5837089,2026-08-15T11:30:00Z,Reading,Luton Town,3 - 4,FT,True,True,False,ENG3
+1,1,,5837090,2026-08-15T14:00:00Z,Barnsley,Bromley,0 - 1,FT,True,True,False,ENG3
+1,1,,5837091,2026-08-15T14:00:00Z,Blackpool,Wycombe Wanderers,1 - 1,FT,True,True,False,ENG3
+1,1,,5837092,2026-08-15T14:00:00Z,Bradford City,Peterborough United,2 - 0,FT,True,True,False,ENG3
+1,1,,5837093,2026-08-15T14:00:00Z,Burton Albion,Stevenage,1 - 1,FT,True,True,False,ENG3
+1,1,,5837094,2026-08-15T14:00:00Z,Cambridge United,Wigan Athletic,3 - 2,FT,True,True,False,ENG3
+1,1,,5837095,2026-08-15T14:00:00Z,Huddersfield Town,AFC Wimbledon,3 - 0,FT,True,True,False,ENG3
+1,1,,5837096,2026-08-15T14:00:00Z,Leyton Orient,Sheffield Wednesday,1 - 2,FT,True,True,False,ENG3
+1,1,,5837097,2026-08-15T14:00:00Z,Mansfield Town,Doncaster Rovers,2 - 1,FT,True,True,False,ENG3
+1,1,,5837098,2026-08-15T14:00:00Z,Plymouth Argyle,Stockport County,1 - 3,FT,True,True,False,ENG3
+2,2,,5837106,2026-08-20T19:00:00Z,Sheffield Wednesday,Bradford City,0 - 1,FT,True,True,False,ENG3
+2,2,,5837101,2026-08-22T11:30:00Z,Doncaster Rovers,Barnsley,0 - 0,FT,True,True,False,ENG3
+2,2,,5837103,2026-08-22T11:30:00Z,Luton Town,Notts County,2 - 2,FT,True,True,False,ENG3
+2,2,,5837099,2026-08-22T14:00:00Z,AFC Wimbledon,Reading,0 - 0,FT,True,True,False,ENG3
+2,2,,5837100,2026-08-22T14:00:00Z,Bromley,Cambridge United,1 - 1,FT,True,True,False,ENG3
+2,2,,5837102,2026-08-22T14:00:00Z,Leicester City,Burton Albion,1 - 2,FT,True,True,False,ENG3
+2,2,,5837104,2026-08-22T14:00:00Z,Milton Keynes Dons,Huddersfield Town,1 - 1,FT,True,True,False,ENG3
+2,2,,5837105,2026-08-22T14:00:00Z,Peterborough United,Mansfield Town,2 - 1,FT,True,True,False,ENG3
+2,2,,5837107,2026-08-22T14:00:00Z,Stevenage,Oxford United,1 - 2,FT,True,True,False,ENG3
+2,2,,5837108,2026-08-22T14:00:00Z,Stockport County,Blackpool,1 - 2,FT,True,True,False,ENG3
+2,2,,5837109,2026-08-22T14:00:00Z,Wigan Athletic,Leyton Orient,0 - 2,FT,True,True,False,ENG3
+2,2,,5837110,2026-08-22T14:00:00Z,Wycombe Wanderers,Plymouth Argyle,1 - 1,FT,True,True,False,ENG3
+3,3,,5837112,2026-08-29T11:30:00Z,Blackpool,Peterborough United,4 - 0,FT,True,True,False,ENG3
+3,3,,5837115,2026-08-29T11:30:00Z,Milton Keynes Dons,Leicester City,0 - 0,FT,True,True,False,ENG3
+3,3,,5837113,2026-08-29T14:00:00Z,Cambridge United,Huddersfield Town,1 - 2,FT,True,True,False,ENG3
+3,3,,5837114,2026-08-29T14:00:00Z,Leyton Orient,Barnsley,1 - 3,FT,True,True,False,ENG3
+3,3,,5837117,2026-08-29T14:00:00Z,Notts County,Burton Albion,2 - 1,FT,True,True,False,ENG3
+3,3,,5837119,2026-08-29T14:00:00Z,Plymouth Argyle,Bradford City,2 - 0,FT,True,True,False,ENG3
+3,3,,5837120,2026-08-29T14:00:00Z,Sheffield Wednesday,Bromley,7 - 2,FT,True,True,False,ENG3
+3,3,,5837121,2026-08-29T14:00:00Z,Stevenage,Doncaster Rovers,2 - 2,FT,True,True,False,ENG3
+3,3,,5837122,2026-08-29T14:00:00Z,Stockport County,Wycombe Wanderers,5 - 1,FT,True,True,False,ENG3
+3,3,,5837111,2026-08-30T13:00:00Z,AFC Wimbledon,Wigan Athletic,1 - 0,FT,True,True,False,ENG3
+3,3,,5837116,2026-08-30T14:00:00Z,Mansfield Town,Luton Town,5 - 2,FT,True,True,False,ENG3
+4,4,,5837124,2026-09-01T18:45:00Z,Bradford City,Cambridge United,1 - 2,FT,True,True,False,ENG3
+4,4,,5837125,2026-09-01T18:45:00Z,Bromley,Leyton Orient,0 - 5,FT,True,True,False,ENG3
+4,4,,5837127,2026-09-01T18:45:00Z,Doncaster Rovers,Notts County,1 - 1,FT,True,True,False,ENG3
+4,4,,5837128,2026-09-01T18:45:00Z,Huddersfield Town,Oxford United,3 - 1,FT,True,True,False,ENG3
+4,4,,5837129,2026-09-01T18:45:00Z,Leicester City,Plymouth Argyle,2 - 0,FT,True,True,False,ENG3
+4,4,,5837131,2026-09-01T18:45:00Z,Peterborough United,Stevenage,0 - 0,FT,True,True,False,ENG3
+4,4,,5837133,2026-09-01T18:45:00Z,Wycombe Wanderers,Sheffield Wednesday,1 - 2,FT,True,True,False,ENG3
+4,4,,5837123,2026-09-02T18:45:00Z,Barnsley,Blackpool,2 - 1,FT,True,True,False,ENG3
+4,4,,5837126,2026-09-02T18:45:00Z,Burton Albion,AFC Wimbledon,4 - 1,FT,True,True,False,ENG3
+4,4,,5837130,2026-09-02T18:45:00Z,Luton Town,Stockport County,2 - 0,FT,True,True,False,ENG3
+4,4,,5837132,2026-09-02T18:45:00Z,Wigan Athletic,Milton Keynes Dons,3 - 1,FT,True,True,False,ENG3
+4,4,,5837134,2026-09-02T19:00:00Z,Reading,Mansfield Town,5 - 0,FT,True,True,False,ENG3
+5,5,,5837143,2026-09-05T11:30:00Z,Peterborough United,Sheffield Wednesday,1 - 2,FT,True,True,False,ENG3
+5,5,,5837145,2026-09-05T11:30:00Z,Wigan Athletic,Stockport County,0 - 4,FT,True,True,False,ENG3
+5,5,,5837135,2026-09-05T14:00:00Z,Barnsley,Stevenage,1 - 5,FT,True,True,False,ENG3
+5,5,,5837136,2026-09-05T14:00:00Z,Bradford City,Mansfield Town,1 - 0,FT,True,True,False,ENG3
+5,5,,5837138,2026-09-05T14:00:00Z,Burton Albion,Cambridge United,2 - 2,FT,True,True,False,ENG3
+5,5,,5837139,2026-09-05T14:00:00Z,Doncaster Rovers,Plymouth Argyle,2 - 3,FT,True,True,False,ENG3
+5,5,,5837140,2026-09-05T14:00:00Z,Huddersfield Town,Notts County,1 - 1,FT,True,True,False,ENG3
+5,5,,5837141,2026-09-05T14:00:00Z,Leicester City,Oxford United,0 - 4,FT,True,True,False,ENG3
+5,5,,5837142,2026-09-05T14:00:00Z,Luton Town,Leyton Orient,1 - 1,FT,True,True,False,ENG3
+5,5,,5837144,2026-09-05T14:00:00Z,Reading,Blackpool,3 - 1,FT,True,True,False,ENG3
+5,5,,5837146,2026-09-05T14:00:00Z,Wycombe Wanderers,Milton Keynes Dons,3 - 3,FT,True,True,False,ENG3
+5,5,,5837137,2026-09-07T19:00:00Z,Bromley,AFC Wimbledon,0 - 2,FT,True,True,False,ENG3
+6,6,,5837157,2026-09-10T19:00:00Z,Stevenage,Luton Town,2 - 1,FT,True,True,False,ENG3
+6,6,,5837150,2026-09-12T11:30:00Z,Leyton Orient,Wycombe Wanderers,2 - 3,FT,True,True,False,ENG3
+6,6,,5837153,2026-09-12T11:30:00Z,Notts County,Bradford City,0 - 1,FT,True,True,False,ENG3
+6,6,,5837147,2026-09-12T14:00:00Z,AFC Wimbledon,Doncaster Rovers,1 - 0,FT,True,True,False,ENG3
+6,6,,5837148,2026-09-12T14:00:00Z,Blackpool,Bromley,2 - 2,FT,True,True,False,ENG3
+6,6,,5837149,2026-09-12T14:00:00Z,Cambridge United,Reading,2 - 1,FT,True,True,False,ENG3
+6,6,,5837151,2026-09-12T14:00:00Z,Milton Keynes Dons,Peterborough United,1 - 1,FT,True,True,False,ENG3
+6,6,,5837152,2026-09-12T14:00:00Z,Mansfield Town,Huddersfield Town,0 - 0,FT,True,True,False,ENG3
+6,6,,5837154,2026-09-12T14:00:00Z,Oxford United,Burton Albion,3 - 0,FT,True,True,False,ENG3
+6,6,,5837155,2026-09-12T14:00:00Z,Plymouth Argyle,Barnsley,3 - 0,FT,True,True,False,ENG3
+6,6,,5837156,2026-09-12T14:00:00Z,Sheffield Wednesday,Wigan Athletic,0 - 0,FT,True,True,False,ENG3
+6,6,,5837158,2026-09-12T14:00:00Z,Stockport County,Leicester City,3 - 4,FT,True,True,False,ENG3
+7,7,,5837159,2026-09-17T19:00:00Z,AFC Wimbledon,Milton Keynes Dons,0 - 0,FT,True,True,False,ENG3
+7,7,,5837160,2026-09-19T11:30:00Z,Barnsley,Leicester City,1 - 1,FT,True,True,False,ENG3
+7,7,,5837163,2026-09-19T11:30:00Z,Burton Albion,Mansfield Town,2 - 2,FT,True,True,False,ENG3
+7,7,,5837161,2026-09-19T14:00:00Z,Blackpool,Plymouth Argyle,2 - 4,FT,True,True,False,ENG3
+7,7,,5837162,2026-09-19T14:00:00Z,Bromley,Huddersfield Town,2 - 1,FT,True,True,False,ENG3
+7,7,,5837164,2026-09-19T14:00:00Z,Leyton Orient,Stevenage,1 - 0,FT,True,True,False,ENG3
+7,7,,5837165,2026-09-19T14:00:00Z,Luton Town,Bradford City,0 - 1,FT,True,True,False,ENG3
+7,7,,5837166,2026-09-19T14:00:00Z,Oxford United,Cambridge United,1 - 1,FT,True,True,False,ENG3
+7,7,,5837167,2026-09-19T14:00:00Z,Peterborough United,Doncaster Rovers,0 - 2,FT,True,True,False,ENG3
+7,7,,5837168,2026-09-19T14:00:00Z,Reading,Notts County,2 - 0,FT,True,True,False,ENG3
+7,7,,5837169,2026-09-19T14:00:00Z,Sheffield Wednesday,Stockport County,0 - 0,FT,True,True,False,ENG3
+7,7,,5837170,2026-09-19T14:00:00Z,Wigan Athletic,Wycombe Wanderers,0 - 1,FT,True,True,False,ENG3
+8,8,,5837171,2026-09-26T14:00:00Z,Bradford City,Barnsley,,,False,False,False,ENG3
+8,8,,5837172,2026-09-26T14:00:00Z,Cambridge United,AFC Wimbledon,,,False,False,False,ENG3
+8,8,,5837176,2026-09-26T14:00:00Z,Milton Keynes Dons,Bromley,,,False,False,False,ENG3
+8,8,,5837177,2026-09-26T14:00:00Z,Mansfield Town,Leyton Orient,,PP,False,False,True,ENG3
+8,8,,5837178,2026-09-26T14:00:00Z,Notts County,Blackpool,,,False,False,False,ENG3
+8,8,,5837179,2026-09-26T14:00:00Z,Plymouth Argyle,Burton Albion,,,False,False,False,ENG3
+8,8,,5837180,2026-09-26T14:00:00Z,Stevenage,Sheffield Wednesday,,,False,False,False,ENG3
+8,8,,5837181,2026-09-26T14:00:00Z,Stockport County,Peterborough United,,,False,False,False,ENG3
+8,8,,5837182,2026-09-26T14:00:00Z,Wycombe Wanderers,Reading,,,False,False,False,ENG3
+9,9,,5837183,2026-10-03T14:00:00Z,AFC Wimbledon,Stevenage,,,False,False,False,ENG3
+9,9,,5837184,2026-10-03T14:00:00Z,Barnsley,Milton Keynes Dons,,,False,False,False,ENG3
+9,9,,5837185,2026-10-03T14:00:00Z,Blackpool,Leicester City,,,False,False,False,ENG3
+9,9,,5837186,2026-10-03T14:00:00Z,Bromley,Wycombe Wanderers,,,False,False,False,ENG3
+9,9,,5837187,2026-10-03T14:00:00Z,Burton Albion,Huddersfield Town,,,False,False,False,ENG3
+9,9,,5837188,2026-10-03T14:00:00Z,Leyton Orient,Plymouth Argyle,,,False,False,False,ENG3
+9,9,,5837189,2026-10-03T14:00:00Z,Luton Town,Doncaster Rovers,,,False,False,False,ENG3
+9,9,,5837191,2026-10-03T14:00:00Z,Peterborough United,Notts County,,,False,False,False,ENG3
+9,9,,5837192,2026-10-03T14:00:00Z,Reading,Bradford City,,,False,False,False,ENG3
+9,9,,5837193,2026-10-03T14:00:00Z,Sheffield Wednesday,Cambridge United,,,False,False,False,ENG3
+9,9,,5837194,2026-10-03T14:00:00Z,Wigan Athletic,Mansfield Town,,,False,False,False,ENG3
+10,10,,5837202,2026-10-10T11:30:00Z,Notts County,Oxford United,,,False,False,False,ENG3
+10,10,,5837203,2026-10-10T11:30:00Z,Plymouth Argyle,AFC Wimbledon,,,False,False,False,ENG3
+10,10,,5837195,2026-10-10T14:00:00Z,Bradford City,Leyton Orient,,,False,False,False,ENG3
+10,10,,5837196,2026-10-10T14:00:00Z,Cambridge United,Blackpool,,,False,False,False,ENG3
+10,10,,5837197,2026-10-10T14:00:00Z,Doncaster Rovers,Burton Albion,,,False,False,False,ENG3
+10,10,,5837198,2026-10-10T14:00:00Z,Huddersfield Town,Sheffield Wednesday,,,False,False,False,ENG3
+10,10,,5837199,2026-10-10T14:00:00Z,Leicester City,Peterborough United,,,False,False,False,ENG3
+10,10,,5837200,2026-10-10T14:00:00Z,Milton Keynes Dons,Reading,,,False,False,False,ENG3
+10,10,,5837201,2026-10-10T14:00:00Z,Mansfield Town,Bromley,,,False,False,False,ENG3
+10,10,,5837204,2026-10-10T14:00:00Z,Stevenage,Wigan Athletic,,,False,False,False,ENG3
+10,10,,5837205,2026-10-10T14:00:00Z,Stockport County,Barnsley,,,False,False,False,ENG3
+10,10,,5837206,2026-10-10T14:00:00Z,Wycombe Wanderers,Luton Town,,,False,False,False,ENG3
+11,11,,5837212,2026-10-15T19:00:00Z,Mansfield Town,Oxford United,,,False,False,False,ENG3
+11,11,,5837211,2026-10-17T11:30:00Z,Milton Keynes Dons,Luton Town,,,False,False,False,ENG3
+11,11,,5837213,2026-10-17T11:30:00Z,Peterborough United,Burton Albion,,,False,False,False,ENG3
+11,11,,5837207,2026-10-17T14:00:00Z,Barnsley,Cambridge United,,,False,False,False,ENG3
+11,11,,5837208,2026-10-17T14:00:00Z,Bradford City,Stevenage,,,False,False,False,ENG3
+11,11,,5837209,2026-10-17T14:00:00Z,Leicester City,Doncaster Rovers,,,False,False,False,ENG3
+11,11,,5837210,2026-10-17T14:00:00Z,Leyton Orient,Blackpool,,,False,False,False,ENG3
+11,11,,5837214,2026-10-17T14:00:00Z,Plymouth Argyle,Huddersfield Town,,,False,False,False,ENG3
+11,11,,5837215,2026-10-17T14:00:00Z,Sheffield Wednesday,AFC Wimbledon,,,False,False,False,ENG3
+11,11,,5837216,2026-10-17T14:00:00Z,Stockport County,Bromley,,,False,False,False,ENG3
+11,11,,5837217,2026-10-17T14:00:00Z,Wigan Athletic,Reading,,,False,False,False,ENG3
+11,11,,5837218,2026-10-17T14:00:00Z,Wycombe Wanderers,Notts County,,,False,False,False,ENG3
+12,12,,5837219,2026-10-20T18:45:00Z,AFC Wimbledon,Mansfield Town,,,False,False,False,ENG3
+12,12,,5837220,2026-10-20T18:45:00Z,Blackpool,Milton Keynes Dons,,,False,False,False,ENG3
+12,12,,5837221,2026-10-20T18:45:00Z,Bromley,Leicester City,,,False,False,False,ENG3
+12,12,,5837222,2026-10-20T18:45:00Z,Burton Albion,Bradford City,,,False,False,False,ENG3
+12,12,,5837223,2026-10-20T18:45:00Z,Cambridge United,Wycombe Wanderers,,,False,False,False,ENG3
+12,12,,5837224,2026-10-20T18:45:00Z,Doncaster Rovers,Stockport County,,,False,False,False,ENG3
+12,12,,5837225,2026-10-20T18:45:00Z,Huddersfield Town,Peterborough United,,,False,False,False,ENG3
+12,12,,5837226,2026-10-20T18:45:00Z,Luton Town,Barnsley,,,False,False,False,ENG3
+12,12,,5837227,2026-10-20T18:45:00Z,Notts County,Sheffield Wednesday,,,False,False,False,ENG3
+12,12,,5837228,2026-10-20T18:45:00Z,Oxford United,Wigan Athletic,,,False,False,False,ENG3
+12,12,,5837229,2026-10-20T18:45:00Z,Stevenage,Plymouth Argyle,,,False,False,False,ENG3
+12,12,,5837230,2026-10-21T19:00:00Z,Reading,Leyton Orient,,,False,False,False,ENG3
+13,13,,5837237,2026-10-24T11:30:00Z,Huddersfield Town,Wigan Athletic,,,False,False,False,ENG3
+13,13,,5837238,2026-10-24T11:30:00Z,Luton Town,Leicester City,,,False,False,False,ENG3
+13,13,,5837231,2026-10-24T14:00:00Z,AFC Wimbledon,Wycombe Wanderers,,,False,False,False,ENG3
+13,13,,5837232,2026-10-24T14:00:00Z,Blackpool,Mansfield Town,,,False,False,False,ENG3
+13,13,,5837233,2026-10-24T14:00:00Z,Bromley,Peterborough United,,,False,False,False,ENG3
+13,13,,5837234,2026-10-24T14:00:00Z,Burton Albion,Leyton Orient,,,False,False,False,ENG3
+13,13,,5837235,2026-10-24T14:00:00Z,Cambridge United,Plymouth Argyle,,,False,False,False,ENG3
+13,13,,5837236,2026-10-24T14:00:00Z,Doncaster Rovers,Sheffield Wednesday,,,False,False,False,ENG3
+13,13,,5837239,2026-10-24T14:00:00Z,Notts County,Stockport County,,,False,False,False,ENG3
+13,13,,5837240,2026-10-24T14:00:00Z,Oxford United,Bradford City,,,False,False,False,ENG3
+13,13,,5837241,2026-10-24T14:00:00Z,Reading,Barnsley,,,False,False,False,ENG3
+13,13,,5837242,2026-10-24T14:00:00Z,Stevenage,Milton Keynes Dons,,,False,False,False,ENG3
+8,8,,5837175,2026-10-27T19:45:00Z,Leicester City,Wigan Athletic,,,False,False,False,ENG3
+9,9,,5837190,2026-10-27T19:45:00Z,Oxford United,Stockport County,,,False,False,False,ENG3
+14,14,,5837244,2026-10-31T12:30:00Z,Bradford City,Huddersfield Town,,,False,False,False,ENG3
+14,14,,5837246,2026-10-31T12:30:00Z,Leyton Orient,Cambridge United,,,False,False,False,ENG3
+14,14,,5837250,2026-10-31T12:30:00Z,Plymouth Argyle,Reading,,,False,False,False,ENG3
+14,14,,5837243,2026-10-31T15:00:00Z,Barnsley,Oxford United,,,False,False,False,ENG3
+14,14,,5837245,2026-10-31T15:00:00Z,Leicester City,Stevenage,,,False,False,False,ENG3
+14,14,,5837247,2026-10-31T15:00:00Z,Milton Keynes Dons,Doncaster Rovers,,,False,False,False,ENG3
+14,14,,5837248,2026-10-31T15:00:00Z,Mansfield Town,Notts County,,,False,False,False,ENG3
+14,14,,5837249,2026-10-31T15:00:00Z,Peterborough United,Luton Town,,,False,False,False,ENG3
+14,14,,5837252,2026-10-31T15:00:00Z,Stockport County,AFC Wimbledon,,,False,False,False,ENG3
+14,14,,5837253,2026-10-31T15:00:00Z,Wigan Athletic,Bromley,,,False,False,False,ENG3
+14,14,,5837254,2026-10-31T15:00:00Z,Wycombe Wanderers,Burton Albion,,,False,False,False,ENG3
+14,14,,5837251,2026-11-01T14:00:00Z,Sheffield Wednesday,Blackpool,,,False,False,False,ENG3
+8,8,,5837174,2026-11-03T19:45:00Z,Huddersfield Town,Luton Town,,,False,False,False,ENG3
+3,3,,5837118,2026-11-04T19:45:00Z,Oxford United,Reading,,,False,False,False,ENG3
+15,15,,5837255,2026-11-14T15:00:00Z,AFC Wimbledon,Blackpool,,,False,False,False,ENG3
+15,15,,5837256,2026-11-14T15:00:00Z,Bromley,Notts County,,,False,False,False,ENG3
+15,15,,5837257,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,,,False,False,False,ENG3
+15,15,,5837258,2026-11-14T15:00:00Z,Leicester City,Bradford City,,,False,False,False,ENG3
+15,15,,5837259,2026-11-14T15:00:00Z,Luton Town,Cambridge United,,,False,False,False,ENG3
+15,15,,5837260,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,,,False,False,False,ENG3
+15,15,,5837261,2026-11-14T15:00:00Z,Peterborough United,Oxford United,,,False,False,False,ENG3
+15,15,,5837262,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,,,False,False,False,ENG3
+15,15,,5837263,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,,,False,False,False,ENG3
+15,15,,5837264,2026-11-14T15:00:00Z,Stockport County,Reading,,,False,False,False,ENG3
+15,15,,5837265,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,,,False,False,False,ENG3
+15,15,,5837266,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,,,False,False,False,ENG3
+16,16,,5837267,2026-11-20T20:00:00Z,Barnsley,Sheffield Wednesday,,,False,False,False,ENG3
+16,16,,5837268,2026-11-21T12:30:00Z,Blackpool,Wigan Athletic,,,False,False,False,ENG3
+16,16,,5837278,2026-11-21T12:30:00Z,Reading,Bromley,,,False,False,False,ENG3
+16,16,,5837269,2026-11-21T15:00:00Z,Bradford City,Doncaster Rovers,,,False,False,False,ENG3
+16,16,,5837270,2026-11-21T15:00:00Z,Burton Albion,Luton Town,,,False,False,False,ENG3
+16,16,,5837271,2026-11-21T15:00:00Z,Cambridge United,Stockport County,,,False,False,False,ENG3
+16,16,,5837272,2026-11-21T15:00:00Z,Huddersfield Town,Leicester City,,,False,False,False,ENG3
+16,16,,5837273,2026-11-21T15:00:00Z,Leyton Orient,AFC Wimbledon,,,False,False,False,ENG3
+16,16,,5837274,2026-11-21T15:00:00Z,Mansfield Town,Milton Keynes Dons,,,False,False,False,ENG3
+16,16,,5837275,2026-11-21T15:00:00Z,Notts County,Stevenage,,,False,False,False,ENG3
+16,16,,5837276,2026-11-21T15:00:00Z,Oxford United,Wycombe Wanderers,,,False,False,False,ENG3
+16,16,,5837277,2026-11-21T15:00:00Z,Plymouth Argyle,Peterborough United,,,False,False,False,ENG3
+17,17,,5837281,2026-11-26T20:00:00Z,Doncaster Rovers,Huddersfield Town,,,False,False,False,ENG3
+17,17,,5837284,2026-11-28T12:30:00Z,Milton Keynes Dons,Notts County,,,False,False,False,ENG3
+17,17,,5837285,2026-11-28T12:30:00Z,Peterborough United,Cambridge United,,,False,False,False,ENG3
+17,17,,5837279,2026-11-28T15:00:00Z,AFC Wimbledon,Barnsley,,,False,False,False,ENG3
+17,17,,5837280,2026-11-28T15:00:00Z,Bromley,Burton Albion,,,False,False,False,ENG3
+17,17,,5837282,2026-11-28T15:00:00Z,Leicester City,Mansfield Town,,,False,False,False,ENG3
+17,17,,5837283,2026-11-28T15:00:00Z,Luton Town,Oxford United,,,False,False,False,ENG3
+17,17,,5837286,2026-11-28T15:00:00Z,Sheffield Wednesday,Reading,,,False,False,False,ENG3
+17,17,,5837287,2026-11-28T15:00:00Z,Stevenage,Blackpool,,,False,False,False,ENG3
+17,17,,5837288,2026-11-28T15:00:00Z,Stockport County,Leyton Orient,,,False,False,False,ENG3
+17,17,,5837289,2026-11-28T15:00:00Z,Wigan Athletic,Plymouth Argyle,,,False,False,False,ENG3
+17,17,,5837290,2026-11-28T15:00:00Z,Wycombe Wanderers,Bradford City,,,False,False,False,ENG3
+18,18,,5837291,2026-12-01T19:45:00Z,Barnsley,Wycombe Wanderers,,,False,False,False,ENG3
+18,18,,5837292,2026-12-01T19:45:00Z,Blackpool,Luton Town,,,False,False,False,ENG3
+18,18,,5837293,2026-12-01T19:45:00Z,Bradford City,Milton Keynes Dons,,,False,False,False,ENG3
+18,18,,5837294,2026-12-01T19:45:00Z,Burton Albion,Wigan Athletic,,,False,False,False,ENG3
+18,18,,5837295,2026-12-01T19:45:00Z,Cambridge United,Leicester City,,,False,False,False,ENG3
+18,18,,5837296,2026-12-01T19:45:00Z,Huddersfield Town,Stevenage,,,False,False,False,ENG3
+18,18,,5837297,2026-12-01T19:45:00Z,Leyton Orient,Peterborough United,,,False,False,False,ENG3
+18,18,,5837298,2026-12-01T19:45:00Z,Mansfield Town,Stockport County,,,False,False,False,ENG3
+18,18,,5837299,2026-12-01T19:45:00Z,Notts County,AFC Wimbledon,,,False,False,False,ENG3
+18,18,,5837300,2026-12-01T19:45:00Z,Oxford United,Sheffield Wednesday,,,False,False,False,ENG3
+18,18,,5837301,2026-12-01T19:45:00Z,Plymouth Argyle,Bromley,,,False,False,False,ENG3
+18,18,,5837302,2026-12-01T20:00:00Z,Reading,Doncaster Rovers,,,False,False,False,ENG3
+19,19,,5837307,2026-12-10T20:00:00Z,Leicester City,Sheffield Wednesday,,,False,False,False,ENG3
+19,19,,5837304,2026-12-12T12:30:00Z,Burton Albion,Reading,,,False,False,False,ENG3
+19,19,,5837314,2026-12-12T12:30:00Z,Stevenage,Stockport County,,,False,False,False,ENG3
+19,19,,5837303,2026-12-12T15:00:00Z,Bradford City,AFC Wimbledon,,,False,False,False,ENG3
+19,19,,5837305,2026-12-12T15:00:00Z,Doncaster Rovers,Bromley,,,False,False,False,ENG3
+19,19,,5837306,2026-12-12T15:00:00Z,Huddersfield Town,Leyton Orient,,,False,False,False,ENG3
+19,19,,5837308,2026-12-12T15:00:00Z,Luton Town,Wigan Athletic,,,False,False,False,ENG3
+19,19,,5837309,2026-12-12T15:00:00Z,Milton Keynes Dons,Cambridge United,,,False,False,False,ENG3
+19,19,,5837310,2026-12-12T15:00:00Z,Mansfield Town,Wycombe Wanderers,,,False,False,False,ENG3
+19,19,,5837311,2026-12-12T15:00:00Z,Notts County,Plymouth Argyle,,,False,False,False,ENG3
+19,19,,5837312,2026-12-12T15:00:00Z,Oxford United,Blackpool,,,False,False,False,ENG3
+19,19,,5837313,2026-12-12T15:00:00Z,Peterborough United,Barnsley,,,False,False,False,ENG3
+8,8,,5837173,2026-12-15T19:45:00Z,Doncaster Rovers,Oxford United,,,False,False,False,ENG3
+20,20,,5837319,2026-12-18T19:45:00Z,Cambridge United,Stevenage,,,False,False,False,ENG3
+20,20,,5837316,2026-12-19T12:30:00Z,Barnsley,Huddersfield Town,,,False,False,False,ENG3
+20,20,,5837323,2026-12-19T12:30:00Z,Sheffield Wednesday,Luton Town,,,False,False,False,ENG3
+20,20,,5837315,2026-12-19T15:00:00Z,AFC Wimbledon,Oxford United,,,False,False,False,ENG3
+20,20,,5837317,2026-12-19T15:00:00Z,Blackpool,Burton Albion,,,False,False,False,ENG3
+20,20,,5837318,2026-12-19T15:00:00Z,Bromley,Bradford City,,,False,False,False,ENG3
+20,20,,5837320,2026-12-19T15:00:00Z,Leyton Orient,Notts County,,,False,False,False,ENG3
+20,20,,5837321,2026-12-19T15:00:00Z,Plymouth Argyle,Mansfield Town,,,False,False,False,ENG3
+20,20,,5837322,2026-12-19T15:00:00Z,Reading,Leicester City,,,False,False,False,ENG3
+20,20,,5837324,2026-12-19T15:00:00Z,Stockport County,Milton Keynes Dons,,,False,False,False,ENG3
+20,20,,5837325,2026-12-19T15:00:00Z,Wigan Athletic,Peterborough United,,,False,False,False,ENG3
+20,20,,5837326,2026-12-19T15:00:00Z,Wycombe Wanderers,Doncaster Rovers,,,False,False,False,ENG3
+21,21,,5837327,2026-12-26T15:00:00Z,Bradford City,Stockport County,,,False,False,False,ENG3
+21,21,,5837328,2026-12-26T15:00:00Z,Burton Albion,Sheffield Wednesday,,,False,False,False,ENG3
+21,21,,5837329,2026-12-26T15:00:00Z,Doncaster Rovers,Wigan Athletic,,,False,False,False,ENG3
+21,21,,5837330,2026-12-26T15:00:00Z,Huddersfield Town,Blackpool,,,False,False,False,ENG3
+21,21,,5837331,2026-12-26T15:00:00Z,Leicester City,AFC Wimbledon,,,False,False,False,ENG3
+21,21,,5837332,2026-12-26T15:00:00Z,Luton Town,Bromley,,,False,False,False,ENG3
+21,21,,5837333,2026-12-26T15:00:00Z,Milton Keynes Dons,Leyton Orient,,,False,False,False,ENG3
+21,21,,5837334,2026-12-26T15:00:00Z,Mansfield Town,Barnsley,,,False,False,False,ENG3
+21,21,,5837335,2026-12-26T15:00:00Z,Notts County,Cambridge United,,,False,False,False,ENG3
+21,21,,5837336,2026-12-26T15:00:00Z,Oxford United,Plymouth Argyle,,,False,False,False,ENG3
+21,21,,5837337,2026-12-26T15:00:00Z,Peterborough United,Wycombe Wanderers,,,False,False,False,ENG3
+21,21,,5837338,2026-12-26T15:00:00Z,Stevenage,Reading,,,False,False,False,ENG3
+22,22,,5837339,2026-12-29T19:45:00Z,AFC Wimbledon,Luton Town,,,False,False,False,ENG3
+22,22,,5837340,2026-12-29T19:45:00Z,Barnsley,Burton Albion,,,False,False,False,ENG3
+22,22,,5837341,2026-12-29T19:45:00Z,Blackpool,Bradford City,,,False,False,False,ENG3
+22,22,,5837342,2026-12-29T19:45:00Z,Bromley,Oxford United,,,False,False,False,ENG3
+22,22,,5837343,2026-12-29T19:45:00Z,Cambridge United,Doncaster Rovers,,,False,False,False,ENG3
+22,22,,5837344,2026-12-29T19:45:00Z,Leyton Orient,Leicester City,,,False,False,False,ENG3
+22,22,,5837345,2026-12-29T19:45:00Z,Plymouth Argyle,Milton Keynes Dons,,,False,False,False,ENG3
+22,22,,5837346,2026-12-29T19:45:00Z,Sheffield Wednesday,Mansfield Town,,,False,False,False,ENG3
+22,22,,5837347,2026-12-29T19:45:00Z,Stockport County,Huddersfield Town,,,False,False,False,ENG3
+22,22,,5837348,2026-12-29T19:45:00Z,Wigan Athletic,Notts County,,,False,False,False,ENG3
+22,22,,5837349,2026-12-29T19:45:00Z,Wycombe Wanderers,Stevenage,,,False,False,False,ENG3
+22,22,,5837350,2026-12-29T20:00:00Z,Reading,Peterborough United,,,False,False,False,ENG3
+23,23,,5837351,2027-01-01T15:00:00Z,AFC Wimbledon,Peterborough United,,,False,False,False,ENG3
+23,23,,5837352,2027-01-01T15:00:00Z,Barnsley,Notts County,,,False,False,False,ENG3
+23,23,,5837353,2027-01-01T15:00:00Z,Blackpool,Doncaster Rovers,,,False,False,False,ENG3
+23,23,,5837354,2027-01-01T15:00:00Z,Bromley,Stevenage,,,False,False,False,ENG3
+23,23,,5837356,2027-01-01T15:00:00Z,Leyton Orient,Oxford United,,,False,False,False,ENG3
+23,23,,5837358,2027-01-01T15:00:00Z,Reading,Milton Keynes Dons,,,False,False,False,ENG3
+23,23,,5837359,2027-01-01T15:00:00Z,Sheffield Wednesday,Huddersfield Town,,,False,False,False,ENG3
+23,23,,5837361,2027-01-01T15:00:00Z,Wigan Athletic,Bradford City,,,False,False,False,ENG3
+23,23,,5837362,2027-01-01T15:00:00Z,Wycombe Wanderers,Leicester City,,,False,False,False,ENG3
+23,23,,5837355,2027-01-02T15:00:00Z,Cambridge United,Mansfield Town,,,False,False,False,ENG3
+23,23,,5837357,2027-01-02T15:00:00Z,Plymouth Argyle,Luton Town,,,False,False,False,ENG3
+23,23,,5837360,2027-01-02T15:00:00Z,Stockport County,Burton Albion,,,False,False,False,ENG3
+24,24,,5837364,2027-01-08T20:00:00Z,Burton Albion,Blackpool,,,False,False,False,ENG3
+24,24,,5837372,2027-01-09T12:30:00Z,Oxford United,AFC Wimbledon,,,False,False,False,ENG3
+24,24,,5837374,2027-01-09T12:30:00Z,Stevenage,Cambridge United,,,False,False,False,ENG3
+24,24,,5837363,2027-01-09T15:00:00Z,Bradford City,Bromley,,,False,False,False,ENG3
+24,24,,5837365,2027-01-09T15:00:00Z,Doncaster Rovers,Wycombe Wanderers,,,False,False,False,ENG3
+24,24,,5837366,2027-01-09T15:00:00Z,Huddersfield Town,Barnsley,,,False,False,False,ENG3
+24,24,,5837367,2027-01-09T15:00:00Z,Leicester City,Reading,,,False,False,False,ENG3
+24,24,,5837368,2027-01-09T15:00:00Z,Luton Town,Sheffield Wednesday,,,False,False,False,ENG3
+24,24,,5837369,2027-01-09T15:00:00Z,Milton Keynes Dons,Stockport County,,,False,False,False,ENG3
+24,24,,5837370,2027-01-09T15:00:00Z,Mansfield Town,Plymouth Argyle,,,False,False,False,ENG3
+24,24,,5837371,2027-01-09T15:00:00Z,Notts County,Leyton Orient,,,False,False,False,ENG3
+24,24,,5837373,2027-01-09T15:00:00Z,Peterborough United,Wigan Athletic,,,False,False,False,ENG3
+25,25,,5837375,2027-01-16T15:00:00Z,AFC Wimbledon,Sheffield Wednesday,,,False,False,False,ENG3
+25,25,,5837376,2027-01-16T15:00:00Z,Blackpool,Leyton Orient,,,False,False,False,ENG3
+25,25,,5837377,2027-01-16T15:00:00Z,Bromley,Stockport County,,,False,False,False,ENG3
+25,25,,5837378,2027-01-16T15:00:00Z,Burton Albion,Peterborough United,,,False,False,False,ENG3
+25,25,,5837379,2027-01-16T15:00:00Z,Cambridge United,Barnsley,,,False,False,False,ENG3
+25,25,,5837380,2027-01-16T15:00:00Z,Doncaster Rovers,Leicester City,,,False,False,False,ENG3
+25,25,,5837381,2027-01-16T15:00:00Z,Huddersfield Town,Plymouth Argyle,,,False,False,False,ENG3
+25,25,,5837382,2027-01-16T15:00:00Z,Luton Town,Milton Keynes Dons,,,False,False,False,ENG3
+25,25,,5837383,2027-01-16T15:00:00Z,Notts County,Wycombe Wanderers,,,False,False,False,ENG3
+25,25,,5837384,2027-01-16T15:00:00Z,Oxford United,Mansfield Town,,,False,False,False,ENG3
+25,25,,5837385,2027-01-16T15:00:00Z,Reading,Wigan Athletic,,,False,False,False,ENG3
+25,25,,5837386,2027-01-16T15:00:00Z,Stevenage,Bradford City,,,False,False,False,ENG3
+26,26,,5837387,2027-01-19T19:45:00Z,Barnsley,Luton Town,,,False,False,False,ENG3
+26,26,,5837388,2027-01-19T19:45:00Z,Bradford City,Burton Albion,,,False,False,False,ENG3
+26,26,,5837389,2027-01-19T19:45:00Z,Leicester City,Bromley,,,False,False,False,ENG3
+26,26,,5837390,2027-01-19T19:45:00Z,Leyton Orient,Reading,,,False,False,False,ENG3
+26,26,,5837391,2027-01-19T19:45:00Z,Milton Keynes Dons,Blackpool,,,False,False,False,ENG3
+26,26,,5837392,2027-01-19T19:45:00Z,Mansfield Town,AFC Wimbledon,,,False,False,False,ENG3
+26,26,,5837393,2027-01-19T19:45:00Z,Peterborough United,Huddersfield Town,,,False,False,False,ENG3
+26,26,,5837394,2027-01-19T19:45:00Z,Plymouth Argyle,Stevenage,,,False,False,False,ENG3
+26,26,,5837395,2027-01-19T19:45:00Z,Sheffield Wednesday,Notts County,,,False,False,False,ENG3
+26,26,,5837396,2027-01-19T19:45:00Z,Stockport County,Doncaster Rovers,,,False,False,False,ENG3
+26,26,,5837397,2027-01-19T19:45:00Z,Wigan Athletic,Oxford United,,,False,False,False,ENG3
+26,26,,5837398,2027-01-19T19:45:00Z,Wycombe Wanderers,Cambridge United,,,False,False,False,ENG3
+27,27,,5837399,2027-01-23T15:00:00Z,Barnsley,Reading,,,False,False,False,ENG3
+27,27,,5837400,2027-01-23T15:00:00Z,Bradford City,Oxford United,,,False,False,False,ENG3
+27,27,,5837401,2027-01-23T15:00:00Z,Leicester City,Luton Town,,,False,False,False,ENG3
+27,27,,5837402,2027-01-23T15:00:00Z,Leyton Orient,Burton Albion,,,False,False,False,ENG3
+27,27,,5837403,2027-01-23T15:00:00Z,Milton Keynes Dons,Stevenage,,,False,False,False,ENG3
+27,27,,5837404,2027-01-23T15:00:00Z,Mansfield Town,Blackpool,,,False,False,False,ENG3
+27,27,,5837405,2027-01-23T15:00:00Z,Peterborough United,Bromley,,,False,False,False,ENG3
+27,27,,5837406,2027-01-23T15:00:00Z,Plymouth Argyle,Cambridge United,,,False,False,False,ENG3
+27,27,,5837407,2027-01-23T15:00:00Z,Sheffield Wednesday,Doncaster Rovers,,,False,False,False,ENG3
+27,27,,5837408,2027-01-23T15:00:00Z,Stockport County,Notts County,,,False,False,False,ENG3
+27,27,,5837409,2027-01-23T15:00:00Z,Wigan Athletic,Huddersfield Town,,,False,False,False,ENG3
+27,27,,5837410,2027-01-23T15:00:00Z,Wycombe Wanderers,AFC Wimbledon,,,False,False,False,ENG3
+28,28,,5837417,2027-01-30T12:30:00Z,Huddersfield Town,Bradford City,,,False,False,False,ENG3
+28,28,,5837411,2027-01-30T15:00:00Z,AFC Wimbledon,Stockport County,,,False,False,False,ENG3
+28,28,,5837412,2027-01-30T15:00:00Z,Blackpool,Sheffield Wednesday,,,False,False,False,ENG3
+28,28,,5837413,2027-01-30T15:00:00Z,Bromley,Wigan Athletic,,,False,False,False,ENG3
+28,28,,5837414,2027-01-30T15:00:00Z,Burton Albion,Wycombe Wanderers,,,False,False,False,ENG3
+28,28,,5837415,2027-01-30T15:00:00Z,Cambridge United,Leyton Orient,,,False,False,False,ENG3
+28,28,,5837416,2027-01-30T15:00:00Z,Doncaster Rovers,Milton Keynes Dons,,,False,False,False,ENG3
+28,28,,5837418,2027-01-30T15:00:00Z,Luton Town,Peterborough United,,,False,False,False,ENG3
+28,28,,5837419,2027-01-30T15:00:00Z,Notts County,Mansfield Town,,,False,False,False,ENG3
+28,28,,5837640,2027-01-30T15:00:00Z,Oxford United,Barnsley,,,False,False,False,ENG3
+28,28,,5837641,2027-01-30T15:00:00Z,Reading,Plymouth Argyle,,,False,False,False,ENG3
+28,28,,5837642,2027-01-30T15:00:00Z,Stevenage,Leicester City,,,False,False,False,ENG3
+29,29,,5837643,2027-02-06T15:00:00Z,Barnsley,Leyton Orient,,,False,False,False,ENG3
+29,29,,5837644,2027-02-06T15:00:00Z,Bradford City,Plymouth Argyle,,,False,False,False,ENG3
+29,29,,5837645,2027-02-06T15:00:00Z,Bromley,Sheffield Wednesday,,,False,False,False,ENG3
+29,29,,5837646,2027-02-06T15:00:00Z,Burton Albion,Notts County,,,False,False,False,ENG3
+29,29,,5837647,2027-02-06T15:00:00Z,Doncaster Rovers,Stevenage,,,False,False,False,ENG3
+29,29,,5837648,2027-02-06T15:00:00Z,Huddersfield Town,Cambridge United,,,False,False,False,ENG3
+29,29,,5837649,2027-02-06T15:00:00Z,Leicester City,Milton Keynes Dons,,,False,False,False,ENG3
+29,29,,5837650,2027-02-06T15:00:00Z,Luton Town,Mansfield Town,,,False,False,False,ENG3
+29,29,,5837651,2027-02-06T15:00:00Z,Peterborough United,Blackpool,,,False,False,False,ENG3
+29,29,,5837652,2027-02-06T15:00:00Z,Reading,Oxford United,,,False,False,False,ENG3
+29,29,,5837653,2027-02-06T15:00:00Z,Wigan Athletic,AFC Wimbledon,,,False,False,False,ENG3
+29,29,,5837654,2027-02-06T15:00:00Z,Wycombe Wanderers,Stockport County,,,False,False,False,ENG3
+30,30,,5837655,2027-02-09T19:45:00Z,AFC Wimbledon,Burton Albion,,,False,False,False,ENG3
+30,30,,5837656,2027-02-09T19:45:00Z,Blackpool,Barnsley,,,False,False,False,ENG3
+30,30,,5837657,2027-02-09T19:45:00Z,Cambridge United,Bradford City,,,False,False,False,ENG3
+30,30,,5837658,2027-02-09T19:45:00Z,Leyton Orient,Bromley,,,False,False,False,ENG3
+30,30,,5837659,2027-02-09T19:45:00Z,Milton Keynes Dons,Wigan Athletic,,,False,False,False,ENG3
+30,30,,5837660,2027-02-09T19:45:00Z,Mansfield Town,Reading,,,False,False,False,ENG3
+30,30,,5837661,2027-02-09T19:45:00Z,Notts County,Doncaster Rovers,,,False,False,False,ENG3
+30,30,,5837662,2027-02-09T19:45:00Z,Oxford United,Huddersfield Town,,,False,False,False,ENG3
+30,30,,5837663,2027-02-09T19:45:00Z,Plymouth Argyle,Leicester City,,,False,False,False,ENG3
+30,30,,5837664,2027-02-09T19:45:00Z,Sheffield Wednesday,Wycombe Wanderers,,,False,False,False,ENG3
+30,30,,5837665,2027-02-09T19:45:00Z,Stevenage,Peterborough United,,,False,False,False,ENG3
+30,30,,5837666,2027-02-09T19:45:00Z,Stockport County,Luton Town,,,False,False,False,ENG3
+31,31,,5837667,2027-02-13T15:00:00Z,AFC Wimbledon,Bromley,,,False,False,False,ENG3
+31,31,,5837668,2027-02-13T15:00:00Z,Blackpool,Reading,,,False,False,False,ENG3
+31,31,,5837669,2027-02-13T15:00:00Z,Cambridge United,Burton Albion,,,False,False,False,ENG3
+31,31,,5837670,2027-02-13T15:00:00Z,Leyton Orient,Luton Town,,,False,False,False,ENG3
+31,31,,5837671,2027-02-13T15:00:00Z,Milton Keynes Dons,Wycombe Wanderers,,,False,False,False,ENG3
+31,31,,5837672,2027-02-13T15:00:00Z,Mansfield Town,Bradford City,,,False,False,False,ENG3
+31,31,,5837673,2027-02-13T15:00:00Z,Notts County,Huddersfield Town,,,False,False,False,ENG3
+31,31,,5837674,2027-02-13T15:00:00Z,Oxford United,Leicester City,,,False,False,False,ENG3
+31,31,,5837675,2027-02-13T15:00:00Z,Plymouth Argyle,Doncaster Rovers,,,False,False,False,ENG3
+31,31,,5837676,2027-02-13T15:00:00Z,Sheffield Wednesday,Peterborough United,,,False,False,False,ENG3
+31,31,,5837677,2027-02-13T15:00:00Z,Stevenage,Barnsley,,,False,False,False,ENG3
+31,31,,5837678,2027-02-13T15:00:00Z,Stockport County,Wigan Athletic,,,False,False,False,ENG3
+32,32,,5837679,2027-02-20T15:00:00Z,Barnsley,Plymouth Argyle,,,False,False,False,ENG3
+32,32,,5837680,2027-02-20T15:00:00Z,Bradford City,Notts County,,,False,False,False,ENG3
+32,32,,5837681,2027-02-20T15:00:00Z,Bromley,Blackpool,,,False,False,False,ENG3
+32,32,,5837682,2027-02-20T15:00:00Z,Burton Albion,Oxford United,,,False,False,False,ENG3
+32,32,,5837683,2027-02-20T15:00:00Z,Doncaster Rovers,AFC Wimbledon,,,False,False,False,ENG3
+32,32,,5837684,2027-02-20T15:00:00Z,Huddersfield Town,Mansfield Town,,,False,False,False,ENG3
+32,32,,5837685,2027-02-20T15:00:00Z,Leicester City,Stockport County,,,False,False,False,ENG3
+32,32,,5837686,2027-02-20T15:00:00Z,Luton Town,Stevenage,,,False,False,False,ENG3
+32,32,,5837687,2027-02-20T15:00:00Z,Peterborough United,Milton Keynes Dons,,,False,False,False,ENG3
+32,32,,5837688,2027-02-20T15:00:00Z,Reading,Cambridge United,,,False,False,False,ENG3
+32,32,,5837689,2027-02-20T15:00:00Z,Wigan Athletic,Sheffield Wednesday,,,False,False,False,ENG3
+32,32,,5837690,2027-02-20T15:00:00Z,Wycombe Wanderers,Leyton Orient,,,False,False,False,ENG3
+33,33,,5837695,2027-02-27T12:30:00Z,Cambridge United,Peterborough United,,,False,False,False,ENG3
+33,33,,5837691,2027-02-27T15:00:00Z,Barnsley,Wigan Athletic,,,False,False,False,ENG3
+33,33,,5837692,2027-02-27T15:00:00Z,Blackpool,AFC Wimbledon,,,False,False,False,ENG3
+33,33,,5837693,2027-02-27T15:00:00Z,Bradford City,Leicester City,,,False,False,False,ENG3
+33,33,,5837694,2027-02-27T15:00:00Z,Burton Albion,Milton Keynes Dons,,,False,False,False,ENG3
+33,33,,5837696,2027-02-27T15:00:00Z,Huddersfield Town,Wycombe Wanderers,,,False,False,False,ENG3
+33,33,,5837697,2027-02-27T15:00:00Z,Leyton Orient,Doncaster Rovers,,,False,False,False,ENG3
+33,33,,5837698,2027-02-27T15:00:00Z,Mansfield Town,Stevenage,,,False,False,False,ENG3
+33,33,,5837699,2027-02-27T15:00:00Z,Notts County,Bromley,,,False,False,False,ENG3
+33,33,,5837700,2027-02-27T15:00:00Z,Oxford United,Luton Town,,,False,False,False,ENG3
+33,33,,5837701,2027-02-27T15:00:00Z,Plymouth Argyle,Sheffield Wednesday,,,False,False,False,ENG3
+33,33,,5837702,2027-02-27T15:00:00Z,Reading,Stockport County,,,False,False,False,ENG3
+34,34,,5837703,2027-03-06T15:00:00Z,AFC Wimbledon,Huddersfield Town,,,False,False,False,ENG3
+34,34,,5837704,2027-03-06T15:00:00Z,Bromley,Barnsley,,,False,False,False,ENG3
+34,34,,5837705,2027-03-06T15:00:00Z,Doncaster Rovers,Mansfield Town,,,False,False,False,ENG3
+34,34,,5837706,2027-03-06T15:00:00Z,Leicester City,Notts County,,,False,False,False,ENG3
+34,34,,5837707,2027-03-06T15:00:00Z,Luton Town,Reading,,,False,False,False,ENG3
+34,34,,5837708,2027-03-06T15:00:00Z,Milton Keynes Dons,Oxford United,,,False,False,False,ENG3
+34,34,,5837709,2027-03-06T15:00:00Z,Peterborough United,Bradford City,,,False,False,False,ENG3
+34,34,,5837710,2027-03-06T15:00:00Z,Sheffield Wednesday,Leyton Orient,,,False,False,False,ENG3
+34,34,,5837711,2027-03-06T15:00:00Z,Stevenage,Burton Albion,,,False,False,False,ENG3
+34,34,,5837712,2027-03-06T15:00:00Z,Stockport County,Plymouth Argyle,,,False,False,False,ENG3
+34,34,,5837713,2027-03-06T15:00:00Z,Wigan Athletic,Cambridge United,,,False,False,False,ENG3
+34,34,,5837714,2027-03-06T15:00:00Z,Wycombe Wanderers,Blackpool,,,False,False,False,ENG3
+35,35,,5837715,2027-03-13T15:00:00Z,Barnsley,Doncaster Rovers,,,False,False,False,ENG3
+35,35,,5837716,2027-03-13T15:00:00Z,Blackpool,Stockport County,,,False,False,False,ENG3
+35,35,,5837717,2027-03-13T15:00:00Z,Bradford City,Sheffield Wednesday,,,False,False,False,ENG3
+35,35,,5837718,2027-03-13T15:00:00Z,Burton Albion,Leicester City,,,False,False,False,ENG3
+35,35,,5837719,2027-03-13T15:00:00Z,Cambridge United,Bromley,,,False,False,False,ENG3
+35,35,,5837720,2027-03-13T15:00:00Z,Huddersfield Town,Milton Keynes Dons,,,False,False,False,ENG3
+35,35,,5837721,2027-03-13T15:00:00Z,Leyton Orient,Wigan Athletic,,,False,False,False,ENG3
+35,35,,5837722,2027-03-13T15:00:00Z,Mansfield Town,Peterborough United,,,False,False,False,ENG3
+35,35,,5837723,2027-03-13T15:00:00Z,Notts County,Luton Town,,,False,False,False,ENG3
+35,35,,5837724,2027-03-13T15:00:00Z,Oxford United,Stevenage,,,False,False,False,ENG3
+35,35,,5837725,2027-03-13T15:00:00Z,Plymouth Argyle,Wycombe Wanderers,,,False,False,False,ENG3
+35,35,,5837726,2027-03-13T15:00:00Z,Reading,AFC Wimbledon,,,False,False,False,ENG3
+36,36,,5837727,2027-03-20T15:00:00Z,AFC Wimbledon,Leyton Orient,,,False,False,False,ENG3
+36,36,,5837728,2027-03-20T15:00:00Z,Bromley,Reading,,,False,False,False,ENG3
+36,36,,5837729,2027-03-20T15:00:00Z,Doncaster Rovers,Bradford City,,,False,False,False,ENG3
+36,36,,5837730,2027-03-20T15:00:00Z,Leicester City,Huddersfield Town,,,False,False,False,ENG3
+36,36,,5837731,2027-03-20T15:00:00Z,Luton Town,Burton Albion,,,False,False,False,ENG3
+36,36,,5837732,2027-03-20T15:00:00Z,Milton Keynes Dons,Mansfield Town,,,False,False,False,ENG3
+36,36,,5837733,2027-03-20T15:00:00Z,Peterborough United,Plymouth Argyle,,,False,False,False,ENG3
+36,36,,5837734,2027-03-20T15:00:00Z,Sheffield Wednesday,Barnsley,,,False,False,False,ENG3
+36,36,,5837735,2027-03-20T15:00:00Z,Stevenage,Notts County,,,False,False,False,ENG3
+36,36,,5837736,2027-03-20T15:00:00Z,Stockport County,Cambridge United,,,False,False,False,ENG3
+36,36,,5837737,2027-03-20T15:00:00Z,Wigan Athletic,Blackpool,,,False,False,False,ENG3
+36,36,,5837738,2027-03-20T15:00:00Z,Wycombe Wanderers,Oxford United,,,False,False,False,ENG3
+37,37,,5837739,2027-03-26T15:00:00Z,Bradford City,Wigan Athletic,,,False,False,False,ENG3
+37,37,,5837740,2027-03-26T15:00:00Z,Burton Albion,Stockport County,,,False,False,False,ENG3
+37,37,,5837741,2027-03-26T15:00:00Z,Doncaster Rovers,Blackpool,,,False,False,False,ENG3
+37,37,,5837742,2027-03-26T15:00:00Z,Huddersfield Town,Reading,,,False,False,False,ENG3
+37,37,,5837743,2027-03-26T15:00:00Z,Leicester City,Wycombe Wanderers,,,False,False,False,ENG3
+37,37,,5837744,2027-03-26T15:00:00Z,Luton Town,Plymouth Argyle,,,False,False,False,ENG3
+37,37,,5837745,2027-03-26T15:00:00Z,Milton Keynes Dons,Sheffield Wednesday,,,False,False,False,ENG3
+37,37,,5837746,2027-03-26T15:00:00Z,Mansfield Town,Cambridge United,,,False,False,False,ENG3
+37,37,,5837747,2027-03-26T15:00:00Z,Notts County,Barnsley,,,False,False,False,ENG3
+37,37,,5837748,2027-03-26T15:00:00Z,Oxford United,Leyton Orient,,,False,False,False,ENG3
+37,37,,5837749,2027-03-26T15:00:00Z,Peterborough United,AFC Wimbledon,,,False,False,False,ENG3
+37,37,,5837750,2027-03-26T15:00:00Z,Stevenage,Bromley,,,False,False,False,ENG3
+38,38,,5837751,2027-03-29T14:00:00Z,AFC Wimbledon,Leicester City,,,False,False,False,ENG3
+38,38,,5837752,2027-03-29T14:00:00Z,Barnsley,Mansfield Town,,,False,False,False,ENG3
+38,38,,5837753,2027-03-29T14:00:00Z,Blackpool,Oxford United,,,False,False,False,ENG3
+38,38,,5837754,2027-03-29T14:00:00Z,Bromley,Doncaster Rovers,,,False,False,False,ENG3
+38,38,,5837755,2027-03-29T14:00:00Z,Cambridge United,Milton Keynes Dons,,,False,False,False,ENG3
+38,38,,5837756,2027-03-29T14:00:00Z,Leyton Orient,Huddersfield Town,,,False,False,False,ENG3
+38,38,,5837757,2027-03-29T14:00:00Z,Plymouth Argyle,Notts County,,,False,False,False,ENG3
+38,38,,5837758,2027-03-29T14:00:00Z,Reading,Stevenage,,,False,False,False,ENG3
+38,38,,5837759,2027-03-29T14:00:00Z,Sheffield Wednesday,Burton Albion,,,False,False,False,ENG3
+38,38,,5837760,2027-03-29T14:00:00Z,Stockport County,Bradford City,,,False,False,False,ENG3
+38,38,,5837761,2027-03-29T14:00:00Z,Wigan Athletic,Luton Town,,,False,False,False,ENG3
+38,38,,5837762,2027-03-29T14:00:00Z,Wycombe Wanderers,Peterborough United,,,False,False,False,ENG3
+39,39,,5837763,2027-04-03T14:00:00Z,Bradford City,Blackpool,,,False,False,False,ENG3
+39,39,,5837764,2027-04-03T14:00:00Z,Burton Albion,Barnsley,,,False,False,False,ENG3
+39,39,,5837765,2027-04-03T14:00:00Z,Doncaster Rovers,Cambridge United,,,False,False,False,ENG3
+39,39,,5837766,2027-04-03T14:00:00Z,Huddersfield Town,Stockport County,,,False,False,False,ENG3
+39,39,,5837767,2027-04-03T14:00:00Z,Leicester City,Leyton Orient,,,False,False,False,ENG3
+39,39,,5837768,2027-04-03T14:00:00Z,Luton Town,AFC Wimbledon,,,False,False,False,ENG3
+39,39,,5837769,2027-04-03T14:00:00Z,Milton Keynes Dons,Plymouth Argyle,,,False,False,False,ENG3
+39,39,,5837770,2027-04-03T14:00:00Z,Mansfield Town,Sheffield Wednesday,,,False,False,False,ENG3
+39,39,,5837771,2027-04-03T14:00:00Z,Notts County,Wigan Athletic,,,False,False,False,ENG3
+39,39,,5837772,2027-04-03T14:00:00Z,Oxford United,Bromley,,,False,False,False,ENG3
+39,39,,5837773,2027-04-03T14:00:00Z,Peterborough United,Reading,,,False,False,False,ENG3
+39,39,,5837774,2027-04-03T14:00:00Z,Stevenage,Wycombe Wanderers,,,False,False,False,ENG3
+40,40,,5837775,2027-04-10T14:00:00Z,AFC Wimbledon,Bradford City,,,False,False,False,ENG3
+40,40,,5837776,2027-04-10T14:00:00Z,Barnsley,Peterborough United,,,False,False,False,ENG3
+40,40,,5837777,2027-04-10T14:00:00Z,Blackpool,Huddersfield Town,,,False,False,False,ENG3
+40,40,,5837778,2027-04-10T14:00:00Z,Bromley,Luton Town,,,False,False,False,ENG3
+40,40,,5837779,2027-04-10T14:00:00Z,Cambridge United,Notts County,,,False,False,False,ENG3
+40,40,,5837780,2027-04-10T14:00:00Z,Leyton Orient,Milton Keynes Dons,,,False,False,False,ENG3
+40,40,,5837781,2027-04-10T14:00:00Z,Plymouth Argyle,Oxford United,,,False,False,False,ENG3
+40,40,,5837782,2027-04-10T14:00:00Z,Reading,Burton Albion,,,False,False,False,ENG3
+40,40,,5837783,2027-04-10T14:00:00Z,Sheffield Wednesday,Leicester City,,,False,False,False,ENG3
+40,40,,5837784,2027-04-10T14:00:00Z,Stockport County,Stevenage,,,False,False,False,ENG3
+40,40,,5837785,2027-04-10T14:00:00Z,Wigan Athletic,Doncaster Rovers,,,False,False,False,ENG3
+40,40,,5837786,2027-04-10T14:00:00Z,Wycombe Wanderers,Mansfield Town,,,False,False,False,ENG3
+41,41,,5837787,2027-04-13T18:45:00Z,AFC Wimbledon,Cambridge United,,,False,False,False,ENG3
+41,41,,5837788,2027-04-13T18:45:00Z,Barnsley,Bradford City,,,False,False,False,ENG3
+41,41,,5837789,2027-04-13T18:45:00Z,Blackpool,Notts County,,,False,False,False,ENG3
+41,41,,5837790,2027-04-13T18:45:00Z,Bromley,Milton Keynes Dons,,,False,False,False,ENG3
+41,41,,5837791,2027-04-13T18:45:00Z,Burton Albion,Plymouth Argyle,,,False,False,False,ENG3
+41,41,,5837792,2027-04-13T18:45:00Z,Leyton Orient,Mansfield Town,,,False,False,False,ENG3
+41,41,,5837793,2027-04-13T18:45:00Z,Luton Town,Huddersfield Town,,,False,False,False,ENG3
+41,41,,5837794,2027-04-13T18:45:00Z,Oxford United,Doncaster Rovers,,,False,False,False,ENG3
+41,41,,5837795,2027-04-13T18:45:00Z,Peterborough United,Stockport County,,,False,False,False,ENG3
+41,41,,5837796,2027-04-13T18:45:00Z,Sheffield Wednesday,Stevenage,,,False,False,False,ENG3
+41,41,,5837797,2027-04-13T18:45:00Z,Wigan Athletic,Leicester City,,,False,False,False,ENG3
+41,41,,5837798,2027-04-13T19:00:00Z,Reading,Wycombe Wanderers,,,False,False,False,ENG3
+42,42,,5837804,2027-04-17T11:30:00Z,Milton Keynes Dons,AFC Wimbledon,,,False,False,False,ENG3
+42,42,,5837799,2027-04-17T14:00:00Z,Bradford City,Luton Town,,,False,False,False,ENG3
+42,42,,5837800,2027-04-17T14:00:00Z,Cambridge United,Oxford United,,,False,False,False,ENG3
+42,42,,5837801,2027-04-17T14:00:00Z,Doncaster Rovers,Peterborough United,,,False,False,False,ENG3
+42,42,,5837802,2027-04-17T14:00:00Z,Huddersfield Town,Bromley,,,False,False,False,ENG3
+42,42,,5837803,2027-04-17T14:00:00Z,Leicester City,Barnsley,,,False,False,False,ENG3
+42,42,,5837805,2027-04-17T14:00:00Z,Mansfield Town,Burton Albion,,,False,False,False,ENG3
+42,42,,5837806,2027-04-17T14:00:00Z,Notts County,Reading,,,False,False,False,ENG3
+42,42,,5837807,2027-04-17T14:00:00Z,Plymouth Argyle,Blackpool,,,False,False,False,ENG3
+42,42,,5837808,2027-04-17T14:00:00Z,Stevenage,Leyton Orient,,,False,False,False,ENG3
+42,42,,5837809,2027-04-17T14:00:00Z,Stockport County,Sheffield Wednesday,,,False,False,False,ENG3
+42,42,,5837810,2027-04-17T14:00:00Z,Wycombe Wanderers,Wigan Athletic,,,False,False,False,ENG3
+43,43,,5837811,2027-04-24T14:00:00Z,AFC Wimbledon,Plymouth Argyle,,,False,False,False,ENG3
+43,43,,5837812,2027-04-24T14:00:00Z,Barnsley,Stockport County,,,False,False,False,ENG3
+43,43,,5837813,2027-04-24T14:00:00Z,Blackpool,Cambridge United,,,False,False,False,ENG3
+43,43,,5837814,2027-04-24T14:00:00Z,Bromley,Mansfield Town,,,False,False,False,ENG3
+43,43,,5837815,2027-04-24T14:00:00Z,Burton Albion,Doncaster Rovers,,,False,False,False,ENG3
+43,43,,5837816,2027-04-24T14:00:00Z,Leyton Orient,Bradford City,,,False,False,False,ENG3
+43,43,,5837817,2027-04-24T14:00:00Z,Luton Town,Wycombe Wanderers,,,False,False,False,ENG3
+43,43,,5837818,2027-04-24T14:00:00Z,Oxford United,Notts County,,,False,False,False,ENG3
+43,43,,5837819,2027-04-24T14:00:00Z,Peterborough United,Leicester City,,,False,False,False,ENG3
+43,43,,5837820,2027-04-24T14:00:00Z,Reading,Huddersfield Town,,,False,False,False,ENG3
+43,43,,5837821,2027-04-24T14:00:00Z,Sheffield Wednesday,Milton Keynes Dons,,,False,False,False,ENG3
+43,43,,5837822,2027-04-24T14:00:00Z,Wigan Athletic,Stevenage,,,False,False,False,ENG3
+44,44,,5837823,2027-04-27T18:45:00Z,Bradford City,Reading,,,False,False,False,ENG3
+44,44,,5837824,2027-04-27T18:45:00Z,Cambridge United,Sheffield Wednesday,,,False,False,False,ENG3
+44,44,,5837825,2027-04-27T18:45:00Z,Doncaster Rovers,Luton Town,,,False,False,False,ENG3
+44,44,,5837826,2027-04-27T18:45:00Z,Huddersfield Town,Burton Albion,,,False,False,False,ENG3
+44,44,,5837827,2027-04-27T18:45:00Z,Leicester City,Blackpool,,,False,False,False,ENG3
+44,44,,5837828,2027-04-27T18:45:00Z,Milton Keynes Dons,Barnsley,,,False,False,False,ENG3
+44,44,,5837829,2027-04-27T18:45:00Z,Mansfield Town,Wigan Athletic,,,False,False,False,ENG3
+44,44,,5837830,2027-04-27T18:45:00Z,Notts County,Peterborough United,,,False,False,False,ENG3
+44,44,,5837831,2027-04-27T18:45:00Z,Plymouth Argyle,Leyton Orient,,,False,False,False,ENG3
+44,44,,5837832,2027-04-27T18:45:00Z,Stevenage,AFC Wimbledon,,,False,False,False,ENG3
+44,44,,5837833,2027-04-27T18:45:00Z,Stockport County,Oxford United,,,False,False,False,ENG3
+44,44,,5837834,2027-04-27T18:45:00Z,Wycombe Wanderers,Bromley,,,False,False,False,ENG3
+45,45,,5837835,2027-05-01T14:00:00Z,Barnsley,AFC Wimbledon,,,False,False,False,ENG3
+45,45,,5837836,2027-05-01T14:00:00Z,Blackpool,Stevenage,,,False,False,False,ENG3
+45,45,,5837837,2027-05-01T14:00:00Z,Bradford City,Wycombe Wanderers,,,False,False,False,ENG3
+45,45,,5837838,2027-05-01T14:00:00Z,Burton Albion,Bromley,,,False,False,False,ENG3
+45,45,,5837839,2027-05-01T14:00:00Z,Cambridge United,Luton Town,,,False,False,False,ENG3
+45,45,,5837840,2027-05-01T14:00:00Z,Huddersfield Town,Doncaster Rovers,,,False,False,False,ENG3
+45,45,,5837841,2027-05-01T14:00:00Z,Leyton Orient,Stockport County,,,False,False,False,ENG3
+45,45,,5837842,2027-05-01T14:00:00Z,Mansfield Town,Leicester City,,,False,False,False,ENG3
+45,45,,5837843,2027-05-01T14:00:00Z,Notts County,Milton Keynes Dons,,,False,False,False,ENG3
+45,45,,5837844,2027-05-01T14:00:00Z,Oxford United,Peterborough United,,,False,False,False,ENG3
+45,45,,5837845,2027-05-01T14:00:00Z,Plymouth Argyle,Wigan Athletic,,,False,False,False,ENG3
+45,45,,5837846,2027-05-01T14:00:00Z,Reading,Sheffield Wednesday,,,False,False,False,ENG3
+46,46,,5837847,2027-05-08T11:30:00Z,AFC Wimbledon,Notts County,,,False,False,False,ENG3
+46,46,,5837848,2027-05-08T11:30:00Z,Bromley,Plymouth Argyle,,,False,False,False,ENG3
+46,46,,5837849,2027-05-08T11:30:00Z,Doncaster Rovers,Reading,,,False,False,False,ENG3
+46,46,,5837850,2027-05-08T11:30:00Z,Leicester City,Cambridge United,,,False,False,False,ENG3
+46,46,,5837851,2027-05-08T11:30:00Z,Luton Town,Blackpool,,,False,False,False,ENG3
+46,46,,5837852,2027-05-08T11:30:00Z,Milton Keynes Dons,Bradford City,,,False,False,False,ENG3
+46,46,,5837853,2027-05-08T11:30:00Z,Peterborough United,Leyton Orient,,,False,False,False,ENG3
+46,46,,5837854,2027-05-08T11:30:00Z,Sheffield Wednesday,Oxford United,,,False,False,False,ENG3
+46,46,,5837855,2027-05-08T11:30:00Z,Stevenage,Huddersfield Town,,,False,False,False,ENG3
+46,46,,5837856,2027-05-08T11:30:00Z,Stockport County,Mansfield Town,,,False,False,False,ENG3
+46,46,,5837857,2027-05-08T11:30:00Z,Wigan Athletic,Burton Albion,,,False,False,False,ENG3
+46,46,,5837858,2027-05-08T11:30:00Z,Wycombe Wanderers,Barnsley,,,False,False,False,ENG3

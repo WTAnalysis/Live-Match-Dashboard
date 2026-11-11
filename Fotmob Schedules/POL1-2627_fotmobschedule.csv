@@ -1,0 +1,307 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5803898,2026-07-24T16:00:00Z,Radomiak Radom,Wieczysta Kraków,2 - 1,FT,True,True,False,POL1
+1,1,,5803899,2026-07-24T18:30:00Z,Pogoń Szczecin,Legia Warszawa,0 - 1,FT,True,True,False,POL1
+1,1,,5803900,2026-07-25T12:45:00Z,Jagiellonia Białystok,Korona Kielce,1 - 0,FT,True,True,False,POL1
+1,1,,5803901,2026-07-25T15:30:00Z,Górnik Zabrze,Śląsk Wrocław,2 - 1,FT,True,True,False,POL1
+1,1,,5803902,2026-07-25T18:15:00Z,Lech Poznań,Cracovia,0 - 0,FT,True,True,False,POL1
+1,1,,5803903,2026-07-26T12:45:00Z,Raków Częstochowa,Wisła Płock,1 - 2,FT,True,True,False,POL1
+1,1,,5803904,2026-07-26T15:30:00Z,Widzew Łódź,Motor Lublin,2 - 2,FT,True,True,False,POL1
+1,1,,5803905,2026-07-26T18:15:00Z,Wisła Kraków,GKS Katowice,2 - 1,FT,True,True,False,POL1
+1,1,,5803906,2026-07-27T17:00:00Z,Zagłębie Lubin,Piast Gliwice,2 - 0,FT,True,True,False,POL1
+2,2,,5803931,2026-07-31T16:00:00Z,Wisła Płock,Widzew Łódź,0 - 0,FT,True,True,False,POL1
+2,2,,5803927,2026-07-31T18:30:00Z,Motor Lublin,Jagiellonia Białystok,1 - 2,FT,True,True,False,POL1
+2,2,,5803928,2026-08-01T12:45:00Z,Piast Gliwice,Wisła Kraków,4 - 3,FT,True,True,False,POL1
+2,2,,5803930,2026-08-01T15:30:00Z,Wieczysta Kraków,Lech Poznań,1 - 2,FT,True,True,False,POL1
+2,2,,5803926,2026-08-02T12:45:00Z,Legia Warszawa,Zagłębie Lubin,3 - 1,FT,True,True,False,POL1
+2,2,,5803929,2026-08-02T15:30:00Z,Śląsk Wrocław,Raków Częstochowa,2 - 1,FT,True,True,False,POL1
+2,2,,5803924,2026-08-02T18:15:00Z,GKS Katowice,Radomiak Radom,3 - 1,FT,True,True,False,POL1
+2,2,,5803923,2026-08-03T17:00:00Z,Cracovia,Pogoń Szczecin,0 - 2,FT,True,True,False,POL1
+3,3,,5803940,2026-08-07T18:30:00Z,Wisła Kraków,Wisła Płock,2 - 1,FT,True,True,False,POL1
+3,3,,5803937,2026-08-08T12:45:00Z,Radomiak Radom,Górnik Zabrze,1 - 3,FT,True,True,False,POL1
+3,3,,5803936,2026-08-08T15:30:00Z,Pogoń Szczecin,Motor Lublin,3 - 1,FT,True,True,False,POL1
+3,3,,5803934,2026-08-08T18:15:00Z,Korona Kielce,Legia Warszawa,1 - 1,FT,True,True,False,POL1
+3,3,,5803939,2026-08-09T12:45:00Z,Śląsk Wrocław,Cracovia,0 - 0,FT,True,True,False,POL1
+3,3,,5803935,2026-08-09T15:30:00Z,Lech Poznań,Piast Gliwice,3 - 0,FT,True,True,False,POL1
+3,3,,5803933,2026-08-09T18:15:00Z,Jagiellonia Białystok,Widzew Łódź,0 - 2,FT,True,True,False,POL1
+4,4,,5803944,2026-08-14T18:30:00Z,Legia Warszawa,Radomiak Radom,5 - 0,FT,True,True,False,POL1
+4,4,,5803949,2026-08-15T12:45:00Z,Zagłębie Lubin,Śląsk Wrocław,2 - 1,FT,True,True,False,POL1
+4,4,,5803946,2026-08-15T15:30:00Z,Piast Gliwice,Wieczysta Kraków,3 - 4,FT,True,True,False,POL1
+4,4,,5803947,2026-08-15T18:15:00Z,Widzew Łódź,Korona Kielce,1 - 2,FT,True,True,False,POL1
+4,4,,5803945,2026-08-16T12:45:00Z,Motor Lublin,GKS Katowice,1 - 0,FT,True,True,False,POL1
+4,4,,5803941,2026-08-16T15:30:00Z,Cracovia,Raków Częstochowa,2 - 1,FT,True,True,False,POL1
+4,4,,5803942,2026-08-16T18:15:00Z,Górnik Zabrze,Wisła Kraków,2 - 1,FT,True,True,False,POL1
+5,5,,5803950,2026-08-21T18:30:00Z,Cracovia,Wieczysta Kraków,3 - 2,FT,True,True,False,POL1
+5,5,,5803952,2026-08-22T12:45:00Z,Korona Kielce,Motor Lublin,1 - 1,FT,True,True,False,POL1
+5,5,,5803954,2026-08-22T15:30:00Z,Piast Gliwice,Legia Warszawa,1 - 1,FT,True,True,False,POL1
+5,5,,5803958,2026-08-22T18:15:00Z,Śląsk Wrocław,Widzew Łódź,3 - 3,FT,True,True,False,POL1
+5,5,,5803956,2026-08-23T12:45:00Z,Radomiak Radom,Zagłębie Lubin,0 - 0,FT,True,True,False,POL1
+5,5,,5803951,2026-08-23T15:30:00Z,GKS Katowice,Wisła Płock,5 - 0,FT,True,True,False,POL1
+5,5,,5803955,2026-08-23T18:15:00Z,Pogoń Szczecin,Wisła Kraków,2 - 2,FT,True,True,False,POL1
+6,6,,5803966,2026-08-28T16:00:00Z,Wisła Płock,Korona Kielce,0 - 2,FT,True,True,False,POL1
+6,6,,5803960,2026-08-28T18:30:00Z,Legia Warszawa,Śląsk Wrocław,1 - 1,FT,True,True,False,POL1
+6,6,,5803962,2026-08-29T10:15:00Z,Radomiak Radom,Cracovia,2 - 1,FT,True,True,False,POL1
+6,6,,5803961,2026-08-29T12:45:00Z,Motor Lublin,Piast Gliwice,0 - 2,FT,True,True,False,POL1
+6,6,,5803965,2026-08-29T15:30:00Z,Wisła Kraków,Wieczysta Kraków,2 - 0,FT,True,True,False,POL1
+6,6,,5803967,2026-08-29T18:15:00Z,Zagłębie Lubin,Pogoń Szczecin,0 - 0,FT,True,True,False,POL1
+6,6,,5803963,2026-08-30T12:45:00Z,Raków Częstochowa,Jagiellonia Białystok,2 - 5,FT,True,True,False,POL1
+6,6,,5803959,2026-08-30T15:30:00Z,Górnik Zabrze,GKS Katowice,2 - 3,FT,True,True,False,POL1
+6,6,,5803964,2026-08-30T18:15:00Z,Widzew Łódź,Lech Poznań,2 - 3,FT,True,True,False,POL1
+5,5,,5803957,2026-09-03T16:00:00Z,Raków Częstochowa,Górnik Zabrze,1 - 2,FT,True,True,False,POL1
+5,5,,5803953,2026-09-03T18:30:00Z,Lech Poznań,Jagiellonia Białystok,2 - 1,FT,True,True,False,POL1
+7,7,,5803973,2026-09-04T18:30:00Z,Piast Gliwice,GKS Katowice,3 - 0,FT,True,True,False,POL1
+7,7,,5803975,2026-09-05T12:45:00Z,Widzew Łódź,Radomiak Radom,0 - 0,FT,True,True,False,POL1
+7,7,,5803970,2026-09-05T15:30:00Z,Korona Kielce,Wisła Kraków,1 - 1,FT,True,True,False,POL1
+7,7,,5803972,2026-09-05T18:15:00Z,Motor Lublin,Legia Warszawa,2 - 3,FT,True,True,False,POL1
+7,7,,5803968,2026-09-06T12:45:00Z,Cracovia,Górnik Zabrze,0 - 1,FT,True,True,False,POL1
+7,7,,5803971,2026-09-06T15:30:00Z,Lech Poznań,Raków Częstochowa,1 - 0,FT,True,True,False,POL1
+7,7,,5803969,2026-09-06T18:15:00Z,Jagiellonia Białystok,Śląsk Wrocław,2 - 1,FT,True,True,False,POL1
+7,7,,5803976,2026-09-07T16:00:00Z,Wieczysta Kraków,Zagłębie Lubin,1 - 1,FT,True,True,False,POL1
+7,7,,5803974,2026-09-07T18:30:00Z,Pogoń Szczecin,Wisła Płock,1 - 1,FT,True,True,False,POL1
+8,8,,5803981,2026-09-11T16:00:00Z,Raków Częstochowa,Motor Lublin,2 - 1,FT,True,True,False,POL1
+8,8,,5803983,2026-09-11T18:30:00Z,Wisła Kraków,Jagiellonia Białystok,2 - 0,FT,True,True,False,POL1
+8,8,,5803982,2026-09-12T12:45:00Z,Śląsk Wrocław,Korona Kielce,1 - 2,FT,True,True,False,POL1
+8,8,,5803977,2026-09-12T15:30:00Z,Górnik Zabrze,Lech Poznań,2 - 1,FT,True,True,False,POL1
+8,8,,5803985,2026-09-12T18:15:00Z,Zagłębie Lubin,GKS Katowice,2 - 1,FT,True,True,False,POL1
+8,8,,5803984,2026-09-13T10:15:00Z,Wisła Płock,Cracovia,3 - 1,FT,True,True,False,POL1
+8,8,,5803979,2026-09-13T12:45:00Z,Pogoń Szczecin,Wieczysta Kraków,2 - 0,FT,True,True,False,POL1
+8,8,,5803978,2026-09-13T15:30:00Z,Legia Warszawa,Widzew Łódź,1 - 1,FT,True,True,False,POL1
+8,8,,5803980,2026-09-14T17:00:00Z,Radomiak Radom,Piast Gliwice,0 - 2,FT,True,True,False,POL1
+3,3,,5803938,2026-09-15T16:00:00Z,Raków Częstochowa,Zagłębie Lubin,2 - 3,FT,True,True,False,POL1
+2,2,,5803925,2026-09-15T18:30:00Z,Korona Kielce,Górnik Zabrze,0 - 2,FT,True,True,False,POL1
+9,9,,5803992,2026-09-18T16:30:00Z,Widzew Łódź,Wieczysta Kraków,2 - 2,FT,True,True,False,POL1
+9,9,,5803993,2026-09-18T18:30:00Z,Wisła Kraków,Śląsk Wrocław,2 - 1,FT,True,True,False,POL1
+9,9,,5803988,2026-09-19T12:45:00Z,Korona Kielce,Raków Częstochowa,3 - 2,FT,True,True,False,POL1
+9,9,,5803986,2026-09-19T15:30:00Z,GKS Katowice,Cracovia,3 - 2,FT,True,True,False,POL1
+9,9,,5803990,2026-09-19T18:15:00Z,Motor Lublin,Górnik Zabrze,0 - 0,FT,True,True,False,POL1
+10,10,,5804003,2026-10-09T16:00:00Z,Wieczysta Kraków,Wisła Płock,,,False,False,False,POL1
+10,10,,5804001,2026-10-09T18:30:00Z,Raków Częstochowa,GKS Katowice,,,False,False,False,POL1
+10,10,,5803995,2026-10-10T12:45:00Z,Cracovia,Zagłębie Lubin,,,False,False,False,POL1
+10,10,,5804002,2026-10-10T15:30:00Z,Śląsk Wrocław,Lech Poznań,,,False,False,False,POL1
+10,10,,5803996,2026-10-10T18:15:00Z,Jagiellonia Białystok,Górnik Zabrze,,,False,False,False,POL1
+10,10,,5803998,2026-10-11T12:45:00Z,Piast Gliwice,Widzew Łódź,,,False,False,False,POL1
+10,10,,5803999,2026-10-11T15:30:00Z,Pogoń Szczecin,Korona Kielce,,,False,False,False,POL1
+10,10,,5803997,2026-10-11T18:15:00Z,Legia Warszawa,Wisła Kraków,,,False,False,False,POL1
+10,10,,5804000,2026-10-12T16:00:00Z,Radomiak Radom,Motor Lublin,,,False,False,False,POL1
+3,3,,5803932,2026-10-12T18:30:00Z,GKS Katowice,Wieczysta Kraków,,,False,False,False,POL1
+11,11,,5804010,2026-10-16T16:00:00Z,Wieczysta Kraków,Raków Częstochowa,,,False,False,False,POL1
+11,11,,5804009,2026-10-16T18:30:00Z,Widzew Łódź,Wisła Kraków,,,False,False,False,POL1
+11,11,,5804008,2026-10-17T12:45:00Z,Motor Lublin,Śląsk Wrocław,,,False,False,False,POL1
+11,11,,5804005,2026-10-17T15:30:00Z,GKS Katowice,Pogoń Szczecin,,,False,False,False,POL1
+11,11,,5804004,2026-10-17T18:15:00Z,Cracovia,Legia Warszawa,,,False,False,False,POL1
+11,11,,5804006,2026-10-18T10:15:00Z,Górnik Zabrze,Piast Gliwice,,,False,False,False,POL1
+11,11,,5804012,2026-10-18T12:45:00Z,Zagłębie Lubin,Jagiellonia Białystok,,,False,False,False,POL1
+11,11,,5804007,2026-10-18T15:30:00Z,Lech Poznań,Korona Kielce,,,False,False,False,POL1
+11,11,,5804011,2026-10-19T17:00:00Z,Wisła Płock,Radomiak Radom,,,False,False,False,POL1
+12,12,,5804016,2026-10-23T16:00:00Z,Motor Lublin,Zagłębie Lubin,,,False,False,False,POL1
+12,12,,5804020,2026-10-23T18:30:00Z,Widzew Łódź,Górnik Zabrze,,,False,False,False,POL1
+12,12,,5804017,2026-10-24T10:15:00Z,Piast Gliwice,Cracovia,,,False,False,False,POL1
+12,12,,5804014,2026-10-24T12:45:00Z,Korona Kielce,GKS Katowice,,,False,False,False,POL1
+12,12,,5804018,2026-10-24T15:30:00Z,Pogoń Szczecin,Radomiak Radom,,,False,False,False,POL1
+12,12,,5804021,2026-10-24T18:15:00Z,Wisła Kraków,Raków Częstochowa,,,False,False,False,POL1
+12,12,,5804019,2026-10-25T11:15:00Z,Śląsk Wrocław,Wieczysta Kraków,,,False,False,False,POL1
+12,12,,5804013,2026-10-25T13:45:00Z,Jagiellonia Białystok,Wisła Płock,,,False,False,False,POL1
+12,12,,5804015,2026-10-25T16:30:00Z,Legia Warszawa,Lech Poznań,,,False,False,False,POL1
+13,13,,5804022,2026-10-31T17:00:00Z,Cracovia,Motor Lublin,,,False,False,False,POL1
+13,13,,5804023,2026-10-31T17:00:00Z,GKS Katowice,Widzew Łódź,,,False,False,False,POL1
+13,13,,5804024,2026-10-31T17:00:00Z,Górnik Zabrze,Legia Warszawa,,,False,False,False,POL1
+13,13,,5804025,2026-10-31T17:00:00Z,Lech Poznań,Wisła Kraków,,,False,False,False,POL1
+13,13,,5804026,2026-10-31T17:00:00Z,Radomiak Radom,Śląsk Wrocław,,,False,False,False,POL1
+13,13,,5804027,2026-10-31T17:00:00Z,Raków Częstochowa,Pogoń Szczecin,,,False,False,False,POL1
+13,13,,5804028,2026-10-31T17:00:00Z,Wieczysta Kraków,Jagiellonia Białystok,,,False,False,False,POL1
+13,13,,5804029,2026-10-31T17:00:00Z,Wisła Płock,Piast Gliwice,,,False,False,False,POL1
+13,13,,5804030,2026-10-31T17:00:00Z,Zagłębie Lubin,Korona Kielce,,,False,False,False,POL1
+14,14,,5804031,2026-11-07T17:00:00Z,Górnik Zabrze,Wieczysta Kraków,,,False,False,False,POL1
+14,14,,5804032,2026-11-07T17:00:00Z,Jagiellonia Białystok,GKS Katowice,,,False,False,False,POL1
+14,14,,5804033,2026-11-07T17:00:00Z,Korona Kielce,Radomiak Radom,,,False,False,False,POL1
+14,14,,5804034,2026-11-07T17:00:00Z,Lech Poznań,Zagłębie Lubin,,,False,False,False,POL1
+14,14,,5804035,2026-11-07T17:00:00Z,Legia Warszawa,Raków Częstochowa,,,False,False,False,POL1
+14,14,,5804036,2026-11-07T17:00:00Z,Motor Lublin,Wisła Płock,,,False,False,False,POL1
+14,14,,5804037,2026-11-07T17:00:00Z,Śląsk Wrocław,Piast Gliwice,,,False,False,False,POL1
+14,14,,5804038,2026-11-07T17:00:00Z,Widzew Łódź,Pogoń Szczecin,,,False,False,False,POL1
+14,14,,5804039,2026-11-07T17:00:00Z,Wisła Kraków,Cracovia,,,False,False,False,POL1
+15,15,,5804040,2026-11-21T17:00:00Z,Cracovia,Jagiellonia Białystok,,,False,False,False,POL1
+15,15,,5804041,2026-11-21T17:00:00Z,GKS Katowice,Lech Poznań,,,False,False,False,POL1
+15,15,,5804042,2026-11-21T17:00:00Z,Piast Gliwice,Korona Kielce,,,False,False,False,POL1
+15,15,,5804043,2026-11-21T17:00:00Z,Pogoń Szczecin,Śląsk Wrocław,,,False,False,False,POL1
+15,15,,5804044,2026-11-21T17:00:00Z,Radomiak Radom,Wisła Kraków,,,False,False,False,POL1
+15,15,,5804045,2026-11-21T17:00:00Z,Raków Częstochowa,Widzew Łódź,,,False,False,False,POL1
+15,15,,5804046,2026-11-21T17:00:00Z,Wieczysta Kraków,Motor Lublin,,,False,False,False,POL1
+15,15,,5804047,2026-11-21T17:00:00Z,Wisła Płock,Legia Warszawa,,,False,False,False,POL1
+15,15,,5804048,2026-11-21T17:00:00Z,Zagłębie Lubin,Górnik Zabrze,,,False,False,False,POL1
+16,16,,5804049,2026-11-28T17:00:00Z,Górnik Zabrze,Wisła Płock,,,False,False,False,POL1
+16,16,,5804050,2026-11-28T17:00:00Z,Jagiellonia Białystok,Radomiak Radom,,,False,False,False,POL1
+16,16,,5804051,2026-11-28T17:00:00Z,Korona Kielce,Cracovia,,,False,False,False,POL1
+16,16,,5804052,2026-11-28T17:00:00Z,Lech Poznań,Pogoń Szczecin,,,False,False,False,POL1
+16,16,,5804053,2026-11-28T17:00:00Z,Legia Warszawa,Wieczysta Kraków,,,False,False,False,POL1
+16,16,,5804054,2026-11-28T17:00:00Z,Raków Częstochowa,Piast Gliwice,,,False,False,False,POL1
+16,16,,5804055,2026-11-28T17:00:00Z,Śląsk Wrocław,GKS Katowice,,,False,False,False,POL1
+16,16,,5804056,2026-11-28T17:00:00Z,Widzew Łódź,Zagłębie Lubin,,,False,False,False,POL1
+16,16,,5804057,2026-11-28T17:00:00Z,Wisła Kraków,Motor Lublin,,,False,False,False,POL1
+17,17,,5804058,2026-12-05T17:00:00Z,Cracovia,Widzew Łódź,,,False,False,False,POL1
+17,17,,5804059,2026-12-05T17:00:00Z,GKS Katowice,Legia Warszawa,,,False,False,False,POL1
+17,17,,5804060,2026-12-05T17:00:00Z,Motor Lublin,Lech Poznań,,,False,False,False,POL1
+17,17,,5804061,2026-12-05T17:00:00Z,Piast Gliwice,Jagiellonia Białystok,,,False,False,False,POL1
+17,17,,5804062,2026-12-05T17:00:00Z,Pogoń Szczecin,Górnik Zabrze,,,False,False,False,POL1
+17,17,,5804063,2026-12-05T17:00:00Z,Radomiak Radom,Raków Częstochowa,,,False,False,False,POL1
+17,17,,5804064,2026-12-05T17:00:00Z,Wieczysta Kraków,Korona Kielce,,,False,False,False,POL1
+17,17,,5804065,2026-12-05T17:00:00Z,Wisła Płock,Śląsk Wrocław,,,False,False,False,POL1
+17,17,,5804066,2026-12-05T17:00:00Z,Zagłębie Lubin,Wisła Kraków,,,False,False,False,POL1
+18,18,,5804067,2026-12-12T17:00:00Z,Cracovia,Lech Poznań,,,False,False,False,POL1
+18,18,,5804068,2026-12-12T17:00:00Z,GKS Katowice,Wisła Kraków,,,False,False,False,POL1
+18,18,,5804069,2026-12-12T17:00:00Z,Korona Kielce,Jagiellonia Białystok,,,False,False,False,POL1
+18,18,,5804070,2026-12-12T17:00:00Z,Legia Warszawa,Pogoń Szczecin,,,False,False,False,POL1
+18,18,,5804071,2026-12-12T17:00:00Z,Motor Lublin,Widzew Łódź,,,False,False,False,POL1
+18,18,,5804072,2026-12-12T17:00:00Z,Piast Gliwice,Zagłębie Lubin,,,False,False,False,POL1
+18,18,,5804073,2026-12-12T17:00:00Z,Śląsk Wrocław,Górnik Zabrze,,,False,False,False,POL1
+18,18,,5804074,2026-12-12T17:00:00Z,Wieczysta Kraków,Radomiak Radom,,,False,False,False,POL1
+18,18,,5804075,2026-12-12T17:00:00Z,Wisła Płock,Raków Częstochowa,,,False,False,False,POL1
+4,4,,5803943,2026-12-16T17:00:00Z,Jagiellonia Białystok,Pogoń Szczecin,,,False,False,False,POL1
+4,4,,5803948,2026-12-17T17:00:00Z,Wisła Płock,Lech Poznań,,,False,False,False,POL1
+19,19,,5804076,2027-01-30T17:00:00Z,Górnik Zabrze,Korona Kielce,,,False,False,False,POL1
+19,19,,5804077,2027-01-30T17:00:00Z,Jagiellonia Białystok,Motor Lublin,,,False,False,False,POL1
+19,19,,5804078,2027-01-30T17:00:00Z,Lech Poznań,Wieczysta Kraków,,,False,False,False,POL1
+19,19,,5804079,2027-01-30T17:00:00Z,Pogoń Szczecin,Cracovia,,,False,False,False,POL1
+19,19,,5804080,2027-01-30T17:00:00Z,Radomiak Radom,GKS Katowice,,,False,False,False,POL1
+19,19,,5804081,2027-01-30T17:00:00Z,Raków Częstochowa,Śląsk Wrocław,,,False,False,False,POL1
+19,19,,5804082,2027-01-30T17:00:00Z,Widzew Łódź,Wisła Płock,,,False,False,False,POL1
+19,19,,5804083,2027-01-30T17:00:00Z,Wisła Kraków,Piast Gliwice,,,False,False,False,POL1
+19,19,,5804084,2027-01-30T17:00:00Z,Zagłębie Lubin,Legia Warszawa,,,False,False,False,POL1
+20,20,,5804085,2027-02-06T17:00:00Z,Cracovia,Śląsk Wrocław,,,False,False,False,POL1
+20,20,,5804086,2027-02-06T17:00:00Z,Górnik Zabrze,Radomiak Radom,,,False,False,False,POL1
+20,20,,5804087,2027-02-06T17:00:00Z,Legia Warszawa,Korona Kielce,,,False,False,False,POL1
+20,20,,5804088,2027-02-06T17:00:00Z,Motor Lublin,Pogoń Szczecin,,,False,False,False,POL1
+20,20,,5804089,2027-02-06T17:00:00Z,Piast Gliwice,Lech Poznań,,,False,False,False,POL1
+20,20,,5804090,2027-02-06T17:00:00Z,Widzew Łódź,Jagiellonia Białystok,,,False,False,False,POL1
+20,20,,5804091,2027-02-06T17:00:00Z,Wieczysta Kraków,GKS Katowice,,,False,False,False,POL1
+20,20,,5804092,2027-02-06T17:00:00Z,Wisła Płock,Wisła Kraków,,,False,False,False,POL1
+20,20,,5804093,2027-02-06T17:00:00Z,Zagłębie Lubin,Raków Częstochowa,,,False,False,False,POL1
+21,21,,5804094,2027-02-13T17:00:00Z,GKS Katowice,Motor Lublin,,,False,False,False,POL1
+21,21,,5804095,2027-02-13T17:00:00Z,Korona Kielce,Widzew Łódź,,,False,False,False,POL1
+21,21,,5804096,2027-02-13T17:00:00Z,Lech Poznań,Wisła Płock,,,False,False,False,POL1
+21,21,,5804097,2027-02-13T17:00:00Z,Pogoń Szczecin,Jagiellonia Białystok,,,False,False,False,POL1
+21,21,,5804098,2027-02-13T17:00:00Z,Radomiak Radom,Legia Warszawa,,,False,False,False,POL1
+21,21,,5804099,2027-02-13T17:00:00Z,Raków Częstochowa,Cracovia,,,False,False,False,POL1
+21,21,,5804100,2027-02-13T17:00:00Z,Śląsk Wrocław,Zagłębie Lubin,,,False,False,False,POL1
+21,21,,5804101,2027-02-13T17:00:00Z,Wieczysta Kraków,Piast Gliwice,,,False,False,False,POL1
+21,21,,5804102,2027-02-13T17:00:00Z,Wisła Kraków,Górnik Zabrze,,,False,False,False,POL1
+22,22,,5804103,2027-02-20T17:00:00Z,Górnik Zabrze,Raków Częstochowa,,,False,False,False,POL1
+22,22,,5804104,2027-02-20T17:00:00Z,Jagiellonia Białystok,Lech Poznań,,,False,False,False,POL1
+22,22,,5804105,2027-02-20T17:00:00Z,Legia Warszawa,Piast Gliwice,,,False,False,False,POL1
+22,22,,5804106,2027-02-20T17:00:00Z,Motor Lublin,Korona Kielce,,,False,False,False,POL1
+22,22,,5804107,2027-02-20T17:00:00Z,Widzew Łódź,Śląsk Wrocław,,,False,False,False,POL1
+22,22,,5804108,2027-02-20T17:00:00Z,Wieczysta Kraków,Cracovia,,,False,False,False,POL1
+22,22,,5804109,2027-02-20T17:00:00Z,Wisła Kraków,Pogoń Szczecin,,,False,False,False,POL1
+22,22,,5804110,2027-02-20T17:00:00Z,Wisła Płock,GKS Katowice,,,False,False,False,POL1
+22,22,,5804111,2027-02-20T17:00:00Z,Zagłębie Lubin,Radomiak Radom,,,False,False,False,POL1
+23,23,,5804112,2027-02-27T17:00:00Z,Cracovia,Radomiak Radom,,,False,False,False,POL1
+23,23,,5804113,2027-02-27T17:00:00Z,GKS Katowice,Górnik Zabrze,,,False,False,False,POL1
+23,23,,5804114,2027-02-27T17:00:00Z,Jagiellonia Białystok,Raków Częstochowa,,,False,False,False,POL1
+23,23,,5804115,2027-02-27T17:00:00Z,Korona Kielce,Wisła Płock,,,False,False,False,POL1
+23,23,,5804116,2027-02-27T17:00:00Z,Lech Poznań,Widzew Łódź,,,False,False,False,POL1
+23,23,,5804117,2027-02-27T17:00:00Z,Piast Gliwice,Motor Lublin,,,False,False,False,POL1
+23,23,,5804118,2027-02-27T17:00:00Z,Pogoń Szczecin,Zagłębie Lubin,,,False,False,False,POL1
+23,23,,5804119,2027-02-27T17:00:00Z,Śląsk Wrocław,Legia Warszawa,,,False,False,False,POL1
+23,23,,5804120,2027-02-27T17:00:00Z,Wieczysta Kraków,Wisła Kraków,,,False,False,False,POL1
+24,24,,5804121,2027-03-06T17:00:00Z,GKS Katowice,Piast Gliwice,,,False,False,False,POL1
+24,24,,5804122,2027-03-06T17:00:00Z,Górnik Zabrze,Cracovia,,,False,False,False,POL1
+24,24,,5804123,2027-03-06T17:00:00Z,Legia Warszawa,Motor Lublin,,,False,False,False,POL1
+24,24,,5804124,2027-03-06T17:00:00Z,Radomiak Radom,Widzew Łódź,,,False,False,False,POL1
+24,24,,5804125,2027-03-06T17:00:00Z,Raków Częstochowa,Lech Poznań,,,False,False,False,POL1
+24,24,,5804126,2027-03-06T17:00:00Z,Śląsk Wrocław,Jagiellonia Białystok,,,False,False,False,POL1
+24,24,,5804127,2027-03-06T17:00:00Z,Wisła Kraków,Korona Kielce,,,False,False,False,POL1
+24,24,,5804128,2027-03-06T17:00:00Z,Wisła Płock,Pogoń Szczecin,,,False,False,False,POL1
+24,24,,5804129,2027-03-06T17:00:00Z,Zagłębie Lubin,Wieczysta Kraków,,,False,False,False,POL1
+25,25,,5804130,2027-03-13T17:00:00Z,Cracovia,Wisła Płock,,,False,False,False,POL1
+25,25,,5804131,2027-03-13T17:00:00Z,GKS Katowice,Zagłębie Lubin,,,False,False,False,POL1
+25,25,,5804132,2027-03-13T17:00:00Z,Jagiellonia Białystok,Wisła Kraków,,,False,False,False,POL1
+25,25,,5804133,2027-03-13T17:00:00Z,Korona Kielce,Śląsk Wrocław,,,False,False,False,POL1
+25,25,,5804134,2027-03-13T17:00:00Z,Lech Poznań,Górnik Zabrze,,,False,False,False,POL1
+25,25,,5804135,2027-03-13T17:00:00Z,Motor Lublin,Raków Częstochowa,,,False,False,False,POL1
+25,25,,5804136,2027-03-13T17:00:00Z,Piast Gliwice,Radomiak Radom,,,False,False,False,POL1
+25,25,,5804137,2027-03-13T17:00:00Z,Widzew Łódź,Legia Warszawa,,,False,False,False,POL1
+25,25,,5804138,2027-03-13T17:00:00Z,Wieczysta Kraków,Pogoń Szczecin,,,False,False,False,POL1
+26,26,,5804139,2027-03-20T17:00:00Z,Cracovia,GKS Katowice,,,False,False,False,POL1
+26,26,,5804140,2027-03-20T17:00:00Z,Górnik Zabrze,Motor Lublin,,,False,False,False,POL1
+26,26,,5804141,2027-03-20T17:00:00Z,Legia Warszawa,Jagiellonia Białystok,,,False,False,False,POL1
+26,26,,5804142,2027-03-20T17:00:00Z,Pogoń Szczecin,Piast Gliwice,,,False,False,False,POL1
+26,26,,5804143,2027-03-20T17:00:00Z,Radomiak Radom,Lech Poznań,,,False,False,False,POL1
+26,26,,5804144,2027-03-20T17:00:00Z,Raków Częstochowa,Korona Kielce,,,False,False,False,POL1
+26,26,,5804145,2027-03-20T17:00:00Z,Śląsk Wrocław,Wisła Kraków,,,False,False,False,POL1
+26,26,,5804146,2027-03-20T17:00:00Z,Wieczysta Kraków,Widzew Łódź,,,False,False,False,POL1
+26,26,,5804147,2027-03-20T17:00:00Z,Wisła Płock,Zagłębie Lubin,,,False,False,False,POL1
+27,27,,5804148,2027-04-03T16:00:00Z,GKS Katowice,Raków Częstochowa,,,False,False,False,POL1
+27,27,,5804149,2027-04-03T16:00:00Z,Górnik Zabrze,Jagiellonia Białystok,,,False,False,False,POL1
+27,27,,5804150,2027-04-03T16:00:00Z,Korona Kielce,Pogoń Szczecin,,,False,False,False,POL1
+27,27,,5804151,2027-04-03T16:00:00Z,Lech Poznań,Śląsk Wrocław,,,False,False,False,POL1
+27,27,,5804152,2027-04-03T16:00:00Z,Motor Lublin,Radomiak Radom,,,False,False,False,POL1
+27,27,,5804153,2027-04-03T16:00:00Z,Widzew Łódź,Piast Gliwice,,,False,False,False,POL1
+27,27,,5804154,2027-04-03T16:00:00Z,Wisła Kraków,Legia Warszawa,,,False,False,False,POL1
+27,27,,5804155,2027-04-03T16:00:00Z,Wisła Płock,Wieczysta Kraków,,,False,False,False,POL1
+27,27,,5804156,2027-04-03T16:00:00Z,Zagłębie Lubin,Cracovia,,,False,False,False,POL1
+28,28,,5804157,2027-04-10T16:00:00Z,Jagiellonia Białystok,Zagłębie Lubin,,,False,False,False,POL1
+28,28,,5804158,2027-04-10T16:00:00Z,Korona Kielce,Lech Poznań,,,False,False,False,POL1
+28,28,,5804159,2027-04-10T16:00:00Z,Legia Warszawa,Cracovia,,,False,False,False,POL1
+28,28,,5804160,2027-04-10T16:00:00Z,Piast Gliwice,Górnik Zabrze,,,False,False,False,POL1
+28,28,,5804161,2027-04-10T16:00:00Z,Pogoń Szczecin,GKS Katowice,,,False,False,False,POL1
+28,28,,5804162,2027-04-10T16:00:00Z,Radomiak Radom,Wisła Płock,,,False,False,False,POL1
+28,28,,5804163,2027-04-10T16:00:00Z,Raków Częstochowa,Wieczysta Kraków,,,False,False,False,POL1
+28,28,,5804164,2027-04-10T16:00:00Z,Śląsk Wrocław,Motor Lublin,,,False,False,False,POL1
+28,28,,5804165,2027-04-10T16:00:00Z,Wisła Kraków,Widzew Łódź,,,False,False,False,POL1
+29,29,,5804166,2027-04-17T16:00:00Z,Cracovia,Piast Gliwice,,,False,False,False,POL1
+29,29,,5804167,2027-04-17T16:00:00Z,GKS Katowice,Korona Kielce,,,False,False,False,POL1
+29,29,,5804168,2027-04-17T16:00:00Z,Górnik Zabrze,Widzew Łódź,,,False,False,False,POL1
+29,29,,5804169,2027-04-17T16:00:00Z,Lech Poznań,Legia Warszawa,,,False,False,False,POL1
+29,29,,5804170,2027-04-17T16:00:00Z,Radomiak Radom,Pogoń Szczecin,,,False,False,False,POL1
+29,29,,5804171,2027-04-17T16:00:00Z,Raków Częstochowa,Wisła Kraków,,,False,False,False,POL1
+29,29,,5804172,2027-04-17T16:00:00Z,Wieczysta Kraków,Śląsk Wrocław,,,False,False,False,POL1
+29,29,,5804173,2027-04-17T16:00:00Z,Wisła Płock,Jagiellonia Białystok,,,False,False,False,POL1
+29,29,,5804174,2027-04-17T16:00:00Z,Zagłębie Lubin,Motor Lublin,,,False,False,False,POL1
+30,30,,5804175,2027-04-23T16:00:00Z,Jagiellonia Białystok,Wieczysta Kraków,,,False,False,False,POL1
+30,30,,5804176,2027-04-23T16:00:00Z,Korona Kielce,Zagłębie Lubin,,,False,False,False,POL1
+30,30,,5804177,2027-04-23T16:00:00Z,Legia Warszawa,Górnik Zabrze,,,False,False,False,POL1
+30,30,,5804178,2027-04-23T16:00:00Z,Motor Lublin,Cracovia,,,False,False,False,POL1
+30,30,,5804179,2027-04-23T16:00:00Z,Piast Gliwice,Wisła Płock,,,False,False,False,POL1
+30,30,,5804180,2027-04-23T16:00:00Z,Pogoń Szczecin,Raków Częstochowa,,,False,False,False,POL1
+30,30,,5804181,2027-04-23T16:00:00Z,Śląsk Wrocław,Radomiak Radom,,,False,False,False,POL1
+30,30,,5804182,2027-04-23T16:00:00Z,Widzew Łódź,GKS Katowice,,,False,False,False,POL1
+30,30,,5804183,2027-04-23T16:00:00Z,Wisła Kraków,Lech Poznań,,,False,False,False,POL1
+31,31,,5804184,2027-05-01T16:00:00Z,Cracovia,Wisła Kraków,,,False,False,False,POL1
+31,31,,5804185,2027-05-01T16:00:00Z,GKS Katowice,Jagiellonia Białystok,,,False,False,False,POL1
+31,31,,5804186,2027-05-01T16:00:00Z,Piast Gliwice,Śląsk Wrocław,,,False,False,False,POL1
+31,31,,5804187,2027-05-01T16:00:00Z,Pogoń Szczecin,Widzew Łódź,,,False,False,False,POL1
+31,31,,5804188,2027-05-01T16:00:00Z,Radomiak Radom,Korona Kielce,,,False,False,False,POL1
+31,31,,5804189,2027-05-01T16:00:00Z,Raków Częstochowa,Legia Warszawa,,,False,False,False,POL1
+31,31,,5804190,2027-05-01T16:00:00Z,Wieczysta Kraków,Górnik Zabrze,,,False,False,False,POL1
+31,31,,5804191,2027-05-01T16:00:00Z,Wisła Płock,Motor Lublin,,,False,False,False,POL1
+31,31,,5804192,2027-05-01T16:00:00Z,Zagłębie Lubin,Lech Poznań,,,False,False,False,POL1
+32,32,,5804193,2027-05-08T16:00:00Z,Górnik Zabrze,Zagłębie Lubin,,,False,False,False,POL1
+32,32,,5804194,2027-05-08T16:00:00Z,Jagiellonia Białystok,Cracovia,,,False,False,False,POL1
+32,32,,5804195,2027-05-08T16:00:00Z,Korona Kielce,Piast Gliwice,,,False,False,False,POL1
+32,32,,5804196,2027-05-08T16:00:00Z,Lech Poznań,GKS Katowice,,,False,False,False,POL1
+32,32,,5804197,2027-05-08T16:00:00Z,Legia Warszawa,Wisła Płock,,,False,False,False,POL1
+32,32,,5804198,2027-05-08T16:00:00Z,Motor Lublin,Wieczysta Kraków,,,False,False,False,POL1
+32,32,,5804199,2027-05-08T16:00:00Z,Śląsk Wrocław,Pogoń Szczecin,,,False,False,False,POL1
+32,32,,5804200,2027-05-08T16:00:00Z,Widzew Łódź,Raków Częstochowa,,,False,False,False,POL1
+32,32,,5804201,2027-05-08T16:00:00Z,Wisła Kraków,Radomiak Radom,,,False,False,False,POL1
+33,33,,5804202,2027-05-15T16:00:00Z,Cracovia,Korona Kielce,,,False,False,False,POL1
+33,33,,5804203,2027-05-15T16:00:00Z,GKS Katowice,Śląsk Wrocław,,,False,False,False,POL1
+33,33,,5804204,2027-05-15T16:00:00Z,Motor Lublin,Wisła Kraków,,,False,False,False,POL1
+33,33,,5804205,2027-05-15T16:00:00Z,Piast Gliwice,Raków Częstochowa,,,False,False,False,POL1
+33,33,,5804206,2027-05-15T16:00:00Z,Pogoń Szczecin,Lech Poznań,,,False,False,False,POL1
+33,33,,5804207,2027-05-15T16:00:00Z,Radomiak Radom,Jagiellonia Białystok,,,False,False,False,POL1
+33,33,,5804208,2027-05-15T16:00:00Z,Wieczysta Kraków,Legia Warszawa,,,False,False,False,POL1
+33,33,,5804209,2027-05-15T16:00:00Z,Wisła Płock,Górnik Zabrze,,,False,False,False,POL1
+33,33,,5804210,2027-05-15T16:00:00Z,Zagłębie Lubin,Widzew Łódź,,,False,False,False,POL1
+34,34,,5804211,2027-05-22T16:00:00Z,Górnik Zabrze,Pogoń Szczecin,,,False,False,False,POL1
+34,34,,5804212,2027-05-22T16:00:00Z,Jagiellonia Białystok,Piast Gliwice,,,False,False,False,POL1
+34,34,,5804213,2027-05-22T16:00:00Z,Korona Kielce,Wieczysta Kraków,,,False,False,False,POL1
+34,34,,5804214,2027-05-22T16:00:00Z,Lech Poznań,Motor Lublin,,,False,False,False,POL1
+34,34,,5804215,2027-05-22T16:00:00Z,Legia Warszawa,GKS Katowice,,,False,False,False,POL1
+34,34,,5804216,2027-05-22T16:00:00Z,Raków Częstochowa,Radomiak Radom,,,False,False,False,POL1
+34,34,,5804217,2027-05-22T16:00:00Z,Śląsk Wrocław,Wisła Płock,,,False,False,False,POL1
+34,34,,5804218,2027-05-22T16:00:00Z,Widzew Łódź,Cracovia,,,False,False,False,POL1
+34,34,,5804219,2027-05-22T16:00:00Z,Wisła Kraków,Zagłębie Lubin,,,False,False,False,POL1
+9,9,,5803987,2026-09-20T15:30:00.000Z,Jagiellonia Białystok,Legia Warszawa,1 - 3,FT,True,True,False,POL1
+9,9,,5803989,2026-09-20T18:15:00.000Z,Lech Poznań,Radomiak Radom,5 - 1,FT,True,True,False,POL1
+9,9,,5803991,2026-09-20T10:15:00.000Z,Piast Gliwice,Pogoń Szczecin,1 - 2,FT,True,True,False,POL1
+9,9,,5803994,2026-09-20T12:45:00.000Z,Zagłębie Lubin,Wisła Płock,0 - 2,FT,True,True,False,POL1

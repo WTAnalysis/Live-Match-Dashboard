@@ -1,0 +1,381 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5868011,2026-08-15T17:30:00Z,Deportivo Alavés,Getafe,3 - 0,FT,True,True,False,SPA1
+1,1,,5868019,2026-08-15T19:30:00Z,Sevilla,Rayo Vallecano,2 - 1,FT,True,True,False,SPA1
+1,1,,5868017,2026-08-16T15:00:00Z,Racing Santander,Villarreal,2 - 2,FT,True,True,False,SPA1
+1,1,,5868015,2026-08-16T17:00:00Z,Espanyol,Levante,3 - 0,FT,True,True,False,SPA1
+1,1,,5868014,2026-08-17T19:00:00Z,Deportivo A Coruña,Elche,1 - 1,FT,True,True,False,SPA1
+1,1,,5868012,2026-08-19T19:05:00Z,Atlético Madrid,Málaga,2 - 0,FT,True,True,False,SPA1
+2,2,,5868029,2026-08-20T19:00:00Z,Rayo Vallecano,Deportivo Alavés,1 - 1,FT,True,True,False,SPA1
+2,2,,5868023,2026-08-21T19:00:00Z,Real Betis,Real Sociedad,1 - 0,FT,True,True,False,SPA1
+2,2,,5868021,2026-08-22T15:00:00Z,Athletic Club,Sevilla,1 - 3,FT,True,True,False,SPA1
+2,2,,5868030,2026-08-22T17:30:00Z,Valencia,Celta Vigo,0 - 0,FT,True,True,False,SPA1
+2,2,,5868025,2026-08-22T19:30:00Z,Espanyol,Real Madrid,1 - 2,FT,True,True,False,SPA1
+2,2,,5868022,2026-08-23T15:00:00Z,Atlético Madrid,Villarreal,2 - 2,FT,True,True,False,SPA1
+2,2,,5868026,2026-08-23T17:30:00Z,Getafe,Racing Santander,1 - 0,FT,True,True,False,SPA1
+2,2,,5868024,2026-08-23T19:30:00Z,Elche,Barcelona,0 - 5,FT,True,True,False,SPA1
+2,2,,5868028,2026-08-24T17:30:00Z,Osasuna,Levante,0 - 0,FT,True,True,False,SPA1
+2,2,,5868027,2026-08-24T19:30:00Z,Málaga,Deportivo A Coruña,1 - 1,FT,True,True,False,SPA1
+1,1,,5868020,2026-08-25T19:00:00Z,Valencia,Real Betis,0 - 1,FT,True,True,False,SPA1
+1,1,,5868018,2026-08-26T19:00:00Z,Real Madrid,Real Sociedad,4 - 1,FT,True,True,False,SPA1
+1,1,,5868013,2026-08-27T18:30:00Z,Celta Vigo,Osasuna,1 - 2,FT,True,True,False,SPA1
+1,1,,5868016,2026-08-27T19:00:00Z,Barcelona,Athletic Club,2 - 0,FT,True,True,False,SPA1
+3,3,,5868037,2026-08-28T17:00:00Z,Racing Santander,Elche,3 - 2,FT,True,True,False,SPA1
+3,3,,5868031,2026-08-28T19:30:00Z,Deportivo Alavés,Villarreal,1 - 0,FT,True,True,False,SPA1
+3,3,,5868035,2026-08-29T15:00:00Z,Levante,Real Betis,5 - 2,FT,True,True,False,SPA1
+3,3,,5868039,2026-08-29T17:00:00Z,Real Sociedad,Espanyol,2 - 1,FT,True,True,False,SPA1
+3,3,,5868040,2026-08-29T19:30:00Z,Sevilla,Atlético Madrid,1 - 3,FT,True,True,False,SPA1
+3,3,,5868038,2026-08-30T15:00:00Z,Real Madrid,Málaga,4 - 0,FT,True,True,False,SPA1
+3,3,,5868033,2026-08-30T17:30:00Z,Deportivo A Coruña,Valencia,3 - 1,FT,True,True,False,SPA1
+3,3,,5868032,2026-08-30T19:30:00Z,Celta Vigo,Athletic Club,0 - 2,FT,True,True,False,SPA1
+3,3,,5868036,2026-08-31T17:30:00Z,Osasuna,Getafe,1 - 0,FT,True,True,False,SPA1
+3,3,,5868034,2026-08-31T19:30:00Z,Barcelona,Rayo Vallecano,5 - 2,FT,True,True,False,SPA1
+6,6,,5868070,2026-09-03T19:00:00Z,Real Sociedad,Celta Vigo,0 - 0,FT,True,True,False,SPA1
+4,4,,5868043,2026-09-04T19:00:00Z,Real Betis,Real Madrid,1 - 0,FT,True,True,False,SPA1
+4,4,,5868042,2026-09-05T14:15:00Z,Athletic Club,Atlético Madrid,3 - 0,FT,True,True,False,SPA1
+4,4,,5868048,2026-09-05T16:30:00Z,Rayo Vallecano,Racing Santander,3 - 2,FT,True,True,False,SPA1
+4,4,,5868050,2026-09-05T19:00:00Z,Villarreal,Deportivo A Coruña,2 - 3,FT,True,True,False,SPA1
+4,4,,5868049,2026-09-06T14:15:00Z,Valencia,Barcelona,0 - 5,FT,True,True,False,SPA1
+4,4,,5868041,2026-09-06T16:30:00Z,Deportivo Alavés,Osasuna,5 - 2,FT,True,True,False,SPA1
+4,4,,5868047,2026-09-06T16:30:00Z,Málaga,Levante,0 - 0,FT,True,True,False,SPA1
+4,4,,5868045,2026-09-06T19:00:00Z,Espanyol,Sevilla,1 - 1,FT,True,True,False,SPA1
+4,4,,5868046,2026-09-07T17:00:00Z,Getafe,Celta Vigo,1 - 1,FT,True,True,False,SPA1
+4,4,,5868044,2026-09-07T19:30:00Z,Elche,Real Sociedad,2 - 3,FT,True,True,False,SPA1
+5,5,,5868059,2026-09-11T19:00:00Z,Sevilla,Valencia,1 - 0,FT,True,True,False,SPA1
+5,5,,5868056,2026-09-12T12:00:00Z,Racing Santander,Deportivo Alavés,2 - 1,FT,True,True,False,SPA1
+5,5,,5868055,2026-09-12T14:15:00Z,Osasuna,Espanyol,0 - 2,FT,True,True,False,SPA1
+5,5,,5868051,2026-09-12T16:30:00Z,Athletic Club,Elche,1 - 1,FT,True,True,False,SPA1
+5,5,,5868057,2026-09-12T19:00:00Z,Real Madrid,Rayo Vallecano,4 - 1,FT,True,True,False,SPA1
+5,5,,5868052,2026-09-13T12:00:00Z,Celta Vigo,Málaga,1 - 1,FT,True,True,False,SPA1
+5,5,,5868054,2026-09-13T14:15:00Z,Levante,Barcelona,2 - 4,FT,True,True,False,SPA1
+5,5,,5868053,2026-09-13T16:30:00Z,Getafe,Deportivo A Coruña,1 - 1,FT,True,True,False,SPA1
+5,5,,5868058,2026-09-13T19:00:00Z,Real Sociedad,Atlético Madrid,0 - 3,FT,True,True,False,SPA1
+5,5,,5868060,2026-09-14T19:00:00Z,Villarreal,Real Betis,1 - 2,FT,True,True,False,SPA1
+6,6,,5868069,2026-09-15T17:00:00Z,Rayo Vallecano,Espanyol,2 - 1,FT,True,True,False,SPA1
+6,6,,5868061,2026-09-15T18:00:00Z,Deportivo Alavés,Valencia,0 - 1,FT,True,True,False,SPA1
+6,6,,5868065,2026-09-15T19:30:00Z,Elche,Real Madrid,2 - 3,FT,True,True,False,SPA1
+6,6,,5868062,2026-09-16T17:00:00Z,Atlético Madrid,Osasuna,4 - 0,FT,True,True,False,SPA1
+6,6,,5868064,2026-09-16T17:00:00Z,Deportivo A Coruña,Sevilla,0 - 1,FT,True,True,False,SPA1
+6,6,,5868066,2026-09-16T19:30:00Z,Barcelona,Racing Santander,7 - 2,FT,True,True,False,SPA1
+6,6,,5868063,2026-09-17T17:00:00Z,Real Betis,Getafe,1 - 0,FT,True,True,False,SPA1
+6,6,,5868068,2026-09-17T19:30:00Z,Málaga,Villarreal,1 - 3,FT,True,True,False,SPA1
+7,7,,5868075,2026-09-18T19:00:00Z,Espanyol,Elche,1 - 3,FT,True,True,False,SPA1
+7,7,,5868077,2026-09-19T12:00:00Z,Osasuna,Rayo Vallecano,1 - 1,FT,True,True,False,SPA1
+7,7,,5868071,2026-09-19T14:15:00Z,Athletic Club,Deportivo Alavés,0 - 0,FT,True,True,False,SPA1
+7,7,,5868073,2026-09-19T16:30:00Z,Celta Vigo,Racing Santander,5 - 0,FT,True,True,False,SPA1
+7,7,,5868078,2026-09-19T19:00:00Z,Sevilla,Barcelona,1 - 3,FT,True,True,False,SPA1
+8,8,,5868086,2026-10-09T19:00:00Z,Málaga,Espanyol,,,False,False,False,SPA1
+8,8,,5868088,2026-10-10T12:00:00Z,Rayo Vallecano,Athletic Club,,,False,False,False,SPA1
+8,8,,5868081,2026-10-10T14:15:00Z,Deportivo Alavés,Atlético Madrid,,,False,False,False,SPA1
+8,8,,5868084,2026-10-10T16:30:00Z,Barcelona,Getafe,,,False,False,False,SPA1
+8,8,,5868089,2026-10-10T19:00:00Z,Real Madrid,Villarreal,,,False,False,False,SPA1
+8,8,,5868083,2026-10-11T12:00:00Z,Elche,Celta Vigo,,,False,False,False,SPA1
+8,8,,5868090,2026-10-11T14:15:00Z,Real Sociedad,Deportivo A Coruña,,,False,False,False,SPA1
+8,8,,5868082,2026-10-11T16:30:00Z,Real Betis,Osasuna,,,False,False,False,SPA1
+8,8,,5868087,2026-10-11T19:00:00Z,Racing Santander,Valencia,,,False,False,False,SPA1
+8,8,,5868085,2026-10-12T19:00:00Z,Levante,Sevilla,,,False,False,False,SPA1
+9,9,,5868093,2026-10-16T19:00:00Z,Deportivo A Coruña,Levante,,,False,False,False,SPA1
+9,9,,5868094,2026-10-17T12:00:00Z,Espanyol,Atlético Madrid,,,False,False,False,SPA1
+9,9,,5868100,2026-10-17T14:15:00Z,Villarreal,Elche,,,False,False,False,SPA1
+9,9,,5868091,2026-10-17T16:30:00Z,Real Betis,Barcelona,,,False,False,False,SPA1
+9,9,,5868099,2026-10-17T19:00:00Z,Valencia,Athletic Club,,,False,False,False,SPA1
+9,9,,5868097,2026-10-18T12:00:00Z,Osasuna,Racing Santander,,,False,False,False,SPA1
+9,9,,5868092,2026-10-18T14:15:00Z,Celta Vigo,Deportivo Alavés,,,False,False,False,SPA1
+9,9,,5868096,2026-10-18T16:30:00Z,Málaga,Real Sociedad,,,False,False,False,SPA1
+9,9,,5868098,2026-10-18T19:00:00Z,Real Madrid,Sevilla,,,False,False,False,SPA1
+9,9,,5868095,2026-10-19T19:00:00Z,Getafe,Rayo Vallecano,,,False,False,False,SPA1
+6,6,,5868067,2026-10-21T18:00:00Z,Levante,Athletic Club,,,False,False,False,SPA1
+10,10,,5868101,2026-10-25T14:00:00Z,Deportivo Alavés,Málaga,,,False,False,False,SPA1
+10,10,,5868102,2026-10-25T14:00:00Z,Athletic Club,Getafe,,,False,False,False,SPA1
+10,10,,5868103,2026-10-25T14:00:00Z,Atlético Madrid,Deportivo A Coruña,,,False,False,False,SPA1
+10,10,,5868104,2026-10-25T14:00:00Z,Celta Vigo,Real Betis,,,False,False,False,SPA1
+10,10,,5868106,2026-10-25T14:00:00Z,Racing Santander,Espanyol,,,False,False,False,SPA1
+10,10,,5868107,2026-10-25T14:00:00Z,Rayo Vallecano,Elche,,,False,False,False,SPA1
+10,10,,5868108,2026-10-25T14:00:00Z,Real Sociedad,Levante,,,False,False,False,SPA1
+10,10,,5868109,2026-10-25T14:00:00Z,Sevilla,Osasuna,,,False,False,False,SPA1
+10,10,,5868110,2026-10-25T14:00:00Z,Valencia,Villarreal,,,False,False,False,SPA1
+10,10,,5868105,2026-10-25T20:00:00Z,Barcelona,Real Madrid,,,False,False,False,SPA1
+11,11,,5868111,2026-11-01T14:00:00Z,Athletic Club,Real Sociedad,,,False,False,False,SPA1
+11,11,,5868112,2026-11-01T14:00:00Z,Real Betis,Málaga,,,False,False,False,SPA1
+11,11,,5868113,2026-11-01T14:00:00Z,Deportivo A Coruña,Osasuna,,,False,False,False,SPA1
+11,11,,5868114,2026-11-01T14:00:00Z,Elche,Valencia,,,False,False,False,SPA1
+11,11,,5868115,2026-11-01T14:00:00Z,Barcelona,Deportivo Alavés,,,False,False,False,SPA1
+11,11,,5868116,2026-11-01T14:00:00Z,Getafe,Sevilla,,,False,False,False,SPA1
+11,11,,5868117,2026-11-01T14:00:00Z,Levante,Atlético Madrid,,,False,False,False,SPA1
+11,11,,5868118,2026-11-01T14:00:00Z,Racing Santander,Real Madrid,,,False,False,False,SPA1
+11,11,,5868119,2026-11-01T14:00:00Z,Rayo Vallecano,Celta Vigo,,,False,False,False,SPA1
+11,11,,5868120,2026-11-01T14:00:00Z,Villarreal,Espanyol,,,False,False,False,SPA1
+12,12,,5868121,2026-11-08T14:00:00Z,Atlético Madrid,Barcelona,,,False,False,False,SPA1
+12,12,,5868122,2026-11-08T14:00:00Z,Celta Vigo,Levante,,,False,False,False,SPA1
+12,12,,5868123,2026-11-08T14:00:00Z,Elche,Real Betis,,,False,False,False,SPA1
+12,12,,5868124,2026-11-08T14:00:00Z,Espanyol,Deportivo A Coruña,,,False,False,False,SPA1
+12,12,,5868125,2026-11-08T14:00:00Z,Málaga,Racing Santander,,,False,False,False,SPA1
+12,12,,5868126,2026-11-08T14:00:00Z,Osasuna,Athletic Club,,,False,False,False,SPA1
+12,12,,5868127,2026-11-08T14:00:00Z,Real Sociedad,Rayo Vallecano,,,False,False,False,SPA1
+12,12,,5868128,2026-11-08T14:00:00Z,Sevilla,Deportivo Alavés,,,False,False,False,SPA1
+12,12,,5868129,2026-11-08T14:00:00Z,Valencia,Real Madrid,,,False,False,False,SPA1
+12,12,,5868130,2026-11-08T14:00:00Z,Villarreal,Getafe,,,False,False,False,SPA1
+13,13,,5868131,2026-11-22T14:00:00Z,Deportivo Alavés,Deportivo A Coruña,,,False,False,False,SPA1
+13,13,,5868132,2026-11-22T14:00:00Z,Athletic Club,Espanyol,,,False,False,False,SPA1
+13,13,,5868133,2026-11-22T14:00:00Z,Barcelona,Villarreal,,,False,False,False,SPA1
+13,13,,5868134,2026-11-22T14:00:00Z,Getafe,Atlético Madrid,,,False,False,False,SPA1
+13,13,,5868135,2026-11-22T14:00:00Z,Levante,Elche,,,False,False,False,SPA1
+13,13,,5868136,2026-11-22T14:00:00Z,Osasuna,Málaga,,,False,False,False,SPA1
+13,13,,5868137,2026-11-22T14:00:00Z,Racing Santander,Real Sociedad,,,False,False,False,SPA1
+13,13,,5868138,2026-11-22T14:00:00Z,Rayo Vallecano,Valencia,,,False,False,False,SPA1
+13,13,,5868139,2026-11-22T14:00:00Z,Real Madrid,Celta Vigo,,,False,False,False,SPA1
+13,13,,5868140,2026-11-22T14:00:00Z,Sevilla,Real Betis,,,False,False,False,SPA1
+14,14,,5868141,2026-11-29T14:00:00Z,Real Betis,Rayo Vallecano,,,False,False,False,SPA1
+14,14,,5868142,2026-11-29T14:00:00Z,Celta Vigo,Villarreal,,,False,False,False,SPA1
+14,14,,5868143,2026-11-29T14:00:00Z,Deportivo A Coruña,Barcelona,,,False,False,False,SPA1
+14,14,,5868144,2026-11-29T14:00:00Z,Elche,Atlético Madrid,,,False,False,False,SPA1
+14,14,,5868145,2026-11-29T14:00:00Z,Espanyol,Getafe,,,False,False,False,SPA1
+14,14,,5868146,2026-11-29T14:00:00Z,Levante,Racing Santander,,,False,False,False,SPA1
+14,14,,5868147,2026-11-29T14:00:00Z,Málaga,Athletic Club,,,False,False,False,SPA1
+14,14,,5868148,2026-11-29T14:00:00Z,Real Madrid,Deportivo Alavés,,,False,False,False,SPA1
+14,14,,5868149,2026-11-29T14:00:00Z,Real Sociedad,Sevilla,,,False,False,False,SPA1
+14,14,,5868150,2026-11-29T14:00:00Z,Valencia,Osasuna,,,False,False,False,SPA1
+15,15,,5868151,2026-12-06T14:00:00Z,Deportivo Alavés,Espanyol,,,False,False,False,SPA1
+15,15,,5868152,2026-12-06T14:00:00Z,Athletic Club,Real Madrid,,,False,False,False,SPA1
+15,15,,5868153,2026-12-06T14:00:00Z,Atlético Madrid,Real Betis,,,False,False,False,SPA1
+15,15,,5868154,2026-12-06T14:00:00Z,Barcelona,Celta Vigo,,,False,False,False,SPA1
+15,15,,5868155,2026-12-06T14:00:00Z,Getafe,Valencia,,,False,False,False,SPA1
+15,15,,5868156,2026-12-06T14:00:00Z,Osasuna,Elche,,,False,False,False,SPA1
+15,15,,5868157,2026-12-06T14:00:00Z,Racing Santander,Deportivo A Coruña,,,False,False,False,SPA1
+15,15,,5868158,2026-12-06T14:00:00Z,Rayo Vallecano,Levante,,,False,False,False,SPA1
+15,15,,5868159,2026-12-06T14:00:00Z,Sevilla,Málaga,,,False,False,False,SPA1
+15,15,,5868160,2026-12-06T14:00:00Z,Villarreal,Real Sociedad,,,False,False,False,SPA1
+16,16,,5868161,2026-12-13T14:00:00Z,Atlético Madrid,Valencia,,,False,False,False,SPA1
+16,16,,5868162,2026-12-13T14:00:00Z,Real Betis,Racing Santander,,,False,False,False,SPA1
+16,16,,5868163,2026-12-13T14:00:00Z,Deportivo A Coruña,Athletic Club,,,False,False,False,SPA1
+16,16,,5868164,2026-12-13T14:00:00Z,Elche,Sevilla,,,False,False,False,SPA1
+16,16,,5868165,2026-12-13T14:00:00Z,Espanyol,Celta Vigo,,,False,False,False,SPA1
+16,16,,5868166,2026-12-13T14:00:00Z,Levante,Deportivo Alavés,,,False,False,False,SPA1
+16,16,,5868167,2026-12-13T14:00:00Z,Málaga,Barcelona,,,False,False,False,SPA1
+16,16,,5868168,2026-12-13T14:00:00Z,Real Madrid,Osasuna,,,False,False,False,SPA1
+16,16,,5868169,2026-12-13T14:00:00Z,Real Sociedad,Getafe,,,False,False,False,SPA1
+16,16,,5868170,2026-12-13T14:00:00Z,Villarreal,Rayo Vallecano,,,False,False,False,SPA1
+17,17,,5868171,2026-12-20T14:00:00Z,Deportivo Alavés,Elche,,,False,False,False,SPA1
+17,17,,5868172,2026-12-20T14:00:00Z,Athletic Club,Real Betis,,,False,False,False,SPA1
+17,17,,5868173,2026-12-20T14:00:00Z,Celta Vigo,Atlético Madrid,,,False,False,False,SPA1
+17,17,,5868174,2026-12-20T14:00:00Z,Deportivo A Coruña,Real Madrid,,,False,False,False,SPA1
+17,17,,5868175,2026-12-20T14:00:00Z,Barcelona,Real Sociedad,,,False,False,False,SPA1
+17,17,,5868176,2026-12-20T14:00:00Z,Getafe,Levante,,,False,False,False,SPA1
+17,17,,5868177,2026-12-20T14:00:00Z,Osasuna,Villarreal,,,False,False,False,SPA1
+17,17,,5868178,2026-12-20T14:00:00Z,Rayo Vallecano,Málaga,,,False,False,False,SPA1
+17,17,,5868179,2026-12-20T14:00:00Z,Sevilla,Racing Santander,,,False,False,False,SPA1
+17,17,,5868180,2026-12-20T14:00:00Z,Valencia,Espanyol,,,False,False,False,SPA1
+18,18,,5868181,2027-01-03T14:00:00Z,Real Betis,Deportivo Alavés,,,False,False,False,SPA1
+18,18,,5868182,2027-01-03T14:00:00Z,Celta Vigo,Deportivo A Coruña,,,False,False,False,SPA1
+18,18,,5868183,2027-01-03T14:00:00Z,Espanyol,Barcelona,,,False,False,False,SPA1
+18,18,,5868184,2027-01-03T14:00:00Z,Levante,Valencia,,,False,False,False,SPA1
+18,18,,5868185,2027-01-03T14:00:00Z,Málaga,Elche,,,False,False,False,SPA1
+18,18,,5868186,2027-01-03T14:00:00Z,Racing Santander,Athletic Club,,,False,False,False,SPA1
+18,18,,5868187,2027-01-03T14:00:00Z,Rayo Vallecano,Atlético Madrid,,,False,False,False,SPA1
+18,18,,5868188,2027-01-03T14:00:00Z,Real Madrid,Getafe,,,False,False,False,SPA1
+18,18,,5868189,2027-01-03T14:00:00Z,Real Sociedad,Osasuna,,,False,False,False,SPA1
+18,18,,5868190,2027-01-03T14:00:00Z,Villarreal,Sevilla,,,False,False,False,SPA1
+19,19,,5868191,2027-01-10T14:00:00Z,Deportivo Alavés,Real Sociedad,,,False,False,False,SPA1
+19,19,,5868192,2027-01-10T14:00:00Z,Athletic Club,Villarreal,,,False,False,False,SPA1
+19,19,,5868193,2027-01-10T14:00:00Z,Atlético Madrid,Racing Santander,,,False,False,False,SPA1
+19,19,,5868194,2027-01-10T14:00:00Z,Deportivo A Coruña,Rayo Vallecano,,,False,False,False,SPA1
+19,19,,5868195,2027-01-10T14:00:00Z,Elche,Getafe,,,False,False,False,SPA1
+19,19,,5868196,2027-01-10T14:00:00Z,Espanyol,Real Betis,,,False,False,False,SPA1
+19,19,,5868197,2027-01-10T14:00:00Z,Osasuna,Barcelona,,,False,False,False,SPA1
+19,19,,5868198,2027-01-10T14:00:00Z,Real Madrid,Levante,,,False,False,False,SPA1
+19,19,,5868199,2027-01-10T14:00:00Z,Sevilla,Celta Vigo,,,False,False,False,SPA1
+19,19,,5868200,2027-01-10T14:00:00Z,Valencia,Málaga,,,False,False,False,SPA1
+20,20,,5868201,2027-01-17T14:00:00Z,Atlético Madrid,Real Sociedad,,,False,False,False,SPA1
+20,20,,5868202,2027-01-17T14:00:00Z,Real Betis,Deportivo A Coruña,,,False,False,False,SPA1
+20,20,,5868203,2027-01-17T14:00:00Z,Celta Vigo,Valencia,,,False,False,False,SPA1
+20,20,,5868204,2027-01-17T14:00:00Z,Barcelona,Elche,,,False,False,False,SPA1
+20,20,,5868205,2027-01-17T14:00:00Z,Getafe,Athletic Club,,,False,False,False,SPA1
+20,20,,5868206,2027-01-17T14:00:00Z,Levante,Espanyol,,,False,False,False,SPA1
+20,20,,5868207,2027-01-17T14:00:00Z,Málaga,Real Madrid,,,False,False,False,SPA1
+20,20,,5868208,2027-01-17T14:00:00Z,Racing Santander,Osasuna,,,False,False,False,SPA1
+20,20,,5868209,2027-01-17T14:00:00Z,Rayo Vallecano,Sevilla,,,False,False,False,SPA1
+20,20,,5868210,2027-01-17T14:00:00Z,Villarreal,Deportivo Alavés,,,False,False,False,SPA1
+21,21,,5868211,2027-01-24T14:00:00Z,Deportivo Alavés,Barcelona,,,False,False,False,SPA1
+21,21,,5868212,2027-01-24T14:00:00Z,Athletic Club,Levante,,,False,False,False,SPA1
+21,21,,5868213,2027-01-24T14:00:00Z,Deportivo A Coruña,Atlético Madrid,,,False,False,False,SPA1
+21,21,,5868214,2027-01-24T14:00:00Z,Elche,Rayo Vallecano,,,False,False,False,SPA1
+21,21,,5868215,2027-01-24T14:00:00Z,Espanyol,Villarreal,,,False,False,False,SPA1
+21,21,,5868216,2027-01-24T14:00:00Z,Getafe,Osasuna,,,False,False,False,SPA1
+21,21,,5868217,2027-01-24T14:00:00Z,Racing Santander,Celta Vigo,,,False,False,False,SPA1
+21,21,,5868218,2027-01-24T14:00:00Z,Real Madrid,Real Betis,,,False,False,False,SPA1
+21,21,,5868219,2027-01-24T14:00:00Z,Real Sociedad,Málaga,,,False,False,False,SPA1
+21,21,,5868220,2027-01-24T14:00:00Z,Valencia,Sevilla,,,False,False,False,SPA1
+22,22,,5868221,2027-01-31T14:00:00Z,Atlético Madrid,Espanyol,,,False,False,False,SPA1
+22,22,,5868222,2027-01-31T14:00:00Z,Real Betis,Elche,,,False,False,False,SPA1
+22,22,,5868223,2027-01-31T14:00:00Z,Celta Vigo,Getafe,,,False,False,False,SPA1
+22,22,,5868224,2027-01-31T14:00:00Z,Barcelona,Valencia,,,False,False,False,SPA1
+22,22,,5868225,2027-01-31T14:00:00Z,Levante,Real Sociedad,,,False,False,False,SPA1
+22,22,,5868226,2027-01-31T14:00:00Z,Málaga,Deportivo Alavés,,,False,False,False,SPA1
+22,22,,5868227,2027-01-31T14:00:00Z,Osasuna,Deportivo A Coruña,,,False,False,False,SPA1
+22,22,,5868228,2027-01-31T14:00:00Z,Rayo Vallecano,Real Madrid,,,False,False,False,SPA1
+22,22,,5868229,2027-01-31T14:00:00Z,Sevilla,Athletic Club,,,False,False,False,SPA1
+22,22,,5868230,2027-01-31T14:00:00Z,Villarreal,Racing Santander,,,False,False,False,SPA1
+23,23,,5868231,2027-02-07T14:00:00Z,Deportivo Alavés,Celta Vigo,,,False,False,False,SPA1
+23,23,,5868232,2027-02-07T14:00:00Z,Athletic Club,Osasuna,,,False,False,False,SPA1
+23,23,,5868233,2027-02-07T14:00:00Z,Real Betis,Sevilla,,,False,False,False,SPA1
+23,23,,5868234,2027-02-07T14:00:00Z,Deportivo A Coruña,Málaga,,,False,False,False,SPA1
+23,23,,5868235,2027-02-07T14:00:00Z,Elche,Levante,,,False,False,False,SPA1
+23,23,,5868236,2027-02-07T14:00:00Z,Espanyol,Rayo Vallecano,,,False,False,False,SPA1
+23,23,,5868237,2027-02-07T14:00:00Z,Barcelona,Atlético Madrid,,,False,False,False,SPA1
+23,23,,5868238,2027-02-07T14:00:00Z,Getafe,Villarreal,,,False,False,False,SPA1
+23,23,,5868239,2027-02-07T14:00:00Z,Real Sociedad,Real Madrid,,,False,False,False,SPA1
+23,23,,5868240,2027-02-07T14:00:00Z,Valencia,Racing Santander,,,False,False,False,SPA1
+24,24,,5868241,2027-02-14T14:00:00Z,Celta Vigo,Rayo Vallecano,,,False,False,False,SPA1
+24,24,,5868242,2027-02-14T14:00:00Z,Elche,Deportivo A Coruña,,,False,False,False,SPA1
+24,24,,5868243,2027-02-14T14:00:00Z,Levante,Málaga,,,False,False,False,SPA1
+24,24,,5868244,2027-02-14T14:00:00Z,Osasuna,Atlético Madrid,,,False,False,False,SPA1
+24,24,,5868245,2027-02-14T14:00:00Z,Racing Santander,Getafe,,,False,False,False,SPA1
+24,24,,5868246,2027-02-14T14:00:00Z,Real Madrid,Athletic Club,,,False,False,False,SPA1
+24,24,,5868247,2027-02-14T14:00:00Z,Real Sociedad,Real Betis,,,False,False,False,SPA1
+24,24,,5868248,2027-02-14T14:00:00Z,Sevilla,Espanyol,,,False,False,False,SPA1
+24,24,,5868249,2027-02-14T14:00:00Z,Valencia,Deportivo Alavés,,,False,False,False,SPA1
+24,24,,5868250,2027-02-14T14:00:00Z,Villarreal,Barcelona,,,False,False,False,SPA1
+25,25,,5868251,2027-02-21T14:00:00Z,Deportivo Alavés,Racing Santander,,,False,False,False,SPA1
+25,25,,5868252,2027-02-21T14:00:00Z,Athletic Club,Celta Vigo,,,False,False,False,SPA1
+25,25,,5868253,2027-02-21T14:00:00Z,Atlético Madrid,Elche,,,False,False,False,SPA1
+25,25,,5868254,2027-02-21T14:00:00Z,Deportivo A Coruña,Real Sociedad,,,False,False,False,SPA1
+25,25,,5868255,2027-02-21T14:00:00Z,Espanyol,Osasuna,,,False,False,False,SPA1
+25,25,,5868256,2027-02-21T14:00:00Z,Barcelona,Levante,,,False,False,False,SPA1
+25,25,,5868257,2027-02-21T14:00:00Z,Málaga,Real Betis,,,False,False,False,SPA1
+25,25,,5868258,2027-02-21T14:00:00Z,Rayo Vallecano,Getafe,,,False,False,False,SPA1
+25,25,,5868259,2027-02-21T14:00:00Z,Sevilla,Real Madrid,,,False,False,False,SPA1
+25,25,,5868260,2027-02-21T14:00:00Z,Villarreal,Valencia,,,False,False,False,SPA1
+26,26,,5868261,2027-02-28T14:00:00Z,Athletic Club,Barcelona,,,False,False,False,SPA1
+26,26,,5868262,2027-02-28T14:00:00Z,Real Betis,Villarreal,,,False,False,False,SPA1
+26,26,,5868263,2027-02-28T14:00:00Z,Celta Vigo,Espanyol,,,False,False,False,SPA1
+26,26,,5868264,2027-02-28T14:00:00Z,Getafe,Deportivo Alavés,,,False,False,False,SPA1
+26,26,,5868265,2027-02-28T14:00:00Z,Levante,Deportivo A Coruña,,,False,False,False,SPA1
+26,26,,5868266,2027-02-28T14:00:00Z,Málaga,Atlético Madrid,,,False,False,False,SPA1
+26,26,,5868267,2027-02-28T14:00:00Z,Osasuna,Sevilla,,,False,False,False,SPA1
+26,26,,5868268,2027-02-28T14:00:00Z,Racing Santander,Rayo Vallecano,,,False,False,False,SPA1
+26,26,,5868269,2027-02-28T14:00:00Z,Real Madrid,Valencia,,,False,False,False,SPA1
+26,26,,5868270,2027-02-28T14:00:00Z,Real Sociedad,Elche,,,False,False,False,SPA1
+27,27,,5868271,2027-03-07T14:00:00Z,Deportivo Alavés,Athletic Club,,,False,False,False,SPA1
+27,27,,5868272,2027-03-07T14:00:00Z,Atlético Madrid,Celta Vigo,,,False,False,False,SPA1
+27,27,,5868273,2027-03-07T14:00:00Z,Deportivo A Coruña,Getafe,,,False,False,False,SPA1
+27,27,,5868274,2027-03-07T14:00:00Z,Elche,Málaga,,,False,False,False,SPA1
+27,27,,5868275,2027-03-07T14:00:00Z,Espanyol,Racing Santander,,,False,False,False,SPA1
+27,27,,5868276,2027-03-07T14:00:00Z,Barcelona,Real Betis,,,False,False,False,SPA1
+27,27,,5868277,2027-03-07T14:00:00Z,Rayo Vallecano,Osasuna,,,False,False,False,SPA1
+27,27,,5868278,2027-03-07T14:00:00Z,Sevilla,Real Sociedad,,,False,False,False,SPA1
+27,27,,5868279,2027-03-07T14:00:00Z,Valencia,Levante,,,False,False,False,SPA1
+27,27,,5868280,2027-03-07T14:00:00Z,Villarreal,Real Madrid,,,False,False,False,SPA1
+28,28,,5868281,2027-03-14T14:00:00Z,Deportivo Alavés,Sevilla,,,False,False,False,SPA1
+28,28,,5868282,2027-03-14T14:00:00Z,Athletic Club,Valencia,,,False,False,False,SPA1
+28,28,,5868283,2027-03-14T14:00:00Z,Real Betis,Levante,,,False,False,False,SPA1
+28,28,,5868284,2027-03-14T14:00:00Z,Elche,Villarreal,,,False,False,False,SPA1
+28,28,,5868285,2027-03-14T14:00:00Z,Barcelona,Deportivo A Coruña,,,False,False,False,SPA1
+28,28,,5868286,2027-03-14T14:00:00Z,Getafe,Real Sociedad,,,False,False,False,SPA1
+28,28,,5868287,2027-03-14T14:00:00Z,Málaga,Rayo Vallecano,,,False,False,False,SPA1
+28,28,,5868288,2027-03-14T14:00:00Z,Osasuna,Celta Vigo,,,False,False,False,SPA1
+28,28,,5868289,2027-03-14T14:00:00Z,Racing Santander,Atlético Madrid,,,False,False,False,SPA1
+28,28,,5868290,2027-03-14T14:00:00Z,Real Madrid,Espanyol,,,False,False,False,SPA1
+29,29,,5868291,2027-03-21T14:00:00Z,Atlético Madrid,Getafe,,,False,False,False,SPA1
+29,29,,5868292,2027-03-21T14:00:00Z,Celta Vigo,Real Madrid,,,False,False,False,SPA1
+29,29,,5868293,2027-03-21T14:00:00Z,Espanyol,Athletic Club,,,False,False,False,SPA1
+29,29,,5868294,2027-03-21T14:00:00Z,Levante,Osasuna,,,False,False,False,SPA1
+29,29,,5868295,2027-03-21T14:00:00Z,Racing Santander,Real Betis,,,False,False,False,SPA1
+29,29,,5868296,2027-03-21T14:00:00Z,Rayo Vallecano,Barcelona,,,False,False,False,SPA1
+29,29,,5868297,2027-03-21T14:00:00Z,Real Sociedad,Deportivo Alavés,,,False,False,False,SPA1
+29,29,,5868298,2027-03-21T14:00:00Z,Sevilla,Elche,,,False,False,False,SPA1
+29,29,,5868299,2027-03-21T14:00:00Z,Valencia,Deportivo A Coruña,,,False,False,False,SPA1
+29,29,,5868300,2027-03-21T14:00:00Z,Villarreal,Málaga,,,False,False,False,SPA1
+30,30,,5868301,2027-04-04T13:00:00Z,Athletic Club,Racing Santander,,,False,False,False,SPA1
+30,30,,5868302,2027-04-04T13:00:00Z,Real Betis,Celta Vigo,,,False,False,False,SPA1
+30,30,,5868303,2027-04-04T13:00:00Z,Deportivo A Coruña,Villarreal,,,False,False,False,SPA1
+30,30,,5868304,2027-04-04T13:00:00Z,Elche,Deportivo Alavés,,,False,False,False,SPA1
+30,30,,5868305,2027-04-04T13:00:00Z,Barcelona,Sevilla,,,False,False,False,SPA1
+30,30,,5868306,2027-04-04T13:00:00Z,Getafe,Espanyol,,,False,False,False,SPA1
+30,30,,5868307,2027-04-04T13:00:00Z,Levante,Rayo Vallecano,,,False,False,False,SPA1
+30,30,,5868308,2027-04-04T13:00:00Z,Málaga,Osasuna,,,False,False,False,SPA1
+30,30,,5868309,2027-04-04T13:00:00Z,Real Madrid,Atlético Madrid,,,False,False,False,SPA1
+30,30,,5868310,2027-04-04T13:00:00Z,Real Sociedad,Valencia,,,False,False,False,SPA1
+31,31,,5868311,2027-04-11T13:00:00Z,Deportivo Alavés,Real Betis,,,False,False,False,SPA1
+31,31,,5868312,2027-04-11T13:00:00Z,Atlético Madrid,Levante,,,False,False,False,SPA1
+31,31,,5868313,2027-04-11T13:00:00Z,Celta Vigo,Elche,,,False,False,False,SPA1
+31,31,,5868314,2027-04-11T13:00:00Z,Espanyol,Málaga,,,False,False,False,SPA1
+31,31,,5868315,2027-04-11T13:00:00Z,Osasuna,Real Madrid,,,False,False,False,SPA1
+31,31,,5868316,2027-04-11T13:00:00Z,Racing Santander,Barcelona,,,False,False,False,SPA1
+31,31,,5868317,2027-04-11T13:00:00Z,Rayo Vallecano,Real Sociedad,,,False,False,False,SPA1
+31,31,,5868318,2027-04-11T13:00:00Z,Sevilla,Deportivo A Coruña,,,False,False,False,SPA1
+31,31,,5868319,2027-04-11T13:00:00Z,Valencia,Getafe,,,False,False,False,SPA1
+31,31,,5868320,2027-04-11T13:00:00Z,Villarreal,Athletic Club,,,False,False,False,SPA1
+32,32,,5868321,2027-04-18T13:00:00Z,Deportivo Alavés,Rayo Vallecano,,,False,False,False,SPA1
+32,32,,5868322,2027-04-18T13:00:00Z,Atlético Madrid,Sevilla,,,False,False,False,SPA1
+32,32,,5868323,2027-04-18T13:00:00Z,Real Betis,Athletic Club,,,False,False,False,SPA1
+32,32,,5868324,2027-04-18T13:00:00Z,Deportivo A Coruña,Celta Vigo,,,False,False,False,SPA1
+32,32,,5868325,2027-04-18T13:00:00Z,Elche,Osasuna,,,False,False,False,SPA1
+32,32,,5868326,2027-04-18T13:00:00Z,Barcelona,Espanyol,,,False,False,False,SPA1
+32,32,,5868327,2027-04-18T13:00:00Z,Getafe,Real Madrid,,,False,False,False,SPA1
+32,32,,5868328,2027-04-18T13:00:00Z,Levante,Villarreal,,,False,False,False,SPA1
+32,32,,5868329,2027-04-18T13:00:00Z,Málaga,Valencia,,,False,False,False,SPA1
+32,32,,5868330,2027-04-18T13:00:00Z,Real Sociedad,Racing Santander,,,False,False,False,SPA1
+33,33,,5868331,2027-04-21T13:00:00Z,Athletic Club,Deportivo A Coruña,,,False,False,False,SPA1
+33,33,,5868332,2027-04-21T13:00:00Z,Celta Vigo,Barcelona,,,False,False,False,SPA1
+33,33,,5868333,2027-04-21T13:00:00Z,Espanyol,Real Sociedad,,,False,False,False,SPA1
+33,33,,5868334,2027-04-21T13:00:00Z,Getafe,Real Betis,,,False,False,False,SPA1
+33,33,,5868335,2027-04-21T13:00:00Z,Osasuna,Deportivo Alavés,,,False,False,False,SPA1
+33,33,,5868336,2027-04-21T13:00:00Z,Racing Santander,Málaga,,,False,False,False,SPA1
+33,33,,5868337,2027-04-21T13:00:00Z,Real Madrid,Elche,,,False,False,False,SPA1
+33,33,,5868338,2027-04-21T13:00:00Z,Sevilla,Levante,,,False,False,False,SPA1
+33,33,,5868339,2027-04-21T13:00:00Z,Valencia,Rayo Vallecano,,,False,False,False,SPA1
+33,33,,5868340,2027-04-21T13:00:00Z,Villarreal,Atlético Madrid,,,False,False,False,SPA1
+34,34,,5868341,2027-05-02T13:00:00Z,Atlético Madrid,Deportivo Alavés,,,False,False,False,SPA1
+34,34,,5868342,2027-05-02T13:00:00Z,Real Betis,Valencia,,,False,False,False,SPA1
+34,34,,5868343,2027-05-02T13:00:00Z,Celta Vigo,Sevilla,,,False,False,False,SPA1
+34,34,,5868344,2027-05-02T13:00:00Z,Deportivo A Coruña,Racing Santander,,,False,False,False,SPA1
+34,34,,5868345,2027-05-02T13:00:00Z,Elche,Espanyol,,,False,False,False,SPA1
+34,34,,5868346,2027-05-02T13:00:00Z,Barcelona,Osasuna,,,False,False,False,SPA1
+34,34,,5868347,2027-05-02T13:00:00Z,Levante,Real Madrid,,,False,False,False,SPA1
+34,34,,5868348,2027-05-02T13:00:00Z,Málaga,Getafe,,,False,False,False,SPA1
+34,34,,5868349,2027-05-02T13:00:00Z,Rayo Vallecano,Villarreal,,,False,False,False,SPA1
+34,34,,5868350,2027-05-02T13:00:00Z,Real Sociedad,Athletic Club,,,False,False,False,SPA1
+35,35,,5868351,2027-05-09T13:00:00Z,Deportivo Alavés,Levante,,,False,False,False,SPA1
+35,35,,5868352,2027-05-09T13:00:00Z,Athletic Club,Málaga,,,False,False,False,SPA1
+35,35,,5868353,2027-05-09T13:00:00Z,Real Betis,Espanyol,,,False,False,False,SPA1
+35,35,,5868354,2027-05-09T13:00:00Z,Getafe,Elche,,,False,False,False,SPA1
+35,35,,5868355,2027-05-09T13:00:00Z,Osasuna,Real Sociedad,,,False,False,False,SPA1
+35,35,,5868356,2027-05-09T13:00:00Z,Racing Santander,Sevilla,,,False,False,False,SPA1
+35,35,,5868357,2027-05-09T13:00:00Z,Rayo Vallecano,Deportivo A Coruña,,,False,False,False,SPA1
+35,35,,5868358,2027-05-09T13:00:00Z,Real Madrid,Barcelona,,,False,False,False,SPA1
+35,35,,5868359,2027-05-09T13:00:00Z,Valencia,Atlético Madrid,,,False,False,False,SPA1
+35,35,,5868360,2027-05-09T13:00:00Z,Villarreal,Celta Vigo,,,False,False,False,SPA1
+36,36,,5868361,2027-05-16T13:00:00Z,Atlético Madrid,Rayo Vallecano,,,False,False,False,SPA1
+36,36,,5868362,2027-05-16T13:00:00Z,Deportivo A Coruña,Deportivo Alavés,,,False,False,False,SPA1
+36,36,,5868363,2027-05-16T13:00:00Z,Elche,Athletic Club,,,False,False,False,SPA1
+36,36,,5868364,2027-05-16T13:00:00Z,Espanyol,Valencia,,,False,False,False,SPA1
+36,36,,5868365,2027-05-16T13:00:00Z,Levante,Getafe,,,False,False,False,SPA1
+36,36,,5868366,2027-05-16T13:00:00Z,Málaga,Celta Vigo,,,False,False,False,SPA1
+36,36,,5868367,2027-05-16T13:00:00Z,Osasuna,Real Betis,,,False,False,False,SPA1
+36,36,,5868368,2027-05-16T13:00:00Z,Real Madrid,Racing Santander,,,False,False,False,SPA1
+36,36,,5868369,2027-05-16T13:00:00Z,Real Sociedad,Barcelona,,,False,False,False,SPA1
+36,36,,5868370,2027-05-16T13:00:00Z,Sevilla,Villarreal,,,False,False,False,SPA1
+37,37,,5868371,2027-05-23T13:00:00Z,Deportivo Alavés,Real Madrid,,,False,False,False,SPA1
+37,37,,5868372,2027-05-23T13:00:00Z,Atlético Madrid,Athletic Club,,,False,False,False,SPA1
+37,37,,5868373,2027-05-23T13:00:00Z,Celta Vigo,Real Sociedad,,,False,False,False,SPA1
+37,37,,5868374,2027-05-23T13:00:00Z,Deportivo A Coruña,Espanyol,,,False,False,False,SPA1
+37,37,,5868375,2027-05-23T13:00:00Z,Barcelona,Málaga,,,False,False,False,SPA1
+37,37,,5868376,2027-05-23T13:00:00Z,Racing Santander,Levante,,,False,False,False,SPA1
+37,37,,5868377,2027-05-23T13:00:00Z,Rayo Vallecano,Real Betis,,,False,False,False,SPA1
+37,37,,5868378,2027-05-23T13:00:00Z,Sevilla,Getafe,,,False,False,False,SPA1
+37,37,,5868379,2027-05-23T13:00:00Z,Valencia,Elche,,,False,False,False,SPA1
+37,37,,5868380,2027-05-23T13:00:00Z,Villarreal,Osasuna,,,False,False,False,SPA1
+38,38,,5868381,2027-05-30T13:00:00Z,Athletic Club,Rayo Vallecano,,,False,False,False,SPA1
+38,38,,5868382,2027-05-30T13:00:00Z,Real Betis,Atlético Madrid,,,False,False,False,SPA1
+38,38,,5868383,2027-05-30T13:00:00Z,Elche,Racing Santander,,,False,False,False,SPA1
+38,38,,5868384,2027-05-30T13:00:00Z,Espanyol,Deportivo Alavés,,,False,False,False,SPA1
+38,38,,5868385,2027-05-30T13:00:00Z,Getafe,Barcelona,,,False,False,False,SPA1
+38,38,,5868386,2027-05-30T13:00:00Z,Levante,Celta Vigo,,,False,False,False,SPA1
+38,38,,5868387,2027-05-30T13:00:00Z,Málaga,Sevilla,,,False,False,False,SPA1
+38,38,,5868388,2027-05-30T13:00:00Z,Osasuna,Valencia,,,False,False,False,SPA1
+38,38,,5868389,2027-05-30T13:00:00Z,Real Madrid,Deportivo A Coruña,,,False,False,False,SPA1
+38,38,,5868390,2027-05-30T13:00:00Z,Real Sociedad,Villarreal,,,False,False,False,SPA1
+7,7,,5868072,2026-09-20T14:15:00.000Z,Atlético Madrid,Real Madrid,2 - 1,FT,True,True,False,SPA1
+7,7,,5868074,2026-09-20T16:30:00.000Z,Deportivo A Coruña,Real Betis,1 - 1,FT,True,True,False,SPA1
+7,7,,5868076,2026-09-20T12:00:00.000Z,Getafe,Málaga,1 - 0,FT,True,True,False,SPA1
+7,7,,5868079,2026-09-20T19:00:00.000Z,Valencia,Real Sociedad,1 - 2,,False,True,False,SPA1
+7,7,,5868080,2026-09-20T16:30:00.000Z,Villarreal,Levante,3 - 1,FT,True,True,False,SPA1

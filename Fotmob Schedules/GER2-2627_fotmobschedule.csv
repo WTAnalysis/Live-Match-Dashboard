@@ -1,0 +1,307 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5881627,2026-08-07T18:30:00Z,Bochum,Hertha BSC,0 - 1,FT,True,True,False,GER2
+1,1,,5881629,2026-08-08T11:00:00Z,Darmstadt,Holstein Kiel,2 - 2,FT,True,True,False,GER2
+1,1,,5881630,2026-08-08T11:00:00Z,FC Heidenheim,VfL Osnabrück,4 - 3,FT,True,True,False,GER2
+1,1,,5881631,2026-08-08T11:00:00Z,Karlsruher SC,Arminia Bielefeld,2 - 1,FT,True,True,False,GER2
+1,1,,5881632,2026-08-08T11:00:00Z,Magdeburg,Eintracht Braunschweig,1 - 6,FT,True,True,False,GER2
+1,1,,5881635,2026-08-08T18:30:00Z,Wolfsburg,Kaiserslautern,0 - 0,FT,True,True,False,GER2
+1,1,,5881628,2026-08-09T11:30:00Z,Energie Cottbus,Hannover 96,3 - 1,FT,True,True,False,GER2
+1,1,,5881633,2026-08-09T11:30:00Z,1. FC Nürnberg,Dynamo Dresden,3 - 0,FT,True,True,False,GER2
+1,1,,5881634,2026-08-09T11:30:00Z,St. Pauli,Greuther Fürth,1 - 1,FT,True,True,False,GER2
+2,2,,5881637,2026-08-14T16:30:00Z,Eintracht Braunschweig,Bochum,0 - 1,FT,True,True,False,GER2
+2,2,,5881641,2026-08-14T16:30:00Z,Holstein Kiel,St. Pauli,2 - 2,FT,True,True,False,GER2
+2,2,,5881638,2026-08-15T11:00:00Z,Greuther Fürth,1. FC Nürnberg,2 - 4,FT,True,True,False,GER2
+2,2,,5881640,2026-08-15T11:00:00Z,Hertha BSC,FC Heidenheim,4 - 1,FT,True,True,False,GER2
+2,2,,5881644,2026-08-15T11:00:00Z,VfL Osnabrück,Magdeburg,0 - 3,FT,True,True,False,GER2
+2,2,,5881642,2026-08-15T18:30:00Z,Kaiserslautern,Karlsruher SC,0 - 0,FT,True,True,False,GER2
+2,2,,5881636,2026-08-16T11:30:00Z,Arminia Bielefeld,Energie Cottbus,3 - 0,FT,True,True,False,GER2
+2,2,,5881639,2026-08-16T11:30:00Z,Hannover 96,Wolfsburg,0 - 1,FT,True,True,False,GER2
+2,2,,5881643,2026-08-16T11:30:00Z,Dynamo Dresden,Darmstadt,1 - 0,FT,True,True,False,GER2
+3,3,,5881645,2026-08-28T16:30:00Z,Bochum,VfL Osnabrück,0 - 1,FT,True,True,False,GER2
+3,3,,5881646,2026-08-28T16:30:00Z,Eintracht Braunschweig,Hertha BSC,3 - 5,FT,True,True,False,GER2
+3,3,,5881647,2026-08-29T11:00:00Z,Energie Cottbus,Greuther Fürth,3 - 4,FT,True,True,False,GER2
+3,3,,5881649,2026-08-29T11:00:00Z,FC Heidenheim,Dynamo Dresden,5 - 3,FT,True,True,False,GER2
+3,3,,5881650,2026-08-29T11:00:00Z,Karlsruher SC,Wolfsburg,2 - 5,FT,True,True,False,GER2
+3,3,,5881652,2026-08-29T18:30:00Z,1. FC Nürnberg,Arminia Bielefeld,4 - 1,FT,True,True,False,GER2
+3,3,,5881648,2026-08-30T11:30:00Z,Darmstadt,Hannover 96,0 - 1,FT,True,True,False,GER2
+3,3,,5881651,2026-08-30T11:30:00Z,Magdeburg,Holstein Kiel,2 - 0,FT,True,True,False,GER2
+3,3,,5881653,2026-08-30T11:30:00Z,St. Pauli,Kaiserslautern,1 - 2,FT,True,True,False,GER2
+4,4,,5881654,2026-09-04T16:30:00Z,Arminia Bielefeld,St. Pauli,2 - 2,FT,True,True,False,GER2
+4,4,,5881656,2026-09-04T16:30:00Z,Hannover 96,Karlsruher SC,2 - 2,FT,True,True,False,GER2
+4,4,,5881658,2026-09-05T11:00:00Z,Holstein Kiel,1. FC Nürnberg,2 - 2,FT,True,True,False,GER2
+4,4,,5881659,2026-09-05T11:00:00Z,Kaiserslautern,Darmstadt,3 - 0,FT,True,True,False,GER2
+4,4,,5881662,2026-09-05T11:00:00Z,Wolfsburg,Energie Cottbus,4 - 4,FT,True,True,False,GER2
+4,4,,5881660,2026-09-05T18:30:00Z,Dynamo Dresden,Bochum,1 - 2,FT,True,True,False,GER2
+4,4,,5881655,2026-09-06T11:30:00Z,Greuther Fürth,FC Heidenheim,0 - 1,FT,True,True,False,GER2
+4,4,,5881657,2026-09-06T11:30:00Z,Hertha BSC,Magdeburg,2 - 1,FT,True,True,False,GER2
+4,4,,5881661,2026-09-06T11:30:00Z,VfL Osnabrück,Eintracht Braunschweig,3 - 1,FT,True,True,False,GER2
+5,5,,5881665,2026-09-11T16:30:00Z,Darmstadt,Arminia Bielefeld,2 - 1,FT,True,True,False,GER2
+5,5,,5881669,2026-09-11T16:30:00Z,1. FC Nürnberg,Hannover 96,2 - 1,FT,True,True,False,GER2
+5,5,,5881663,2026-09-12T11:00:00Z,Bochum,Greuther Fürth,1 - 1,FT,True,True,False,GER2
+5,5,,5881668,2026-09-12T11:00:00Z,Magdeburg,Kaiserslautern,3 - 0,FT,True,True,False,GER2
+5,5,,5881664,2026-09-12T11:15:00Z,Eintracht Braunschweig,Dynamo Dresden,2 - 2,FT,True,True,False,GER2
+5,5,,5881670,2026-09-12T18:30:00Z,St. Pauli,Wolfsburg,1 - 0,FT,True,True,False,GER2
+5,5,,5881666,2026-09-13T11:30:00Z,FC Heidenheim,Holstein Kiel,1 - 0,FT,True,True,False,GER2
+5,5,,5881667,2026-09-13T11:30:00Z,Karlsruher SC,Energie Cottbus,0 - 3,FT,True,True,False,GER2
+5,5,,5881671,2026-09-13T11:30:00Z,VfL Osnabrück,Hertha BSC,1 - 3,FT,True,True,False,GER2
+6,6,,5881674,2026-09-18T16:30:00Z,Greuther Fürth,Magdeburg,1 - 1,FT,True,True,False,GER2
+6,6,,5881680,2026-09-18T16:30:00Z,Wolfsburg,Darmstadt,5 - 1,FT,True,True,False,GER2
+6,6,,5881676,2026-09-19T11:00:00Z,Holstein Kiel,VfL Osnabrück,1 - 1,FT,True,True,False,GER2
+6,6,,5881677,2026-09-19T11:00:00Z,Kaiserslautern,Eintracht Braunschweig,1 - 0,FT,True,True,False,GER2
+6,6,,5881678,2026-09-19T11:00:00Z,Karlsruher SC,1. FC Nürnberg,0 - 1,FT,True,True,False,GER2
+6,6,,5881679,2026-09-19T18:30:00Z,Dynamo Dresden,Hertha BSC,1 - 2,FT,True,True,False,GER2
+7,7,,5881682,2026-10-09T16:30:00Z,Eintracht Braunschweig,Holstein Kiel,,,False,False,False,GER2
+7,7,,5881684,2026-10-09T16:30:00Z,FC Heidenheim,Kaiserslautern,,,False,False,False,GER2
+7,7,,5881683,2026-10-10T11:00:00Z,Darmstadt,Energie Cottbus,,,False,False,False,GER2
+7,7,,5881686,2026-10-10T11:00:00Z,Magdeburg,Hannover 96,,,False,False,False,GER2
+7,7,,5881689,2026-10-10T11:00:00Z,VfL Osnabrück,Dynamo Dresden,,,False,False,False,GER2
+7,7,,5881687,2026-10-10T18:30:00Z,1. FC Nürnberg,Wolfsburg,,,False,False,False,GER2
+7,7,,5881681,2026-10-11T11:30:00Z,Bochum,Arminia Bielefeld,,,False,False,False,GER2
+7,7,,5881685,2026-10-11T11:30:00Z,Hertha BSC,Greuther Fürth,,,False,False,False,GER2
+7,7,,5881688,2026-10-11T11:30:00Z,St. Pauli,Karlsruher SC,,,False,False,False,GER2
+8,8,,5881691,2026-10-16T16:30:00Z,Energie Cottbus,1. FC Nürnberg,,,False,False,False,GER2
+8,8,,5881694,2026-10-16T16:30:00Z,Holstein Kiel,Hertha BSC,,,False,False,False,GER2
+8,8,,5881692,2026-10-17T11:00:00Z,Greuther Fürth,Eintracht Braunschweig,,,False,False,False,GER2
+8,8,,5881695,2026-10-17T11:00:00Z,Kaiserslautern,Bochum,,,False,False,False,GER2
+8,8,,5881698,2026-10-17T11:00:00Z,Wolfsburg,FC Heidenheim,,,False,False,False,GER2
+8,8,,5881693,2026-10-17T18:30:00Z,Hannover 96,St. Pauli,,,False,False,False,GER2
+8,8,,5881690,2026-10-18T11:30:00Z,Arminia Bielefeld,VfL Osnabrück,,,False,False,False,GER2
+8,8,,5881696,2026-10-18T11:30:00Z,Karlsruher SC,Darmstadt,,,False,False,False,GER2
+8,8,,5881697,2026-10-18T11:30:00Z,Dynamo Dresden,Magdeburg,,,False,False,False,GER2
+9,9,,5881699,2026-10-23T16:30:00Z,Bochum,Wolfsburg,,,False,False,False,GER2
+9,9,,5881701,2026-10-23T16:30:00Z,Darmstadt,St. Pauli,,,False,False,False,GER2
+9,9,,5881702,2026-10-24T11:00:00Z,FC Heidenheim,Energie Cottbus,,,False,False,False,GER2
+9,9,,5881703,2026-10-24T11:00:00Z,Hertha BSC,Arminia Bielefeld,,,False,False,False,GER2
+9,9,,5881705,2026-10-24T11:00:00Z,Magdeburg,Karlsruher SC,,,False,False,False,GER2
+9,9,,5881706,2026-10-24T18:30:00Z,1. FC Nürnberg,Kaiserslautern,,,False,False,False,GER2
+9,9,,5881700,2026-10-25T12:30:00Z,Eintracht Braunschweig,Hannover 96,,,False,False,False,GER2
+9,9,,5881704,2026-10-25T12:30:00Z,Holstein Kiel,Dynamo Dresden,,,False,False,False,GER2
+9,9,,5881707,2026-10-25T12:30:00Z,VfL Osnabrück,Greuther Fürth,,,False,False,False,GER2
+10,10,,5881708,2026-10-30T17:30:00Z,Arminia Bielefeld,Eintracht Braunschweig,,,False,False,False,GER2
+10,10,,5881709,2026-10-30T17:30:00Z,Energie Cottbus,Bochum,,,False,False,False,GER2
+10,10,,5881710,2026-10-31T12:00:00Z,Darmstadt,Magdeburg,,,False,False,False,GER2
+10,10,,5881713,2026-10-31T12:00:00Z,Kaiserslautern,Hertha BSC,,,False,False,False,GER2
+10,10,,5881716,2026-10-31T12:00:00Z,Wolfsburg,VfL Osnabrück,,,False,False,False,GER2
+10,10,,5881714,2026-10-31T19:30:00Z,Karlsruher SC,FC Heidenheim,,,False,False,False,GER2
+10,10,,5881711,2026-11-01T12:30:00Z,Greuther Fürth,Holstein Kiel,,,False,False,False,GER2
+10,10,,5881712,2026-11-01T12:30:00Z,Hannover 96,Dynamo Dresden,,,False,False,False,GER2
+10,10,,5881715,2026-11-01T12:30:00Z,St. Pauli,1. FC Nürnberg,,,False,False,False,GER2
+11,11,,5881718,2026-11-06T17:30:00Z,Eintracht Braunschweig,Energie Cottbus,,,False,False,False,GER2
+11,11,,5881724,2026-11-06T17:30:00Z,Dynamo Dresden,Greuther Fürth,,,False,False,False,GER2
+11,11,,5881721,2026-11-07T12:00:00Z,Holstein Kiel,Arminia Bielefeld,,,False,False,False,GER2
+11,11,,5881723,2026-11-07T12:00:00Z,1. FC Nürnberg,Darmstadt,,,False,False,False,GER2
+11,11,,5881725,2026-11-07T12:00:00Z,VfL Osnabrück,Kaiserslautern,,,False,False,False,GER2
+11,11,,5881720,2026-11-07T19:30:00Z,Hertha BSC,Wolfsburg,,,False,False,False,GER2
+11,11,,5881717,2026-11-08T12:30:00Z,Bochum,Karlsruher SC,,,False,False,False,GER2
+11,11,,5881719,2026-11-08T12:30:00Z,FC Heidenheim,Hannover 96,,,False,False,False,GER2
+11,11,,5881722,2026-11-08T12:30:00Z,Magdeburg,St. Pauli,,,False,False,False,GER2
+12,12,,5881726,2026-11-20T17:30:00Z,Arminia Bielefeld,Magdeburg,,,False,False,False,GER2
+12,12,,5881728,2026-11-20T17:30:00Z,Darmstadt,FC Heidenheim,,,False,False,False,GER2
+12,12,,5881729,2026-11-21T12:00:00Z,Hannover 96,Greuther Fürth,,,False,False,False,GER2
+12,12,,5881732,2026-11-21T12:00:00Z,1. FC Nürnberg,Eintracht Braunschweig,,,False,False,False,GER2
+12,12,,5881734,2026-11-21T12:00:00Z,Wolfsburg,Holstein Kiel,,,False,False,False,GER2
+12,12,,5881733,2026-11-21T19:30:00Z,St. Pauli,Bochum,,,False,False,False,GER2
+12,12,,5881727,2026-11-22T12:30:00Z,Energie Cottbus,Hertha BSC,,,False,False,False,GER2
+12,12,,5881730,2026-11-22T12:30:00Z,Kaiserslautern,Dynamo Dresden,,,False,False,False,GER2
+12,12,,5881731,2026-11-22T12:30:00Z,Karlsruher SC,VfL Osnabrück,,,False,False,False,GER2
+13,13,,5881735,2026-11-27T17:30:00Z,Bochum,Darmstadt,,,False,False,False,GER2
+13,13,,5881738,2026-11-27T17:30:00Z,FC Heidenheim,1. FC Nürnberg,,,False,False,False,GER2
+13,13,,5881739,2026-11-28T12:00:00Z,Hertha BSC,Karlsruher SC,,,False,False,False,GER2
+13,13,,5881740,2026-11-28T12:00:00Z,Holstein Kiel,Kaiserslautern,,,False,False,False,GER2
+13,13,,5881742,2026-11-28T12:00:00Z,Dynamo Dresden,St. Pauli,,,False,False,False,GER2
+13,13,,5881743,2026-11-28T19:30:00Z,VfL Osnabrück,Hannover 96,,,False,False,False,GER2
+13,13,,5881736,2026-11-29T12:30:00Z,Eintracht Braunschweig,Wolfsburg,,,False,False,False,GER2
+13,13,,5881737,2026-11-29T12:30:00Z,Greuther Fürth,Arminia Bielefeld,,,False,False,False,GER2
+13,13,,5881741,2026-11-29T12:30:00Z,Magdeburg,Energie Cottbus,,,False,False,False,GER2
+14,14,,5881744,2026-12-06T12:30:00Z,Arminia Bielefeld,Dynamo Dresden,,,False,False,False,GER2
+14,14,,5881745,2026-12-06T12:30:00Z,Energie Cottbus,VfL Osnabrück,,,False,False,False,GER2
+14,14,,5881746,2026-12-06T12:30:00Z,Darmstadt,Eintracht Braunschweig,,,False,False,False,GER2
+14,14,,5881747,2026-12-06T12:30:00Z,Hannover 96,Hertha BSC,,,False,False,False,GER2
+14,14,,5881748,2026-12-06T12:30:00Z,Kaiserslautern,Greuther Fürth,,,False,False,False,GER2
+14,14,,5881749,2026-12-06T12:30:00Z,Karlsruher SC,Holstein Kiel,,,False,False,False,GER2
+14,14,,5881750,2026-12-06T12:30:00Z,1. FC Nürnberg,Bochum,,,False,False,False,GER2
+14,14,,5881751,2026-12-06T12:30:00Z,St. Pauli,FC Heidenheim,,,False,False,False,GER2
+14,14,,5881752,2026-12-06T12:30:00Z,Wolfsburg,Magdeburg,,,False,False,False,GER2
+15,15,,5881753,2026-12-13T12:30:00Z,Arminia Bielefeld,Kaiserslautern,,,False,False,False,GER2
+15,15,,5881754,2026-12-13T12:30:00Z,Bochum,FC Heidenheim,,,False,False,False,GER2
+15,15,,5881755,2026-12-13T12:30:00Z,Eintracht Braunschweig,Karlsruher SC,,,False,False,False,GER2
+15,15,,5881756,2026-12-13T12:30:00Z,Greuther Fürth,Wolfsburg,,,False,False,False,GER2
+15,15,,5881757,2026-12-13T12:30:00Z,Hertha BSC,Darmstadt,,,False,False,False,GER2
+15,15,,5881758,2026-12-13T12:30:00Z,Holstein Kiel,Hannover 96,,,False,False,False,GER2
+15,15,,5881759,2026-12-13T12:30:00Z,Magdeburg,1. FC Nürnberg,,,False,False,False,GER2
+15,15,,5881760,2026-12-13T12:30:00Z,Dynamo Dresden,Energie Cottbus,,,False,False,False,GER2
+15,15,,5881761,2026-12-13T12:30:00Z,VfL Osnabrück,St. Pauli,,,False,False,False,GER2
+16,16,,5881762,2026-12-20T12:30:00Z,Bochum,Magdeburg,,,False,False,False,GER2
+16,16,,5881763,2026-12-20T12:30:00Z,Energie Cottbus,Holstein Kiel,,,False,False,False,GER2
+16,16,,5881764,2026-12-20T12:30:00Z,Darmstadt,Greuther Fürth,,,False,False,False,GER2
+16,16,,5881765,2026-12-20T12:30:00Z,Hannover 96,Kaiserslautern,,,False,False,False,GER2
+16,16,,5881766,2026-12-20T12:30:00Z,FC Heidenheim,Eintracht Braunschweig,,,False,False,False,GER2
+16,16,,5881767,2026-12-20T12:30:00Z,Karlsruher SC,Dynamo Dresden,,,False,False,False,GER2
+16,16,,5881768,2026-12-20T12:30:00Z,1. FC Nürnberg,VfL Osnabrück,,,False,False,False,GER2
+16,16,,5881769,2026-12-20T12:30:00Z,St. Pauli,Hertha BSC,,,False,False,False,GER2
+16,16,,5881770,2026-12-20T12:30:00Z,Wolfsburg,Arminia Bielefeld,,,False,False,False,GER2
+17,17,,5881771,2027-01-17T12:30:00Z,Arminia Bielefeld,Hannover 96,,,False,False,False,GER2
+17,17,,5881772,2027-01-17T12:30:00Z,Eintracht Braunschweig,St. Pauli,,,False,False,False,GER2
+17,17,,5881773,2027-01-17T12:30:00Z,Greuther Fürth,Karlsruher SC,,,False,False,False,GER2
+17,17,,5881774,2027-01-17T12:30:00Z,Hertha BSC,1. FC Nürnberg,,,False,False,False,GER2
+17,17,,5881775,2027-01-17T12:30:00Z,Holstein Kiel,Bochum,,,False,False,False,GER2
+17,17,,5881776,2027-01-17T12:30:00Z,Kaiserslautern,Energie Cottbus,,,False,False,False,GER2
+17,17,,5881777,2027-01-17T12:30:00Z,Magdeburg,FC Heidenheim,,,False,False,False,GER2
+17,17,,5881778,2027-01-17T12:30:00Z,Dynamo Dresden,Wolfsburg,,,False,False,False,GER2
+17,17,,5881779,2027-01-17T12:30:00Z,VfL Osnabrück,Darmstadt,,,False,False,False,GER2
+18,18,,5881780,2027-01-24T12:30:00Z,Arminia Bielefeld,Karlsruher SC,,,False,False,False,GER2
+18,18,,5881781,2027-01-24T12:30:00Z,Eintracht Braunschweig,Magdeburg,,,False,False,False,GER2
+18,18,,5881782,2027-01-24T12:30:00Z,Greuther Fürth,St. Pauli,,,False,False,False,GER2
+18,18,,5881783,2027-01-24T12:30:00Z,Hannover 96,Energie Cottbus,,,False,False,False,GER2
+18,18,,5881784,2027-01-24T12:30:00Z,Hertha BSC,Bochum,,,False,False,False,GER2
+18,18,,5881785,2027-01-24T12:30:00Z,Holstein Kiel,Darmstadt,,,False,False,False,GER2
+18,18,,5881786,2027-01-24T12:30:00Z,Kaiserslautern,Wolfsburg,,,False,False,False,GER2
+18,18,,5881787,2027-01-24T12:30:00Z,Dynamo Dresden,1. FC Nürnberg,,,False,False,False,GER2
+18,18,,5881788,2027-01-24T12:30:00Z,VfL Osnabrück,FC Heidenheim,,,False,False,False,GER2
+19,19,,5881789,2027-01-31T12:30:00Z,Bochum,Eintracht Braunschweig,,,False,False,False,GER2
+19,19,,5881790,2027-01-31T12:30:00Z,Energie Cottbus,Arminia Bielefeld,,,False,False,False,GER2
+19,19,,5881791,2027-01-31T12:30:00Z,Darmstadt,Dynamo Dresden,,,False,False,False,GER2
+19,19,,5881792,2027-01-31T12:30:00Z,FC Heidenheim,Hertha BSC,,,False,False,False,GER2
+19,19,,5881793,2027-01-31T12:30:00Z,Karlsruher SC,Kaiserslautern,,,False,False,False,GER2
+19,19,,5881794,2027-01-31T12:30:00Z,Magdeburg,VfL Osnabrück,,,False,False,False,GER2
+19,19,,5881795,2027-01-31T12:30:00Z,1. FC Nürnberg,Greuther Fürth,,,False,False,False,GER2
+19,19,,5881796,2027-01-31T12:30:00Z,St. Pauli,Holstein Kiel,,,False,False,False,GER2
+19,19,,5881797,2027-01-31T12:30:00Z,Wolfsburg,Hannover 96,,,False,False,False,GER2
+20,20,,5881798,2027-02-07T12:30:00Z,Arminia Bielefeld,1. FC Nürnberg,,,False,False,False,GER2
+20,20,,5881799,2027-02-07T12:30:00Z,Greuther Fürth,Energie Cottbus,,,False,False,False,GER2
+20,20,,5881800,2027-02-07T12:30:00Z,Hannover 96,Darmstadt,,,False,False,False,GER2
+20,20,,5881801,2027-02-07T12:30:00Z,Hertha BSC,Eintracht Braunschweig,,,False,False,False,GER2
+20,20,,5881802,2027-02-07T12:30:00Z,Holstein Kiel,Magdeburg,,,False,False,False,GER2
+20,20,,5881803,2027-02-07T12:30:00Z,Kaiserslautern,St. Pauli,,,False,False,False,GER2
+20,20,,5881804,2027-02-07T12:30:00Z,Dynamo Dresden,FC Heidenheim,,,False,False,False,GER2
+20,20,,5881805,2027-02-07T12:30:00Z,VfL Osnabrück,Bochum,,,False,False,False,GER2
+20,20,,5881806,2027-02-07T12:30:00Z,Wolfsburg,Karlsruher SC,,,False,False,False,GER2
+21,21,,5881807,2027-02-14T12:30:00Z,Bochum,Dynamo Dresden,,,False,False,False,GER2
+21,21,,5881808,2027-02-14T12:30:00Z,Eintracht Braunschweig,VfL Osnabrück,,,False,False,False,GER2
+21,21,,5881809,2027-02-14T12:30:00Z,Energie Cottbus,Wolfsburg,,,False,False,False,GER2
+21,21,,5881810,2027-02-14T12:30:00Z,Darmstadt,Kaiserslautern,,,False,False,False,GER2
+21,21,,5881811,2027-02-14T12:30:00Z,FC Heidenheim,Greuther Fürth,,,False,False,False,GER2
+21,21,,5881812,2027-02-14T12:30:00Z,Karlsruher SC,Hannover 96,,,False,False,False,GER2
+21,21,,5881813,2027-02-14T12:30:00Z,Magdeburg,Hertha BSC,,,False,False,False,GER2
+21,21,,5881814,2027-02-14T12:30:00Z,1. FC Nürnberg,Holstein Kiel,,,False,False,False,GER2
+21,21,,5881815,2027-02-14T12:30:00Z,St. Pauli,Arminia Bielefeld,,,False,False,False,GER2
+22,22,,5881816,2027-02-21T12:30:00Z,Arminia Bielefeld,Darmstadt,,,False,False,False,GER2
+22,22,,5881817,2027-02-21T12:30:00Z,Energie Cottbus,Karlsruher SC,,,False,False,False,GER2
+22,22,,5881818,2027-02-21T12:30:00Z,Greuther Fürth,Bochum,,,False,False,False,GER2
+22,22,,5881819,2027-02-21T12:30:00Z,Hannover 96,1. FC Nürnberg,,,False,False,False,GER2
+22,22,,5881820,2027-02-21T12:30:00Z,Hertha BSC,VfL Osnabrück,,,False,False,False,GER2
+22,22,,5881821,2027-02-21T12:30:00Z,Holstein Kiel,FC Heidenheim,,,False,False,False,GER2
+22,22,,5881822,2027-02-21T12:30:00Z,Kaiserslautern,Magdeburg,,,False,False,False,GER2
+22,22,,5881823,2027-02-21T12:30:00Z,Dynamo Dresden,Eintracht Braunschweig,,,False,False,False,GER2
+22,22,,5881824,2027-02-21T12:30:00Z,Wolfsburg,St. Pauli,,,False,False,False,GER2
+23,23,,5881825,2027-02-28T12:30:00Z,Bochum,Hannover 96,,,False,False,False,GER2
+23,23,,5881826,2027-02-28T12:30:00Z,Eintracht Braunschweig,Kaiserslautern,,,False,False,False,GER2
+23,23,,5881827,2027-02-28T12:30:00Z,Darmstadt,Wolfsburg,,,False,False,False,GER2
+23,23,,5881828,2027-02-28T12:30:00Z,FC Heidenheim,Arminia Bielefeld,,,False,False,False,GER2
+23,23,,5881829,2027-02-28T12:30:00Z,Hertha BSC,Dynamo Dresden,,,False,False,False,GER2
+23,23,,5881830,2027-02-28T12:30:00Z,Magdeburg,Greuther Fürth,,,False,False,False,GER2
+23,23,,5881831,2027-02-28T12:30:00Z,1. FC Nürnberg,Karlsruher SC,,,False,False,False,GER2
+23,23,,5881832,2027-02-28T12:30:00Z,St. Pauli,Energie Cottbus,,,False,False,False,GER2
+23,23,,5881833,2027-02-28T12:30:00Z,VfL Osnabrück,Holstein Kiel,,,False,False,False,GER2
+24,24,,5881834,2027-03-02T17:30:00Z,Arminia Bielefeld,Bochum,,,False,False,False,GER2
+24,24,,5881835,2027-03-02T17:30:00Z,Energie Cottbus,Darmstadt,,,False,False,False,GER2
+24,24,,5881836,2027-03-02T17:30:00Z,Greuther Fürth,Hertha BSC,,,False,False,False,GER2
+24,24,,5881837,2027-03-02T17:30:00Z,Hannover 96,Magdeburg,,,False,False,False,GER2
+24,24,,5881838,2027-03-02T17:30:00Z,Holstein Kiel,Eintracht Braunschweig,,,False,False,False,GER2
+24,24,,5881839,2027-03-02T17:30:00Z,Kaiserslautern,FC Heidenheim,,,False,False,False,GER2
+24,24,,5881840,2027-03-02T17:30:00Z,Karlsruher SC,St. Pauli,,,False,False,False,GER2
+24,24,,5881841,2027-03-02T17:30:00Z,Dynamo Dresden,VfL Osnabrück,,,False,False,False,GER2
+24,24,,5881842,2027-03-02T17:30:00Z,Wolfsburg,1. FC Nürnberg,,,False,False,False,GER2
+25,25,,5881843,2027-03-07T12:30:00Z,Bochum,Kaiserslautern,,,False,False,False,GER2
+25,25,,5881844,2027-03-07T12:30:00Z,Eintracht Braunschweig,Greuther Fürth,,,False,False,False,GER2
+25,25,,5881845,2027-03-07T12:30:00Z,Darmstadt,Karlsruher SC,,,False,False,False,GER2
+25,25,,5881846,2027-03-07T12:30:00Z,FC Heidenheim,Wolfsburg,,,False,False,False,GER2
+25,25,,5881847,2027-03-07T12:30:00Z,Hertha BSC,Holstein Kiel,,,False,False,False,GER2
+25,25,,5881848,2027-03-07T12:30:00Z,Magdeburg,Dynamo Dresden,,,False,False,False,GER2
+25,25,,5881849,2027-03-07T12:30:00Z,1. FC Nürnberg,Energie Cottbus,,,False,False,False,GER2
+25,25,,5881850,2027-03-07T12:30:00Z,St. Pauli,Hannover 96,,,False,False,False,GER2
+25,25,,5881851,2027-03-07T12:30:00Z,VfL Osnabrück,Arminia Bielefeld,,,False,False,False,GER2
+26,26,,5881852,2027-03-14T12:30:00Z,Arminia Bielefeld,Hertha BSC,,,False,False,False,GER2
+26,26,,5881853,2027-03-14T12:30:00Z,Energie Cottbus,FC Heidenheim,,,False,False,False,GER2
+26,26,,5881854,2027-03-14T12:30:00Z,Greuther Fürth,VfL Osnabrück,,,False,False,False,GER2
+26,26,,5881855,2027-03-14T12:30:00Z,Hannover 96,Eintracht Braunschweig,,,False,False,False,GER2
+26,26,,5881856,2027-03-14T12:30:00Z,Kaiserslautern,1. FC Nürnberg,,,False,False,False,GER2
+26,26,,5881857,2027-03-14T12:30:00Z,Karlsruher SC,Magdeburg,,,False,False,False,GER2
+26,26,,5881858,2027-03-14T12:30:00Z,Dynamo Dresden,Holstein Kiel,,,False,False,False,GER2
+26,26,,5881859,2027-03-14T12:30:00Z,St. Pauli,Darmstadt,,,False,False,False,GER2
+26,26,,5881860,2027-03-14T12:30:00Z,Wolfsburg,Bochum,,,False,False,False,GER2
+27,27,,5881861,2027-03-21T12:30:00Z,Bochum,Energie Cottbus,,,False,False,False,GER2
+27,27,,5881862,2027-03-21T12:30:00Z,Eintracht Braunschweig,Arminia Bielefeld,,,False,False,False,GER2
+27,27,,5881863,2027-03-21T12:30:00Z,FC Heidenheim,Karlsruher SC,,,False,False,False,GER2
+27,27,,5881864,2027-03-21T12:30:00Z,Hertha BSC,Kaiserslautern,,,False,False,False,GER2
+27,27,,5881865,2027-03-21T12:30:00Z,Holstein Kiel,Greuther Fürth,,,False,False,False,GER2
+27,27,,5881866,2027-03-21T12:30:00Z,Magdeburg,Darmstadt,,,False,False,False,GER2
+27,27,,5881867,2027-03-21T12:30:00Z,1. FC Nürnberg,St. Pauli,,,False,False,False,GER2
+27,27,,5881868,2027-03-21T12:30:00Z,Dynamo Dresden,Hannover 96,,,False,False,False,GER2
+27,27,,5881869,2027-03-21T12:30:00Z,VfL Osnabrück,Wolfsburg,,,False,False,False,GER2
+28,28,,5881870,2027-04-04T11:30:00Z,Arminia Bielefeld,Holstein Kiel,,,False,False,False,GER2
+28,28,,5881871,2027-04-04T11:30:00Z,Energie Cottbus,Eintracht Braunschweig,,,False,False,False,GER2
+28,28,,5881872,2027-04-04T11:30:00Z,Darmstadt,1. FC Nürnberg,,,False,False,False,GER2
+28,28,,5881873,2027-04-04T11:30:00Z,Greuther Fürth,Dynamo Dresden,,,False,False,False,GER2
+28,28,,5881874,2027-04-04T11:30:00Z,Hannover 96,FC Heidenheim,,,False,False,False,GER2
+28,28,,5881875,2027-04-04T11:30:00Z,Kaiserslautern,VfL Osnabrück,,,False,False,False,GER2
+28,28,,5881876,2027-04-04T11:30:00Z,Karlsruher SC,Bochum,,,False,False,False,GER2
+28,28,,5881877,2027-04-04T11:30:00Z,St. Pauli,Magdeburg,,,False,False,False,GER2
+28,28,,5881878,2027-04-04T11:30:00Z,Wolfsburg,Hertha BSC,,,False,False,False,GER2
+29,29,,5881879,2027-04-11T11:30:00Z,Bochum,St. Pauli,,,False,False,False,GER2
+29,29,,5881880,2027-04-11T11:30:00Z,Eintracht Braunschweig,1. FC Nürnberg,,,False,False,False,GER2
+29,29,,5881881,2027-04-11T11:30:00Z,Greuther Fürth,Hannover 96,,,False,False,False,GER2
+29,29,,5881882,2027-04-11T11:30:00Z,FC Heidenheim,Darmstadt,,,False,False,False,GER2
+29,29,,5881883,2027-04-11T11:30:00Z,Hertha BSC,Energie Cottbus,,,False,False,False,GER2
+29,29,,5881884,2027-04-11T11:30:00Z,Holstein Kiel,Wolfsburg,,,False,False,False,GER2
+29,29,,5881885,2027-04-11T11:30:00Z,Magdeburg,Arminia Bielefeld,,,False,False,False,GER2
+29,29,,5881886,2027-04-11T11:30:00Z,Dynamo Dresden,Kaiserslautern,,,False,False,False,GER2
+29,29,,5881887,2027-04-11T11:30:00Z,VfL Osnabrück,Karlsruher SC,,,False,False,False,GER2
+30,30,,5881888,2027-04-18T11:30:00Z,Arminia Bielefeld,Greuther Fürth,,,False,False,False,GER2
+30,30,,5881889,2027-04-18T11:30:00Z,Energie Cottbus,Magdeburg,,,False,False,False,GER2
+30,30,,5881890,2027-04-18T11:30:00Z,Darmstadt,Bochum,,,False,False,False,GER2
+30,30,,5881891,2027-04-18T11:30:00Z,Hannover 96,VfL Osnabrück,,,False,False,False,GER2
+30,30,,5881892,2027-04-18T11:30:00Z,Kaiserslautern,Holstein Kiel,,,False,False,False,GER2
+30,30,,5881893,2027-04-18T11:30:00Z,Karlsruher SC,Hertha BSC,,,False,False,False,GER2
+30,30,,5881894,2027-04-18T11:30:00Z,1. FC Nürnberg,FC Heidenheim,,,False,False,False,GER2
+30,30,,5881895,2027-04-18T11:30:00Z,St. Pauli,Dynamo Dresden,,,False,False,False,GER2
+30,30,,5881896,2027-04-18T11:30:00Z,Wolfsburg,Eintracht Braunschweig,,,False,False,False,GER2
+31,31,,5881897,2027-04-25T11:30:00Z,Bochum,1. FC Nürnberg,,,False,False,False,GER2
+31,31,,5881898,2027-04-25T11:30:00Z,Eintracht Braunschweig,Darmstadt,,,False,False,False,GER2
+31,31,,5881899,2027-04-25T11:30:00Z,Greuther Fürth,Kaiserslautern,,,False,False,False,GER2
+31,31,,5881900,2027-04-25T11:30:00Z,FC Heidenheim,St. Pauli,,,False,False,False,GER2
+31,31,,5881901,2027-04-25T11:30:00Z,Hertha BSC,Hannover 96,,,False,False,False,GER2
+31,31,,5881902,2027-04-25T11:30:00Z,Holstein Kiel,Karlsruher SC,,,False,False,False,GER2
+31,31,,5881903,2027-04-25T11:30:00Z,Magdeburg,Wolfsburg,,,False,False,False,GER2
+31,31,,5881904,2027-04-25T11:30:00Z,Dynamo Dresden,Arminia Bielefeld,,,False,False,False,GER2
+31,31,,5881905,2027-04-25T11:30:00Z,VfL Osnabrück,Energie Cottbus,,,False,False,False,GER2
+32,32,,5881906,2027-05-09T11:30:00Z,Energie Cottbus,Dynamo Dresden,,,False,False,False,GER2
+32,32,,5881907,2027-05-09T11:30:00Z,Darmstadt,Hertha BSC,,,False,False,False,GER2
+32,32,,5881908,2027-05-09T11:30:00Z,Hannover 96,Holstein Kiel,,,False,False,False,GER2
+32,32,,5881909,2027-05-09T11:30:00Z,FC Heidenheim,Bochum,,,False,False,False,GER2
+32,32,,5881910,2027-05-09T11:30:00Z,Kaiserslautern,Arminia Bielefeld,,,False,False,False,GER2
+32,32,,5881911,2027-05-09T11:30:00Z,Karlsruher SC,Eintracht Braunschweig,,,False,False,False,GER2
+32,32,,5881912,2027-05-09T11:30:00Z,1. FC Nürnberg,Magdeburg,,,False,False,False,GER2
+32,32,,5881913,2027-05-09T11:30:00Z,St. Pauli,VfL Osnabrück,,,False,False,False,GER2
+32,32,,5881914,2027-05-09T11:30:00Z,Wolfsburg,Greuther Fürth,,,False,False,False,GER2
+33,33,,5881915,2027-05-16T11:30:00Z,Arminia Bielefeld,Wolfsburg,,,False,False,False,GER2
+33,33,,5881916,2027-05-16T11:30:00Z,Eintracht Braunschweig,FC Heidenheim,,,False,False,False,GER2
+33,33,,5881917,2027-05-16T11:30:00Z,Greuther Fürth,Darmstadt,,,False,False,False,GER2
+33,33,,5881918,2027-05-16T11:30:00Z,Hertha BSC,St. Pauli,,,False,False,False,GER2
+33,33,,5881919,2027-05-16T11:30:00Z,Holstein Kiel,Energie Cottbus,,,False,False,False,GER2
+33,33,,5881920,2027-05-16T11:30:00Z,Kaiserslautern,Hannover 96,,,False,False,False,GER2
+33,33,,5881921,2027-05-16T11:30:00Z,Magdeburg,Bochum,,,False,False,False,GER2
+33,33,,5881922,2027-05-16T11:30:00Z,Dynamo Dresden,Karlsruher SC,,,False,False,False,GER2
+33,33,,5881923,2027-05-16T11:30:00Z,VfL Osnabrück,1. FC Nürnberg,,,False,False,False,GER2
+34,34,,5881924,2027-05-23T13:30:00Z,Bochum,Holstein Kiel,,,False,False,False,GER2
+34,34,,5881925,2027-05-23T13:30:00Z,Energie Cottbus,Kaiserslautern,,,False,False,False,GER2
+34,34,,5881926,2027-05-23T13:30:00Z,Darmstadt,VfL Osnabrück,,,False,False,False,GER2
+34,34,,5881927,2027-05-23T13:30:00Z,Hannover 96,Arminia Bielefeld,,,False,False,False,GER2
+34,34,,5881928,2027-05-23T13:30:00Z,FC Heidenheim,Magdeburg,,,False,False,False,GER2
+34,34,,5881929,2027-05-23T13:30:00Z,Karlsruher SC,Greuther Fürth,,,False,False,False,GER2
+34,34,,5881930,2027-05-23T13:30:00Z,1. FC Nürnberg,Hertha BSC,,,False,False,False,GER2
+34,34,,5881931,2027-05-23T13:30:00Z,St. Pauli,Eintracht Braunschweig,,,False,False,False,GER2
+34,34,,5881932,2027-05-23T13:30:00Z,Wolfsburg,Dynamo Dresden,,,False,False,False,GER2
+6,6,,5881672,2026-09-20T11:30:00.000Z,Arminia Bielefeld,FC Heidenheim,2 - 2,FT,True,True,False,GER2
+6,6,,5881673,2026-09-20T11:30:00.000Z,Energie Cottbus,St. Pauli,1 - 1,FT,True,True,False,GER2
+6,6,,5881675,2026-09-20T11:30:00.000Z,Hannover 96,Bochum,2 - 1,FT,True,True,False,GER2

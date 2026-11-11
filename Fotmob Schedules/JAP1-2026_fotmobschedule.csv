@@ -1,0 +1,201 @@
+round,roundName,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,match_url,league
+1,1,5125168,2026-02-06T10:03:00Z,Kyoto Sanga FC,Vissel Kobe,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-kyoto-sanga-fc/1g43tj#5125168,JAP1
+1,1,5125170,2026-02-06T10:03:00Z,Yokohama F.Marinos,Machida Zelvia,02-Mar,FT,TRUE,TRUE,FALSE,/matches/yokohama-fmarinos-vs-machida-zelvia/98q56gt#5125170,JAP1
+1,1,5125169,2026-02-06T10:05:00Z,V-Varen Nagasaki,Sanfrecce Hiroshima,01-Mar,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-v-varen-nagasaki/97k542w#5125169,JAP1
+1,1,5125171,2026-02-07T04:00:00Z,JEF United Chiba,Urawa Red Diamonds,0 - 2,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-jef-united-chiba/247v4s#5125171,JAP1
+1,1,5125172,2026-02-07T04:30:00Z,FC Tokyo,Kashima Antlers,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-fc-tokyo/n1c6d#5125172,JAP1
+1,1,5125173,2026-02-07T07:00:00Z,Cerezo Osaka,Gamba Osaka,0 - 0,Pen,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-gamba-osaka/11ue3x#5125173,JAP1
+1,1,5125174,2026-02-08T04:05:00Z,Avispa Fukuoka,Fagiano Okayama FC,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/avispa-fukuoka-vs-fagiano-okayama-fc/6vigknb#5125174,JAP1
+1,1,5125175,2026-02-08T05:00:00Z,Nagoya Grampus,Shimizu S-Pulse,1 - 0,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-nagoya-grampus/1a0mj2#5125175,JAP1
+1,1,5125176,2026-02-08T06:00:00Z,Kawasaki Frontale,Kashiwa Reysol,05-Mar,FT,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-kashiwa-reysol/1v0ks5#5125176,JAP1
+1,1,5125177,2026-02-08T07:00:00Z,Tokyo Verdy,Mito Hollyhock,03-Jan,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-mito-hollyhock/6iju39e#5125177,JAP1
+2,2,5125178,2026-02-13T10:00:00Z,Vissel Kobe,V-Varen Nagasaki,2 - 0,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-v-varen-nagasaki/92hq31k#5125178,JAP1
+2,2,5125179,2026-02-14T05:00:00Z,Machida Zelvia,Mito Hollyhock,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/mito-hollyhock-vs-machida-zelvia/t57kfn8#5125179,JAP1
+2,2,5125180,2026-02-14T05:00:00Z,Sanfrecce Hiroshima,Fagiano Okayama FC,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-fagiano-okayama-fc/6poyfce#5125180,JAP1
+2,2,5125181,2026-02-14T05:00:00Z,Shimizu S-Pulse,Kyoto Sanga FC,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-kyoto-sanga-fc/1e2jma#5125181,JAP1
+2,2,5125182,2026-02-14T06:00:00Z,FC Tokyo,Urawa Red Diamonds,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-urawa-red-diamonds/xq63m#5125182,JAP1
+2,2,5125183,2026-02-14T06:00:00Z,Kashima Antlers,Yokohama F.Marinos,1 - 0,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-yokohama-fmarinos/zvsvc#5125183,JAP1
+2,2,5125184,2026-02-15T04:00:00Z,JEF United Chiba,Kawasaki Frontale,0 - 0,Pen,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-jef-united-chiba/24shaa#5125184,JAP1
+2,2,5125185,2026-02-15T05:00:00Z,Kashiwa Reysol,Tokyo Verdy,01-Feb,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-kashiwa-reysol/1ualle#5125185,JAP1
+2,2,5125186,2026-02-15T06:00:00Z,Avispa Fukuoka,Cerezo Osaka,0 - 2,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-avispa-fukuoka/1e0vdt#5125186,JAP1
+2,2,5125187,2026-02-15T07:00:00Z,Gamba Osaka,Nagoya Grampus,0 - 0,Pen,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-nagoya-grampus/1rcybw#5125187,JAP1
+3,3,5130236,2026-02-21T05:00:00Z,Tokyo Verdy,Machida Zelvia,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-machida-zelvia/97jfd1y#5130236,JAP1
+3,3,5130237,2026-02-21T05:00:00Z,Yokohama F.Marinos,Urawa Red Diamonds,0 - 2,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-yokohama-fmarinos/1cyz22#5130237,JAP1
+3,3,5130386,2026-02-21T05:30:00Z,Shimizu S-Pulse,Vissel Kobe,1 - 0,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-vissel-kobe/oqdtb#5130386,JAP1
+3,3,5130238,2026-02-21T06:00:00Z,Kawasaki Frontale,FC Tokyo,01-Feb,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-kawasaki-frontale/y3wag#5130238,JAP1
+3,3,5130387,2026-02-21T06:00:00Z,Nagoya Grampus,V-Varen Nagasaki,01-Mar,FT,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-v-varen-nagasaki/9dhj99n#5130387,JAP1
+3,3,5130239,2026-02-21T07:00:00Z,Kashima Antlers,Kashiwa Reysol,2 - 0,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-kashiwa-reysol/1f2awf#5130239,JAP1
+3,3,5130389,2026-02-22T05:00:00Z,Fagiano Okayama FC,Gamba Osaka,01-Feb,FT,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-fagiano-okayama-fc/6qpfn3f#5130389,JAP1
+3,3,5130388,2026-02-22T05:00:00Z,Kyoto Sanga FC,Avispa Fukuoka,2 - 0,FT,TRUE,TRUE,FALSE,/matches/avispa-fukuoka-vs-kyoto-sanga-fc/2c5dks#5130388,JAP1
+3,3,5130240,2026-02-22T05:00:00Z,Mito Hollyhock,JEF United Chiba,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/jef-united-chiba-vs-mito-hollyhock/6shtbyc#5130240,JAP1
+3,3,5130390,2026-02-22T06:00:00Z,Cerezo Osaka,Sanfrecce Hiroshima,01-Feb,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-sanfrecce-hiroshima/zh8ve#5130390,JAP1
+4,4,5130241,2026-02-27T10:00:00Z,Machida Zelvia,JEF United Chiba,02-Jan,FT,TRUE,TRUE,FALSE,/matches/jef-united-chiba-vs-machida-zelvia/9jcbups#5130241,JAP1
+4,4,5130392,2026-02-27T10:00:00Z,Sanfrecce Hiroshima,Kyoto Sanga FC,01-Feb,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-kyoto-sanga-fc/1swymv#5130392,JAP1
+4,4,5130391,2026-02-27T10:00:00Z,Vissel Kobe,Avispa Fukuoka,02-Jan,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-avispa-fukuoka/1dzrdr#5130391,JAP1
+4,4,5130242,2026-02-28T04:00:00Z,Yokohama F.Marinos,Tokyo Verdy,03-Feb,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-yokohama-fmarinos/1ct7en#5130242,JAP1
+4,4,5130243,2026-02-28T05:00:00Z,Urawa Red Diamonds,Kashima Antlers,02-Mar,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-urawa-red-diamonds/xppod#5130243,JAP1
+4,4,5130244,2026-02-28T06:00:00Z,FC Tokyo,Kashiwa Reysol,0 - 2,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-kashiwa-reysol/1f2v42#5130244,JAP1
+4,4,5130393,2026-02-28T06:00:00Z,Gamba Osaka,Shimizu S-Pulse,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-gamba-osaka/102vcm#5130393,JAP1
+4,4,5130394,2026-02-28T08:00:00Z,V-Varen Nagasaki,Cerezo Osaka,1 - 0,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-v-varen-nagasaki/92i74c6#5130394,JAP1
+4,4,5130395,2026-03-01T05:00:00Z,Fagiano Okayama FC,Nagoya Grampus,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-fagiano-okayama-fc/6uracnn#5130395,JAP1
+4,4,5130245,2026-03-01T07:00:00Z,Kawasaki Frontale,Mito Hollyhock,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-mito-hollyhock/6iryk0e#5130245,JAP1
+5,5,5130246,2026-03-07T04:00:00Z,JEF United Chiba,Kashiwa Reysol,02-Jan,FT,TRUE,TRUE,FALSE,/matches/kashiwa-reysol-vs-jef-united-chiba/2tedyo#5130246,JAP1
+5,5,5130247,2026-03-07T05:00:00Z,FC Tokyo,Yokohama F.Marinos,3 - 0,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-yokohama-fmarinos/zw9tb#5130247,JAP1
+5,5,5130396,2026-03-07T06:00:00Z,Cerezo Osaka,Shimizu S-Pulse,0 - 0,Pen,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-cerezo-osaka/or5yd#5130396,JAP1
+5,5,5130249,2026-03-07T06:00:00Z,Urawa Red Diamonds,Mito Hollyhock,2 - 0,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-mito-hollyhock/6ilxwg8#5130249,JAP1
+5,5,5130397,2026-03-07T07:00:00Z,Avispa Fukuoka,Nagoya Grampus,01-May,FT,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-avispa-fukuoka/26vaw0#5130397,JAP1
+5,5,5130250,2026-03-07T07:00:00Z,Kashima Antlers,Tokyo Verdy,2 - 0,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-tokyo-verdy/xkxed#5130250,JAP1
+5,5,5130398,2026-03-08T03:55:00Z,Fagiano Okayama FC,Kyoto Sanga FC,1 - 0,FT,TRUE,TRUE,FALSE,/matches/kyoto-sanga-fc-vs-fagiano-okayama-fc/6wai01b#5130398,JAP1
+5,5,5130399,2026-03-08T06:00:00Z,Gamba Osaka,V-Varen Nagasaki,03-Feb,FT,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-v-varen-nagasaki/98quz5f#5130399,JAP1
+6,6,5130251,2026-03-14T04:00:00Z,Yokohama F.Marinos,JEF United Chiba,2 - 0,FT,TRUE,TRUE,FALSE,/matches/yokohama-fmarinos-vs-jef-united-chiba/27gnkl#5130251,JAP1
+6,6,5130253,2026-03-14T05:00:00Z,Kashiwa Reysol,Machida Zelvia,0 - 1,FT,TRUE,TRUE,FALSE,/matches/kashiwa-reysol-vs-machida-zelvia/9fsfexk#5130253,JAP1
+6,6,5130403,2026-03-14T05:00:00Z,Kyoto Sanga FC,Cerezo Osaka,01-Feb,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-kyoto-sanga-fc/1g58nt#5130403,JAP1
+6,6,5130252,2026-03-14T05:00:00Z,Mito Hollyhock,FC Tokyo,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-mito-hollyhock/6dhxfyq#5130252,JAP1
+6,6,5130402,2026-03-14T05:00:00Z,Nagoya Grampus,Vissel Kobe,0 - 3,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-nagoya-grampus/1bz6df#5130402,JAP1
+6,6,5130401,2026-03-14T05:00:00Z,Shimizu S-Pulse,Fagiano Okayama FC,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-fagiano-okayama-fc/6kmwjph#5130401,JAP1
+6,6,5130254,2026-03-14T06:00:00Z,Kashima Antlers,Kawasaki Frontale,1 - 0,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-kawasaki-frontale/y3frv#5130254,JAP1
+6,6,5130404,2026-03-14T06:00:00Z,Sanfrecce Hiroshima,Gamba Osaka,2 - 0,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-gamba-osaka/1ctr63#5130404,JAP1
+6,6,5130255,2026-03-14T07:00:00Z,Tokyo Verdy,Urawa Red Diamonds,1 - 0,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-urawa-red-diamonds/1a9xea#5130255,JAP1
+6,6,5130405,2026-03-15T05:00:00Z,V-Varen Nagasaki,Avispa Fukuoka,1 - 0,FT,TRUE,TRUE,FALSE,/matches/avispa-fukuoka-vs-v-varen-nagasaki/9edb53b#5130405,JAP1
+7,7,5130406,2026-03-18T09:30:00Z,Cerezo Osaka,Fagiano Okayama FC,01-Feb,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-fagiano-okayama-fc/6ldprwo#5130406,JAP1
+7,7,5130409,2026-03-18T10:00:00Z,Avispa Fukuoka,Shimizu S-Pulse,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-avispa-fukuoka/1bzq62#5130409,JAP1
+7,7,5130257,2026-03-18T10:00:00Z,JEF United Chiba,FC Tokyo,01-Feb,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-jef-united-chiba/1nnlxa#5130257,JAP1
+7,7,5130256,2026-03-18T10:00:00Z,Mito Hollyhock,Yokohama F.Marinos,1 - 0,FT,TRUE,TRUE,FALSE,/matches/yokohama-fmarinos-vs-mito-hollyhock/6jjrrzt#5130256,JAP1
+7,7,5130407,2026-03-18T10:00:00Z,Nagoya Grampus,Sanfrecce Hiroshima,02-Jan,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-nagoya-grampus/1oadxf#5130407,JAP1
+7,7,5130258,2026-03-18T10:00:00Z,Tokyo Verdy,Kawasaki Frontale,0 - 2,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-kawasaki-frontale/1aq014#5130258,JAP1
+7,7,5130410,2026-03-18T10:00:00Z,V-Varen Nagasaki,Kyoto Sanga FC,01-Feb,FT,TRUE,TRUE,FALSE,/matches/kyoto-sanga-fc-vs-v-varen-nagasaki/9fa391b#5130410,JAP1
+7,7,5130408,2026-03-18T10:00:00Z,Vissel Kobe,Gamba Osaka,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-gamba-osaka/11tfbf#5130408,JAP1
+7,7,5130260,2026-03-18T10:30:00Z,Machida Zelvia,Kashima Antlers,0 - 3,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-machida-zelvia/91iqdht#5130260,JAP1
+7,7,5130259,2026-03-18T10:30:00Z,Urawa Red Diamonds,Kashiwa Reysol,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-kashiwa-reysol/1uhbkb#5130259,JAP1
+8,8,5130411,2026-03-21T05:00:00Z,Fagiano Okayama FC,V-Varen Nagasaki,0 - 1,FT,TRUE,TRUE,FALSE,/matches/fagiano-okayama-fc-vs-v-varen-nagasaki/tka30s6#5130411,JAP1
+8,8,5130412,2026-03-21T05:30:00Z,Avispa Fukuoka,Gamba Osaka,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-avispa-fukuoka/1to95k#5130412,JAP1
+8,8,5130413,2026-03-22T04:00:00Z,Shimizu S-Pulse,Sanfrecce Hiroshima,03-Jan,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-sanfrecce-hiroshima/xrrlb#5130413,JAP1
+8,8,5130414,2026-03-22T05:00:00Z,Kyoto Sanga FC,Nagoya Grampus,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-kyoto-sanga-fc/29izp4#5130414,JAP1
+8,8,5130261,2026-03-22T05:00:00Z,Tokyo Verdy,FC Tokyo,0 - 0,Pen,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-tokyo-verdy/xldsg#5130261,JAP1
+8,8,5130415,2026-03-22T06:00:00Z,Cerezo Osaka,Vissel Kobe,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-cerezo-osaka/q73u6#5130415,JAP1
+8,8,5130262,2026-03-22T06:00:00Z,Kashima Antlers,JEF United Chiba,02-Jan,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-jef-united-chiba/1nn02x#5130262,JAP1
+8,8,5130263,2026-03-22T06:00:00Z,Kawasaki Frontale,Yokohama F.Marinos,0 - 5,FT,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-yokohama-fmarinos/1dfi7w#5130263,JAP1
+8,8,5130265,2026-03-22T07:00:00Z,Kashiwa Reysol,Mito Hollyhock,3 - 0,FT,TRUE,TRUE,FALSE,/matches/kashiwa-reysol-vs-mito-hollyhock/6phxov8#5130265,JAP1
+8,8,5130264,2026-03-22T07:00:00Z,Urawa Red Diamonds,Machida Zelvia,01-Feb,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-machida-zelvia/97lxhs4#5130264,JAP1
+5,5,5130400,2026-03-27T10:00:00Z,Vissel Kobe,Sanfrecce Hiroshima,02-Jan,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-sanfrecce-hiroshima/zgb6o#5130400,JAP1
+5,5,5130248,2026-03-28T05:00:00Z,Machida Zelvia,Kawasaki Frontale,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-machida-zelvia/97t32ay#5130248,JAP1
+11,11,5130278,2026-04-01T10:00:00Z,Machida Zelvia,FC Tokyo,0 - 3,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-machida-zelvia/91iyvom#5130278,JAP1
+11,11,5130428,2026-04-01T10:00:00Z,Vissel Kobe,Shimizu S-Pulse,2 - 0,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-vissel-kobe/oqdtb#5130428,JAP1
+9,9,5130266,2026-04-04T04:00:00Z,JEF United Chiba,Tokyo Verdy,03-Feb,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-jef-united-chiba/240o1a#5130266,JAP1
+9,9,5130267,2026-04-04T05:00:00Z,Mito Hollyhock,Kashima Antlers,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-mito-hollyhock/6dhqavh#5130267,JAP1
+9,9,5130416,2026-04-04T06:00:00Z,Nagoya Grampus,Cerezo Osaka,3 - 0,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-nagoya-grampus/1c09k5#5130416,JAP1
+9,9,5130417,2026-04-04T07:00:00Z,Gamba Osaka,Kyoto Sanga FC,2 - 0,FT,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-kyoto-sanga-fc/1w3n3k#5130417,JAP1
+9,9,5130418,2026-04-05T04:00:00Z,V-Varen Nagasaki,Shimizu S-Pulse,0 - 3,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-v-varen-nagasaki/91mqz4h#5130418,JAP1
+9,9,5130419,2026-04-05T05:00:00Z,Fagiano Okayama FC,Vissel Kobe,01-Apr,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-fagiano-okayama-fc/6ldb8z2#5130419,JAP1
+9,9,5130268,2026-04-05T05:00:00Z,Kashiwa Reysol,Yokohama F.Marinos,3 - 0,FT,TRUE,TRUE,FALSE,/matches/yokohama-fmarinos-vs-kashiwa-reysol/1xih5f#5130268,JAP1
+9,9,5130420,2026-04-05T05:00:00Z,Sanfrecce Hiroshima,Avispa Fukuoka,0 - 1,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-avispa-fukuoka/1qjntr#5130420,JAP1
+9,9,5130269,2026-04-05T06:00:00Z,FC Tokyo,Machida Zelvia,0 - 0,Pen,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-machida-zelvia/91iyvom#5130269,JAP1
+9,9,5130270,2026-04-05T07:00:00Z,Kawasaki Frontale,Urawa Red Diamonds,03-Feb,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-kawasaki-frontale/1avn6y#5130270,JAP1
+10,10,5130271,2026-04-11T04:00:00Z,JEF United Chiba,Mito Hollyhock,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/jef-united-chiba-vs-mito-hollyhock/6shtbyc#5130271,JAP1
+10,10,5130272,2026-04-11T05:00:00Z,Machida Zelvia,Kashiwa Reysol,1 - 0,FT,TRUE,TRUE,FALSE,/matches/kashiwa-reysol-vs-machida-zelvia/9fsfexk#5130272,JAP1
+10,10,5130422,2026-04-11T05:03:00Z,Avispa Fukuoka,V-Varen Nagasaki,1 - 0,FT,TRUE,TRUE,FALSE,/matches/avispa-fukuoka-vs-v-varen-nagasaki/9edb53b#5130422,JAP1
+10,10,5130421,2026-04-11T05:03:00Z,Sanfrecce Hiroshima,Shimizu S-Pulse,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-sanfrecce-hiroshima/xrrlb#5130421,JAP1
+10,10,5130423,2026-04-11T06:00:00Z,Vissel Kobe,Nagoya Grampus,03-Feb,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-nagoya-grampus/1bz6df#5130423,JAP1
+10,10,5130273,2026-04-11T06:00:00Z,Yokohama F.Marinos,FC Tokyo,01-Mar,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-yokohama-fmarinos/zw9tb#5130273,JAP1
+10,10,5130425,2026-04-11T07:00:00Z,Gamba Osaka,Cerezo Osaka,0 - 1,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-gamba-osaka/11ue3x#5130425,JAP1
+10,10,5130424,2026-04-11T07:00:00Z,Kyoto Sanga FC,Fagiano Okayama FC,05-Jan,FT,TRUE,TRUE,FALSE,/matches/kyoto-sanga-fc-vs-fagiano-okayama-fc/6wai01b#5130424,JAP1
+10,10,5130274,2026-04-12T05:00:00Z,Urawa Red Diamonds,Tokyo Verdy,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-urawa-red-diamonds/1a9xea#5130274,JAP1
+10,10,5130275,2026-04-12T07:00:00Z,Kawasaki Frontale,Kashima Antlers,0 - 2,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-kawasaki-frontale/y3frv#5130275,JAP1
+11,11,5130276,2026-04-18T04:00:00Z,Yokohama F.Marinos,Kawasaki Frontale,01-Feb,FT,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-yokohama-fmarinos/1dfi7w#5130276,JAP1
+11,11,5130277,2026-04-18T05:00:00Z,Kashima Antlers,Urawa Red Diamonds,1 - 0,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-urawa-red-diamonds/xppod#5130277,JAP1
+11,11,5130426,2026-04-18T05:00:00Z,Sanfrecce Hiroshima,V-Varen Nagasaki,2 - 0,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-v-varen-nagasaki/97k542w#5130426,JAP1
+11,11,5130279,2026-04-18T06:00:00Z,Tokyo Verdy,JEF United Chiba,1 - 0,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-jef-united-chiba/240o1a#5130279,JAP1
+11,11,5130427,2026-04-18T07:00:00Z,Cerezo Osaka,Kyoto Sanga FC,3 - 0,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-kyoto-sanga-fc/1g58nt#5130427,JAP1
+11,11,5130280,2026-04-19T04:00:00Z,Mito Hollyhock,Kashiwa Reysol,2 - 0,FT,TRUE,TRUE,FALSE,/matches/kashiwa-reysol-vs-mito-hollyhock/6phxov8#5130280,JAP1
+11,11,5130429,2026-04-19T06:00:00Z,Gamba Osaka,Fagiano Okayama FC,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-fagiano-okayama-fc/6qpfn3f#5130429,JAP1
+11,11,5130430,2026-04-19T07:00:00Z,Nagoya Grampus,Avispa Fukuoka,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-avispa-fukuoka/26vaw0#5130430,JAP1
+17,17,5130460,2026-04-22T10:03:00Z,Gamba Osaka,Avispa Fukuoka,01-Feb,FT,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-avispa-fukuoka/1to95k#5130460,JAP1
+12,12,5130282,2026-04-24T10:00:00Z,FC Tokyo,Mito Hollyhock,05-Feb,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-mito-hollyhock/6dhxfyq#5130282,JAP1
+12,12,5130281,2026-04-24T10:00:00Z,Kashiwa Reysol,Kashima Antlers,0 - 1,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-kashiwa-reysol/1f2awf#5130281,JAP1
+12,12,5130432,2026-04-25T05:00:00Z,Fagiano Okayama FC,Avispa Fukuoka,2 - 0,FT,TRUE,TRUE,FALSE,/matches/avispa-fukuoka-vs-fagiano-okayama-fc/6vigknb#5130432,JAP1
+12,12,5130431,2026-04-25T05:00:00Z,Shimizu S-Pulse,Nagoya Grampus,0 - 2,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-nagoya-grampus/1a0mj2#5130431,JAP1
+12,12,5130283,2026-04-25T05:00:00Z,Urawa Red Diamonds,Yokohama F.Marinos,02-Mar,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-yokohama-fmarinos/1cyz22#5130283,JAP1
+12,12,5130285,2026-04-25T06:00:00Z,Kawasaki Frontale,JEF United Chiba,02-Jan,FT,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-jef-united-chiba/24shaa#5130285,JAP1
+12,12,5130433,2026-04-25T07:00:00Z,Sanfrecce Hiroshima,Cerezo Osaka,02-Jan,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-sanfrecce-hiroshima/zh8ve#5130433,JAP1
+12,12,5130434,2026-04-25T09:30:00Z,V-Varen Nagasaki,Gamba Osaka,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-v-varen-nagasaki/98quz5f#5130434,JAP1
+13,13,5130436,2026-04-29T04:00:00Z,Shimizu S-Pulse,V-Varen Nagasaki,01-Feb,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-v-varen-nagasaki/91mqz4h#5130436,JAP1
+13,13,5130286,2026-04-29T04:00:00Z,Tokyo Verdy,Kashima Antlers,02-Jan,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-tokyo-verdy/xkxed#5130286,JAP1
+13,13,5130438,2026-04-29T05:00:00Z,Avispa Fukuoka,Sanfrecce Hiroshima,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-avispa-fukuoka/1qjntr#5130438,JAP1
+13,13,5130287,2026-04-29T05:00:00Z,JEF United Chiba,Yokohama F.Marinos,02-Mar,FT,TRUE,TRUE,FALSE,/matches/yokohama-fmarinos-vs-jef-united-chiba/27gnkl#5130287,JAP1
+13,13,5130437,2026-04-29T05:00:00Z,Vissel Kobe,Cerezo Osaka,0 - 0,Pen,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-cerezo-osaka/q73u6#5130437,JAP1
+13,13,5130440,2026-04-29T06:00:00Z,Kyoto Sanga FC,Gamba Osaka,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-kyoto-sanga-fc/1w3n3k#5130440,JAP1
+13,13,5130439,2026-04-29T06:00:00Z,Nagoya Grampus,Fagiano Okayama FC,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-fagiano-okayama-fc/6uracnn#5130439,JAP1
+13,13,5130288,2026-04-29T06:00:00Z,Urawa Red Diamonds,Kawasaki Frontale,2 - 0,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-kawasaki-frontale/1avn6y#5130288,JAP1
+13,13,5130290,2026-04-29T07:00:00Z,Kashiwa Reysol,FC Tokyo,01-Mar,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-kashiwa-reysol/1f2v42#5130290,JAP1
+13,13,5130289,2026-04-29T07:00:00Z,Mito Hollyhock,Machida Zelvia,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/mito-hollyhock-vs-machida-zelvia/t57kfn8#5130289,JAP1
+14,14,5130441,2026-05-02T03:55:00Z,Fagiano Okayama FC,Sanfrecce Hiroshima,1 - 0,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-fagiano-okayama-fc/6poyfce#5130441,JAP1
+14,14,5130291,2026-05-02T05:00:00Z,FC Tokyo,Kawasaki Frontale,2 - 0,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-kawasaki-frontale/y3wag#5130291,JAP1
+14,14,5130442,2026-05-02T05:00:00Z,Kyoto Sanga FC,Shimizu S-Pulse,01-Feb,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-kyoto-sanga-fc/1e2jma#5130442,JAP1
+14,14,5130292,2026-05-02T05:00:00Z,Yokohama F.Marinos,Mito Hollyhock,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/yokohama-fmarinos-vs-mito-hollyhock/6jjrrzt#5130292,JAP1
+14,14,5130443,2026-05-02T06:00:00Z,Gamba Osaka,Vissel Kobe,5 - 0,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-gamba-osaka/11tfbf#5130443,JAP1
+14,14,5130293,2026-05-02T07:00:00Z,Urawa Red Diamonds,JEF United Chiba,2 - 0,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-jef-united-chiba/247v4s#5130293,JAP1
+14,14,5130294,2026-05-03T05:00:00Z,Tokyo Verdy,Kashiwa Reysol,1 - 0,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-kashiwa-reysol/1ualle#5130294,JAP1
+14,14,5130444,2026-05-03T06:00:00Z,Cerezo Osaka,Avispa Fukuoka,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-avispa-fukuoka/1e0vdt#5130444,JAP1
+14,14,5130295,2026-05-03T07:00:00Z,Kashima Antlers,Machida Zelvia,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-machida-zelvia/91iqdht#5130295,JAP1
+14,14,5130445,2026-05-03T08:00:00Z,V-Varen Nagasaki,Nagoya Grampus,01-Feb,FT,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-v-varen-nagasaki/9dhj99n#5130445,JAP1
+15,15,5130447,2026-05-06T04:00:00Z,V-Varen Nagasaki,Fagiano Okayama FC,02-Jan,FT,TRUE,TRUE,FALSE,/matches/fagiano-okayama-fc-vs-v-varen-nagasaki/tka30s6#5130447,JAP1
+15,15,5130446,2026-05-06T04:03:00Z,Shimizu S-Pulse,Cerezo Osaka,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-cerezo-osaka/or5yd#5130446,JAP1
+15,15,5130449,2026-05-06T05:03:00Z,Avispa Fukuoka,Kyoto Sanga FC,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/avispa-fukuoka-vs-kyoto-sanga-fc/2c5dks#5130449,JAP1
+15,15,5130448,2026-05-06T05:03:00Z,Nagoya Grampus,Gamba Osaka,02-Jan,FT,TRUE,TRUE,FALSE,/matches/gamba-osaka-vs-nagoya-grampus/1rcybw#5130448,JAP1
+15,15,5130296,2026-05-06T06:00:00Z,FC Tokyo,JEF United Chiba,0 - 3,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-jef-united-chiba/1nnlxa#5130296,JAP1
+15,15,5130450,2026-05-06T06:00:00Z,Sanfrecce Hiroshima,Vissel Kobe,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-sanfrecce-hiroshima/zgb6o#5130450,JAP1
+15,15,5130297,2026-05-06T07:00:00Z,Kashima Antlers,Mito Hollyhock,3 - 0,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-mito-hollyhock/6dhqavh#5130297,JAP1
+15,15,5130298,2026-05-06T07:00:00Z,Machida Zelvia,Yokohama F.Marinos,2 - 0,FT,TRUE,TRUE,FALSE,/matches/yokohama-fmarinos-vs-machida-zelvia/98q56gt#5130298,JAP1
+15,15,5130299,2026-05-06T08:00:00Z,Kawasaki Frontale,Tokyo Verdy,1 - 0,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-kawasaki-frontale/1aq014#5130299,JAP1
+15,15,5130300,2026-05-06T10:00:00Z,Kashiwa Reysol,Urawa Red Diamonds,0 - 1,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-kashiwa-reysol/1uhbkb#5130300,JAP1
+16,16,5130301,2026-05-09T05:00:00Z,Mito Hollyhock,Urawa Red Diamonds,01-Apr,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-mito-hollyhock/6ilxwg8#5130301,JAP1
+16,16,5130451,2026-05-09T07:00:00Z,Cerezo Osaka,V-Varen Nagasaki,03-Feb,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-v-varen-nagasaki/92i74c6#5130451,JAP1
+16,16,5130452,2026-05-10T05:00:00Z,Shimizu S-Pulse,Avispa Fukuoka,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-avispa-fukuoka/1bzq62#5130452,JAP1
+16,16,5130453,2026-05-10T05:00:00Z,Vissel Kobe,Fagiano Okayama FC,0 - 3,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-fagiano-okayama-fc/6ldb8z2#5130453,JAP1
+16,16,5130302,2026-05-10T05:00:00Z,Yokohama F.Marinos,Kashima Antlers,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-yokohama-fmarinos/zvsvc#5130302,JAP1
+16,16,5130303,2026-05-10T06:00:00Z,FC Tokyo,Tokyo Verdy,02-Jan,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-tokyo-verdy/xldsg#5130303,JAP1
+16,16,5130454,2026-05-10T06:00:00Z,Gamba Osaka,Sanfrecce Hiroshima,0 - 1,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-gamba-osaka/1ctr63#5130454,JAP1
+16,16,5130304,2026-05-10T07:00:00Z,Kashiwa Reysol,Kawasaki Frontale,1 - 0,FT,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-kashiwa-reysol/1v0ks5#5130304,JAP1
+16,16,5130455,2026-05-10T07:00:00Z,Nagoya Grampus,Kyoto Sanga FC,3 - 0,FT,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-kyoto-sanga-fc/29izp4#5130455,JAP1
+16,16,5130305,2026-05-10T08:00:00Z,JEF United Chiba,Machida Zelvia,0 - 2,FT,TRUE,TRUE,FALSE,/matches/jef-united-chiba-vs-machida-zelvia/9jcbups#5130305,JAP1
+12,12,5130284,2026-05-13T10:00:00Z,Machida Zelvia,Tokyo Verdy,0 - 0,Pen,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-machida-zelvia/97jfd1y#5130284,JAP1
+12,12,5130435,2026-05-13T10:00:00Z,Vissel Kobe,Kyoto Sanga FC,1 - 0,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-kyoto-sanga-fc/1g43tj#5130435,JAP1
+17,17,5130306,2026-05-16T05:00:00Z,Mito Hollyhock,Tokyo Verdy,0 - 1,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-mito-hollyhock/6iju39e#5130306,JAP1
+17,17,5130307,2026-05-16T07:00:00Z,Urawa Red Diamonds,FC Tokyo,0 - 0,Pen,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-urawa-red-diamonds/xq63m#5130307,JAP1
+17,17,5130308,2026-05-16T08:00:00Z,Yokohama F.Marinos,Kashiwa Reysol,0 - 1,FT,TRUE,TRUE,FALSE,/matches/yokohama-fmarinos-vs-kashiwa-reysol/1xih5f#5130308,JAP1
+17,17,5130456,2026-05-17T04:00:00Z,V-Varen Nagasaki,Vissel Kobe,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-v-varen-nagasaki/92hq31k#5130456,JAP1
+17,17,5130457,2026-05-17T05:00:00Z,Fagiano Okayama FC,Shimizu S-Pulse,2 - 0,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-fagiano-okayama-fc/6kmwjph#5130457,JAP1
+17,17,5130309,2026-05-17T05:00:00Z,JEF United Chiba,Kashima Antlers,0 - 2,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-jef-united-chiba/1nn02x#5130309,JAP1
+17,17,5130459,2026-05-17T06:00:00Z,Cerezo Osaka,Nagoya Grampus,06-Jan,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-nagoya-grampus/1c09k5#5130459,JAP1
+17,17,5130458,2026-05-17T06:00:00Z,Kyoto Sanga FC,Sanfrecce Hiroshima,0 - 4,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-kyoto-sanga-fc/1swymv#5130458,JAP1
+17,17,5130310,2026-05-17T10:00:00Z,Kawasaki Frontale,Machida Zelvia,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-machida-zelvia/97t32ay#5130310,JAP1
+18,18,5130311,2026-05-22T10:30:00Z,Machida Zelvia,Urawa Red Diamonds,1 - 0,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-machida-zelvia/97lxhs4#5130311,JAP1
+18,18,5130462,2026-05-23T05:00:00Z,Avispa Fukuoka,Vissel Kobe,0 - 1,FT,TRUE,TRUE,FALSE,/matches/vissel-kobe-vs-avispa-fukuoka/1dzrdr#5130462,JAP1
+18,18,5130461,2026-05-23T05:00:00Z,Sanfrecce Hiroshima,Nagoya Grampus,04-Feb,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-nagoya-grampus/1oadxf#5130461,JAP1
+18,18,5130312,2026-05-23T08:30:00Z,Kashima Antlers,FC Tokyo,1 - 0,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-fc-tokyo/n1c6d#5130312,JAP1
+18,18,5130313,2026-05-23T09:00:00Z,Kashiwa Reysol,JEF United Chiba,04-Feb,FT,TRUE,TRUE,FALSE,/matches/kashiwa-reysol-vs-jef-united-chiba/2tedyo#5130313,JAP1
+18,18,5130463,2026-05-23T10:00:00Z,Kyoto Sanga FC,V-Varen Nagasaki,1 - 0,FT,TRUE,TRUE,FALSE,/matches/kyoto-sanga-fc-vs-v-varen-nagasaki/9fa391b#5130463,JAP1
+18,18,5130464,2026-05-24T03:55:00Z,Fagiano Okayama FC,Cerezo Osaka,02-Mar,FT,TRUE,TRUE,FALSE,/matches/cerezo-osaka-vs-fagiano-okayama-fc/6ldprwo#5130464,JAP1
+18,18,5130314,2026-05-24T05:00:00Z,Mito Hollyhock,Kawasaki Frontale,01-Mar,FT,TRUE,TRUE,FALSE,/matches/kawasaki-frontale-vs-mito-hollyhock/6iryk0e#5130314,JAP1
+18,18,5130315,2026-05-24T05:00:00Z,Tokyo Verdy,Yokohama F.Marinos,0 - 6,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-yokohama-fmarinos/1ct7en#5130315,JAP1
+18,18,5130465,2026-05-24T08:00:00Z,Shimizu S-Pulse,Gamba Osaka,01-Feb,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-gamba-osaka/102vcm#5130465,JAP1
+05-Jun,5,5667109,2026-05-30T05:00:00Z,Nagoya Grampus,Machida Zelvia,02-Feb,FT,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-machida-zelvia/9dgxlvb#5667109,JAP1
+07-Aug,7,5667111,2026-05-30T05:00:00Z,Sanfrecce Hiroshima,Kawasaki Frontale,02-Jan,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-kawasaki-frontale/1aq9p4#5667111,JAP1
+final,Final,5667103,2026-05-30T05:00:00Z,Vissel Kobe,Kashima Antlers,5 - 0,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-vissel-kobe/okq6r#5667103,JAP1
+bronze,Bronze Final,5667107,2026-05-30T06:00:00Z,Cerezo Osaka,FC Tokyo,02-Feb,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-cerezo-osaka/olw9m#5667107,JAP1
+19/20,19,5667133,2026-05-30T07:00:00Z,Avispa Fukuoka,JEF United Chiba,02-Feb,FT,TRUE,TRUE,FALSE,/matches/avispa-fukuoka-vs-jef-united-chiba/2oqnur#5667133,JAP1
+09-Oct,9,5667113,2026-05-30T07:00:00Z,Gamba Osaka,Tokyo Verdy,01-Jan,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-gamba-osaka/1cthad#5667113,JAP1
+17/18,17,5667129,2026-05-30T08:00:00Z,V-Varen Nagasaki,Mito Hollyhock,1 - 0,FT,TRUE,TRUE,FALSE,/matches/mito-hollyhock-vs-v-varen-nagasaki/t58mlwu#5667129,JAP1
+15/16,15,5667122,2026-05-30T10:00:00Z,Kyoto Sanga FC,Kashiwa Reysol,02-Jun,FT,TRUE,TRUE,FALSE,/matches/kyoto-sanga-fc-vs-kashiwa-reysol/2ghxy8#5667122,JAP1
+11-Dec,11,5667117,2026-05-31T05:00:00Z,Fagiano Okayama FC,Urawa Red Diamonds,01-Jan,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-fagiano-okayama-fc/6pqzpu8#5667117,JAP1
+13/14,13,5667120,2026-05-31T05:00:00Z,Shimizu S-Pulse,Yokohama F.Marinos,01-Jan,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-yokohama-fmarinos/102mut#5667120,JAP1
+bronze,Bronze Final,5667108,2026-06-06T05:00:00Z,FC Tokyo,Cerezo Osaka,01-Mar,FT,TRUE,TRUE,FALSE,/matches/fc-tokyo-vs-cerezo-osaka/olw9m#5667108,JAP1
+19/20,19,5667134,2026-06-06T05:00:00Z,JEF United Chiba,Avispa Fukuoka,01-Feb,FT,TRUE,TRUE,FALSE,/matches/avispa-fukuoka-vs-jef-united-chiba/2oqnur#5667134,JAP1
+final,Final,5667104,2026-06-06T05:00:00Z,Kashima Antlers,Vissel Kobe,2 - 0,FT,TRUE,TRUE,FALSE,/matches/kashima-antlers-vs-vissel-kobe/okq6r#5667104,JAP1
+05-Jun,5,5667110,2026-06-06T06:00:00Z,Machida Zelvia,Nagoya Grampus,02-Jan,AET,TRUE,TRUE,FALSE,/matches/nagoya-grampus-vs-machida-zelvia/9dgxlvb#5667110,JAP1
+17/18,17,5667130,2026-06-06T06:00:00Z,Mito Hollyhock,V-Varen Nagasaki,0 - 1,FT,TRUE,TRUE,FALSE,/matches/mito-hollyhock-vs-v-varen-nagasaki/t58mlwu#5667130,JAP1
+09-Oct,9,5667114,2026-06-06T07:00:00Z,Tokyo Verdy,Gamba Osaka,02-Apr,FT,TRUE,TRUE,FALSE,/matches/tokyo-verdy-vs-gamba-osaka/1cthad#5667114,JAP1
+11-Dec,11,5667118,2026-06-06T07:00:00Z,Urawa Red Diamonds,Fagiano Okayama FC,0 - 2,FT,TRUE,TRUE,FALSE,/matches/urawa-red-diamonds-vs-fagiano-okayama-fc/6pqzpu8#5667118,JAP1
+13/14,13,5667121,2026-06-06T08:00:00Z,Yokohama F.Marinos,Shimizu S-Pulse,3 - 0,FT,TRUE,TRUE,FALSE,/matches/shimizu-s-pulse-vs-yokohama-fmarinos/102mut#5667121,JAP1
+15/16,15,5667123,2026-06-06T09:00:00Z,Kashiwa Reysol,Kyoto Sanga FC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/kyoto-sanga-fc-vs-kashiwa-reysol/2ghxy8#5667123,JAP1
+07-Aug,7,5667112,2026-06-06T10:00:00Z,Kawasaki Frontale,Sanfrecce Hiroshima,0 - 1,FT,TRUE,TRUE,FALSE,/matches/sanfrecce-hiroshima-vs-kawasaki-frontale/1aq9p4#5667112,JAP1

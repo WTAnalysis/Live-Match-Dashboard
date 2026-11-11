@@ -1,0 +1,154 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,1000014499,2026-07-17T01:00:00Z,Necaxa,Atlante,2 - 1,FT,True,True,False,MEX1
+1,1,,1000014500,2026-07-17T03:10:00Z,Tijuana,Tigres,3 - 1,FT,True,True,False,MEX1
+1,1,,1000014501,2026-07-18T01:00:00Z,Atlético de San Luis,Cruz Azul,2 - 3,FT,True,True,False,MEX1
+1,1,,1000014502,2026-07-18T01:00:00Z,León,Atlas,2 - 3,FT,True,True,False,MEX1
+1,1,,1000014503,2026-07-18T03:00:00Z,FC Juárez,Puebla,0 - 1,FT,True,True,False,MEX1
+1,1,,1000014504,2026-07-18T23:00:00Z,Pumas,Pachuca,0 - 3,FT,True,True,False,MEX1
+1,1,,1000014506,2026-07-19T01:05:00Z,Monterrey,Santos Laguna,3 - 2,FT,True,True,False,MEX1
+1,1,,1000014505,2026-07-19T01:07:00Z,Chivas,Toluca,0 - 2,FT,True,True,False,MEX1
+1,1,,1000014507,2026-07-19T03:10:00Z,Querétaro FC,CF América,0 - 1,FT,True,True,False,MEX1
+2,2,,1000014508,2026-07-22T01:00:00Z,Cruz Azul,Puebla,2 - 1,FT,True,True,False,MEX1
+2,2,,1000014509,2026-07-22T03:05:00Z,Toluca,Pumas,1 - 2,FT,True,True,False,MEX1
+2,2,,1000014511,2026-07-25T03:00:00Z,Atlante,CF América,1 - 1,FT,True,True,False,MEX1
+2,2,,1000014512,2026-07-25T03:00:00Z,Tijuana,León,1 - 0,FT,True,True,False,MEX1
+2,2,,1000014513,2026-07-25T23:07:00Z,Chivas,FC Juárez,1 - 0,FT,True,True,False,MEX1
+2,2,,1000014510,2026-07-26T03:00:00Z,Tigres,Atlético de San Luis,2 - 2,FT,True,True,False,MEX1
+2,2,,1000014514,2026-07-26T03:00:00Z,Santos Laguna,Atlas,0 - 1,FT,True,True,False,MEX1
+2,2,,1000014515,2026-07-26T23:00:00Z,Necaxa,Monterrey,2 - 1,FT,True,True,False,MEX1
+2,2,,1000014516,2026-07-27T01:06:00Z,Pachuca,Querétaro FC,1 - 2,FT,True,True,False,MEX1
+3,3,,1000014517,2026-08-01T01:00:00Z,Puebla,Chivas,1 - 1,FT,True,True,False,MEX1
+3,3,,1000014518,2026-08-01T03:00:00Z,Atlético de San Luis,Tijuana,0 - 0,FT,True,True,False,MEX1
+3,3,,1000014519,2026-08-01T03:00:00Z,FC Juárez,Pumas,1 - 5,FT,True,True,False,MEX1
+3,3,,1000014520,2026-08-01T23:00:00Z,Querétaro FC,Tigres,3 - 2,FT,True,True,False,MEX1
+3,3,,1000014522,2026-08-02T01:05:00Z,Atlas,Monterrey,0 - 2,FT,True,True,False,MEX1
+3,3,,1000014521,2026-08-02T01:06:00Z,León,Pachuca,1 - 0,FT,True,True,False,MEX1
+3,3,,1000014523,2026-08-02T03:00:00Z,Cruz Azul,Atlante,2 - 3,FT,True,True,False,MEX1
+3,3,,1000014524,2026-08-02T23:00:00Z,CF América,Santos Laguna,3 - 0,FT,True,True,False,MEX1
+3,3,,1000014525,2026-08-03T01:05:00Z,Toluca,Necaxa,3 - 1,FT,True,True,False,MEX1
+4,4,,1000014526,2026-08-15T23:00:00Z,Atlante,Toluca,0 - 0,FT,True,True,False,MEX1
+4,4,,1000014527,2026-08-16T01:10:00Z,Monterrey,FC Juárez,6 - 1,FT,True,True,False,MEX1
+4,4,,1000014528,2026-08-16T03:10:00Z,Atlas,Tigres,2 - 1,FT,True,True,False,MEX1
+4,4,,1000014529,2026-08-16T18:00:00Z,Pumas,Querétaro FC,0 - 0,FT,True,True,False,MEX1
+4,4,,1000014530,2026-08-16T23:00:00Z,CF América,Atlético de San Luis,3 - 0,FT,True,True,False,MEX1
+4,4,,1000014531,2026-08-17T01:10:00Z,Santos Laguna,Chivas,0 - 1,FT,True,True,False,MEX1
+4,4,,1000014532,2026-08-17T03:00:00Z,Tijuana,Cruz Azul,2 - 1,FT,True,True,False,MEX1
+4,4,,1000014533,2026-08-18T01:00:00Z,Necaxa,León,1 - 2,FT,True,True,False,MEX1
+4,4,,1000014534,2026-08-18T03:06:00Z,Pachuca,Puebla,2 - 3,FT,True,True,False,MEX1
+5,5,,1000014539,2026-08-22T01:00:00Z,León,Monterrey,2 - 0,FT,True,True,False,MEX1
+5,5,,1000014540,2026-08-22T01:00:00Z,Tigres,Atlante,2 - 0,FT,True,True,False,MEX1
+5,5,,1000014536,2026-08-22T03:10:00Z,FC Juárez,CF América,1 - 2,FT,True,True,False,MEX1
+5,5,,1000014537,2026-08-22T03:10:00Z,Querétaro FC,Toluca,1 - 2,FT,True,True,False,MEX1
+5,5,,1000014538,2026-08-22T23:07:00Z,Chivas,Tijuana,5 - 2,FT,True,True,False,MEX1
+5,5,,1000014535,2026-08-23T01:00:00Z,Puebla,Santos Laguna,3 - 2,FT,True,True,False,MEX1
+5,5,,1000014541,2026-08-23T03:00:00Z,Cruz Azul,Atlas,0 - 2,FT,True,True,False,MEX1
+5,5,,1000014542,2026-08-23T23:00:00Z,Atlético de San Luis,Pachuca,1 - 1,FT,True,True,False,MEX1
+5,5,,1000014543,2026-08-24T01:00:00Z,Pumas,Necaxa,1 - 1,FT,True,True,False,MEX1
+6,6,,1000014544,2026-08-29T01:00:00Z,Necaxa,Cruz Azul,1 - 3,FT,True,True,False,MEX1
+6,6,,1000014545,2026-08-29T02:00:00Z,Atlante,León,1 - 1,FT,True,True,False,MEX1
+6,6,,1000014546,2026-08-29T03:10:00Z,Tijuana,Pumas,2 - 0,FT,True,True,False,MEX1
+6,6,,1000014547,2026-08-29T23:00:00Z,Atlas,Querétaro FC,1 - 3,FT,True,True,False,MEX1
+6,6,,1000014548,2026-08-29T23:00:00Z,Pachuca,Chivas,1 - 1,FT,True,True,False,MEX1
+6,6,,1000014549,2026-08-30T01:05:00Z,CF América,Puebla,2 - 0,FT,True,True,False,MEX1
+6,6,,1000014550,2026-08-30T03:10:00Z,Santos Laguna,Tigres,0 - 0,FT,True,True,False,MEX1
+6,6,,1000014551,2026-08-31T00:00:00Z,Toluca,FC Juárez,4 - 0,FT,True,True,False,MEX1
+6,6,,1000014552,2026-08-31T02:10:00Z,Monterrey,Atlético de San Luis,1 - 3,FT,True,True,False,MEX1
+7,7,,1000014554,2026-09-05T03:00:00Z,FC Juárez,Pachuca,0 - 2,FT,True,True,False,MEX1
+7,7,,1000014555,2026-09-05T23:00:00Z,Atlético de San Luis,Chivas,0 - 3,FT,True,True,False,MEX1
+7,7,,1000014557,2026-09-06T01:00:00Z,Tigres,Necaxa,1 - 1,FT,True,True,False,MEX1
+7,7,,1000014559,2026-09-06T03:00:00Z,Atlas,Atlante,1 - 1,FT,True,True,False,MEX1
+7,7,,1000014561,2026-09-06T23:00:00Z,Cruz Azul,Santos Laguna,1 - 0,FT,True,True,False,MEX1
+7,7,,1000014560,2026-09-11T03:05:00Z,Pumas,León,3 - 1,FT,True,True,False,MEX1
+8,8,,1000014562,2026-09-12T01:00:00Z,Necaxa,Puebla,0 - 1,FT,True,True,False,MEX1
+8,8,,1000014563,2026-09-12T03:00:00Z,Atlante,Pachuca,0 - 3,FT,True,True,False,MEX1
+8,8,,1000014564,2026-09-12T03:10:00Z,Tijuana,Querétaro FC,0 - 1,FT,True,True,False,MEX1
+8,8,,1000014566,2026-09-12T23:05:00Z,Toluca,Atlas,5 - 2,FT,True,True,False,MEX1
+8,8,,1000014570,2026-09-13T01:10:00Z,Monterrey,Tigres,0 - 0,FT,True,True,False,MEX1
+8,8,,1000014567,2026-09-13T03:15:00Z,Cruz Azul,CF América,4 - 3,FT,True,True,False,MEX1
+8,8,,1000014568,2026-09-14T01:00:00Z,Santos Laguna,FC Juárez,2 - 1,FT,True,True,False,MEX1
+8,8,,1000014569,2026-09-14T01:07:00Z,Chivas,Pumas,3 - 0,FT,True,True,False,MEX1
+8,8,,1000014565,2026-09-15T01:00:00Z,León,Atlético de San Luis,2 - 0,FT,True,True,False,MEX1
+7,7,,1000014553,2026-09-16T01:00:00Z,Puebla,Toluca,0 - 1,FT,True,True,False,MEX1
+9,9,,1000014571,2026-09-19T01:00:00Z,Puebla,Atlante,1 - 1,FT,True,True,False,MEX1
+9,9,,1000014572,2026-09-19T03:00:00Z,FC Juárez,Tigres,2 - 0,FT,True,True,False,MEX1
+9,9,,1000014573,2026-09-19T23:00:00Z,Atlas,Pumas,1 - 1,FT,True,True,False,MEX1
+9,9,,1000014574,2026-09-19T23:00:00Z,Atlético de San Luis,Necaxa,3 - 1,FT,True,True,False,MEX1
+9,9,,1000014575,2026-09-20T01:10:00Z,Monterrey,Cruz Azul,1 - 0,FT,True,True,False,MEX1
+9,9,,1000014576,2026-09-20T03:15:00Z,CF América,Chivas,2 - 2,FT,True,True,False,MEX1
+9,9,,1000014577,2026-09-21T00:00:00Z,Pachuca,Tijuana,2 - 2,FT,True,True,False,MEX1
+9,9,,1000014578,2026-09-21T00:00:00Z,Toluca,Santos Laguna,2 - 3,FT,True,True,False,MEX1
+9,9,,1000014579,2026-09-21T02:10:00Z,Querétaro FC,León,1 - 1,FT,True,True,False,MEX1
+10,10,,1000014580,2026-09-26T01:00:00Z,Atlante,Monterrey,4 - 2,FT,True,True,False,MEX1
+10,10,,1000014581,2026-09-26T03:00:00Z,Tijuana,Atlas,2 - 3,FT,True,True,False,MEX1
+10,10,,1000014585,2026-09-26T22:50:00Z,Cruz Azul,Toluca,3 - 3,FT,True,True,False,MEX1
+10,10,,1000014582,2026-09-26T23:07:00Z,Chivas,Querétaro FC,0 - 2,FT,True,True,False,MEX1
+10,10,,1000014583,2026-09-27T03:05:00Z,Santos Laguna,Pachuca,1 - 0,FT,True,True,False,MEX1
+10,10,,1000014584,2026-09-27T03:10:00Z,Tigres,Puebla,1 - 0,FT,True,True,False,MEX1
+10,10,,1000014586,2026-09-27T18:00:00Z,Pumas,Atlético de San Luis,2 - 3,FT,True,True,False,MEX1
+10,10,,1000014587,2026-09-28T01:00:00Z,León,FC Juárez,2 - 1,FT,True,True,False,MEX1
+10,10,,1000014588,2026-09-28T03:10:00Z,Necaxa,CF América,2 - 4,FT,True,True,False,MEX1
+11,11,,1000014590,2026-10-10T01:00:00Z,Puebla,León,1 - 1,FT,True,True,False,MEX1
+11,11,,1000014591,2026-10-10T03:00:00Z,Tigres,Toluca,3 - 2,FT,True,True,False,MEX1
+11,11,,1000014589,2026-10-10T23:00:00Z,Querétaro FC,Atlante,2 - 0,FT,True,True,False,MEX1
+11,11,,1000014592,2026-10-10T23:00:00Z,FC Juárez,Tijuana,1 - 1,FT,True,True,False,MEX1
+11,11,,1000014593,2026-10-11T01:00:00Z,Atlas,Chivas,1 - 1,FT,True,True,False,MEX1
+11,11,,1000014594,2026-10-11T03:10:00Z,CF América,Monterrey,1 - 1,FT,True,True,False,MEX1
+11,11,,1000014596,2026-10-11T23:00:00Z,Atlético de San Luis,Santos Laguna,1 - 2,FT,True,True,False,MEX1
+11,11,,1000014595,2026-10-11T23:10:00Z,Pachuca,Necaxa,3 - 3,FT,True,True,False,MEX1
+11,11,,1000014597,2026-10-12T01:15:00Z,Pumas,Cruz Azul,3 - 3,FT,True,True,False,MEX1
+12,12,,1000014598,2026-10-17T01:00:00Z,Necaxa,Atlas,,,False,False,False,MEX1
+12,12,,1000014599,2026-10-17T03:00:00Z,Atlante,Pumas,,,False,False,False,MEX1
+12,12,,1000014600,2026-10-17T03:05:00Z,Tijuana,Puebla,,,False,False,False,MEX1
+12,12,,1000014602,2026-10-17T23:00:00Z,Santos Laguna,Querétaro FC,,,False,False,False,MEX1
+12,12,,1000014601,2026-10-17T23:07:00Z,Chivas,Tigres,,,False,False,False,MEX1
+12,12,,1000014603,2026-10-18T01:00:00Z,León,CF América,,,False,False,False,MEX1
+12,12,,1000014604,2026-10-18T01:00:00Z,Toluca,Atlético de San Luis,,,False,False,False,MEX1
+12,12,,1000014605,2026-10-18T03:10:00Z,Cruz Azul,FC Juárez,,,False,False,False,MEX1
+12,12,,1000014606,2026-10-19T01:00:00Z,Monterrey,Pachuca,,,False,False,False,MEX1
+13,13,,1000014610,2026-10-21T00:07:00Z,Chivas,Necaxa,,,False,False,False,MEX1
+13,13,,1000014607,2026-10-21T01:00:00Z,Atlético de San Luis,Querétaro FC,,,False,False,False,MEX1
+13,13,,1000014608,2026-10-21T01:00:00Z,FC Juárez,Atlante,,,False,False,False,MEX1
+13,13,,1000014609,2026-10-21T03:00:00Z,Tigres,León,,,False,False,False,MEX1
+13,13,,1000014611,2026-10-22T01:00:00Z,Puebla,Monterrey,,,False,False,False,MEX1
+13,13,,1000014612,2026-10-22T01:00:00Z,Atlas,CF América,,,False,False,False,MEX1
+13,13,,1000014613,2026-10-22T01:00:00Z,Toluca,Tijuana,,,False,False,False,MEX1
+13,13,,1000014614,2026-10-22T03:00:00Z,Pachuca,Cruz Azul,,,False,False,False,MEX1
+13,13,,1000014615,2026-10-22T03:10:00Z,Santos Laguna,Pumas,,,False,False,False,MEX1
+14,14,,1000014616,2026-10-24T01:00:00Z,Necaxa,FC Juárez,,,False,False,False,MEX1
+14,14,,1000014617,2026-10-24T03:00:00Z,Atlante,Atlético de San Luis,,,False,False,False,MEX1
+14,14,,1000014618,2026-10-24T23:00:00Z,León,Toluca,,,False,False,False,MEX1
+14,14,,1000014619,2026-10-25T01:00:00Z,Monterrey,Chivas,,,False,False,False,MEX1
+14,14,,1000014620,2026-10-25T03:00:00Z,Pumas,Tigres,,,False,False,False,MEX1
+14,14,,1000014621,2026-10-25T23:00:00Z,Atlas,Puebla,,,False,False,False,MEX1
+14,14,,1000014622,2026-10-26T01:00:00Z,CF América,Pachuca,,,False,False,False,MEX1
+14,14,,1000014623,2026-10-26T01:00:00Z,Querétaro FC,Cruz Azul,,,False,False,False,MEX1
+14,14,,1000014624,2026-10-26T03:00:00Z,Tijuana,Santos Laguna,,,False,False,False,MEX1
+7,7,,1000014558,2026-10-29T03:00:00Z,CF América,Tijuana,,,False,False,False,MEX1
+15,15,,1000014625,2026-10-31T01:00:00Z,Atlético de San Luis,Atlas,,,False,False,False,MEX1
+15,15,,1000014626,2026-10-31T01:00:00Z,FC Juárez,Querétaro FC,,,False,False,False,MEX1
+15,15,,1000014627,2026-10-31T03:00:00Z,Puebla,Pumas,,,False,False,False,MEX1
+15,15,,1000014628,2026-10-31T23:00:00Z,Pachuca,Tigres,,,False,False,False,MEX1
+15,15,,1000014630,2026-11-01T01:00:00Z,Monterrey,Tijuana,,,False,False,False,MEX1
+15,15,,1000014629,2026-11-01T01:07:00Z,Chivas,Atlante,,,False,False,False,MEX1
+15,15,,1000014631,2026-11-01T03:00:00Z,CF América,Toluca,,,False,False,False,MEX1
+15,15,,1000014632,2026-11-01T23:00:00Z,Santos Laguna,Necaxa,,,False,False,False,MEX1
+15,15,,1000014633,2026-11-02T01:00:00Z,Cruz Azul,León,,,False,False,False,MEX1
+16,16,,1000014634,2026-11-07T01:00:00Z,Atlético de San Luis,FC Juárez,,,False,False,False,MEX1
+16,16,,1000014635,2026-11-07T01:00:00Z,Necaxa,Tijuana,,,False,False,False,MEX1
+16,16,,1000014636,2026-11-07T03:00:00Z,Atlante,Santos Laguna,,,False,False,False,MEX1
+16,16,,1000014637,2026-11-07T23:00:00Z,Atlas,Pachuca,,,False,False,False,MEX1
+16,16,,1000014638,2026-11-07T23:00:00Z,Tigres,Cruz Azul,,,False,False,False,MEX1
+16,16,,1000014639,2026-11-08T01:00:00Z,Toluca,Monterrey,,,False,False,False,MEX1
+16,16,,1000014640,2026-11-08T03:00:00Z,Pumas,CF América,,,False,False,False,MEX1
+16,16,,1000014641,2026-11-09T00:00:00Z,Querétaro FC,Puebla,,,False,False,False,MEX1
+16,16,,1000014642,2026-11-09T02:00:00Z,León,Chivas,,,False,False,False,MEX1
+7,7,,1000014556,2026-11-14T23:00:00Z,Querétaro FC,Monterrey,,,False,False,False,MEX1
+17,17,,1000014643,2026-11-21T01:00:00Z,Puebla,Atlético de San Luis,,,False,False,False,MEX1
+17,17,,1000014644,2026-11-21T03:00:00Z,FC Juárez,Atlas,,,False,False,False,MEX1
+17,17,,1000014645,2026-11-21T03:00:00Z,Tijuana,Atlante,,,False,False,False,MEX1
+17,17,,1000014646,2026-11-21T23:00:00Z,Santos Laguna,León,,,False,False,False,MEX1
+17,17,,1000014647,2026-11-21T23:00:00Z,Pachuca,Toluca,,,False,False,False,MEX1
+17,17,,1000014648,2026-11-22T01:00:00Z,Pumas,Monterrey,,,False,False,False,MEX1
+17,17,,1000014649,2026-11-22T03:00:00Z,Tigres,CF América,,,False,False,False,MEX1
+17,17,,1000014650,2026-11-22T23:07:00Z,Chivas,Cruz Azul,,,False,False,False,MEX1
+17,17,,1000014651,2026-11-23T01:00:00Z,Querétaro FC,Necaxa,,,False,False,False,MEX1

@@ -1,0 +1,381 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5190448,2026-03-21T20:00:00Z,Vila Nova,CRB,2 - 2,FT,True,True,False,BRA2
+1,1,,5190443,2026-03-21T21:00:00Z,Ceará,São Bernardo,1 - 1,FT,True,True,False,BRA2
+1,1,,5190442,2026-03-21T21:15:00Z,Operário-PR,Atlético-GO,1 - 0,FT,True,True,False,BRA2
+1,1,,5190439,2026-03-21T22:15:00Z,Botafogo SP,Fortaleza,4 - 0,FT,True,True,False,BRA2
+1,1,,5190447,2026-03-21T23:30:00Z,Cuiabá,Sport Recife,0 - 0,FT,True,True,False,BRA2
+1,1,,5190445,2026-03-22T19:00:00Z,Avaí,Juventude,2 - 0,FT,True,True,False,BRA2
+1,1,,5190446,2026-03-22T19:00:00Z,Náutico,Criciúma,0 - 1,FT,True,True,False,BRA2
+1,1,,5190441,2026-03-22T21:00:00Z,Athletic Club MG,Ponte Preta,2 - 1,FT,True,True,False,BRA2
+1,1,,5190444,2026-03-22T21:00:00Z,Goiás,América-MG,3 - 1,FT,True,True,False,BRA2
+1,1,,5190440,2026-03-22T23:00:00Z,Novorizontino,Londrina,1 - 3,FT,True,True,False,BRA2
+2,2,,5190458,2026-03-31T21:30:00Z,Juventude,Novorizontino,0 - 0,FT,True,True,False,BRA2
+2,2,,5190453,2026-03-31T22:00:00Z,Fortaleza,Cuiabá,0 - 0,FT,True,True,False,BRA2
+2,2,,5190451,2026-04-01T21:00:00Z,América-MG,Botafogo SP,1 - 2,FT,True,True,False,BRA2
+2,2,,5190452,2026-04-01T22:00:00Z,Londrina,Goiás,2 - 2,FT,True,True,False,BRA2
+2,2,,5190454,2026-04-01T22:00:00Z,Atlético-GO,Náutico,1 - 2,FT,True,True,False,BRA2
+2,2,,5190456,2026-04-01T22:00:00Z,Sport Recife,Vila Nova,1 - 1,FT,True,True,False,BRA2
+2,2,,5190449,2026-04-02T00:00:00Z,Ponte Preta,Ceará,1 - 1,FT,True,True,False,BRA2
+2,2,,5190455,2026-04-02T00:30:00Z,Criciúma,Athletic Club MG,1 - 1,FT,True,True,False,BRA2
+2,2,,5190457,2026-04-02T00:30:00Z,CRB,Avaí,0 - 1,FT,True,True,False,BRA2
+2,2,,5190450,2026-04-02T22:00:00Z,São Bernardo,Operário-PR,1 - 2,FT,True,True,False,BRA2
+3,3,,5190463,2026-04-04T19:00:00Z,Fortaleza,Juventude,2 - 1,FT,True,True,False,BRA2
+3,3,,5190466,2026-04-04T21:00:00Z,Náutico,Ponte Preta,1 - 0,FT,True,True,False,BRA2
+3,3,,5190467,2026-04-04T21:00:00Z,Cuiabá,Ceará,0 - 2,FT,True,True,False,BRA2
+3,3,,5190468,2026-04-04T23:00:00Z,Vila Nova,Atlético-GO,2 - 1,FT,True,True,False,BRA2
+3,3,,5190462,2026-04-04T23:30:00Z,Londrina,Sport Recife,1 - 2,FT,True,True,False,BRA2
+3,3,,5190465,2026-04-05T19:00:00Z,Avaí,Operário-PR,0 - 0,FT,True,True,False,BRA2
+3,3,,5190460,2026-04-05T21:00:00Z,Novorizontino,CRB,1 - 1,FT,True,True,False,BRA2
+3,3,,5190461,2026-04-05T23:00:00Z,Athletic Club MG,América-MG,1 - 1,FT,True,True,False,BRA2
+3,3,,5190459,2026-04-05T23:30:00Z,Botafogo SP,São Bernardo,1 - 2,FT,True,True,False,BRA2
+3,3,,5190464,2026-04-07T00:00:00Z,Goiás,Criciúma,1 - 0,FT,True,True,False,BRA2
+4,4,,5190475,2026-04-10T23:30:00Z,Criciúma,Botafogo SP,1 - 0,FT,True,True,False,BRA2
+4,4,,5190478,2026-04-11T19:00:00Z,Juventude,Goiás,2 - 0,FT,True,True,False,BRA2
+4,4,,5190469,2026-04-11T21:00:00Z,Ponte Preta,Vila Nova,0 - 1,FT,True,True,False,BRA2
+4,4,,5190476,2026-04-11T21:00:00Z,Sport Recife,Avaí,2 - 2,FT,True,True,False,BRA2
+4,4,,5190473,2026-04-11T23:30:00Z,Ceará,Náutico,1 - 0,FT,True,True,False,BRA2
+4,4,,5190470,2026-04-12T21:00:00Z,São Bernardo,Fortaleza,0 - 1,FT,True,True,False,BRA2
+4,4,,5190471,2026-04-12T21:00:00Z,América-MG,Novorizontino,0 - 3,FT,True,True,False,BRA2
+4,4,,5190472,2026-04-12T21:00:00Z,Operário-PR,Cuiabá,0 - 0,FT,True,True,False,BRA2
+4,4,,5190477,2026-04-12T23:00:00Z,CRB,Athletic Club MG,2 - 3,FT,True,True,False,BRA2
+4,4,,5190474,2026-04-12T23:30:00Z,Atlético-GO,Londrina,2 - 1,FT,True,True,False,BRA2
+5,5,,5190481,2026-04-18T21:00:00Z,América-MG,Sport Recife,0 - 0,FT,True,True,False,BRA2
+5,5,,5190486,2026-04-18T21:00:00Z,Náutico,São Bernardo,0 - 3,FT,True,True,False,BRA2
+5,5,,5190488,2026-04-18T21:30:00Z,Vila Nova,Operário-PR,2 - 1,FT,True,True,False,BRA2
+5,5,,5190485,2026-04-18T23:30:00Z,Avaí,Ponte Preta,1 - 2,FT,True,True,False,BRA2
+5,5,,5190487,2026-04-18T23:45:00Z,CRB,Juventude,0 - 1,FT,True,True,False,BRA2
+5,5,,5190479,2026-04-19T19:00:00Z,Botafogo SP,Atlético-GO,1 - 1,FT,True,True,False,BRA2
+5,5,,5190482,2026-04-19T19:00:00Z,Londrina,Ceará,0 - 0,FT,True,True,False,BRA2
+5,5,,5190484,2026-04-19T21:00:00Z,Goiás,Cuiabá,0 - 2,FT,True,True,False,BRA2
+5,5,,5190480,2026-04-19T23:00:00Z,Novorizontino,Athletic Club MG,2 - 1,FT,True,True,False,BRA2
+5,5,,5190483,2026-04-19T23:00:00Z,Fortaleza,Criciúma,3 - 2,FT,True,True,False,BRA2
+6,6,,5190497,2026-04-23T00:30:00Z,Cuiabá,Botafogo SP,1 - 1,FT,True,True,False,BRA2
+6,6,,5190489,2026-04-24T23:00:00Z,Ponte Preta,América-MG,1 - 0,FT,True,True,False,BRA2
+6,6,,5190496,2026-04-25T23:30:00Z,Sport Recife,Novorizontino,1 - 0,FT,True,True,False,BRA2
+6,6,,5190498,2026-04-26T00:00:00Z,Juventude,Londrina,1 - 0,FT,True,True,False,BRA2
+6,6,,5190490,2026-04-26T19:00:00Z,São Bernardo,Goiás,1 - 0,FT,True,True,False,BRA2
+6,6,,5190492,2026-04-26T21:00:00Z,Operário-PR,Fortaleza,0 - 0,FT,True,True,False,BRA2
+6,6,,5190493,2026-04-26T21:00:00Z,Ceará,Vila Nova,3 - 3,FT,True,True,False,BRA2
+6,6,,5190494,2026-04-26T23:30:00Z,Atlético-GO,Avaí,2 - 1,FT,True,True,False,BRA2
+6,6,,5190495,2026-04-26T23:30:00Z,Criciúma,CRB,3 - 1,FT,True,True,False,BRA2
+6,6,,5190491,2026-04-27T22:00:00Z,Athletic Club MG,Náutico,0 - 1,FT,True,True,False,BRA2
+7,7,,5190499,2026-05-02T19:00:00Z,Botafogo SP,Náutico,1 - 1,FT,True,True,False,BRA2
+7,7,,5190507,2026-05-02T21:30:00Z,Cuiabá,Criciúma,1 - 1,FT,True,True,False,BRA2
+7,7,,5190503,2026-05-02T23:30:00Z,Fortaleza,Goiás,4 - 1,FT,True,True,False,BRA2
+7,7,,5190500,2026-05-03T19:00:00Z,São Bernardo,Ponte Preta,3 - 0,FT,True,True,False,BRA2
+7,7,,5190502,2026-05-03T19:00:00Z,Operário-PR,Londrina,3 - 0,FT,True,True,False,BRA2
+7,7,,5190506,2026-05-03T21:00:00Z,Sport Recife,Ceará,2 - 0,FT,True,True,False,BRA2
+7,7,,5190504,2026-05-03T21:30:00Z,Atlético-GO,Juventude,0 - 0,FT,True,True,False,BRA2
+7,7,,5190501,2026-05-03T23:30:00Z,América-MG,CRB,1 - 2,FT,True,True,False,BRA2
+7,7,,5190505,2026-05-03T23:30:00Z,Avaí,Novorizontino,3 - 3,FT,True,True,False,BRA2
+7,7,,5190508,2026-05-04T22:00:00Z,Vila Nova,Athletic Club MG,1 - 1,FT,True,True,False,BRA2
+8,8,,5190514,2026-05-09T19:00:00Z,Goiás,Vila Nova,1 - 0,FT,True,True,False,BRA2
+8,8,,5190511,2026-05-09T21:00:00Z,Athletic Club MG,Cuiabá,0 - 0,FT,True,True,False,BRA2
+8,8,,5190509,2026-05-09T21:30:00Z,Ponte Preta,Sport Recife,1 - 3,FT,True,True,False,BRA2
+8,8,,5190513,2026-05-09T22:00:00Z,Ceará,Atlético-GO,0 - 1,FT,True,True,False,BRA2
+8,8,,5190517,2026-05-09T23:30:00Z,CRB,Operário-PR,3 - 0,FT,True,True,False,BRA2
+8,8,,5190518,2026-05-10T00:15:00Z,Juventude,Criciúma,0 - 0,FT,True,True,False,BRA2
+8,8,,5190516,2026-05-10T19:00:00Z,Náutico,América-MG,4 - 0,FT,True,True,False,BRA2
+8,8,,5190515,2026-05-10T21:30:00Z,Avaí,Fortaleza,0 - 0,FT,True,True,False,BRA2
+8,8,,5190510,2026-05-10T22:30:00Z,Novorizontino,Botafogo SP,1 - 0,FT,True,True,False,BRA2
+8,8,,5190512,2026-05-12T22:30:00Z,Londrina,São Bernardo,1 - 3,FT,True,True,False,BRA2
+9,9,,5190520,2026-05-16T19:00:00Z,São Bernardo,América-MG,1 - 1,FT,True,True,False,BRA2
+9,9,,5190522,2026-05-16T19:00:00Z,Operário-PR,Náutico,2 - 6,FT,True,True,False,BRA2
+9,9,,5190524,2026-05-16T21:30:00Z,Goiás,Botafogo SP,1 - 0,FT,True,True,False,BRA2
+9,9,,5190527,2026-05-16T23:30:00Z,Cuiabá,Novorizontino,0 - 0,FT,True,True,False,BRA2
+9,9,,5190521,2026-05-17T19:00:00Z,Athletic Club MG,Juventude,1 - 1,FT,True,True,False,BRA2
+9,9,,5190528,2026-05-17T21:00:00Z,Vila Nova,Avaí,2 - 0,FT,True,True,False,BRA2
+9,9,,5190523,2026-05-17T21:30:00Z,Ceará,Fortaleza,2 - 1,FT,True,True,False,BRA2
+9,9,,5190525,2026-05-17T21:30:00Z,Criciúma,Atlético-GO,1 - 1,FT,True,True,False,BRA2
+9,9,,5190526,2026-05-17T23:30:00Z,Sport Recife,CRB,1 - 2,FT,True,True,False,BRA2
+9,9,,5190519,2026-05-18T22:00:00Z,Ponte Preta,Londrina,1 - 4,FT,True,True,False,BRA2
+10,10,,5190536,2026-05-22T22:00:00Z,Náutico,Cuiabá,1 - 0,FT,True,True,False,BRA2
+10,10,,5190530,2026-05-23T19:00:00Z,Novorizontino,Ceará,2 - 1,FT,True,True,False,BRA2
+10,10,,5190533,2026-05-23T21:30:00Z,Fortaleza,Londrina,3 - 0,FT,True,True,False,BRA2
+10,10,,5190538,2026-05-23T23:30:00Z,Juventude,Sport Recife,0 - 1,FT,True,True,False,BRA2
+10,10,,5190534,2026-05-24T19:00:00Z,Atlético-GO,São Bernardo,0 - 1,FT,True,True,False,BRA2
+10,10,,5190537,2026-05-24T19:30:00Z,CRB,Ponte Preta,4 - 2,FT,True,True,False,BRA2
+10,10,,5190531,2026-05-24T21:30:00Z,América-MG,Vila Nova,1 - 2,FT,True,True,False,BRA2
+10,10,,5190535,2026-05-24T22:00:00Z,Avaí,Goiás,0 - 2,FT,True,True,False,BRA2
+10,10,,5190532,2026-05-24T23:30:00Z,Operário-PR,Criciúma,1 - 1,FT,True,True,False,BRA2
+10,10,,5190529,2026-05-25T22:00:00Z,Botafogo SP,Athletic Club MG,1 - 2,FT,True,True,False,BRA2
+11,11,,5190548,2026-05-30T00:00:00Z,Juventude,América-MG,3 - 0,FT,True,True,False,BRA2
+11,11,,5190544,2026-05-30T19:00:00Z,Atlético-GO,Goiás,1 - 1,FT,True,True,False,BRA2
+11,11,,5190545,2026-05-30T19:00:00Z,Avaí,Criciúma,1 - 2,FT,True,True,False,BRA2
+11,11,,5190541,2026-05-30T21:00:00Z,Athletic Club MG,Fortaleza,1 - 0,FT,True,True,False,BRA2
+11,11,,5190546,2026-05-30T23:30:00Z,Sport Recife,Náutico,2 - 0,FT,True,True,False,BRA2
+11,11,,5190540,2026-05-31T14:00:00Z,São Bernardo,Novorizontino,1 - 1,FT,True,True,False,BRA2
+11,11,,5190542,2026-05-31T14:00:00Z,Londrina,Vila Nova,0 - 1,FT,True,True,False,BRA2
+11,11,,5190543,2026-05-31T19:00:00Z,Ceará,Operário-PR,1 - 2,FT,True,True,False,BRA2
+11,11,,5190547,2026-05-31T23:30:00Z,Cuiabá,CRB,2 - 0,FT,True,True,False,BRA2
+11,11,,5190539,2026-06-01T22:00:00Z,Ponte Preta,Botafogo SP,0 - 0,FT,True,True,False,BRA2
+12,12,,5190552,2026-06-05T23:00:00Z,Operário-PR,Juventude,2 - 1,FT,True,True,False,BRA2
+12,12,,5190555,2026-06-06T14:00:00Z,Criciúma,Londrina,1 - 0,FT,True,True,False,BRA2
+12,12,,5190557,2026-06-07T19:00:00Z,CRB,São Bernardo,2 - 3,FT,True,True,False,BRA2
+12,12,,5190551,2026-06-08T23:00:00Z,América-MG,Atlético-GO,1 - 2,FT,True,True,False,BRA2
+12,12,,5190558,2026-06-08T23:00:00Z,Vila Nova,Botafogo SP,1 - 0,FT,True,True,False,BRA2
+12,12,,5190549,2026-06-09T22:00:00Z,Ponte Preta,Cuiabá,1 - 2,FT,True,True,False,BRA2
+12,12,,5190556,2026-06-09T22:00:00Z,Náutico,Fortaleza,0 - 1,FT,True,True,False,BRA2
+12,12,,5190553,2026-06-10T23:00:00Z,Ceará,Avaí,2 - 1,FT,True,True,False,BRA2
+12,12,,5190554,2026-06-10T23:00:00Z,Goiás,Novorizontino,0 - 4,FT,True,True,False,BRA2
+12,12,,5190550,2026-06-11T00:00:00Z,Sport Recife,Athletic Club MG,1 - 1,FT,True,True,False,BRA2
+13,13,,5190564,2026-06-12T22:00:00Z,Atlético-GO,CRB,3 - 3,FT,True,True,False,BRA2
+13,13,,5190560,2026-06-14T14:00:00Z,São Bernardo,Sport Recife,0 - 0,FT,True,True,False,BRA2
+13,13,,5190568,2026-06-14T14:00:00Z,Juventude,Ponte Preta,3 - 0,FT,True,True,False,BRA2
+13,13,,5190561,2026-06-14T19:00:00Z,Athletic Club MG,Goiás,1 - 1,FT,True,True,False,BRA2
+13,13,,5190567,2026-06-14T20:00:00Z,Cuiabá,Vila Nova,1 - 0,FT,True,True,False,BRA2
+13,13,,5190559,2026-06-14T22:00:00Z,Botafogo SP,Operário-PR,2 - 1,FT,True,True,False,BRA2
+13,13,,5190566,2026-06-14T22:00:00Z,Novorizontino,Náutico,2 - 2,FT,True,True,False,BRA2
+13,13,,5190562,2026-06-16T00:00:00Z,Londrina,Avaí,3 - 2,FT,True,True,False,BRA2
+13,13,,5190565,2026-06-16T00:00:00Z,Criciúma,Ceará,1 - 1,FT,True,True,False,BRA2
+13,13,,5190563,2026-06-16T23:00:00Z,Fortaleza,América-MG,0 - 3,FT,True,True,False,BRA2
+14,14,,5190576,2026-06-19T00:00:00Z,Sport Recife,Atlético-GO,1 - 1,FT,True,True,False,BRA2
+14,14,,5190572,2026-06-20T14:00:00Z,Londrina,Athletic Club MG,2 - 0,FT,True,True,False,BRA2
+14,14,,5190573,2026-06-20T22:00:00Z,Ceará,Botafogo SP,0 - 1,FT,True,True,False,BRA2
+14,14,,5190578,2026-06-20T22:00:00Z,Vila Nova,Náutico,4 - 3,FT,True,True,False,BRA2
+14,14,,5190575,2026-06-21T14:00:00Z,Avaí,Cuiabá,1 - 0,FT,True,True,False,BRA2
+14,14,,5190577,2026-06-21T19:00:00Z,CRB,Fortaleza,1 - 1,FT,True,True,False,BRA2
+14,14,,5190570,2026-06-21T20:00:00Z,São Bernardo,Juventude,0 - 1,FT,True,True,False,BRA2
+14,14,,5190574,2026-06-21T21:30:00Z,Goiás,Operário-PR,0 - 3,FT,True,True,False,BRA2
+14,14,,5190569,2026-06-22T23:00:00Z,Ponte Preta,Novorizontino,0 - 2,FT,True,True,False,BRA2
+14,14,,5190571,2026-06-23T23:00:00Z,América-MG,Criciúma,0 - 1,FT,True,True,False,BRA2
+15,15,,5190587,2026-06-25T23:30:00Z,Cuiabá,Londrina,2 - 2,FT,True,True,False,BRA2
+15,15,,5190580,2026-06-26T22:00:00Z,Novorizontino,Vila Nova,2 - 1,FT,True,True,False,BRA2
+15,15,,5190582,2026-06-27T14:00:00Z,Operário-PR,América-MG,1 - 0,FT,True,True,False,BRA2
+15,15,,5190585,2026-06-27T19:00:00Z,Criciúma,São Bernardo,1 - 0,FT,True,True,False,BRA2
+15,15,,5190581,2026-06-28T19:00:00Z,Athletic Club MG,Avaí,1 - 0,FT,True,True,False,BRA2
+15,15,,5190584,2026-06-28T19:00:00Z,Atlético-GO,Ponte Preta,2 - 0,FT,True,True,False,BRA2
+15,15,,5190588,2026-06-28T19:00:00Z,Juventude,Ceará,2 - 0,FT,True,True,False,BRA2
+15,15,,5190583,2026-06-28T21:30:00Z,Fortaleza,Sport Recife,2 - 1,FT,True,True,False,BRA2
+15,15,,5190586,2026-06-28T21:30:00Z,Náutico,Goiás,0 - 1,FT,True,True,False,BRA2
+15,15,,5190579,2026-06-30T23:00:00Z,Botafogo SP,CRB,0 - 1,FT,True,True,False,BRA2
+16,16,,5190597,2026-07-02T23:00:00Z,Cuiabá,América-MG,1 - 0,FT,True,True,False,BRA2
+16,16,,5190593,2026-07-03T00:00:00Z,Fortaleza,Ponte Preta,2 - 0,FT,True,True,False,BRA2
+16,16,,5190590,2026-07-04T19:00:00Z,Novorizontino,Atlético-GO,3 - 0,FT,True,True,False,BRA2
+16,16,,5190592,2026-07-04T19:00:00Z,Londrina,CRB,5 - 0,FT,True,True,False,BRA2
+16,16,,5190595,2026-07-04T19:00:00Z,Criciúma,Sport Recife,1 - 0,FT,True,True,False,BRA2
+16,16,,5190594,2026-07-04T23:00:00Z,Goiás,Ceará,2 - 0,FT,True,True,False,BRA2
+16,16,,5190596,2026-07-05T23:30:00Z,Náutico,Juventude,0 - 0,FT,True,True,False,BRA2
+16,16,,5190589,2026-07-06T22:00:00Z,Botafogo SP,Avaí,3 - 1,FT,True,True,False,BRA2
+16,16,,5190598,2026-07-06T22:00:00Z,Vila Nova,São Bernardo,2 - 1,FT,True,True,False,BRA2
+16,16,,5190591,2026-07-07T23:00:00Z,Athletic Club MG,Operário-PR,0 - 1,FT,True,True,False,BRA2
+17,17,,5190599,2026-07-08T23:00:00Z,Ponte Preta,Criciúma,1 - 2,FT,True,True,False,BRA2
+17,17,,5190608,2026-07-10T22:00:00Z,Juventude,Vila Nova,1 - 0,FT,True,True,False,BRA2
+17,17,,5190606,2026-07-10T23:00:00Z,Sport Recife,Botafogo SP,3 - 3,FT,True,True,False,BRA2
+17,17,,5190602,2026-07-12T14:00:00Z,Operário-PR,Novorizontino,2 - 1,FT,True,True,False,BRA2
+17,17,,5190600,2026-07-12T19:00:00Z,São Bernardo,Cuiabá,2 - 2,FT,True,True,False,BRA2
+17,17,,5190605,2026-07-12T19:00:00Z,Avaí,Náutico,2 - 0,FT,True,True,False,BRA2
+17,17,,5190604,2026-07-12T21:00:00Z,Atlético-GO,Fortaleza,1 - 0,FT,True,True,False,BRA2
+17,17,,5190607,2026-07-12T22:00:00Z,CRB,Goiás,2 - 2,FT,True,True,False,BRA2
+17,17,,5190601,2026-07-13T22:00:00Z,América-MG,Londrina,1 - 1,FT,True,True,False,BRA2
+17,17,,5190603,2026-07-13T23:30:00Z,Ceará,Athletic Club MG,0 - 0,FT,True,True,False,BRA2
+18,18,,5190617,2026-07-16T23:00:00Z,CRB,Náutico,2 - 1,FT,True,True,False,BRA2
+18,18,,5190610,2026-07-17T22:00:00Z,São Bernardo,Avaí,1 - 1,FT,True,True,False,BRA2
+18,18,,5190611,2026-07-17T22:00:00Z,América-MG,Ceará,1 - 1,FT,True,True,False,BRA2
+18,18,,5190618,2026-07-17T22:00:00Z,Juventude,Cuiabá,2 - 0,FT,True,True,False,BRA2
+18,18,,5190612,2026-07-18T00:00:00Z,Londrina,Botafogo SP,0 - 0,FT,True,True,False,BRA2
+18,18,,5190613,2026-07-18T00:00:00Z,Fortaleza,Novorizontino,1 - 0,FT,True,True,False,BRA2
+18,18,,5190609,2026-07-18T19:00:00Z,Ponte Preta,Goiás,1 - 2,FT,True,True,False,BRA2
+18,18,,5190615,2026-07-18T19:00:00Z,Criciúma,Vila Nova,2 - 0,FT,True,True,False,BRA2
+18,18,,5190616,2026-07-18T19:00:00Z,Sport Recife,Operário-PR,2 - 2,FT,True,True,False,BRA2
+18,18,,5190614,2026-07-18T21:00:00Z,Atlético-GO,Athletic Club MG,0 - 0,FT,True,True,False,BRA2
+19,19,,5190620,2026-07-21T22:30:00Z,Novorizontino,Criciúma,0 - 1,FT,True,True,False,BRA2
+19,19,,5190625,2026-07-21T22:30:00Z,Avaí,América-MG,2 - 1,FT,True,True,False,BRA2
+19,19,,5190628,2026-07-22T00:35:00Z,Vila Nova,Fortaleza,2 - 1,FT,True,True,False,BRA2
+19,19,,5190622,2026-07-22T22:30:00Z,Operário-PR,Ponte Preta,3 - 2,FT,True,True,False,BRA2
+19,19,,5190623,2026-07-22T22:30:00Z,Ceará,CRB,0 - 1,FT,True,True,False,BRA2
+19,19,,5190624,2026-07-22T23:30:00Z,Goiás,Sport Recife,1 - 1,FT,True,True,False,BRA2
+19,19,,5190626,2026-07-23T00:30:00Z,Náutico,Londrina,2 - 1,FT,True,True,False,BRA2
+19,19,,5190621,2026-07-23T22:30:00Z,Athletic Club MG,São Bernardo,2 - 1,FT,True,True,False,BRA2
+19,19,,5190627,2026-07-23T23:30:00Z,Cuiabá,Atlético-GO,0 - 1,FT,True,True,False,BRA2
+19,19,,5190619,2026-07-24T00:30:00Z,Botafogo SP,Juventude,4 - 2,FT,True,True,False,BRA2
+20,20,,5190630,2026-07-26T19:00:00Z,São Bernardo,Ceará,3 - 4,FT,True,True,False,BRA2
+20,20,,5190635,2026-07-26T19:00:00Z,Criciúma,Náutico,0 - 0,FT,True,True,False,BRA2
+20,20,,5190631,2026-07-26T21:30:00Z,América-MG,Goiás,1 - 0,FT,True,True,False,BRA2
+20,20,,5190632,2026-07-26T21:30:00Z,Londrina,Novorizontino,1 - 4,FT,True,True,False,BRA2
+20,20,,5190634,2026-07-27T22:30:00Z,Atlético-GO,Operário-PR,3 - 1,FT,True,True,False,BRA2
+20,20,,5190636,2026-07-27T22:30:00Z,Sport Recife,Cuiabá,1 - 1,FT,True,True,False,BRA2
+20,20,,5190637,2026-07-27T22:30:00Z,CRB,Vila Nova,2 - 0,FT,True,True,False,BRA2
+20,20,,5190629,2026-07-28T22:30:00Z,Ponte Preta,Athletic Club MG,1 - 1,FT,True,True,False,BRA2
+20,20,,5190638,2026-07-28T22:30:00Z,Juventude,Avaí,1 - 0,FT,True,True,False,BRA2
+20,20,,5190633,2026-07-29T00:35:00Z,Fortaleza,Botafogo SP,1 - 0,FT,True,True,False,BRA2
+21,21,,5190642,2026-08-07T22:30:00Z,Operário-PR,São Bernardo,1 - 3,FT,True,True,False,BRA2
+21,21,,5190643,2026-08-07T23:30:00Z,Ceará,Ponte Preta,2 - 0,FT,True,True,False,BRA2
+21,21,,5190648,2026-08-08T19:00:00Z,Vila Nova,Sport Recife,0 - 1,FT,True,True,False,BRA2
+21,21,,5190639,2026-08-08T21:30:00Z,Botafogo SP,América-MG,2 - 1,FT,True,True,False,BRA2
+21,21,,5190641,2026-08-09T14:00:00Z,Athletic Club MG,Criciúma,2 - 0,FT,True,True,False,BRA2
+21,21,,5190640,2026-08-09T19:00:00Z,Novorizontino,Juventude,0 - 1,FT,True,True,False,BRA2
+21,21,,5190646,2026-08-09T19:00:00Z,Náutico,Atlético-GO,1 - 1,FT,True,True,False,BRA2
+21,21,,5190647,2026-08-09T21:00:00Z,Cuiabá,Fortaleza,1 - 1,FT,True,True,False,BRA2
+21,21,,5190644,2026-08-10T22:30:00Z,Goiás,Londrina,1 - 0,FT,True,True,False,BRA2
+21,21,,5190645,2026-08-11T22:30:00Z,Avaí,CRB,0 - 1,FT,True,True,False,BRA2
+22,22,,5190649,2026-08-14T22:30:00Z,Ponte Preta,Náutico,1 - 1,FT,True,True,False,BRA2
+22,22,,5190650,2026-08-14T22:30:00Z,São Bernardo,Botafogo SP,0 - 1,FT,True,True,False,BRA2
+22,22,,5190656,2026-08-14T23:30:00Z,Sport Recife,Londrina,2 - 1,FT,True,True,False,BRA2
+22,22,,5190653,2026-08-15T19:00:00Z,Ceará,Cuiabá,1 - 3,FT,True,True,False,BRA2
+22,22,,5190654,2026-08-15T19:00:00Z,Atlético-GO,Vila Nova,0 - 2,FT,True,True,False,BRA2
+22,22,,5190655,2026-08-15T19:00:00Z,Criciúma,Goiás,1 - 0,FT,True,True,False,BRA2
+22,22,,5190658,2026-08-15T21:30:00Z,Juventude,Fortaleza,0 - 0,FT,True,True,False,BRA2
+22,22,,5190652,2026-08-16T14:00:00Z,Operário-PR,Avaí,1 - 2,FT,True,True,False,BRA2
+22,22,,5190651,2026-08-16T21:30:00Z,América-MG,Athletic Club MG,1 - 3,FT,True,True,False,BRA2
+22,22,,5190657,2026-08-16T21:30:00Z,CRB,Novorizontino,0 - 0,FT,True,True,False,BRA2
+23,23,,5190662,2026-08-18T22:30:00Z,Londrina,Atlético-GO,0 - 0,FT,True,True,False,BRA2
+23,23,,5190666,2026-08-19T00:30:00Z,Náutico,Ceará,1 - 0,FT,True,True,False,BRA2
+23,23,,5190664,2026-08-19T00:35:00Z,Goiás,Juventude,0 - 1,FT,True,True,False,BRA2
+23,23,,5190663,2026-08-19T22:30:00Z,Fortaleza,São Bernardo,1 - 1,FT,True,True,False,BRA2
+23,23,,5190665,2026-08-19T22:30:00Z,Avaí,Sport Recife,2 - 1,FT,True,True,False,BRA2
+23,23,,5190667,2026-08-19T23:30:00Z,Cuiabá,Operário-PR,1 - 0,FT,True,True,False,BRA2
+23,23,,5190668,2026-08-19T23:30:00Z,Vila Nova,Ponte Preta,6 - 0,FT,True,True,False,BRA2
+23,23,,5190659,2026-08-20T00:30:00Z,Botafogo SP,Criciúma,1 - 1,FT,True,True,False,BRA2
+23,23,,5190661,2026-08-20T22:30:00Z,Athletic Club MG,CRB,0 - 2,FT,True,True,False,BRA2
+23,23,,5190660,2026-08-20T23:30:00Z,Novorizontino,América-MG,3 - 0,FT,True,True,False,BRA2
+24,24,,5190673,2026-08-22T21:00:00Z,Ceará,Londrina,2 - 1,FT,True,True,False,BRA2
+24,24,,5190677,2026-08-22T21:30:00Z,Cuiabá,Goiás,1 - 1,FT,True,True,False,BRA2
+24,24,,5190669,2026-08-23T19:00:00Z,Ponte Preta,Avaí,0 - 2,FT,True,True,False,BRA2
+24,24,,5190670,2026-08-23T19:00:00Z,São Bernardo,Náutico,1 - 1,FT,True,True,False,BRA2
+24,24,,5190672,2026-08-23T21:00:00Z,Operário-PR,Vila Nova,0 - 0,FT,True,True,False,BRA2
+24,24,,5190675,2026-08-23T21:30:00Z,Criciúma,Fortaleza,0 - 2,FT,True,True,False,BRA2
+24,24,,5190671,2026-08-24T22:30:00Z,Athletic Club MG,Novorizontino,1 - 4,FT,True,True,False,BRA2
+24,24,,5190676,2026-08-24T22:30:00Z,Sport Recife,América-MG,3 - 0,FT,True,True,False,BRA2
+24,24,,5190674,2026-08-25T22:30:00Z,Atlético-GO,Botafogo SP,3 - 0,FT,True,True,False,BRA2
+24,24,,5190678,2026-08-25T22:30:00Z,Juventude,CRB,2 - 1,FT,True,True,False,BRA2
+25,25,,5190684,2026-08-28T22:30:00Z,Goiás,São Bernardo,2 - 1,FT,True,True,False,BRA2
+25,25,,5190680,2026-08-28T23:30:00Z,Novorizontino,Sport Recife,2 - 1,FT,True,True,False,BRA2
+25,25,,5190686,2026-08-28T23:30:00Z,Náutico,Athletic Club MG,2 - 1,FT,True,True,False,BRA2
+25,25,,5190679,2026-08-29T21:30:00Z,Botafogo SP,Cuiabá,1 - 2,FT,True,True,False,BRA2
+25,25,,5190681,2026-08-30T19:00:00Z,América-MG,Ponte Preta,2 - 0,FT,True,True,False,BRA2
+25,25,,5190685,2026-08-30T19:00:00Z,Avaí,Atlético-GO,0 - 1,FT,True,True,False,BRA2
+25,25,,5190687,2026-08-30T21:00:00Z,CRB,Criciúma,2 - 1,FT,True,True,False,BRA2
+25,25,,5190688,2026-08-30T21:30:00Z,Vila Nova,Ceará,2 - 0,FT,True,True,False,BRA2
+25,25,,5190683,2026-08-31T22:30:00Z,Fortaleza,Operário-PR,1 - 1,FT,True,True,False,BRA2
+25,25,,5190682,2026-09-01T22:30:00Z,Londrina,Juventude,0 - 0,FT,True,True,False,BRA2
+26,26,,5190696,2026-09-03T23:00:00Z,Náutico,Botafogo SP,1 - 0,FT,True,True,False,BRA2
+26,26,,5190695,2026-09-04T22:30:00Z,Criciúma,Cuiabá,2 - 0,FT,True,True,False,BRA2
+26,26,,5190691,2026-09-04T23:30:00Z,Athletic Club MG,Vila Nova,5 - 0,FT,True,True,False,BRA2
+26,26,,5190697,2026-09-05T00:30:00Z,CRB,América-MG,3 - 1,FT,True,True,False,BRA2
+26,26,,5190690,2026-09-05T19:00:00Z,Novorizontino,Avaí,3 - 1,FT,True,True,False,BRA2
+26,26,,5190694,2026-09-05T19:00:00Z,Goiás,Fortaleza,0 - 1,FT,True,True,False,BRA2
+26,26,,5190698,2026-09-05T21:00:00Z,Juventude,Atlético-GO,2 - 2,FT,True,True,False,BRA2
+26,26,,5190693,2026-09-05T21:30:00Z,Ceará,Sport Recife,2 - 1,FT,True,True,False,BRA2
+26,26,,5190692,2026-09-06T14:00:00Z,Londrina,Operário-PR,1 - 2,FT,True,True,False,BRA2
+26,26,,5190689,2026-09-06T21:30:00Z,Ponte Preta,São Bernardo,0 - 2,FT,True,True,False,BRA2
+27,27,,5190707,2026-09-08T23:30:00Z,Cuiabá,Athletic Club MG,3 - 0,FT,True,True,False,BRA2
+27,27,,5190705,2026-09-09T00:00:00Z,Criciúma,Juventude,0 - 2,FT,True,True,False,BRA2
+27,27,,5190699,2026-09-09T22:30:00Z,Botafogo SP,Novorizontino,1 - 3,FT,True,True,False,BRA2
+27,27,,5190703,2026-09-09T22:30:00Z,Fortaleza,Avaí,1 - 0,FT,True,True,False,BRA2
+27,27,,5190701,2026-09-09T23:30:00Z,América-MG,Náutico,2 - 1,FT,True,True,False,BRA2
+27,27,,5190702,2026-09-09T23:30:00Z,Operário-PR,CRB,3 - 0,FT,True,True,False,BRA2
+27,27,,5190704,2026-09-10T00:30:00Z,Atlético-GO,Ceará,2 - 1,FT,True,True,False,BRA2
+27,27,,5190708,2026-09-10T22:30:00Z,Vila Nova,Goiás,2 - 0,FT,True,True,False,BRA2
+27,27,,5190700,2026-09-11T00:00:00Z,São Bernardo,Londrina,1 - 2,FT,True,True,False,BRA2
+27,27,,5190706,2026-09-11T00:30:00Z,Sport Recife,Ponte Preta,2 - 0,FT,True,True,False,BRA2
+28,28,,5190714,2026-09-13T19:00:00Z,Atlético-GO,Criciúma,4 - 0,FT,True,True,False,BRA2
+28,28,,5190718,2026-09-13T21:00:00Z,Juventude,Athletic Club MG,0 - 2,FT,True,True,False,BRA2
+28,28,,5190710,2026-09-13T21:30:00Z,Novorizontino,Cuiabá,1 - 1,FT,True,True,False,BRA2
+28,28,,5190713,2026-09-13T21:30:00Z,Fortaleza,Ceará,1 - 1,FT,True,True,False,BRA2
+28,28,,5190709,2026-09-14T22:30:00Z,Botafogo SP,Goiás,1 - 3,FT,True,True,False,BRA2
+28,28,,5190711,2026-09-14T22:30:00Z,América-MG,São Bernardo,0 - 2,FT,True,True,False,BRA2
+28,28,,5190715,2026-09-15T00:30:00Z,Avaí,Vila Nova,1 - 1,FT,True,True,False,BRA2
+28,28,,5190712,2026-09-15T22:30:00Z,Londrina,Ponte Preta,6 - 0,FT,True,True,False,BRA2
+28,28,,5190716,2026-09-15T22:30:00Z,Náutico,Operário-PR,3 - 3,FT,True,True,False,BRA2
+28,28,,5190717,2026-09-16T00:00:00Z,CRB,Sport Recife,2 - 1,FT,True,True,False,BRA2
+29,29,,5190728,2026-09-18T22:30:00Z,Vila Nova,América-MG,1 - 0,FT,True,True,False,BRA2
+29,29,,5190723,2026-09-18T23:30:00Z,Ceará,Novorizontino,2 - 1,FT,True,True,False,BRA2
+29,29,,5190720,2026-09-19T00:00:00Z,São Bernardo,Atlético-GO,1 - 0,FT,True,True,False,BRA2
+29,29,,5190726,2026-09-19T19:30:00Z,Sport Recife,Juventude,2 - 1,FT,True,True,False,BRA2
+29,29,,5190721,2026-09-19T21:30:00Z,Athletic Club MG,Botafogo SP,1 - 1,FT,True,True,False,BRA2
+29,29,,5190719,2026-09-20T14:00:00Z,Ponte Preta,CRB,1 - 0,FT,True,True,False,BRA2
+29,29,,5190724,2026-09-20T19:00:00Z,Goiás,Avaí,2 - 1,FT,True,True,False,BRA2
+29,29,,5190722,2026-09-20T21:30:00Z,Londrina,Fortaleza,1 - 2,FT,True,True,False,BRA2
+29,29,,5190727,2026-09-22T00:30:00Z,Cuiabá,Náutico,3 - 0,FT,True,True,False,BRA2
+29,29,,5190725,2026-09-22T22:30:00Z,Criciúma,Operário-PR,0 - 2,FT,True,True,False,BRA2
+30,30,,5190730,2026-09-25T22:30:00Z,Novorizontino,São Bernardo,0 - 0,FT,True,True,False,BRA2
+30,30,,5190738,2026-09-25T23:30:00Z,Vila Nova,Londrina,2 - 0,FT,True,True,False,BRA2
+30,30,,5190732,2026-09-26T19:30:00Z,Operário-PR,Ceará,2 - 2,FT,True,True,False,BRA2
+30,30,,5190736,2026-09-26T19:30:00Z,Náutico,Sport Recife,3 - 1,FT,True,True,False,BRA2
+30,30,,5190734,2026-09-26T21:30:00Z,Goiás,Atlético-GO,0 - 1,FT,True,True,False,BRA2
+30,30,,5190735,2026-09-27T14:00:00Z,Criciúma,Avaí,3 - 0,FT,True,True,False,BRA2
+30,30,,5190737,2026-09-27T19:00:00Z,CRB,Cuiabá,3 - 0,FT,True,True,False,BRA2
+30,30,,5190733,2026-09-27T21:30:00Z,Fortaleza,Athletic Club MG,2 - 2,FT,True,True,False,BRA2
+30,30,,5190731,2026-09-28T22:30:00Z,América-MG,Juventude,0 - 1,FT,True,True,False,BRA2
+30,30,,5190729,2026-09-29T22:30:00Z,Botafogo SP,Ponte Preta,2 - 0,FT,True,True,False,BRA2
+31,31,,5190741,2026-10-01T23:30:00Z,Athletic Club MG,Sport Recife,1 - 2,FT,True,True,False,BRA2
+31,31,,5190746,2026-10-02T00:00:00Z,Novorizontino,Goiás,3 - 0,FT,True,True,False,BRA2
+31,31,,5190740,2026-10-02T22:30:00Z,São Bernardo,CRB,3 - 1,FT,True,True,False,BRA2
+31,31,,5190742,2026-10-02T23:30:00Z,Londrina,Criciúma,0 - 2,FT,True,True,False,BRA2
+31,31,,5190748,2026-10-02T23:45:00Z,Juventude,Operário-PR,3 - 0,FT,True,True,False,BRA2
+31,31,,5190743,2026-10-03T00:35:00Z,Fortaleza,Náutico,1 - 1,FT,True,True,False,BRA2
+31,31,,5190745,2026-10-03T14:00:00Z,Avaí,Ceará,0 - 1,FT,True,True,False,BRA2
+31,31,,5190744,2026-10-03T19:00:00Z,Atlético-GO,América-MG,2 - 0,FT,True,True,False,BRA2
+31,31,,5190747,2026-10-03T20:00:00Z,Cuiabá,Ponte Preta,2 - 0,FT,True,True,False,BRA2
+31,31,,5190739,2026-10-03T21:30:00Z,Botafogo SP,Vila Nova,0 - 1,FT,True,True,False,BRA2
+32,32,,5190750,2026-10-06T22:30:00Z,Sport Recife,São Bernardo,2 - 1,FT,True,True,False,BRA2
+32,32,,5190754,2026-10-06T23:30:00Z,Goiás,Athletic Club MG,2 - 1,FT,True,True,False,BRA2
+32,32,,5190749,2026-10-07T00:35:00Z,Ponte Preta,Juventude,0 - 2,FT,True,True,False,BRA2
+32,32,,5190752,2026-10-07T22:30:00Z,Operário-PR,Botafogo SP,1 - 2,FT,True,True,False,BRA2
+32,32,,5190755,2026-10-07T22:30:00Z,Avaí,Londrina,2 - 1,FT,True,True,False,BRA2
+32,32,,5190751,2026-10-07T23:30:00Z,América-MG,Fortaleza,0 - 1,FT,True,True,False,BRA2
+32,32,,5190757,2026-10-07T23:30:00Z,CRB,Atlético-GO,3 - 1,FT,True,True,False,BRA2
+32,32,,5190758,2026-10-07T23:30:00Z,Vila Nova,Cuiabá,0 - 0,FT,True,True,False,BRA2
+32,32,,5190753,2026-10-08T22:30:00Z,Ceará,Criciúma,1 - 0,FT,True,True,False,BRA2
+32,32,,5190756,2026-10-08T22:30:00Z,Náutico,Novorizontino,0 - 2,FT,True,True,False,BRA2
+33,33,,5190768,2026-10-11T19:00:00Z,Juventude,São Bernardo,2 - 2,FT,True,True,False,BRA2
+33,33,,5190764,2026-10-11T19:10:00Z,Atlético-GO,Sport Recife,1 - 1,FT,True,True,False,BRA2
+33,33,,5190766,2026-10-11T20:30:00Z,Náutico,Vila Nova,0 - 2,FT,True,True,False,BRA2
+33,33,,5190762,2026-10-11T21:30:00Z,Operário-PR,Goiás,0 - 2,FT,True,True,False,BRA2
+33,33,,5190767,2026-10-11T21:30:00Z,Cuiabá,Avaí,0 - 1,FT,True,True,False,BRA2
+33,33,,5190763,2026-10-12T19:00:00Z,Fortaleza,CRB,2 - 2,FT,True,True,False,BRA2
+33,33,,5190760,2026-10-12T22:00:00Z,Novorizontino,Ponte Preta,5 - 1,FT,True,True,False,BRA2
+33,33,,5190765,2026-10-12T22:30:00Z,Criciúma,América-MG,1 - 0,FT,True,True,False,BRA2
+33,33,,5190759,2026-10-13T00:00:00Z,Botafogo SP,Ceará,1 - 0,FT,True,True,False,BRA2
+33,33,,5190761,2026-10-13T22:30:00Z,Athletic Club MG,Londrina,2 - 2,FT,True,True,False,BRA2
+34,34,,5190769,2026-10-16T22:30:00Z,Ponte Preta,Atlético-GO,,,False,False,False,BRA2
+34,34,,5190776,2026-10-16T23:30:00Z,Sport Recife,Fortaleza,,,False,False,False,BRA2
+34,34,,5190773,2026-10-17T19:30:00Z,Ceará,Juventude,,,False,False,False,BRA2
+34,34,,5190771,2026-10-17T21:30:00Z,América-MG,Operário-PR,,,False,False,False,BRA2
+34,34,,5190770,2026-10-18T19:00:00Z,São Bernardo,Criciúma,,,False,False,False,BRA2
+34,34,,5190775,2026-10-18T19:00:00Z,Avaí,Athletic Club MG,,,False,False,False,BRA2
+34,34,,5190777,2026-10-18T19:00:00Z,CRB,Botafogo SP,,,False,False,False,BRA2
+34,34,,5190778,2026-10-18T21:00:00Z,Vila Nova,Novorizontino,,,False,False,False,BRA2
+34,34,,5190774,2026-10-19T22:30:00Z,Goiás,Náutico,,,False,False,False,BRA2
+34,34,,5190772,2026-10-20T22:30:00Z,Londrina,Cuiabá,,,False,False,False,BRA2
+35,35,,5190782,2026-10-23T22:30:00Z,Operário-PR,Athletic Club MG,,,False,False,False,BRA2
+35,35,,5190786,2026-10-24T00:00:00Z,Sport Recife,Criciúma,,,False,False,False,BRA2
+35,35,,5190785,2026-10-24T19:00:00Z,Avaí,Botafogo SP,,,False,False,False,BRA2
+35,35,,5190780,2026-10-24T19:30:00Z,São Bernardo,Vila Nova,,,False,False,False,BRA2
+35,35,,5190784,2026-10-24T19:30:00Z,Atlético-GO,Novorizontino,,,False,False,False,BRA2
+35,35,,5190779,2026-10-24T21:30:00Z,Ponte Preta,Fortaleza,,,False,False,False,BRA2
+35,35,,5190787,2026-10-24T21:30:00Z,CRB,Londrina,,,False,False,False,BRA2
+35,35,,5190781,2026-10-26T22:30:00Z,América-MG,Cuiabá,,,False,False,False,BRA2
+35,35,,5190788,2026-10-26T23:30:00Z,Juventude,Náutico,,,False,False,False,BRA2
+35,35,,5190783,2026-10-27T23:00:00Z,Ceará,Goiás,,,False,False,False,BRA2
+36,36,,5190795,2026-10-30T22:30:00Z,Criciúma,Ponte Preta,,,False,False,False,BRA2
+36,36,,5190789,2026-10-31T19:00:00Z,Botafogo SP,Sport Recife,,,False,False,False,BRA2
+36,36,,5190798,2026-10-31T21:00:00Z,Vila Nova,Juventude,,,False,False,False,BRA2
+36,36,,5190796,2026-10-31T22:30:00Z,Náutico,Avaí,,,False,False,False,BRA2
+36,36,,5190792,2026-11-01T19:00:00Z,Londrina,América-MG,,,False,False,False,BRA2
+36,36,,5190790,2026-11-01T21:30:00Z,Novorizontino,Operário-PR,,,False,False,False,BRA2
+36,36,,5190797,2026-11-01T21:30:00Z,Cuiabá,São Bernardo,,,False,False,False,BRA2
+36,36,,5190793,2026-11-02T19:00:00Z,Fortaleza,Atlético-GO,,,False,False,False,BRA2
+36,36,,5190791,2026-11-02T21:00:00Z,Athletic Club MG,Ceará,,,False,False,False,BRA2
+36,36,,5190794,2026-11-02T23:30:00Z,Goiás,CRB,,,False,False,False,BRA2
+37,37,,5190799,2026-11-06T22:30:00Z,Botafogo SP,Londrina,,,False,False,False,BRA2
+37,37,,5190802,2026-11-06T22:30:00Z,Operário-PR,Sport Recife,,,False,False,False,BRA2
+37,37,,5190808,2026-11-06T23:30:00Z,Vila Nova,Criciúma,,,False,False,False,BRA2
+37,37,,5190807,2026-11-07T00:30:00Z,Cuiabá,Juventude,,,False,False,False,BRA2
+37,37,,5190805,2026-11-07T19:00:00Z,Avaí,São Bernardo,,,False,False,False,BRA2
+37,37,,5190800,2026-11-07T19:10:00Z,Novorizontino,Fortaleza,,,False,False,False,BRA2
+37,37,,5190806,2026-11-08T00:30:00Z,Náutico,CRB,,,False,False,False,BRA2
+37,37,,5190801,2026-11-08T19:00:00Z,Athletic Club MG,Atlético-GO,,,False,False,False,BRA2
+37,37,,5190803,2026-11-08T22:15:00Z,Ceará,América-MG,,,False,False,False,BRA2
+37,37,,5190804,2026-11-08T22:15:00Z,Goiás,Ponte Preta,,,False,False,False,BRA2
+38,38,,5190809,2026-11-14T19:30:00Z,Ponte Preta,Operário-PR,,,False,False,False,BRA2
+38,38,,5190810,2026-11-14T19:30:00Z,São Bernardo,Athletic Club MG,,,False,False,False,BRA2
+38,38,,5190811,2026-11-14T19:30:00Z,América-MG,Avaí,,,False,False,False,BRA2
+38,38,,5190812,2026-11-14T19:30:00Z,Londrina,Náutico,,,False,False,False,BRA2
+38,38,,5190813,2026-11-14T19:30:00Z,Fortaleza,Vila Nova,,,False,False,False,BRA2
+38,38,,5190814,2026-11-14T19:30:00Z,Atlético-GO,Cuiabá,,,False,False,False,BRA2
+38,38,,5190815,2026-11-14T19:30:00Z,Criciúma,Novorizontino,,,False,False,False,BRA2
+38,38,,5190816,2026-11-14T19:30:00Z,Sport Recife,Goiás,,,False,False,False,BRA2
+38,38,,5190817,2026-11-14T19:30:00Z,CRB,Ceará,,,False,False,False,BRA2
+38,38,,5190818,2026-11-14T19:30:00Z,Juventude,Botafogo SP,,,False,False,False,BRA2

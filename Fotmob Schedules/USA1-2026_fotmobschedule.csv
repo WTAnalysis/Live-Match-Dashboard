@@ -1,0 +1,511 @@
+round,roundName,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,match_url,league
+1,1,5070991,2026-02-21T19:30:00Z,St. Louis City,Charlotte FC,01-Jan,FT,TRUE,TRUE,FALSE,/matches/charlotte-fc-vs-st-louis-city/1cbhl3z1n#5070991,USA1
+1,1,5070990,2026-02-21T21:45:00Z,FC Cincinnati,Atlanta United,2 - 0,FT,TRUE,TRUE,FALSE,/matches/fc-cincinnati-vs-atlanta-united/ea7w0hyu#5070990,USA1
+1,1,5070994,2026-02-22T00:30:00Z,DC United,Philadelphia Union,1 - 0,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-philadelphia-union/9183ryb#5070994,USA1
+1,1,5070998,2026-02-22T00:30:00Z,Orlando City,Red Bull New York,01-Feb,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-orlando-city/haa4lj8#5070998,USA1
+1,1,5071002,2026-02-22T00:30:00Z,Vancouver Whitecaps,Real Salt Lake,1 - 0,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-vancouver-whitecaps/moueiyr#5071002,USA1
+1,1,5070992,2026-02-22T01:30:00Z,Austin FC,Minnesota United,02-Feb,FT,TRUE,TRUE,FALSE,/matches/minnesota-united-vs-austin-fc/cz60s1o2#5070992,USA1
+1,1,5070993,2026-02-22T01:30:00Z,FC Dallas,Toronto FC,03-Feb,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-toronto-fc/wnzx6x#5070993,USA1
+1,1,5070995,2026-02-22T01:30:00Z,Houston Dynamo FC,Chicago Fire FC,02-Jan,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-houston-dynamo-fc/1ry9r7#5070995,USA1
+1,1,5070997,2026-02-22T01:30:00Z,Nashville SC,New England Revolution,04-Jan,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-nashville-sc/5ffcc1wd#5070997,USA1
+1,1,5070996,2026-02-22T02:30:00Z,Los Angeles FC,Inter Miami CF,3 - 0,FT,TRUE,TRUE,FALSE,/matches/los-angeles-fc-vs-inter-miami-cf/lbjvj8kg#5070996,USA1
+1,1,5070999,2026-02-22T03:30:00Z,Portland Timbers,Columbus Crew,03-Feb,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-portland-timbers/mlp44zv#5070999,USA1
+1,1,5071000,2026-02-22T03:30:00Z,San Diego FC,CF Montreal,5 - 0,FT,TRUE,TRUE,FALSE,/matches/cf-montreal-vs-san-diego-fc/m4mzxlmu#5071000,USA1
+1,1,5071001,2026-02-22T03:30:00Z,San Jose Earthquakes,Sporting Kansas City,3 - 0,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-sporting-kansas-city/1fxjq8#5071001,USA1
+1,1,5071003,2026-02-23T00:00:00Z,LA Galaxy,New York City FC,01-Jan,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-new-york-city-fc/1y7meqjj#5071003,USA1
+1,1,5071004,2026-02-23T02:15:00Z,Seattle Sounders FC,Colorado Rapids,2 - 0,FT,TRUE,TRUE,FALSE,/matches/colorado-rapids-vs-seattle-sounders-fc/4f3iofg#5071004,USA1
+2,2,5071005,2026-02-28T19:30:00Z,Chicago Fire FC,CF Montreal,3 - 0,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-cf-montreal/6g97ptd#5071005,USA1
+2,2,5071008,2026-02-28T19:30:00Z,Red Bull New York,New England Revolution,1 - 0,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-new-england-revolution/1f1p21#5071008,USA1
+2,2,5071006,2026-02-28T21:30:00Z,Colorado Rapids,Portland Timbers,2 - 0,FT,TRUE,TRUE,FALSE,/matches/colorado-rapids-vs-portland-timbers/mxqoz04#5071006,USA1
+2,2,5071007,2026-02-28T21:30:00Z,Minnesota United,FC Cincinnati,1 - 0,FT,TRUE,TRUE,FALSE,/matches/minnesota-united-vs-fc-cincinnati/5igddc33#5071007,USA1
+2,2,5071014,2026-03-01T00:30:00Z,Real Salt Lake,Seattle Sounders FC,02-Jan,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-seattle-sounders-fc/4b7c0hu#5071014,USA1
+2,2,5071015,2026-03-01T00:30:00Z,San Jose Earthquakes,Atlanta United,2 - 0,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-atlanta-united/3vy64wv3#5071015,USA1
+2,2,5071010,2026-03-01T01:30:00Z,FC Dallas,Nashville SC,0 - 0,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-nashville-sc/5fcky1g0#5071010,USA1
+2,2,5071011,2026-03-01T01:30:00Z,Houston Dynamo FC,Los Angeles FC,0 - 2,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-los-angeles-fc/4w2uc2oe#5071011,USA1
+2,2,5071012,2026-03-01T01:30:00Z,Sporting Kansas City,Columbus Crew,02-Feb,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-sporting-kansas-city/1bb0kv#5071012,USA1
+2,2,5071016,2026-03-01T02:30:00Z,Vancouver Whitecaps,Toronto FC,3 - 0,FT,TRUE,TRUE,FALSE,/matches/toronto-fc-vs-vancouver-whitecaps/ughpcfx#5071016,USA1
+2,2,5071013,2026-03-01T03:30:00Z,LA Galaxy,Charlotte FC,3 - 0,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-charlotte-fc/banw37wm#5071013,USA1
+2,2,5071009,2026-03-01T19:30:00Z,Austin FC,DC United,1 - 0,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-austin-fc/9kyp1lg2#5071009,USA1
+2,2,5071017,2026-03-01T21:30:00Z,Philadelphia Union,New York City FC,01-Feb,FT,TRUE,TRUE,FALSE,/matches/philadelphia-union-vs-new-york-city-fc/3h35tkk1#5071017,USA1
+2,2,5071018,2026-03-02T00:00:00Z,Orlando City,Inter Miami CF,02-Apr,FT,TRUE,TRUE,FALSE,/matches/orlando-city-vs-inter-miami-cf/9mofvtm3#5071018,USA1
+2,2,5071019,2026-03-02T02:15:00Z,San Diego FC,St. Louis City,2 - 0,FT,TRUE,TRUE,FALSE,/matches/st-louis-city-vs-san-diego-fc/1qgzy4zgu#5071019,USA1
+3,3,5071022,2026-03-07T19:30:00Z,New York City FC,Orlando City,5 - 0,FT,TRUE,TRUE,FALSE,/matches/orlando-city-vs-new-york-city-fc/487q3tf2#5071022,USA1
+3,3,5071020,2026-03-07T21:30:00Z,DC United,Inter Miami CF,01-Feb,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-inter-miami-cf/5yxi759r#5071020,USA1
+3,3,5071023,2026-03-08T00:30:00Z,Atlanta United,Real Salt Lake,02-Mar,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-atlanta-united/3vy7j3q0#5071023,USA1
+3,3,5071024,2026-03-08T00:30:00Z,Charlotte FC,Austin FC,03-Jan,FT,TRUE,TRUE,FALSE,/matches/austin-fc-vs-charlotte-fc/1597nkop7#5071024,USA1
+3,3,5071027,2026-03-08T00:30:00Z,Columbus Crew,Chicago Fire FC,0 - 0,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-chicago-fire-fc/19rjkm#5071027,USA1
+3,3,5071031,2026-03-08T00:30:00Z,Philadelphia Union,San Jose Earthquakes,0 - 1,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-philadelphia-union/91880z7#5071031,USA1
+3,3,5071030,2026-03-08T01:30:00Z,Nashville SC,Minnesota United,03-Jan,FT,TRUE,TRUE,FALSE,/matches/minnesota-united-vs-nashville-sc/81pbgq1o#5071030,USA1
+3,3,5071028,2026-03-08T01:30:00Z,Sporting Kansas City,San Diego FC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/sporting-kansas-city-vs-san-diego-fc/ilvaop7y#5071028,USA1
+3,3,5071032,2026-03-08T01:30:00Z,St. Louis City,Seattle Sounders FC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/seattle-sounders-fc-vs-st-louis-city/fhtbfg76#5071032,USA1
+3,3,5071026,2026-03-08T02:30:00Z,Colorado Rapids,LA Galaxy,04-Jan,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-colorado-rapids/1ujvja#5071026,USA1
+3,3,5071029,2026-03-08T03:30:00Z,Los Angeles FC,FC Dallas,1 - 0,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-los-angeles-fc/4vbxso2w#5071029,USA1
+3,3,5071034,2026-03-08T03:30:00Z,Portland Timbers,Vancouver Whitecaps,01-Apr,FT,TRUE,TRUE,FALSE,/matches/portland-timbers-vs-vancouver-whitecaps/2ezgm4c2#5071034,USA1
+3,3,5071033,2026-03-08T20:30:00Z,Red Bull New York,CF Montreal,0 - 3,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-cf-montreal/6gkw52d#5071033,USA1
+3,3,5071025,2026-03-08T23:00:00Z,FC Cincinnati,Toronto FC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/toronto-fc-vs-fc-cincinnati/3vaemjyi#5071025,USA1
+4,4,5071040,2026-03-14T17:10:00Z,Toronto FC,Red Bull New York,01-Jan,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-toronto-fc/wsazkm#5071040,USA1
+4,4,5071035,2026-03-14T19:15:00Z,Atlanta United,Philadelphia Union,03-Jan,FT,TRUE,TRUE,FALSE,/matches/philadelphia-union-vs-atlanta-united/5y75s4wd#5071035,USA1
+4,4,5071037,2026-03-14T22:15:00Z,Columbus Crew,Nashville SC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-nashville-sc/5f6igu2v#5071037,USA1
+4,4,5071036,2026-03-14T23:30:00Z,Charlotte FC,Inter Miami CF,0 - 0,FT,TRUE,TRUE,FALSE,/matches/inter-miami-cf-vs-charlotte-fc/xaxy0ocy#5071036,USA1
+4,4,5071038,2026-03-14T23:30:00Z,New York City FC,Colorado Rapids,03-Jan,FT,TRUE,TRUE,FALSE,/matches/colorado-rapids-vs-new-york-city-fc/1ymz9fhy#5071038,USA1
+4,4,5071039,2026-03-14T23:30:00Z,Orlando City,CF Montreal,02-Jan,FT,TRUE,TRUE,FALSE,/matches/cf-montreal-vs-orlando-city/169w6zh9#5071039,USA1
+4,4,5071041,2026-03-15T00:30:00Z,Chicago Fire FC,DC United,01-Feb,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-dc-united/1eb4p2#5071041,USA1
+4,4,5071042,2026-03-15T00:30:00Z,FC Dallas,San Diego FC,03-Mar,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-san-diego-fc/ilpi9n9c#5071042,USA1
+4,4,5071043,2026-03-15T00:30:00Z,Houston Dynamo FC,Portland Timbers,03-Feb,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-portland-timbers/mxgchfy#5071043,USA1
+4,4,5071044,2026-03-15T01:30:00Z,LA Galaxy,Sporting Kansas City,01-Feb,FT,TRUE,TRUE,FALSE,/matches/sporting-kansas-city-vs-la-galaxy/1g76oy#5071044,USA1
+4,4,5071046,2026-03-15T01:30:00Z,Real Salt Lake,Austin FC,02-Jan,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-austin-fc/9kyrynts#5071046,USA1
+4,4,5071045,2026-03-15T02:30:00Z,Los Angeles FC,St. Louis City,2 - 0,FT,TRUE,TRUE,FALSE,/matches/los-angeles-fc-vs-st-louis-city/xm2qlfzm#5071045,USA1
+4,4,5071048,2026-03-15T18:30:00Z,New England Revolution,FC Cincinnati,06-Jan,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-fc-cincinnati/3e0oi69g#5071048,USA1
+4,4,5071047,2026-03-15T20:30:00Z,Vancouver Whitecaps,Minnesota United,6 - 0,FT,TRUE,TRUE,FALSE,/matches/minnesota-united-vs-vancouver-whitecaps/1owlupgi#5071047,USA1
+4,4,5071049,2026-03-15T23:00:00Z,San Jose Earthquakes,Seattle Sounders FC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-seattle-sounders-fc/4b737d6#5071049,USA1
+5,5,5071055,2026-03-21T17:00:00Z,Toronto FC,Columbus Crew,02-Jan,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-toronto-fc/w95g2m#5071055,USA1
+5,5,5071054,2026-03-21T20:30:00Z,Philadelphia Union,Chicago Fire FC,01-Feb,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-philadelphia-union/90jwu6m#5071054,USA1
+5,5,5071053,2026-03-21T22:15:00Z,Nashville SC,Orlando City,5 - 0,FT,TRUE,TRUE,FALSE,/matches/orlando-city-vs-nashville-sc/8xsle0tc#5071053,USA1
+5,5,5071050,2026-03-21T23:30:00Z,Atlanta United,DC United,0 - 0,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-atlanta-united/3vy5o6ku#5071050,USA1
+5,5,5071051,2026-03-21T23:30:00Z,Charlotte FC,Red Bull New York,06-Jan,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-charlotte-fc/bal6njzj#5071051,USA1
+5,5,5071057,2026-03-22T00:30:00Z,FC Dallas,Houston Dynamo FC,04-Mar,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-houston-dynamo-fc/1rywdi#5071057,USA1
+5,5,5071058,2026-03-22T00:30:00Z,Sporting Kansas City,Colorado Rapids,01-Apr,FT,TRUE,TRUE,FALSE,/matches/sporting-kansas-city-vs-colorado-rapids/1u9b8v#5071058,USA1
+5,5,5071059,2026-03-22T00:30:00Z,St. Louis City,New England Revolution,03-Jan,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-st-louis-city/d4p2qxy4#5071059,USA1
+5,5,5071056,2026-03-22T00:45:00Z,Austin FC,Los Angeles FC,0 - 0,FT,TRUE,TRUE,FALSE,/matches/los-angeles-fc-vs-austin-fc/rrntq1xp#5071056,USA1
+5,5,5071060,2026-03-22T02:30:00Z,Vancouver Whitecaps,San Jose Earthquakes,0 - 1,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-vancouver-whitecaps/motubfc#5071060,USA1
+5,5,5071052,2026-03-22T17:00:00Z,FC Cincinnati,CF Montreal,04-Mar,FT,TRUE,TRUE,FALSE,/matches/cf-montreal-vs-fc-cincinnati/4za1xnmr#5071052,USA1
+5,5,5071062,2026-03-22T17:00:00Z,New York City FC,Inter Miami CF,02-Mar,FT,TRUE,TRUE,FALSE,/matches/new-york-city-fc-vs-inter-miami-cf/ehmhb14p#5071062,USA1
+5,5,5071061,2026-03-22T18:30:00Z,Minnesota United,Seattle Sounders FC,0 - 0,FT,TRUE,TRUE,FALSE,/matches/seattle-sounders-fc-vs-minnesota-united/q6nz6h0#5071061,USA1
+5,5,5071063,2026-03-22T20:45:00Z,Portland Timbers,LA Galaxy,01-Jan,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-portland-timbers/mp00mqp#5071063,USA1
+5,5,5071064,2026-03-22T23:00:00Z,San Diego FC,Real Salt Lake,02-Feb,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-san-diego-fc/ilvcpwll#5071064,USA1
+6,6,5071073,2026-04-04T17:00:00Z,Toronto FC,Colorado Rapids,03-Feb,FT,TRUE,TRUE,FALSE,/matches/colorado-rapids-vs-toronto-fc/yor1tm#5071073,USA1
+6,6,5071069,2026-04-04T20:30:00Z,New England Revolution,CF Montreal,3 - 0,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-cf-montreal/6grhfk4#5071069,USA1
+6,6,5071072,2026-04-04T20:30:00Z,Real Salt Lake,Sporting Kansas City,03-Jan,FT,TRUE,TRUE,FALSE,/matches/sporting-kansas-city-vs-real-salt-lake/1fyeb1#5071072,USA1
+6,6,5071065,2026-04-04T23:30:00Z,Atlanta United,Columbus Crew,01-Mar,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-atlanta-united/3vqeh91m#5071065,USA1
+6,6,5071066,2026-04-04T23:30:00Z,Charlotte FC,Philadelphia Union,02-Jan,FT,TRUE,TRUE,FALSE,/matches/philadelphia-union-vs-charlotte-fc/ennv92rs#5071066,USA1
+6,6,5071067,2026-04-04T23:30:00Z,DC United,FC Dallas,0 - 4,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-dc-united/1eborb#5071067,USA1
+6,6,5071070,2026-04-04T23:30:00Z,New York City FC,St. Louis City,01-Jan,FT,TRUE,TRUE,FALSE,/matches/new-york-city-fc-vs-st-louis-city/ov8jalpv#5071070,USA1
+6,6,5071071,2026-04-04T23:30:00Z,Red Bull New York,FC Cincinnati,04-Feb,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-fc-cincinnati/3dzvv6t7#5071071,USA1
+6,6,5071068,2026-04-05T00:00:00Z,Inter Miami CF,Austin FC,02-Feb,FT,TRUE,TRUE,FALSE,/matches/inter-miami-cf-vs-austin-fc/ub7u0lhp#5071068,USA1
+6,6,5071074,2026-04-05T00:30:00Z,Chicago Fire FC,Nashville SC,1 - 0,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-nashville-sc/5fcjuiad#5071074,USA1
+6,6,5071075,2026-04-05T00:30:00Z,Houston Dynamo FC,Seattle Sounders FC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-seattle-sounders-fc/4eyz706#5071075,USA1
+6,6,5071077,2026-04-05T01:30:00Z,Los Angeles FC,Orlando City,6 - 0,FT,TRUE,TRUE,FALSE,/matches/orlando-city-vs-los-angeles-fc/87y5mjhn#5071077,USA1
+6,6,5071076,2026-04-05T02:30:00Z,LA Galaxy,Minnesota United,01-Feb,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-minnesota-united/ai9j781#5071076,USA1
+6,6,5071078,2026-04-05T02:30:00Z,San Jose Earthquakes,San Diego FC,3 - 0,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-san-diego-fc/ilv9o3j6#5071078,USA1
+6,6,5071079,2026-04-05T02:30:00Z,Vancouver Whitecaps,Portland Timbers,03-Feb,FT,TRUE,TRUE,FALSE,/matches/portland-timbers-vs-vancouver-whitecaps/2ezgm4c2#5071079,USA1
+7,7,5071086,2026-04-11T17:10:00Z,Toronto FC,FC Cincinnati,01-Jan,FT,TRUE,TRUE,FALSE,/matches/toronto-fc-vs-fc-cincinnati/3vaemjyi#5071086,USA1
+7,7,5071080,2026-04-11T18:30:00Z,Austin FC,LA Galaxy,01-Feb,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-austin-fc/9kzekxp7#5071080,USA1
+7,7,5071083,2026-04-11T18:30:00Z,CF Montreal,Philadelphia Union,01-Feb,FT,TRUE,TRUE,FALSE,/matches/cf-montreal-vs-philadelphia-union/slw09i4#5071083,USA1
+7,7,5071085,2026-04-11T20:45:00Z,Portland Timbers,Los Angeles FC,02-Jan,FT,TRUE,TRUE,FALSE,/matches/portland-timbers-vs-los-angeles-fc/8t3y49q7#5071085,USA1
+7,7,5071081,2026-04-11T23:30:00Z,Charlotte FC,Nashville SC,01-Feb,FT,TRUE,TRUE,FALSE,/matches/nashville-sc-vs-charlotte-fc/w09mkcmd#5071081,USA1
+7,7,5071082,2026-04-11T23:30:00Z,Inter Miami CF,Red Bull New York,02-Feb,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-inter-miami-cf/5yw3ipv7#5071082,USA1
+7,7,5071084,2026-04-11T23:30:00Z,New England Revolution,DC United,1 - 0,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-dc-united/1fqh6z#5071084,USA1
+7,7,5071087,2026-04-11T23:30:00Z,Vancouver Whitecaps,New York City FC,2 - 0,FT,TRUE,TRUE,FALSE,/matches/vancouver-whitecaps-vs-new-york-city-fc/4nhsfsyj#5071087,USA1
+7,7,5071088,2026-04-12T00:30:00Z,Chicago Fire FC,Atlanta United,1 - 0,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-atlanta-united/3vvieyi4#5071088,USA1
+7,7,5071091,2026-04-12T00:30:00Z,FC Dallas,St. Louis City,01-Jan,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-st-louis-city/d4ks61e6#5071091,USA1
+7,7,5071092,2026-04-12T00:30:00Z,Sporting Kansas City,San Jose Earthquakes,01-Mar,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-sporting-kansas-city/1fxjq8#5071092,USA1
+7,7,5071089,2026-04-12T01:30:00Z,Colorado Rapids,Houston Dynamo FC,06-Feb,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-colorado-rapids/29ruzh#5071089,USA1
+7,7,5071093,2026-04-12T02:30:00Z,San Diego FC,Minnesota United,01-Feb,FT,TRUE,TRUE,FALSE,/matches/minnesota-united-vs-san-diego-fc/n8ipyanr#5071093,USA1
+7,7,5071090,2026-04-12T23:00:00Z,Columbus Crew,Orlando City,01-Jan,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-orlando-city/h7yf3vz#5071090,USA1
+8,8,5071095,2026-04-18T02:30:00Z,Vancouver Whitecaps,Sporting Kansas City,3 - 0,FT,TRUE,TRUE,FALSE,/matches/sporting-kansas-city-vs-vancouver-whitecaps/mou11xs#5071095,USA1
+8,8,5071104,2026-04-18T17:00:00Z,Toronto FC,Austin FC,03-Mar,FT,TRUE,TRUE,FALSE,/matches/toronto-fc-vs-austin-fc/adllcxrb#5071104,USA1
+8,8,5071099,2026-04-18T18:30:00Z,CF Montreal,Red Bull New York,04-Jan,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-cf-montreal/6gkw52d#5071099,USA1
+8,8,5071098,2026-04-18T20:30:00Z,Colorado Rapids,Inter Miami CF,02-Mar,FT,TRUE,TRUE,FALSE,/matches/colorado-rapids-vs-inter-miami-cf/5zox1l47#5071098,USA1
+8,8,5071096,2026-04-18T23:30:00Z,Atlanta United,Nashville SC,0 - 2,FT,TRUE,TRUE,FALSE,/matches/atlanta-united-vs-nashville-sc/i7uspl26#5071096,USA1
+8,8,5071097,2026-04-18T23:30:00Z,FC Cincinnati,Chicago Fire FC,03-Mar,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-fc-cincinnati/3dyh3rhy#5071097,USA1
+8,8,5071100,2026-04-18T23:30:00Z,New England Revolution,Columbus Crew,02-Jan,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-new-england-revolution/1b4jcj#5071100,USA1
+8,8,5071101,2026-04-18T23:30:00Z,New York City FC,Charlotte FC,01-Feb,FT,TRUE,TRUE,FALSE,/matches/new-york-city-fc-vs-charlotte-fc/mbdp1xyp#5071101,USA1
+8,8,5071102,2026-04-18T23:30:00Z,Orlando City,Houston Dynamo FC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-orlando-city/hi81e1u#5071102,USA1
+8,8,5071103,2026-04-18T23:30:00Z,Philadelphia Union,DC United,0 - 0,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-philadelphia-union/9183ryb#5071103,USA1
+8,8,5071105,2026-04-19T00:30:00Z,FC Dallas,LA Galaxy,02-Feb,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-la-galaxy/1elgdn#5071105,USA1
+8,8,5071106,2026-04-19T00:30:00Z,Minnesota United,Portland Timbers,2 - 0,FT,TRUE,TRUE,FALSE,/matches/minnesota-united-vs-portland-timbers/1owljo4s#5071106,USA1
+8,8,5071107,2026-04-19T01:30:00Z,Real Salt Lake,San Diego FC,04-Feb,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-san-diego-fc/ilvcpwll#5071107,USA1
+8,8,5071108,2026-04-19T01:30:00Z,Seattle Sounders FC,St. Louis City,04-Jan,FT,TRUE,TRUE,FALSE,/matches/seattle-sounders-fc-vs-st-louis-city/fhtbfg76#5071108,USA1
+8,8,5071109,2026-04-19T23:00:00Z,Los Angeles FC,San Jose Earthquakes,01-Apr,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-los-angeles-fc/4vevx7re#5071109,USA1
+9,9,5071112,2026-04-22T23:30:00Z,New York City FC,FC Cincinnati,04-Apr,FT,TRUE,TRUE,FALSE,/matches/new-york-city-fc-vs-fc-cincinnati/a9lt2a5p#5071112,USA1
+9,9,5071114,2026-04-22T23:30:00Z,Orlando City,Charlotte FC,04-Jan,FT,TRUE,TRUE,FALSE,/matches/orlando-city-vs-charlotte-fc/g5z4wn87#5071114,USA1
+9,9,5071113,2026-04-22T23:30:00Z,Red Bull New York,DC United,04-Apr,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-dc-united/1f7vjk#5071113,USA1
+9,9,5071115,2026-04-22T23:30:00Z,Toronto FC,Philadelphia Union,03-Mar,FT,TRUE,TRUE,FALSE,/matches/toronto-fc-vs-philadelphia-union/e5a0kw2#5071115,USA1
+9,9,5071110,2026-04-22T23:45:00Z,Atlanta United,New England Revolution,01-Feb,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-atlanta-united/3vxvg4id#5071110,USA1
+9,9,5071116,2026-04-23T00:30:00Z,FC Dallas,Minnesota United,0 - 1,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-minnesota-united/ahf8rn0#5071116,USA1
+9,9,5071117,2026-04-23T00:30:00Z,Houston Dynamo FC,San Diego FC,1 - 0,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-san-diego-fc/in6274o6#5071117,USA1
+9,9,5071119,2026-04-23T01:30:00Z,Real Salt Lake,Inter Miami CF,0 - 2,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-inter-miami-cf/5yxki2u9#5071119,USA1
+9,9,5071111,2026-04-23T01:45:00Z,Columbus Crew,LA Galaxy,02-Jan,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-la-galaxy/1bjxzy#5071111,USA1
+9,9,5071118,2026-04-23T02:30:00Z,Los Angeles FC,Colorado Rapids,0 - 0,FT,TRUE,TRUE,FALSE,/matches/colorado-rapids-vs-los-angeles-fc/4w3n0887#5071118,USA1
+9,9,5071120,2026-04-23T02:30:00Z,San Jose Earthquakes,Austin FC,05-Jan,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-austin-fc/9kyprv1g#5071120,USA1
+10,10,5071127,2026-04-25T17:00:00Z,Toronto FC,Atlanta United,01-Feb,FT,TRUE,TRUE,FALSE,/matches/toronto-fc-vs-atlanta-united/4ee8htbc#5071127,USA1
+10,10,5071126,2026-04-25T18:30:00Z,CF Montreal,New York City FC,1 - 0,FT,TRUE,TRUE,FALSE,/matches/cf-montreal-vs-new-york-city-fc/36ydg5bv#5071126,USA1
+10,10,5071125,2026-04-25T20:45:00Z,Minnesota United,Los Angeles FC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/minnesota-united-vs-los-angeles-fc/7d7hm53j#5071125,USA1
+10,10,5071122,2026-04-25T23:30:00Z,Columbus Crew,Philadelphia Union,2 - 0,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-philadelphia-union/8z98zp4#5071122,USA1
+10,10,5071123,2026-04-25T23:30:00Z,DC United,Orlando City,03-Feb,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-orlando-city/haoi3k8#5071123,USA1
+10,10,5071121,2026-04-25T23:30:00Z,FC Cincinnati,Red Bull New York,2 - 0,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-fc-cincinnati/3dzvv6t7#5071121,USA1
+10,10,5071124,2026-04-25T23:30:00Z,Inter Miami CF,New England Revolution,01-Jan,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-inter-miami-cf/5yx5j0uy#5071124,USA1
+10,10,5071128,2026-04-26T00:30:00Z,Austin FC,Houston Dynamo FC,2 - 0,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-austin-fc/9lwaulkg#5071128,USA1
+10,10,5071129,2026-04-26T00:30:00Z,Chicago Fire FC,Sporting Kansas City,5 - 0,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-sporting-kansas-city/1ebord#5071129,USA1
+10,10,5071130,2026-04-26T00:40:00Z,Nashville SC,Charlotte FC,04-Feb,FT,TRUE,TRUE,FALSE,/matches/nashville-sc-vs-charlotte-fc/w09mkcmd#5071130,USA1
+10,10,5071133,2026-04-26T00:40:00Z,St. Louis City,San Jose Earthquakes,02-Mar,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-st-louis-city/d4pme4w0#5071133,USA1
+10,10,5071131,2026-04-26T01:40:00Z,San Diego FC,Portland Timbers,01-Feb,FT,TRUE,TRUE,FALSE,/matches/portland-timbers-vs-san-diego-fc/pqwdjmg7#5071131,USA1
+10,10,5071132,2026-04-26T02:30:00Z,Seattle Sounders FC,FC Dallas,02-Jan,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-seattle-sounders-fc/4aqgmuc#5071132,USA1
+10,10,5071134,2026-04-26T02:30:00Z,Vancouver Whitecaps,Colorado Rapids,03-Jan,FT,TRUE,TRUE,FALSE,/matches/colorado-rapids-vs-vancouver-whitecaps/mxqvqu1#5071134,USA1
+10,10,5071135,2026-04-26T23:00:00Z,LA Galaxy,Real Salt Lake,02-Jan,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-la-galaxy/1g7r4n#5071135,USA1
+11,11,5071144,2026-05-02T17:00:00Z,Toronto FC,San Jose Earthquakes,01-Jan,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-toronto-fc/wvn6ur#5071144,USA1
+11,11,5071138,2026-05-02T18:30:00Z,Sporting Kansas City,Seattle Sounders FC,01-Jan,FT,TRUE,TRUE,FALSE,/matches/sporting-kansas-city-vs-seattle-sounders-fc/4b7652p#5071138,USA1
+11,11,5071143,2026-05-02T20:45:00Z,Real Salt Lake,Portland Timbers,2 - 0,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-portland-timbers/mou7sga#5071143,USA1
+11,11,5071139,2026-05-02T23:15:00Z,Inter Miami CF,Orlando City,03-Apr,FT,TRUE,TRUE,FALSE,/matches/orlando-city-vs-inter-miami-cf/9mofvtm3#5071139,USA1
+11,11,5071136,2026-05-02T23:30:00Z,Atlanta United,CF Montreal,03-Jan,FT,TRUE,TRUE,FALSE,/matches/cf-montreal-vs-atlanta-united/5kvfewj3#5071136,USA1
+11,11,5071137,2026-05-02T23:30:00Z,Columbus Crew,Minnesota United,02-Mar,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-minnesota-united/ag0nzej#5071137,USA1
+11,11,5071140,2026-05-02T23:30:00Z,New England Revolution,Charlotte FC,1 - 0,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-charlotte-fc/bammxocg#5071140,USA1
+11,11,5071142,2026-05-02T23:30:00Z,Philadelphia Union,Nashville SC,0 - 0,FT,TRUE,TRUE,FALSE,/matches/philadelphia-union-vs-nashville-sc/7tqy02md#5071142,USA1
+11,11,5071141,2026-05-02T23:30:00Z,Red Bull New York,FC Dallas,0 - 2,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-red-bull-new-york/1dn8uz#5071141,USA1
+11,11,5071145,2026-05-03T00:30:00Z,Chicago Fire FC,FC Cincinnati,02-Mar,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-fc-cincinnati/3dyh3rhy#5071145,USA1
+11,11,5071146,2026-05-03T00:30:00Z,Houston Dynamo FC,Colorado Rapids,1 - 0,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-colorado-rapids/29ruzh#5071146,USA1
+11,11,5071148,2026-05-03T01:30:00Z,San Diego FC,Los Angeles FC,02-Feb,FT,TRUE,TRUE,FALSE,/matches/los-angeles-fc-vs-san-diego-fc/1638hsqug#5071148,USA1
+11,11,5071147,2026-05-03T02:30:00Z,LA Galaxy,Vancouver Whitecaps,01-Jan,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-vancouver-whitecaps/mp07da1#5071147,USA1
+11,11,5071150,2026-05-03T19:00:00Z,New York City FC,DC United,0 - 2,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-new-york-city-fc/1y7avzxq#5071150,USA1
+11,11,5071149,2026-05-03T21:42:00Z,Austin FC,St. Louis City,2 - 0,FT,TRUE,TRUE,FALSE,/matches/austin-fc-vs-st-louis-city/18p7oq02k#5071149,USA1
+12,12,5071156,2026-05-09T17:00:00Z,Toronto FC,Inter Miami CF,02-Apr,FT,TRUE,TRUE,FALSE,/matches/toronto-fc-vs-inter-miami-cf/6lnk487r#5071156,USA1
+12,12,5071153,2026-05-09T18:30:00Z,Chicago Fire FC,Red Bull New York,01-Mar,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-red-bull-new-york/1dmoxm#5071153,USA1
+12,12,5071154,2026-05-09T20:30:00Z,CF Montreal,Orlando City,2 - 0,FT,TRUE,TRUE,FALSE,/matches/cf-montreal-vs-orlando-city/169w6zh9#5071154,USA1
+12,12,5071151,2026-05-09T23:30:00Z,Atlanta United,LA Galaxy,01-Feb,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-atlanta-united/3vylxr04#5071151,USA1
+12,12,5071152,2026-05-09T23:30:00Z,Charlotte FC,FC Cincinnati,02-Feb,FT,TRUE,TRUE,FALSE,/matches/fc-cincinnati-vs-charlotte-fc/qpqbgm3g#5071152,USA1
+12,12,5071155,2026-05-09T23:30:00Z,New England Revolution,Philadelphia Union,02-Jan,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-philadelphia-union/915i9ls#5071155,USA1
+12,12,5071158,2026-05-10T00:30:00Z,FC Dallas,Real Salt Lake,03-Jan,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-real-salt-lake/1ecsw9#5071158,USA1
+12,12,5071159,2026-05-10T01:15:00Z,Nashville SC,DC United,02-Feb,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-nashville-sc/5ffoezwc#5071159,USA1
+12,12,5071157,2026-05-10T01:30:00Z,Colorado Rapids,St. Louis City,0 - 1,FT,TRUE,TRUE,FALSE,/matches/colorado-rapids-vs-st-louis-city/d5u8mxdd#5071157,USA1
+12,12,5071160,2026-05-10T02:30:00Z,Portland Timbers,Sporting Kansas City,6 - 0,FT,TRUE,TRUE,FALSE,/matches/sporting-kansas-city-vs-portland-timbers/motubfd#5071160,USA1
+12,12,5071161,2026-05-10T02:30:00Z,San Jose Earthquakes,Vancouver Whitecaps,01-Jan,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-vancouver-whitecaps/motubfc#5071161,USA1
+12,12,5071162,2026-05-10T02:30:00Z,Seattle Sounders FC,San Diego FC,01-Jan,FT,TRUE,TRUE,FALSE,/matches/seattle-sounders-fc-vs-san-diego-fc/lei703ac#5071162,USA1
+12,12,5071164,2026-05-10T20:30:00Z,New York City FC,Columbus Crew,3 - 0,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-new-york-city-fc/1y1t6fkp#5071164,USA1
+12,12,5071163,2026-05-10T23:00:00Z,Minnesota United,Austin FC,02-Feb,FT,TRUE,TRUE,FALSE,/matches/minnesota-united-vs-austin-fc/cz60s1o2#5071163,USA1
+12,12,5071165,2026-05-11T01:00:00Z,Los Angeles FC,Houston Dynamo FC,01-Apr,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-los-angeles-fc/4w2uc2oe#5071165,USA1
+13,13,5071166,2026-05-13T23:15:00Z,Charlotte FC,New York City FC,0 - 1,FT,TRUE,TRUE,FALSE,/matches/new-york-city-fc-vs-charlotte-fc/mbdp1xyp#5071166,USA1
+13,13,5071169,2026-05-13T23:30:00Z,CF Montreal,Portland Timbers,02-Feb,FT,TRUE,TRUE,FALSE,/matches/cf-montreal-vs-portland-timbers/1ehzrjtd#5071169,USA1
+13,13,5071168,2026-05-13T23:30:00Z,DC United,Chicago Fire FC,01-Mar,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-dc-united/1eb4p2#5071168,USA1
+13,13,5071167,2026-05-13T23:30:00Z,FC Cincinnati,Inter Miami CF,03-May,FT,TRUE,TRUE,FALSE,/matches/fc-cincinnati-vs-inter-miami-cf/i2lpg9il#5071167,USA1
+13,13,5071170,2026-05-13T23:30:00Z,New England Revolution,Nashville SC,0 - 3,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-nashville-sc/5ffcc1wd#5071170,USA1
+13,13,5071172,2026-05-13T23:30:00Z,Orlando City,Philadelphia Union,04-Mar,FT,TRUE,TRUE,FALSE,/matches/philadelphia-union-vs-orlando-city/1ci54wc7#5071172,USA1
+13,13,5071171,2026-05-13T23:30:00Z,Red Bull New York,Columbus Crew,03-Feb,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-red-bull-new-york/1ams94#5071171,USA1
+13,13,5071173,2026-05-14T00:30:00Z,FC Dallas,Vancouver Whitecaps,02-Mar,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-vancouver-whitecaps/mnroj1i#5071173,USA1
+13,13,5071175,2026-05-14T00:30:00Z,Minnesota United,Colorado Rapids,0 - 1,FT,TRUE,TRUE,FALSE,/matches/colorado-rapids-vs-minnesota-united/ao7x1ms#5071175,USA1
+13,13,5071174,2026-05-14T00:30:00Z,Sporting Kansas City,LA Galaxy,03-Jan,FT,TRUE,TRUE,FALSE,/matches/sporting-kansas-city-vs-la-galaxy/1g76oy#5071174,USA1
+13,13,5071179,2026-05-14T00:30:00Z,St. Louis City,Los Angeles FC,02-Jan,FT,TRUE,TRUE,FALSE,/matches/los-angeles-fc-vs-st-louis-city/xm2qlfzm#5071179,USA1
+13,13,5071176,2026-05-14T01:30:00Z,Real Salt Lake,Houston Dynamo FC,3 - 0,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-houston-dynamo-fc/1tse70#5071176,USA1
+13,13,5071177,2026-05-14T01:30:00Z,San Diego FC,Austin FC,5 - 0,FT,TRUE,TRUE,FALSE,/matches/austin-fc-vs-san-diego-fc/1iehts5f2#5071177,USA1
+13,13,5071178,2026-05-14T01:30:00Z,Seattle Sounders FC,San Jose Earthquakes,03-Feb,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-seattle-sounders-fc/4b737d6#5071178,USA1
+14,14,5071182,2026-05-16T20:30:00Z,CF Montreal,Chicago Fire FC,0 - 2,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-cf-montreal/6g97ptd#5071182,USA1
+14,14,5071180,2026-05-16T23:30:00Z,Charlotte FC,Toronto FC,03-Jan,FT,TRUE,TRUE,FALSE,/matches/toronto-fc-vs-charlotte-fc/c5omoi5e#5071180,USA1
+14,14,5071181,2026-05-16T23:30:00Z,DC United,St. Louis City,01-Jan,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-st-louis-city/d4pljdyx#5071181,USA1
+14,14,5071183,2026-05-16T23:30:00Z,New England Revolution,Minnesota United,02-Jan,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-minnesota-united/ai29xp1#5071183,USA1
+14,14,5071185,2026-05-16T23:30:00Z,Orlando City,Atlanta United,01-Jan,FT,TRUE,TRUE,FALSE,/matches/orlando-city-vs-atlanta-united/6xaas93u#5071185,USA1
+14,14,5071186,2026-05-16T23:30:00Z,Philadelphia Union,Columbus Crew,01-Jan,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-philadelphia-union/8z98zp4#5071186,USA1
+14,14,5071184,2026-05-16T23:30:00Z,Red Bull New York,New York City FC,01-Jan,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-new-york-city-fc/1y6hxcay#5071184,USA1
+14,14,5071187,2026-05-17T00:30:00Z,Austin FC,Sporting Kansas City,01-Feb,FT,TRUE,TRUE,FALSE,/matches/sporting-kansas-city-vs-austin-fc/9kyqi4mv#5071187,USA1
+14,14,5071188,2026-05-17T00:30:00Z,Houston Dynamo FC,Vancouver Whitecaps,1 - 0,FT,TRUE,TRUE,FALSE,/matches/houston-dynamo-fc-vs-vancouver-whitecaps/mxgj98c#5071188,USA1
+14,14,5071193,2026-05-17T01:15:00Z,Seattle Sounders FC,LA Galaxy,0 - 2,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-seattle-sounders-fc/4b9v1wp#5071193,USA1
+14,14,5071190,2026-05-17T01:30:00Z,Real Salt Lake,Colorado Rapids,02-Jan,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-colorado-rapids/1u9y9q#5071190,USA1
+14,14,5071191,2026-05-17T01:30:00Z,San Diego FC,FC Cincinnati,03-Mar,FT,TRUE,TRUE,FALSE,/matches/fc-cincinnati-vs-san-diego-fc/11gymx7dx#5071191,USA1
+14,14,5071192,2026-05-17T02:30:00Z,San Jose Earthquakes,FC Dallas,02-Mar,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-san-jose-earthquakes/1ebysi#5071192,USA1
+14,14,5071189,2026-05-17T22:00:00Z,Inter Miami CF,Portland Timbers,2 - 0,FT,TRUE,TRUE,FALSE,/matches/portland-timbers-vs-inter-miami-cf/a9juyym7#5071189,USA1
+14,14,5071194,2026-05-18T00:00:00Z,Nashville SC,Los Angeles FC,03-Feb,FT,TRUE,TRUE,FALSE,/matches/los-angeles-fc-vs-nashville-sc/kaar6rev#5071194,USA1
+15,15,5071198,2026-05-23T18:45:00Z,St. Louis City,Austin FC,3 - 0,FT,TRUE,TRUE,FALSE,/matches/austin-fc-vs-st-louis-city/18p7oq02k#5071198,USA1
+15,15,5071203,2026-05-23T20:30:00Z,Minnesota United,Real Salt Lake,01-Jan,FT,TRUE,TRUE,FALSE,/matches/real-salt-lake-vs-minnesota-united/ai5l3mi#5071203,USA1
+15,15,5071195,2026-05-23T23:30:00Z,Charlotte FC,New England Revolution,1 - 0,FT,TRUE,TRUE,FALSE,/matches/new-england-revolution-vs-charlotte-fc/bammxocg#5071195,USA1
+15,15,5071197,2026-05-23T23:30:00Z,DC United,CF Montreal,04-Apr,FT,TRUE,TRUE,FALSE,/matches/dc-united-vs-cf-montreal/6gtojsx#5071197,USA1
+15,15,5071196,2026-05-23T23:30:00Z,FC Cincinnati,Orlando City,06-Feb,FT,TRUE,TRUE,FALSE,/matches/orlando-city-vs-fc-cincinnati/695s1t43#5071196,USA1
+15,15,5071199,2026-05-24T00:30:00Z,Chicago Fire FC,Toronto FC,02-Jan,FT,TRUE,TRUE,FALSE,/matches/chicago-fire-fc-vs-toronto-fc/wnx874#5071199,USA1
+15,15,5071204,2026-05-24T00:30:00Z,Nashville SC,New York City FC,02-Jan,FT,TRUE,TRUE,FALSE,/matches/new-york-city-fc-vs-nashville-sc/dmztmw7m#5071204,USA1
+15,15,5071201,2026-05-24T00:30:00Z,Sporting Kansas City,Red Bull New York,01-Feb,FT,TRUE,TRUE,FALSE,/matches/red-bull-new-york-vs-sporting-kansas-city/1f8fsd#5071201,USA1
+15,15,5071200,2026-05-24T01:30:00Z,Colorado Rapids,FC Dallas,01-Feb,FT,TRUE,TRUE,FALSE,/matches/fc-dallas-vs-colorado-rapids/1sg7nz#5071200,USA1
+15,15,5071205,2026-05-24T01:30:00Z,Portland Timbers,San Jose Earthquakes,01-Mar,FT,TRUE,TRUE,FALSE,/matches/san-jose-earthquakes-vs-portland-timbers/motnkwy#5071205,USA1
+15,15,5071206,2026-05-24T01:30:00Z,San Diego FC,Vancouver Whitecaps,02-Apr,FT,TRUE,TRUE,FALSE,/matches/vancouver-whitecaps-vs-san-diego-fc/pqweqogi#5071206,USA1
+15,15,5071202,2026-05-24T02:30:00Z,LA Galaxy,Houston Dynamo FC,01-Jan,FT,TRUE,TRUE,FALSE,/matches/la-galaxy-vs-houston-dynamo-fc/1u2a57#5071202,USA1
+15,15,5071207,2026-05-24T21:00:00Z,Columbus Crew,Atlanta United,2 - 0,FT,TRUE,TRUE,FALSE,/matches/columbus-crew-vs-atlanta-united/3vqeh91m#5071207,USA1
+15,15,5071208,2026-05-24T23:00:00Z,Inter Miami CF,Philadelphia Union,06-Apr,FT,TRUE,TRUE,FALSE,/matches/philadelphia-union-vs-inter-miami-cf/8h29qmsy#5071208,USA1
+15,15,5071209,2026-05-25T01:15:00Z,Los Angeles FC,Seattle Sounders FC,1 - 0,FT,TRUE,TRUE,FALSE,/matches/seattle-sounders-fc-vs-los-angeles-fc/6cmoo9g7#5071209,USA1
+1,1,5071210,2026-07-16T23:30:00Z,CF Montreal,Toronto FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-cf-montreal/avpq9zx#5071210,USA1
+9,9,5071211,2026-07-17T00:30:00Z,Chicago Fire FC,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-vancouver-whitecaps/mnrb2c1#5071211,USA1
+9,9,5071213,2026-07-17T00:30:00Z,St. Louis City,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-st-louis-city/d4pn8vt4#5071213,USA1
+9,9,5071212,2026-07-17T02:30:00Z,Seattle Sounders FC,Portland Timbers,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-portland-timbers/182zpaxg#5071212,USA1
+1,1,5071215,2026-07-18T00:00:00Z,Nashville SC,Atlanta United,,,FALSE,FALSE,FALSE,/matches/atlanta-united-vs-nashville-sc/i7uspl26#5071215,USA1
+32,32,5071214,2026-07-18T02:45:00Z,LA Galaxy,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-los-angeles-fc/4vfdm25v#5071214,USA1
+16,16,5071217,2026-07-22T23:30:00Z,Columbus Crew,New York City FC,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-new-york-city-fc/1y1t6fkp#5071217,USA1
+16,16,5071216,2026-07-22T23:30:00Z,FC Cincinnati,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/vancouver-whitecaps-vs-fc-cincinnati/6rnxzls3#5071216,USA1
+16,16,5071218,2026-07-22T23:30:00Z,Inter Miami CF,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-inter-miami-cf/5yu85bd7#5071218,USA1
+16,16,5071219,2026-07-22T23:30:00Z,New England Revolution,Toronto FC,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-toronto-fc/wus3zd#5071219,USA1
+16,16,5071220,2026-07-22T23:30:00Z,Philadelphia Union,Red Bull New York,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-philadelphia-union/90xpssv#5071220,USA1
+16,16,5071222,2026-07-23T00:15:00Z,Charlotte FC,Atlanta United,,,FALSE,FALSE,FALSE,/matches/atlanta-united-vs-charlotte-fc/s2xqd9kd#5071222,USA1
+16,16,5071221,2026-07-23T00:30:00Z,Austin FC,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-austin-fc/bm6cnh62#5071221,USA1
+16,16,5071224,2026-07-23T00:30:00Z,Houston Dynamo FC,DC United,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-houston-dynamo-fc/1tr4bi#5071224,USA1
+16,16,5071228,2026-07-23T00:30:00Z,Nashville SC,CF Montreal,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-nashville-sc/7efm1ceu#5071228,USA1
+16,16,5071225,2026-07-23T00:30:00Z,Sporting Kansas City,Minnesota United,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-minnesota-united/ai5bxm1#5071225,USA1
+16,16,5071223,2026-07-23T01:30:00Z,Colorado Rapids,San Diego FC,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-san-diego-fc/in7m68y7#5071223,USA1
+16,16,5071226,2026-07-23T02:30:00Z,LA Galaxy,St. Louis City,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-st-louis-city/d4qffkld#5071226,USA1
+16,16,5071227,2026-07-23T02:30:00Z,Los Angeles FC,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-los-angeles-fc/4vexhen5#5071227,USA1
+16,16,5071229,2026-07-23T02:30:00Z,Portland Timbers,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-portland-timbers/mnrhsos#5071229,USA1
+16,16,5071230,2026-07-23T02:30:00Z,San Jose Earthquakes,Orlando City,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-orlando-city/haonzau#5071230,USA1
+17,17,5071236,2026-07-25T22:30:00Z,Red Bull New York,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-charlotte-fc/bal6njzj#5071236,USA1
+17,17,5071231,2026-07-25T23:00:00Z,Columbus Crew,FC Cincinnati,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-fc-cincinnati/3dtpct4g#5071231,USA1
+17,17,5071233,2026-07-25T23:30:00Z,CF Montreal,Inter Miami CF,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-inter-miami-cf/8149n4ii#5071233,USA1
+17,17,5071232,2026-07-25T23:30:00Z,DC United,Toronto FC,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-toronto-fc/wvlu76#5071232,USA1
+17,17,5071234,2026-07-25T23:30:00Z,New England Revolution,Atlanta United,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-atlanta-united/3vxvg4id#5071234,USA1
+17,17,5071235,2026-07-25T23:30:00Z,New York City FC,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-new-york-city-fc/1y5ffc87#5071235,USA1
+17,17,5071237,2026-07-25T23:30:00Z,Orlando City,Nashville SC,,,FALSE,FALSE,FALSE,/matches/orlando-city-vs-nashville-sc/8xsle0tc#5071237,USA1
+17,17,5071238,2026-07-25T23:30:00Z,Philadelphia Union,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-philadelphia-union/ntyoubp#5071238,USA1
+17,17,5071239,2026-07-26T00:30:00Z,Houston Dynamo FC,Austin FC,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-austin-fc/9lwaulkg#5071239,USA1
+17,17,5071241,2026-07-26T00:30:00Z,Minnesota United,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/minnesota-united-vs-vancouver-whitecaps/1owlupgi#5071241,USA1
+17,17,5071245,2026-07-26T00:30:00Z,St. Louis City,Colorado Rapids,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-st-louis-city/d5u8mxdd#5071245,USA1
+17,17,5071243,2026-07-26T01:30:00Z,San Diego FC,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-san-diego-fc/ilpi9n9c#5071243,USA1
+17,17,5071240,2026-07-26T02:30:00Z,Los Angeles FC,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-los-angeles-fc/4vewfy1y#5071240,USA1
+17,17,5071242,2026-07-26T02:30:00Z,Portland Timbers,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-portland-timbers/mou7sga#5071242,USA1
+17,17,5071244,2026-07-26T02:30:00Z,San Jose Earthquakes,LA Galaxy,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-la-galaxy/1g6wh5#5071244,USA1
+18,18,5071246,2026-07-31T23:30:00Z,New York City FC,Toronto FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-new-york-city-fc/2bfn0g2z#5071246,USA1
+18,18,5071250,2026-08-01T23:30:00Z,CF Montreal,New England Revolution,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-cf-montreal/6grhfk4#5071250,USA1
+18,18,5071248,2026-08-01T23:30:00Z,DC United,Nashville SC,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-nashville-sc/5ffoezwc#5071248,USA1
+18,18,5071247,2026-08-01T23:30:00Z,FC Cincinnati,San Jose Earthquakes,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-fc-cincinnati/3e0yhh83#5071247,USA1
+18,18,5071249,2026-08-01T23:30:00Z,Inter Miami CF,Columbus Crew,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-inter-miami-cf/5ynw6fqp#5071249,USA1
+18,18,5071252,2026-08-01T23:30:00Z,Philadelphia Union,Atlanta United,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-atlanta-united/5y75s4wd#5071252,USA1
+18,18,5071251,2026-08-01T23:30:00Z,Red Bull New York,Orlando City,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-orlando-city/haa4lj8#5071251,USA1
+18,18,5071253,2026-08-01T23:30:00Z,Vancouver Whitecaps,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/vancouver-whitecaps-vs-los-angeles-fc/8t3ytgca#5071253,USA1
+18,18,5071254,2026-08-02T00:30:00Z,Chicago Fire FC,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-charlotte-fc/bailzapa#5071254,USA1
+18,18,5071258,2026-08-02T00:30:00Z,Minnesota United,San Diego FC,,,FALSE,FALSE,FALSE,/matches/minnesota-united-vs-san-diego-fc/n8ipyanr#5071258,USA1
+18,18,5071256,2026-08-02T00:30:00Z,Sporting Kansas City,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-houston-dynamo-fc/1trr97#5071256,USA1
+18,18,5071260,2026-08-02T00:30:00Z,St. Louis City,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-st-louis-city/d4poydnf#5071260,USA1
+18,18,5071255,2026-08-02T01:30:00Z,Colorado Rapids,Austin FC,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-austin-fc/9lxf18pm#5071255,USA1
+18,18,5071257,2026-08-02T02:30:00Z,LA Galaxy,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-la-galaxy/1elgdn#5071257,USA1
+18,18,5071259,2026-08-02T02:30:00Z,Portland Timbers,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-portland-timbers/182zpaxg#5071259,USA1
+3,3,5071021,2026-08-08T20:30:00Z,New England Revolution,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-houston-dynamo-fc/1tk487#5071021,USA1
+19,19,5071261,2026-08-15T23:30:00Z,Atlanta United,Red Bull New York,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-atlanta-united/3vx0s0jm#5071261,USA1
+19,19,5071263,2026-08-15T23:30:00Z,CF Montreal,DC United,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-cf-montreal/6gtojsx#5071263,USA1
+19,19,5071262,2026-08-15T23:30:00Z,Charlotte FC,Columbus Crew,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-charlotte-fc/ba9wdivs#5071262,USA1
+19,19,5071264,2026-08-15T23:30:00Z,Orlando City,FC Cincinnati,,,FALSE,FALSE,FALSE,/matches/orlando-city-vs-fc-cincinnati/695s1t43#5071264,USA1
+19,19,5071265,2026-08-15T23:30:00Z,Toronto FC,New England Revolution,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-toronto-fc/wus3zd#5071265,USA1
+19,19,5071268,2026-08-16T00:30:00Z,Houston Dynamo FC,LA Galaxy,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-houston-dynamo-fc/1u2a57#5071268,USA1
+19,19,5071270,2026-08-16T00:30:00Z,Nashville SC,Inter Miami CF,,,FALSE,FALSE,FALSE,/matches/nashville-sc-vs-inter-miami-cf/mguemrso#5071270,USA1
+19,19,5071267,2026-08-16T01:30:00Z,Colorado Rapids,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-colorado-rapids/1u9b8v#5071267,USA1
+19,19,5071271,2026-08-16T01:30:00Z,Real Salt Lake,Minnesota United,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-minnesota-united/ai5l3mi#5071271,USA1
+19,19,5071269,2026-08-16T02:30:00Z,Los Angeles FC,San Diego FC,,,FALSE,FALSE,FALSE,/matches/los-angeles-fc-vs-san-diego-fc/1638hsqug#5071269,USA1
+19,19,5071272,2026-08-16T02:30:00Z,San Jose Earthquakes,St. Louis City,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-st-louis-city/d4pme4w0#5071272,USA1
+19,19,5071273,2026-08-16T22:30:00Z,Chicago Fire FC,Portland Timbers,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-portland-timbers/mnr4bzd#5071273,USA1
+19,19,5071274,2026-08-16T22:30:00Z,New York City FC,Philadelphia Union,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-new-york-city-fc/3h35tkk1#5071274,USA1
+19,19,5071266,2026-08-17T00:30:00Z,Austin FC,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-austin-fc/9kukxxta#5071266,USA1
+19,19,5071275,2026-08-17T01:00:00Z,Seattle Sounders FC,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-vancouver-whitecaps/182zyoyi#5071275,USA1
+20,20,5071277,2026-08-19T23:30:00Z,Columbus Crew,CF Montreal,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-cf-montreal/6f5qx6v#5071277,USA1
+20,20,5071278,2026-08-19T23:30:00Z,DC United,New England Revolution,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-dc-united/1fqh6z#5071278,USA1
+20,20,5071276,2026-08-19T23:30:00Z,FC Cincinnati,New York City FC,,,FALSE,FALSE,FALSE,/matches/new-york-city-fc-vs-fc-cincinnati/a9lt2a5p#5071276,USA1
+20,20,5071280,2026-08-19T23:30:00Z,Orlando City,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-orlando-city/h9r0tbh#5071280,USA1
+20,20,5071281,2026-08-19T23:30:00Z,Philadelphia Union,Inter Miami CF,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-inter-miami-cf/8h29qmsy#5071281,USA1
+20,20,5071279,2026-08-19T23:30:00Z,Red Bull New York,Nashville SC,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-nashville-sc/5fec3a54#5071279,USA1
+20,20,5071282,2026-08-19T23:30:00Z,Toronto FC,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-charlotte-fc/c5omoi5e#5071282,USA1
+20,20,5071284,2026-08-20T00:00:00Z,Sporting Kansas City,St. Louis City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-st-louis-city/d4pn8vt4#5071284,USA1
+20,20,5071286,2026-08-20T00:30:00Z,Minnesota United,Atlanta United,,,FALSE,FALSE,FALSE,/matches/minnesota-united-vs-atlanta-united/65540u26#5071286,USA1
+20,20,5071283,2026-08-20T01:30:00Z,Colorado Rapids,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-los-angeles-fc/4w3n0887#5071283,USA1
+20,20,5071288,2026-08-20T01:30:00Z,Real Salt Lake,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-real-salt-lake/1ecsw9#5071288,USA1
+20,20,5071289,2026-08-20T01:30:00Z,Seattle Sounders FC,Austin FC,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-austin-fc/bm6cnh62#5071289,USA1
+20,20,5071285,2026-08-20T02:30:00Z,LA Galaxy,San Jose Earthquakes,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-la-galaxy/1g6wh5#5071285,USA1
+20,20,5071287,2026-08-20T02:30:00Z,Portland Timbers,San Diego FC,,,FALSE,FALSE,FALSE,/matches/portland-timbers-vs-san-diego-fc/pqwdjmg7#5071287,USA1
+20,20,5071290,2026-08-20T02:30:00Z,Vancouver Whitecaps,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-vancouver-whitecaps/mxgj98c#5071290,USA1
+21,21,5071294,2026-08-22T23:30:00Z,CF Montreal,LA Galaxy,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-cf-montreal/6gx6fvd#5071294,USA1
+21,21,5071291,2026-08-22T23:30:00Z,Charlotte FC,DC United,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-charlotte-fc/ban4d2jn#5071291,USA1
+21,21,5071292,2026-08-22T23:30:00Z,FC Cincinnati,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-fc-cincinnati/4mzvcguf#5071292,USA1
+21,21,5071293,2026-08-22T23:30:00Z,Inter Miami CF,Toronto FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-inter-miami-cf/6lnk487r#5071293,USA1
+21,21,5071296,2026-08-22T23:30:00Z,Orlando City,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-orlando-city/hap5miu#5071296,USA1
+21,21,5071295,2026-08-22T23:30:00Z,Red Bull New York,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-red-bull-new-york/1dmoxm#5071295,USA1
+21,21,5071297,2026-08-23T00:30:00Z,Austin FC,Philadelphia Union,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-austin-fc/cp1tpmjv#5071297,USA1
+21,21,5071299,2026-08-23T00:30:00Z,Nashville SC,Columbus Crew,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-nashville-sc/5f6igu2v#5071299,USA1
+21,21,5071302,2026-08-23T00:30:00Z,St. Louis City,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-st-louis-city/d5sxltd0#5071302,USA1
+21,21,5071303,2026-08-23T01:30:00Z,Vancouver Whitecaps,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-vancouver-whitecaps/mnroj1i#5071303,USA1
+21,21,5071298,2026-08-23T02:30:00Z,Los Angeles FC,Portland Timbers,,,FALSE,FALSE,FALSE,/matches/portland-timbers-vs-los-angeles-fc/8t3y49q7#5071298,USA1
+21,21,5071300,2026-08-23T02:30:00Z,San Diego FC,Colorado Rapids,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-san-diego-fc/in7m68y7#5071300,USA1
+21,21,5071301,2026-08-23T02:30:00Z,San Jose Earthquakes,Minnesota United,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-minnesota-united/ai57clu#5071301,USA1
+21,21,5071305,2026-08-23T20:30:00Z,New England Revolution,New York City FC,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-new-york-city-fc/1y73nbgv#5071305,USA1
+21,21,5071304,2026-08-23T23:00:00Z,Atlanta United,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-atlanta-united/3vy6ln5d#5071304,USA1
+22,22,5071311,2026-08-29T20:30:00Z,Seattle Sounders FC,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-seattle-sounders-fc/4aqarqp#5071311,USA1
+22,22,5071306,2026-08-29T23:30:00Z,Atlanta United,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/atlanta-united-vs-charlotte-fc/s2xqd9kd#5071306,USA1
+22,22,5071307,2026-08-29T23:30:00Z,Columbus Crew,New England Revolution,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-new-england-revolution/1b4jcj#5071307,USA1
+22,22,5071308,2026-08-29T23:30:00Z,DC United,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-los-angeles-fc/4vevehgv#5071308,USA1
+22,22,5071309,2026-08-29T23:30:00Z,Inter Miami CF,CF Montreal,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-inter-miami-cf/8149n4ii#5071309,USA1
+22,22,5071310,2026-08-29T23:30:00Z,Red Bull New York,Philadelphia Union,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-philadelphia-union/90xpssv#5071310,USA1
+22,22,5071312,2026-08-29T23:30:00Z,Toronto FC,New York City FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-new-york-city-fc/2bfn0g2z#5071312,USA1
+22,22,5071314,2026-08-30T00:30:00Z,Houston Dynamo FC,San Jose Earthquakes,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-houston-dynamo-fc/1trfsc#5071314,USA1
+22,22,5071316,2026-08-30T00:30:00Z,Minnesota United,Orlando City,,,FALSE,FALSE,FALSE,/matches/minnesota-united-vs-orlando-city/1fu4nnpc#5071316,USA1
+22,22,5071317,2026-08-30T00:30:00Z,Nashville SC,FC Cincinnati,,,FALSE,FALSE,FALSE,/matches/fc-cincinnati-vs-nashville-sc/h4cat8m3#5071317,USA1
+22,22,5071315,2026-08-30T00:30:00Z,Sporting Kansas City,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-vancouver-whitecaps/mou11xs#5071315,USA1
+22,22,5071313,2026-08-30T01:30:00Z,Colorado Rapids,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-colorado-rapids/1u9y9q#5071313,USA1
+22,22,5071318,2026-08-30T02:30:00Z,Portland Timbers,Austin FC,,,FALSE,FALSE,FALSE,/matches/portland-timbers-vs-austin-fc/evaku77m#5071318,USA1
+22,22,5071319,2026-08-30T02:30:00Z,San Diego FC,LA Galaxy,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-san-diego-fc/ilw88ld7#5071319,USA1
+22,22,5071320,2026-08-30T23:00:00Z,St. Louis City,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-st-louis-city/d4ks61e6#5071320,USA1
+23,23,5071321,2026-09-04T23:30:00Z,New York City FC,Nashville SC,,,FALSE,FALSE,FALSE,/matches/new-york-city-fc-vs-nashville-sc/dmztmw7m#5071321,USA1
+23,23,5071322,2026-09-05T23:30:00Z,Charlotte FC,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-charlotte-fc/bbnlt3e7#5071322,USA1
+23,23,5071324,2026-09-05T23:30:00Z,Columbus Crew,Colorado Rapids,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-colorado-rapids/1p0ea4#5071324,USA1
+23,23,5071323,2026-09-05T23:30:00Z,FC Cincinnati,DC United,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-fc-cincinnati/3e0y1utr#5071323,USA1
+23,23,5071325,2026-09-05T23:30:00Z,Inter Miami CF,Atlanta United,,,FALSE,FALSE,FALSE,/matches/atlanta-united-vs-inter-miami-cf/j76lmfnx#5071325,USA1
+23,23,5071326,2026-09-05T23:30:00Z,Orlando City,San Diego FC,,,FALSE,FALSE,FALSE,/matches/orlando-city-vs-san-diego-fc/oqgmr55f#5071326,USA1
+23,23,5071327,2026-09-05T23:30:00Z,Philadelphia Union,CF Montreal,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-philadelphia-union/slw09i4#5071327,USA1
+23,23,5071328,2026-09-05T23:30:00Z,Toronto FC,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-toronto-fc/wnx874#5071328,USA1
+23,23,5071329,2026-09-06T00:30:00Z,Austin FC,San Jose Earthquakes,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-austin-fc/9kyprv1g#5071329,USA1
+23,23,5071330,2026-09-06T00:30:00Z,FC Dallas,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-sporting-kansas-city/1ec8tq#5071330,USA1
+23,23,5071334,2026-09-06T00:30:00Z,Seattle Sounders FC,Red Bull New York,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-seattle-sounders-fc/4aztycg#5071334,USA1
+23,23,5071331,2026-09-06T01:30:00Z,LA Galaxy,New England Revolution,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-la-galaxy/1g0dpa#5071331,USA1
+23,23,5071333,2026-09-06T01:30:00Z,Real Salt Lake,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-los-angeles-fc/4vexhen5#5071333,USA1
+23,23,5071332,2026-09-06T02:30:00Z,Portland Timbers,Minnesota United,,,FALSE,FALSE,FALSE,/matches/minnesota-united-vs-portland-timbers/1owljo4s#5071332,USA1
+23,23,5071335,2026-09-06T02:30:00Z,Vancouver Whitecaps,St. Louis City,,,FALSE,FALSE,FALSE,/matches/vancouver-whitecaps-vs-st-louis-city/j7ylii40#5071335,USA1
+24,24,5071336,2026-09-09T23:30:00Z,Atlanta United,Orlando City,,,FALSE,FALSE,FALSE,/matches/orlando-city-vs-atlanta-united/6xaas93u#5071336,USA1
+24,24,5071338,2026-09-09T23:30:00Z,CF Montreal,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-charlotte-fc/e2miwxvn#5071338,USA1
+24,24,5071337,2026-09-09T23:30:00Z,DC United,Columbus Crew,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-dc-united/1bah4k#5071337,USA1
+24,24,5071339,2026-09-09T23:30:00Z,New York City FC,New England Revolution,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-new-york-city-fc/1y73nbgv#5071339,USA1
+24,24,5071340,2026-09-09T23:30:00Z,Philadelphia Union,FC Cincinnati,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-fc-cincinnati/5bvoytvg#5071340,USA1
+24,24,5071341,2026-09-09T23:30:00Z,Toronto FC,Nashville SC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-nashville-sc/614pbftl#5071341,USA1
+24,24,5071342,2026-09-10T00:30:00Z,Austin FC,Colorado Rapids,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-austin-fc/9lxf18pm#5071342,USA1
+24,24,5071343,2026-09-10T00:30:00Z,Chicago Fire FC,Inter Miami CF,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-inter-miami-cf/5yu85bd7#5071343,USA1
+24,24,5071344,2026-09-10T00:30:00Z,Houston Dynamo FC,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-houston-dynamo-fc/1tse70#5071344,USA1
+24,24,5071346,2026-09-10T00:30:00Z,Minnesota United,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-minnesota-united/ahf8rn0#5071346,USA1
+24,24,5071345,2026-09-10T02:30:00Z,Los Angeles FC,Red Bull New York,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-los-angeles-fc/4vdlmar7#5071345,USA1
+24,24,5071347,2026-09-10T02:30:00Z,Portland Timbers,St. Louis City,,,FALSE,FALSE,FALSE,/matches/portland-timbers-vs-st-louis-city/j7ykhavd#5071347,USA1
+24,24,5071348,2026-09-10T02:30:00Z,San Diego FC,San Jose Earthquakes,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-san-diego-fc/ilv9o3j6#5071348,USA1
+24,24,5071350,2026-09-10T02:30:00Z,Vancouver Whitecaps,LA Galaxy,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-vancouver-whitecaps/mp07da1#5071350,USA1
+25,25,5071352,2026-09-12T23:30:00Z,Columbus Crew,Red Bull New York,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-red-bull-new-york/1ams94#5071352,USA1
+25,25,5071353,2026-09-12T23:30:00Z,DC United,Atlanta United,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-atlanta-united/3vy5o6ku#5071353,USA1
+25,25,5071351,2026-09-12T23:30:00Z,FC Cincinnati,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/fc-cincinnati-vs-charlotte-fc/qpqbgm3g#5071351,USA1
+25,25,5071354,2026-09-12T23:30:00Z,Inter Miami CF,Nashville SC,,,FALSE,FALSE,FALSE,/matches/nashville-sc-vs-inter-miami-cf/mguemrso#5071354,USA1
+25,25,5071355,2026-09-12T23:30:00Z,Orlando City,Toronto FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-orlando-city/o5gvtch#5071355,USA1
+25,25,5071357,2026-09-13T00:30:00Z,FC Dallas,Portland Timbers,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-portland-timbers/mnrhsos#5071357,USA1
+25,25,5071358,2026-09-13T00:30:00Z,Sporting Kansas City,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-los-angeles-fc/4vewfy1y#5071358,USA1
+25,25,5071362,2026-09-13T00:30:00Z,St. Louis City,Minnesota United,,,FALSE,FALSE,FALSE,/matches/minnesota-united-vs-st-louis-city/h26oqz89#5071362,USA1
+25,25,5071356,2026-09-13T01:30:00Z,Colorado Rapids,CF Montreal,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-cf-montreal/6lll6bd#5071356,USA1
+25,25,5071360,2026-09-13T01:30:00Z,Real Salt Lake,New York City FC,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-new-york-city-fc/1y7c7e8s#5071360,USA1
+25,25,5071359,2026-09-13T02:30:00Z,LA Galaxy,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-seattle-sounders-fc/4b9v1wp#5071359,USA1
+25,25,5071361,2026-09-13T02:30:00Z,San Jose Earthquakes,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-houston-dynamo-fc/1trfsc#5071361,USA1
+25,25,5071363,2026-09-13T22:30:00Z,Chicago Fire FC,New England Revolution,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-new-england-revolution/1e5071#5071363,USA1
+25,25,5071364,2026-09-13T22:30:00Z,Vancouver Whitecaps,Austin FC,,,FALSE,FALSE,FALSE,/matches/vancouver-whitecaps-vs-austin-fc/evalqx4k#5071364,USA1
+25,25,5071365,2026-09-14T01:00:00Z,San Diego FC,Philadelphia Union,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-san-diego-fc/muyp89yy#5071365,USA1
+26,26,5071366,2026-09-18T23:30:00Z,New York City FC,Red Bull New York,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-new-york-city-fc/1y6hxcay#5071366,USA1
+26,26,5071368,2026-09-19T23:30:00Z,CF Montreal,Columbus Crew,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-cf-montreal/6f5qx6v#5071368,USA1
+26,26,5071367,2026-09-19T23:30:00Z,DC United,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-charlotte-fc/ban4d2jn#5071367,USA1
+26,26,5071369,2026-09-19T23:30:00Z,New England Revolution,Orlando City,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-orlando-city/hakwpht#5071369,USA1
+26,26,5071370,2026-09-19T23:30:00Z,San Jose Earthquakes,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-los-angeles-fc/4vevx7re#5071370,USA1
+26,26,5071372,2026-09-20T00:30:00Z,FC Dallas,Austin FC,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-austin-fc/9kukxxta#5071372,USA1
+26,26,5071373,2026-09-20T00:30:00Z,Houston Dynamo FC,FC Cincinnati,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-fc-cincinnati/3ekxhw9l#5071373,USA1
+26,26,5071375,2026-09-20T00:30:00Z,Minnesota United,LA Galaxy,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-minnesota-united/ai9j781#5071375,USA1
+26,26,5071374,2026-09-20T00:30:00Z,Sporting Kansas City,Philadelphia Union,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-philadelphia-union/918ca04#5071374,USA1
+26,26,5071379,2026-09-20T00:30:00Z,St. Louis City,Toronto FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-st-louis-city/e24v9b5x#5071379,USA1
+26,26,5071371,2026-09-20T01:30:00Z,Colorado Rapids,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-seattle-sounders-fc/4f3iofg#5071371,USA1
+26,26,5071376,2026-09-20T01:30:00Z,Nashville SC,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-nashville-sc/5fcjuiad#5071376,USA1
+26,26,5071378,2026-09-20T01:30:00Z,Real Salt Lake,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-vancouver-whitecaps/moueiyr#5071378,USA1
+26,26,5071377,2026-09-20T02:30:00Z,Portland Timbers,Atlanta United,,,FALSE,FALSE,FALSE,/matches/portland-timbers-vs-atlanta-united/7gqjhfmm#5071377,USA1
+26,26,5071380,2026-09-20T23:00:00Z,Inter Miami CF,San Diego FC,,,FALSE,FALSE,FALSE,/matches/inter-miami-cf-vs-san-diego-fc/197hpkaco#5071380,USA1
+7,7,5071094,2026-09-24T01:30:00Z,Seattle Sounders FC,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-seattle-sounders-fc/4b7c0hu#5071094,USA1
+27,27,5071381,2026-09-26T23:30:00Z,Atlanta United,New York City FC,,,FALSE,FALSE,FALSE,/matches/new-york-city-fc-vs-atlanta-united/b4ccvx74#5071381,USA1
+27,27,5071383,2026-09-26T23:30:00Z,CF Montreal,FC Cincinnati,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-fc-cincinnati/4za1xnmr#5071383,USA1
+27,27,5071382,2026-09-26T23:30:00Z,Charlotte FC,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-charlotte-fc/bailzapa#5071382,USA1
+27,27,5071385,2026-09-26T23:30:00Z,Philadelphia Union,Orlando City,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-orlando-city/1ci54wc7#5071385,USA1
+27,27,5071384,2026-09-26T23:30:00Z,Red Bull New York,St. Louis City,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-st-louis-city/d4nido4d#5071384,USA1
+27,27,5071386,2026-09-27T00:30:00Z,Austin FC,San Diego FC,,,FALSE,FALSE,FALSE,/matches/austin-fc-vs-san-diego-fc/1iehts5f2#5071386,USA1
+27,27,5071388,2026-09-27T00:30:00Z,FC Dallas,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-los-angeles-fc/4vbxso2w#5071388,USA1
+27,27,5071389,2026-09-27T00:30:00Z,Houston Dynamo FC,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-houston-dynamo-fc/1trr97#5071389,USA1
+27,27,5071391,2026-09-27T00:30:00Z,Nashville SC,Toronto FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-nashville-sc/614pbftl#5071391,USA1
+27,27,5071394,2026-09-27T00:30:00Z,Seattle Sounders FC,Minnesota United,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-minnesota-united/q6nz6h0#5071394,USA1
+27,27,5071392,2026-09-27T01:30:00Z,Real Salt Lake,New England Revolution,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-real-salt-lake/1frlw1#5071392,USA1
+27,27,5071390,2026-09-27T02:30:00Z,LA Galaxy,Colorado Rapids,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-colorado-rapids/1ujvja#5071390,USA1
+27,27,5071393,2026-09-27T02:30:00Z,San Jose Earthquakes,Portland Timbers,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-portland-timbers/motnkwy#5071393,USA1
+27,27,5071395,2026-09-27T02:30:00Z,Vancouver Whitecaps,DC United,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-vancouver-whitecaps/motnkwx#5071395,USA1
+27,27,5071387,2026-09-27T23:00:00Z,Columbus Crew,Inter Miami CF,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-inter-miami-cf/5ynw6fqp#5071387,USA1
+24,24,5071349,2026-10-02T01:30:00Z,Seattle Sounders FC,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-seattle-sounders-fc/4b7652p#5071349,USA1
+28,28,5071404,2026-10-10T17:00:00Z,Toronto FC,CF Montreal,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-cf-montreal/avpq9zx#5071404,USA1
+28,28,5071398,2026-10-10T18:30:00Z,Chicago Fire FC,New York City FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-new-york-city-fc/1y5ffc87#5071398,USA1
+28,28,5071396,2026-10-10T23:30:00Z,Atlanta United,FC Cincinnati,,,FALSE,FALSE,FALSE,/matches/fc-cincinnati-vs-atlanta-united/ea7w0hyu#5071396,USA1
+28,28,5071397,2026-10-10T23:30:00Z,Charlotte FC,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-charlotte-fc/bainkbp1#5071397,USA1
+28,28,5071399,2026-10-10T23:30:00Z,Inter Miami CF,DC United,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-inter-miami-cf/5yxi759r#5071399,USA1
+28,28,5071400,2026-10-10T23:30:00Z,New England Revolution,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-seattle-sounders-fc/4b57o9p#5071400,USA1
+28,28,5071402,2026-10-10T23:30:00Z,Orlando City,Columbus Crew,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-orlando-city/h7yf3vz#5071402,USA1
+28,28,5071403,2026-10-10T23:30:00Z,Philadelphia Union,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-philadelphia-union/918ks21#5071403,USA1
+28,28,5071401,2026-10-10T23:30:00Z,Red Bull New York,San Diego FC,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-san-diego-fc/ilsr6kd7#5071401,USA1
+28,28,5071405,2026-10-11T00:30:00Z,Austin FC,Nashville SC,,,FALSE,FALSE,FALSE,/matches/nashville-sc-vs-austin-fc/t2pjplum#5071405,USA1
+28,28,5071409,2026-10-11T00:30:00Z,Minnesota United,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-minnesota-united/ao0uywu#5071409,USA1
+28,28,5071407,2026-10-11T00:30:00Z,Sporting Kansas City,Portland Timbers,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-portland-timbers/motubfd#5071407,USA1
+28,28,5071406,2026-10-11T01:30:00Z,Colorado Rapids,San Jose Earthquakes,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-colorado-rapids/1u8zqh#5071406,USA1
+28,28,5071408,2026-10-11T02:30:00Z,Los Angeles FC,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/vancouver-whitecaps-vs-los-angeles-fc/8t3ytgca#5071408,USA1
+28,28,5071410,2026-10-11T23:00:00Z,St. Louis City,LA Galaxy,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-st-louis-city/d4qffkld#5071410,USA1
+29,29,5071415,2026-10-14T23:30:00Z,CF Montreal,Atlanta United,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-atlanta-united/5kvfewj3#5071415,USA1
+29,29,5071412,2026-10-14T23:30:00Z,Columbus Crew,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-charlotte-fc/ba9wdivs#5071412,USA1
+29,29,5071413,2026-10-14T23:30:00Z,DC United,Red Bull New York,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-dc-united/1f7vjk#5071413,USA1
+29,29,5071411,2026-10-14T23:30:00Z,FC Cincinnati,New England Revolution,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-fc-cincinnati/3e0oi69g#5071411,USA1
+29,29,5071414,2026-10-14T23:30:00Z,Inter Miami CF,New York City FC,,,FALSE,FALSE,FALSE,/matches/new-york-city-fc-vs-inter-miami-cf/ehmhb14p#5071414,USA1
+29,29,5071416,2026-10-14T23:30:00Z,Toronto FC,Orlando City,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-orlando-city/o5gvtch#5071416,USA1
+29,29,5071417,2026-10-15T00:30:00Z,Chicago Fire FC,Philadelphia Union,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-philadelphia-union/90jwu6m#5071417,USA1
+29,29,5071419,2026-10-15T00:30:00Z,FC Dallas,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-seattle-sounders-fc/4aqgmuc#5071419,USA1
+29,29,5071422,2026-10-15T00:30:00Z,Nashville SC,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-nashville-sc/5ffpijdd#5071422,USA1
+29,29,5071425,2026-10-15T00:30:00Z,St. Louis City,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/vancouver-whitecaps-vs-st-louis-city/j7ylii40#5071425,USA1
+29,29,5071418,2026-10-15T01:30:00Z,Colorado Rapids,Minnesota United,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-minnesota-united/ao7x1ms#5071418,USA1
+29,29,5071423,2026-10-15T01:30:00Z,Real Salt Lake,San Jose Earthquakes,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-real-salt-lake/1fy443#5071423,USA1
+29,29,5071420,2026-10-15T02:30:00Z,LA Galaxy,Portland Timbers,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-portland-timbers/mp00mqp#5071420,USA1
+29,29,5071421,2026-10-15T02:30:00Z,Los Angeles FC,Austin FC,,,FALSE,FALSE,FALSE,/matches/los-angeles-fc-vs-austin-fc/rrntq1xp#5071421,USA1
+29,29,5071424,2026-10-15T02:30:00Z,San Diego FC,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-san-diego-fc/in6274o6#5071424,USA1
+30,30,5071432,2026-10-17T18:30:00Z,Philadelphia Union,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-charlotte-fc/ennv92rs#5071432,USA1
+30,30,5071427,2026-10-17T20:30:00Z,Minnesota United,St. Louis City,,,FALSE,FALSE,FALSE,/matches/minnesota-united-vs-st-louis-city/h26oqz89#5071427,USA1
+30,30,5071426,2026-10-17T23:30:00Z,Atlanta United,Inter Miami CF,,,FALSE,FALSE,FALSE,/matches/atlanta-united-vs-inter-miami-cf/j76lmfnx#5071426,USA1
+30,30,5071428,2026-10-17T23:30:00Z,New England Revolution,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-new-england-revolution/1e5071#5071428,USA1
+30,30,5071431,2026-10-17T23:30:00Z,Orlando City,DC United,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-orlando-city/haoi3k8#5071431,USA1
+30,30,5071430,2026-10-17T23:30:00Z,Red Bull New York,Toronto FC,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-toronto-fc/wsazkm#5071430,USA1
+30,30,5071433,2026-10-18T00:30:00Z,Austin FC,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/vancouver-whitecaps-vs-austin-fc/evalqx4k#5071433,USA1
+30,30,5071434,2026-10-18T00:30:00Z,Houston Dynamo FC,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-houston-dynamo-fc/1rywdi#5071434,USA1
+30,30,5071435,2026-10-18T00:30:00Z,Sporting Kansas City,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-real-salt-lake/1fyeb1#5071435,USA1
+30,30,5071436,2026-10-18T02:30:00Z,LA Galaxy,San Diego FC,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-san-diego-fc/ilw88ld7#5071436,USA1
+30,30,5071437,2026-10-18T02:30:00Z,Portland Timbers,Colorado Rapids,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-portland-timbers/mxqoz04#5071437,USA1
+30,30,5071438,2026-10-18T02:30:00Z,San Jose Earthquakes,Nashville SC,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-nashville-sc/5ffoyrmu#5071438,USA1
+30,30,5071439,2026-10-18T02:30:00Z,Seattle Sounders FC,CF Montreal,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-cf-montreal/jj2rtx6#5071439,USA1
+30,30,5071440,2026-10-18T23:00:00Z,FC Cincinnati,Columbus Crew,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-fc-cincinnati/3dtpct4g#5071440,USA1
+31,31,5071444,2026-10-24T17:30:00Z,CF Montreal,Nashville SC,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-nashville-sc/7efm1ceu#5071444,USA1
+31,31,5071442,2026-10-24T18:30:00Z,Columbus Crew,Toronto FC,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-toronto-fc/w95g2m#5071442,USA1
+31,31,5071445,2026-10-24T20:30:00Z,Red Bull New York,Inter Miami CF,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-inter-miami-cf/5yw3ipv7#5071445,USA1
+31,31,5071441,2026-10-24T23:30:00Z,Atlanta United,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-atlanta-united/3vvieyi4#5071441,USA1
+31,31,5071443,2026-10-24T23:30:00Z,DC United,FC Cincinnati,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-fc-cincinnati/3e0y1utr#5071443,USA1
+31,31,5071446,2026-10-24T23:30:00Z,Orlando City,New York City FC,,,FALSE,FALSE,FALSE,/matches/orlando-city-vs-new-york-city-fc/487q3tf2#5071446,USA1
+31,31,5071447,2026-10-24T23:30:00Z,Philadelphia Union,New England Revolution,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-philadelphia-union/915i9ls#5071447,USA1
+31,31,5071448,2026-10-25T01:30:00Z,Colorado Rapids,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/colorado-rapids-vs-vancouver-whitecaps/mxqvqu1#5071448,USA1
+31,31,5071449,2026-10-25T01:30:00Z,FC Dallas,San Jose Earthquakes,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-san-jose-earthquakes/1ebysi#5071449,USA1
+31,31,5071450,2026-10-25T01:30:00Z,Houston Dynamo FC,Minnesota United,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-minnesota-united/ao0uywu#5071450,USA1
+31,31,5071453,2026-10-25T01:30:00Z,Real Salt Lake,St. Louis City,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-st-louis-city/d4poydnf#5071453,USA1
+31,31,5071451,2026-10-25T01:30:00Z,Sporting Kansas City,Austin FC,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-austin-fc/9kyqi4mv#5071451,USA1
+31,31,5071452,2026-10-25T02:30:00Z,Portland Timbers,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/portland-timbers-vs-charlotte-fc/gzi451cj#5071452,USA1
+31,31,5071454,2026-10-25T02:30:00Z,San Diego FC,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-san-diego-fc/lei703ac#5071454,USA1
+31,31,5071455,2026-10-26T01:00:00Z,Los Angeles FC,LA Galaxy,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-los-angeles-fc/4vfdm25v#5071455,USA1
+32,32,5071456,2026-10-28T23:30:00Z,Charlotte FC,CF Montreal,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-charlotte-fc/e2miwxvn#5071456,USA1
+32,32,5071457,2026-10-28T23:30:00Z,Inter Miami CF,FC Cincinnati,,,FALSE,FALSE,FALSE,/matches/fc-cincinnati-vs-inter-miami-cf/i2lpg9il#5071457,USA1
+32,32,5071458,2026-10-28T23:30:00Z,New England Revolution,Red Bull New York,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-new-england-revolution/1f1p21#5071458,USA1
+32,32,5071459,2026-10-28T23:30:00Z,New York City FC,Atlanta United,,,FALSE,FALSE,FALSE,/matches/new-york-city-fc-vs-atlanta-united/b4ccvx74#5071459,USA1
+32,32,5071460,2026-10-28T23:30:00Z,Toronto FC,DC United,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-toronto-fc/wvlu76#5071460,USA1
+32,32,5071461,2026-10-29T00:30:00Z,Austin FC,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-austin-fc/9kyrynts#5071461,USA1
+32,32,5071462,2026-10-29T00:30:00Z,Chicago Fire FC,Orlando City,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-orlando-city/h9r0tbh#5071462,USA1
+32,32,5071463,2026-10-29T00:30:00Z,FC Dallas,Columbus Crew,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-fc-dallas/19s2pj#5071463,USA1
+32,32,5071464,2026-10-29T00:30:00Z,Minnesota United,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-minnesota-united/ai5bxm1#5071464,USA1
+32,32,5071465,2026-10-29T00:30:00Z,Nashville SC,Philadelphia Union,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-nashville-sc/7tqy02md#5071465,USA1
+32,32,5071468,2026-10-29T00:30:00Z,St. Louis City,Portland Timbers,,,FALSE,FALSE,FALSE,/matches/portland-timbers-vs-st-louis-city/j7ykhavd#5071468,USA1
+32,32,5071466,2026-10-29T02:30:00Z,San Jose Earthquakes,Colorado Rapids,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-colorado-rapids/1u8zqh#5071466,USA1
+32,32,5071467,2026-10-29T02:30:00Z,Seattle Sounders FC,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-seattle-sounders-fc/4eyz706#5071467,USA1
+32,32,5071469,2026-10-29T02:30:00Z,Vancouver Whitecaps,San Diego FC,,,FALSE,FALSE,FALSE,/matches/vancouver-whitecaps-vs-san-diego-fc/pqweqogi#5071469,USA1
+33,33,5071470,2026-10-31T17:00:00Z,Charlotte FC,Orlando City,,,FALSE,FALSE,FALSE,/matches/orlando-city-vs-charlotte-fc/g5z4wn87#5071470,USA1
+33,33,5071472,2026-10-31T18:00:00Z,Columbus Crew,DC United,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-dc-united/1bah4k#5071472,USA1
+33,33,5071471,2026-10-31T18:00:00Z,FC Cincinnati,Philadelphia Union,,,FALSE,FALSE,FALSE,/matches/philadelphia-union-vs-fc-cincinnati/5bvoytvg#5071471,USA1
+33,33,5071474,2026-10-31T18:00:00Z,New York City FC,CF Montreal,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-new-york-city-fc/36ydg5bv#5071474,USA1
+33,33,5071476,2026-10-31T18:00:00Z,Sporting Kansas City,FC Dallas,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-sporting-kansas-city/1ec8tq#5071476,USA1
+33,33,5071479,2026-10-31T19:00:00Z,St. Louis City,San Diego FC,,,FALSE,FALSE,FALSE,/matches/st-louis-city-vs-san-diego-fc/1qgzy4zgu#5071479,USA1
+33,33,5071477,2026-10-31T21:00:00Z,LA Galaxy,Austin FC,,,FALSE,FALSE,FALSE,/matches/la-galaxy-vs-austin-fc/9kzekxp7#5071477,USA1
+33,33,5071478,2026-10-31T21:00:00Z,San Jose Earthquakes,Real Salt Lake,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-real-salt-lake/1fy443#5071478,USA1
+33,33,5071475,2026-11-01T01:30:00Z,Colorado Rapids,Chicago Fire FC,,,FALSE,FALSE,FALSE,/matches/chicago-fire-fc-vs-colorado-rapids/1sfkym#5071475,USA1
+33,33,5071481,2026-11-01T21:30:00Z,Atlanta United,Toronto FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-atlanta-united/4ee8htbc#5071481,USA1
+33,33,5071482,2026-11-01T21:30:00Z,Los Angeles FC,Minnesota United,,,FALSE,FALSE,FALSE,/matches/minnesota-united-vs-los-angeles-fc/7d7hm53j#5071482,USA1
+33,33,5071473,2026-11-01T21:30:00Z,Nashville SC,Red Bull New York,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-nashville-sc/5fec3a54#5071473,USA1
+33,33,5071480,2026-11-01T21:30:00Z,Vancouver Whitecaps,Seattle Sounders FC,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-vancouver-whitecaps/182zyoyi#5071480,USA1
+33,33,5071483,2026-11-02T00:00:00Z,New England Revolution,Inter Miami CF,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-inter-miami-cf/5yx5j0uy#5071483,USA1
+33,33,5071484,2026-11-02T02:15:00Z,Portland Timbers,Houston Dynamo FC,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-portland-timbers/mxgchfy#5071484,USA1
+30,30,5071429,2026-11-05T00:30:00Z,New York City FC,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/new-york-city-fc-vs-los-angeles-fc/cqxxlvy1#5071429,USA1
+34,34,5071489,2026-11-07T21:00:00Z,CF Montreal,Vancouver Whitecaps,,,FALSE,FALSE,FALSE,/matches/cf-montreal-vs-vancouver-whitecaps/1ei01lm0#5071489,USA1
+34,34,5071485,2026-11-07T21:00:00Z,Chicago Fire FC,Columbus Crew,,,FALSE,FALSE,FALSE,/matches/columbus-crew-vs-chicago-fire-fc/19rjkm#5071485,USA1
+34,34,5071487,2026-11-07T21:00:00Z,DC United,New York City FC,,,FALSE,FALSE,FALSE,/matches/dc-united-vs-new-york-city-fc/1y7avzxq#5071487,USA1
+34,34,5071486,2026-11-07T21:00:00Z,FC Cincinnati,Nashville SC,,,FALSE,FALSE,FALSE,/matches/fc-cincinnati-vs-nashville-sc/h4cat8m3#5071486,USA1
+34,34,5071488,2026-11-07T21:00:00Z,Inter Miami CF,Charlotte FC,,,FALSE,FALSE,FALSE,/matches/inter-miami-cf-vs-charlotte-fc/xaxy0ocy#5071488,USA1
+34,34,5071491,2026-11-07T21:00:00Z,Orlando City,New England Revolution,,,FALSE,FALSE,FALSE,/matches/new-england-revolution-vs-orlando-city/hakwpht#5071491,USA1
+34,34,5071492,2026-11-07T21:00:00Z,Philadelphia Union,Toronto FC,,,FALSE,FALSE,FALSE,/matches/toronto-fc-vs-philadelphia-union/e5a0kw2#5071492,USA1
+34,34,5071490,2026-11-07T21:00:00Z,Red Bull New York,Atlanta United,,,FALSE,FALSE,FALSE,/matches/red-bull-new-york-vs-atlanta-united/3vx0s0jm#5071490,USA1
+34,34,5071493,2026-11-08T00:00:00Z,Austin FC,Portland Timbers,,,FALSE,FALSE,FALSE,/matches/portland-timbers-vs-austin-fc/evaku77m#5071493,USA1
+34,34,5071494,2026-11-08T00:00:00Z,FC Dallas,Colorado Rapids,,,FALSE,FALSE,FALSE,/matches/fc-dallas-vs-colorado-rapids/1sg7nz#5071494,USA1
+34,34,5071495,2026-11-08T00:00:00Z,Houston Dynamo FC,St. Louis City,,,FALSE,FALSE,FALSE,/matches/houston-dynamo-fc-vs-st-louis-city/d5sxltd0#5071495,USA1
+34,34,5071496,2026-11-08T00:00:00Z,Minnesota United,San Jose Earthquakes,,,FALSE,FALSE,FALSE,/matches/san-jose-earthquakes-vs-minnesota-united/ai57clu#5071496,USA1
+34,34,5071497,2026-11-08T00:00:00Z,Real Salt Lake,LA Galaxy,,,FALSE,FALSE,FALSE,/matches/real-salt-lake-vs-la-galaxy/1g7r4n#5071497,USA1
+34,34,5071498,2026-11-08T00:00:00Z,San Diego FC,Sporting Kansas City,,,FALSE,FALSE,FALSE,/matches/sporting-kansas-city-vs-san-diego-fc/ilvaop7y#5071498,USA1
+34,34,5071499,2026-11-08T00:00:00Z,Seattle Sounders FC,Los Angeles FC,,,FALSE,FALSE,FALSE,/matches/seattle-sounders-fc-vs-los-angeles-fc/6cmoo9g7#5071499,USA1

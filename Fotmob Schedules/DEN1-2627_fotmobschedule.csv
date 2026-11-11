@@ -1,0 +1,133 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5739463,2026-07-24T17:00:00Z,Viborg,OB,1 - 0,FT,True,True,False,DEN1
+1,1,,5739464,2026-07-25T16:00:00Z,AGF,Brøndby IF,1 - 1,FT,True,True,False,DEN1
+1,1,,5739465,2026-07-26T12:00:00Z,Sønderjyske,FC Midtjylland,2 - 3,FT,True,True,False,DEN1
+1,1,,5739468,2026-07-26T14:00:00Z,FC København,Lyngby,3 - 2,FT,True,True,False,DEN1
+1,1,,5739467,2026-07-26T16:00:00Z,AC Horsens,Nordsjælland,1 - 1,FT,True,True,False,DEN1
+1,1,,5739466,2026-07-27T17:00:00Z,Randers FC,Silkeborg,1 - 1,FT,True,True,False,DEN1
+2,2,,5739469,2026-08-01T16:00:00Z,Lyngby,AGF,2 - 2,FT,True,True,False,DEN1
+2,2,,5739470,2026-08-02T12:00:00Z,FC Midtjylland,AC Horsens,2 - 1,FT,True,True,False,DEN1
+2,2,,5739471,2026-08-02T12:00:00Z,Nordsjælland,Randers FC,1 - 0,FT,True,True,False,DEN1
+2,2,,5739472,2026-08-02T14:00:00Z,Brøndby IF,Viborg,1 - 0,FT,True,True,False,DEN1
+2,2,,5739473,2026-08-02T16:00:00Z,Silkeborg,FC København,1 - 3,FT,True,True,False,DEN1
+2,2,,5739474,2026-08-03T17:00:00Z,OB,Sønderjyske,1 - 0,FT,True,True,False,DEN1
+3,3,,5739475,2026-08-07T17:00:00Z,Sønderjyske,Viborg,0 - 0,FT,True,True,False,DEN1
+3,3,,5739476,2026-08-09T14:00:00Z,Randers FC,Lyngby,2 - 0,FT,True,True,False,DEN1
+3,3,,5739477,2026-08-09T16:00:00Z,AC Horsens,Brøndby IF,0 - 2,FT,True,True,False,DEN1
+3,3,,5739478,2026-08-10T17:00:00Z,Silkeborg,OB,1 - 0,FT,True,True,False,DEN1
+4,4,,5739479,2026-08-14T17:00:00Z,Viborg,AGF,2 - 1,FT,True,True,False,DEN1
+4,4,,5739480,2026-08-16T12:00:00Z,OB,AC Horsens,1 - 2,FT,True,True,False,DEN1
+4,4,,5739481,2026-08-16T12:00:00Z,Nordsjælland,Silkeborg,1 - 0,FT,True,True,False,DEN1
+4,4,,5739482,2026-08-16T14:00:00Z,Lyngby,FC Midtjylland,1 - 1,FT,True,True,False,DEN1
+4,4,,5739483,2026-08-16T16:00:00Z,Randers FC,FC København,0 - 4,FT,True,True,False,DEN1
+4,4,,5739484,2026-08-17T17:00:00Z,Brøndby IF,Sønderjyske,3 - 2,FT,True,True,False,DEN1
+5,5,,5739486,2026-08-23T10:00:00Z,Sønderjyske,Nordsjælland,0 - 3,FT,True,True,False,DEN1
+5,5,,5739485,2026-08-23T12:00:00Z,AGF,OB,2 - 2,FT,True,True,False,DEN1
+5,5,,5739487,2026-08-23T12:05:00Z,FC Midtjylland,Randers FC,1 - 0,FT,True,True,False,DEN1
+5,5,,5739488,2026-08-23T14:00:00Z,AC Horsens,Lyngby,2 - 1,FT,True,True,False,DEN1
+5,5,,5739489,2026-08-23T16:00:00Z,Viborg,FC København,4 - 0,FT,True,True,False,DEN1
+5,5,,5739490,2026-08-24T17:00:00Z,Brøndby IF,Silkeborg,3 - 1,FT,True,True,False,DEN1
+6,6,,5739491,2026-08-28T17:00:00Z,AC Horsens,Viborg,2 - 3,FT,True,True,False,DEN1
+6,6,,5739492,2026-08-30T12:00:00Z,Lyngby,OB,1 - 1,FT,True,True,False,DEN1
+6,6,,5739493,2026-08-30T12:00:00Z,Silkeborg,FC Midtjylland,1 - 1,FT,True,True,False,DEN1
+6,6,,5739494,2026-08-30T14:00:00Z,Randers FC,AGF,2 - 1,FT,True,True,False,DEN1
+6,6,,5739495,2026-08-30T16:00:00Z,Nordsjælland,Brøndby IF,3 - 1,FT,True,True,False,DEN1
+6,6,,5739496,2026-08-31T17:00:00Z,FC København,Sønderjyske,3 - 1,FT,True,True,False,DEN1
+3,3,,5739497,2026-09-02T18:00:00Z,AGF,FC Midtjylland,0 - 2,FT,True,True,False,DEN1
+3,3,,5739498,2026-09-03T18:00:00Z,FC København,Nordsjælland,2 - 0,FT,True,True,False,DEN1
+7,7,,5739500,2026-09-04T17:00:00Z,Viborg,Lyngby,0 - 2,FT,True,True,False,DEN1
+7,7,,5739501,2026-09-05T16:00:00Z,AGF,Silkeborg,2 - 2,FT,True,True,False,DEN1
+7,7,,5739502,2026-09-06T12:00:00Z,Sønderjyske,AC Horsens,2 - 5,FT,True,True,False,DEN1
+7,7,,5739503,2026-09-06T14:00:00Z,OB,FC København,0 - 5,FT,True,True,False,DEN1
+7,7,,5739504,2026-09-06T16:00:00Z,Brøndby IF,Randers FC,0 - 3,FT,True,True,False,DEN1
+7,7,,5739505,2026-09-07T17:00:00Z,FC Midtjylland,Nordsjælland,2 - 2,FT,True,True,False,DEN1
+8,8,,5739506,2026-09-11T17:00:00Z,FC København,AC Horsens,2 - 0,FT,True,True,False,DEN1
+8,8,,5739508,2026-09-13T12:00:00Z,Lyngby,Sønderjyske,1 - 1,FT,True,True,False,DEN1
+8,8,,5739510,2026-09-13T12:00:00Z,Silkeborg,Viborg,1 - 1,FT,True,True,False,DEN1
+8,8,,5739507,2026-09-13T14:00:00Z,Randers FC,OB,1 - 2,FT,True,True,False,DEN1
+8,8,,5739511,2026-09-13T16:00:00Z,Nordsjælland,AGF,2 - 0,FT,True,True,False,DEN1
+8,8,,5739509,2026-09-14T17:00:00Z,FC Midtjylland,Brøndby IF,4 - 1,FT,True,True,False,DEN1
+9,9,,5739514,2026-09-18T17:00:00Z,Lyngby,Silkeborg,0 - 4,FT,True,True,False,DEN1
+9,9,,5739512,2026-09-19T16:00:00Z,OB,FC Midtjylland,1 - 1,FT,True,True,False,DEN1
+10,10,,5739523,2026-10-09T17:00:00Z,Nordsjælland,OB,,,False,False,False,DEN1
+10,10,,5739518,2026-10-11T12:00:00Z,Randers FC,Viborg,,,False,False,False,DEN1
+10,10,,5739522,2026-10-11T12:00:00Z,Silkeborg,AC Horsens,,,False,False,False,DEN1
+10,10,,5739520,2026-10-11T14:00:00Z,Brøndby IF,Lyngby,,,False,False,False,DEN1
+10,10,,5739519,2026-10-11T16:00:00Z,FC Midtjylland,FC København,,,False,False,False,DEN1
+10,10,,5739521,2026-10-12T17:00:00Z,AGF,Sønderjyske,,,False,False,False,DEN1
+11,11,,5739529,2026-10-16T17:00:00Z,AC Horsens,Randers FC,,,False,False,False,DEN1
+11,11,,5739525,2026-10-18T12:00:00Z,Sønderjyske,Silkeborg,,,False,False,False,DEN1
+11,11,,5739527,2026-10-18T12:00:00Z,Lyngby,Nordsjælland,,,False,False,False,DEN1
+11,11,,5739524,2026-10-18T14:00:00Z,OB,Brøndby IF,,,False,False,False,DEN1
+11,11,,5739526,2026-10-18T16:00:00Z,FC København,AGF,,,False,False,False,DEN1
+11,11,,5739528,2026-10-19T17:00:00Z,Viborg,FC Midtjylland,,,False,False,False,DEN1
+12,12,,5739531,2026-10-23T17:00:00Z,Randers FC,Brøndby IF,,,False,False,False,DEN1
+12,12,,5739532,2026-10-25T13:00:00Z,FC Midtjylland,Lyngby,,,False,False,False,DEN1
+12,12,,5739534,2026-10-25T13:00:00Z,Silkeborg,Nordsjælland,,,False,False,False,DEN1
+12,12,,5739535,2026-10-25T15:00:00Z,AC Horsens,Sønderjyske,,,False,False,False,DEN1
+12,12,,5739533,2026-10-25T17:00:00Z,AGF,Viborg,,,False,False,False,DEN1
+12,12,,5739530,2026-10-26T18:00:00Z,FC København,OB,,,False,False,False,DEN1
+13,13,,5739538,2026-10-30T18:00:00Z,Lyngby,Randers FC,,,False,False,False,DEN1
+13,13,,5739536,2026-11-01T13:00:00Z,OB,Silkeborg,,,False,False,False,DEN1
+13,13,,5739540,2026-11-01T13:00:00Z,Viborg,AC Horsens,,,False,False,False,DEN1
+13,13,,5739541,2026-11-01T15:00:00Z,Nordsjælland,FC Midtjylland,,,False,False,False,DEN1
+13,13,,5739539,2026-11-01T17:00:00Z,Brøndby IF,AGF,,,False,False,False,DEN1
+13,13,,5739537,2026-11-02T18:00:00Z,Sønderjyske,FC København,,,False,False,False,DEN1
+14,14,,5739547,2026-11-06T18:00:00Z,Silkeborg,Lyngby,,,False,False,False,DEN1
+14,14,,5739542,2026-11-07T17:00:00Z,OB,Viborg,,,False,False,False,DEN1
+14,14,,5739543,2026-11-08T11:00:00Z,FC København,Brøndby IF,,,False,False,False,DEN1
+14,14,,5739546,2026-11-08T13:00:00Z,AGF,AC Horsens,,,False,False,False,DEN1
+14,14,,5739544,2026-11-08T15:00:00Z,Randers FC,Nordsjælland,,,False,False,False,DEN1
+14,14,,5739545,2026-11-08T17:00:00Z,FC Midtjylland,Sønderjyske,,,False,False,False,DEN1
+15,15,,5739548,2026-11-22T15:00:00Z,Sønderjyske,OB,,,False,False,False,DEN1
+15,15,,5739549,2026-11-22T15:00:00Z,Brøndby IF,FC Midtjylland,,,False,False,False,DEN1
+15,15,,5739550,2026-11-22T15:00:00Z,Viborg,Randers FC,,,False,False,False,DEN1
+15,15,,5739551,2026-11-22T15:00:00Z,AGF,Lyngby,,,False,False,False,DEN1
+15,15,,5739552,2026-11-22T15:00:00Z,Nordsjælland,FC København,,,False,False,False,DEN1
+15,15,,5739553,2026-11-22T15:00:00Z,AC Horsens,Silkeborg,,,False,False,False,DEN1
+16,16,,5739554,2026-11-29T15:00:00Z,OB,Nordsjælland,,,False,False,False,DEN1
+16,16,,5739555,2026-11-29T15:00:00Z,Sønderjyske,Brøndby IF,,,False,False,False,DEN1
+16,16,,5739556,2026-11-29T15:00:00Z,FC København,FC Midtjylland,,,False,False,False,DEN1
+16,16,,5739557,2026-11-29T15:00:00Z,Randers FC,AC Horsens,,,False,False,False,DEN1
+16,16,,5739558,2026-11-29T15:00:00Z,Lyngby,Viborg,,,False,False,False,DEN1
+16,16,,5739559,2026-11-29T15:00:00Z,Silkeborg,AGF,,,False,False,False,DEN1
+17,17,,5739560,2026-12-06T15:00:00Z,FC Midtjylland,Silkeborg,,,False,False,False,DEN1
+17,17,,5739561,2026-12-06T15:00:00Z,Brøndby IF,OB,,,False,False,False,DEN1
+17,17,,5739562,2026-12-06T15:00:00Z,Viborg,Sønderjyske,,,False,False,False,DEN1
+17,17,,5739563,2026-12-06T15:00:00Z,AGF,Randers FC,,,False,False,False,DEN1
+17,17,,5739564,2026-12-06T15:00:00Z,Nordsjælland,Lyngby,,,False,False,False,DEN1
+17,17,,5739565,2026-12-06T15:00:00Z,AC Horsens,FC København,,,False,False,False,DEN1
+18,18,,5739566,2027-02-21T15:00:00Z,Sønderjyske,AGF,,,False,False,False,DEN1
+18,18,,5739567,2027-02-21T15:00:00Z,FC København,Viborg,,,False,False,False,DEN1
+18,18,,5739568,2027-02-21T15:00:00Z,Lyngby,Brøndby IF,,,False,False,False,DEN1
+18,18,,5739569,2027-02-21T15:00:00Z,FC Midtjylland,OB,,,False,False,False,DEN1
+18,18,,5739570,2027-02-21T15:00:00Z,Silkeborg,Randers FC,,,False,False,False,DEN1
+18,18,,5739571,2027-02-21T15:00:00Z,Nordsjælland,AC Horsens,,,False,False,False,DEN1
+19,19,,5739572,2027-02-28T15:00:00Z,OB,Lyngby,,,False,False,False,DEN1
+19,19,,5739573,2027-02-28T15:00:00Z,Randers FC,Sønderjyske,,,False,False,False,DEN1
+19,19,,5739574,2027-02-28T15:00:00Z,Brøndby IF,Nordsjælland,,,False,False,False,DEN1
+19,19,,5739575,2027-02-28T15:00:00Z,Viborg,Silkeborg,,,False,False,False,DEN1
+19,19,,5739576,2027-02-28T15:00:00Z,AGF,FC København,,,False,False,False,DEN1
+19,19,,5739577,2027-02-28T15:00:00Z,AC Horsens,FC Midtjylland,,,False,False,False,DEN1
+20,20,,5739578,2027-03-07T15:00:00Z,OB,AGF,,,False,False,False,DEN1
+20,20,,5739579,2027-03-07T15:00:00Z,FC København,Randers FC,,,False,False,False,DEN1
+20,20,,5739580,2027-03-07T15:00:00Z,Lyngby,AC Horsens,,,False,False,False,DEN1
+20,20,,5739581,2027-03-07T15:00:00Z,FC Midtjylland,Viborg,,,False,False,False,DEN1
+20,20,,5739582,2027-03-07T15:00:00Z,Silkeborg,Brøndby IF,,,False,False,False,DEN1
+20,20,,5739583,2027-03-07T15:00:00Z,Nordsjælland,Sønderjyske,,,False,False,False,DEN1
+21,21,,5739584,2027-03-14T15:00:00Z,Sønderjyske,Lyngby,,,False,False,False,DEN1
+21,21,,5739585,2027-03-14T15:00:00Z,FC København,Silkeborg,,,False,False,False,DEN1
+21,21,,5739586,2027-03-14T15:00:00Z,Randers FC,FC Midtjylland,,,False,False,False,DEN1
+21,21,,5739587,2027-03-14T15:00:00Z,Viborg,Brøndby IF,,,False,False,False,DEN1
+21,21,,5739588,2027-03-14T15:00:00Z,AGF,Nordsjælland,,,False,False,False,DEN1
+21,21,,5739589,2027-03-14T15:00:00Z,AC Horsens,OB,,,False,False,False,DEN1
+22,22,,5739590,2027-03-21T15:00:00Z,OB,Randers FC,,,False,False,False,DEN1
+22,22,,5739591,2027-03-21T15:00:00Z,Lyngby,FC København,,,False,False,False,DEN1
+22,22,,5739592,2027-03-21T15:00:00Z,FC Midtjylland,AGF,,,False,False,False,DEN1
+22,22,,5739593,2027-03-21T15:00:00Z,Brøndby IF,AC Horsens,,,False,False,False,DEN1
+22,22,,5739594,2027-03-21T15:00:00Z,Silkeborg,Sønderjyske,,,False,False,False,DEN1
+22,22,,5739595,2027-03-21T15:00:00Z,Nordsjælland,Viborg,,,False,False,False,DEN1
+9,9,,5739513,2026-09-20T12:00:00.000Z,Sønderjyske,Randers FC,4 - 2,FT,True,True,False,DEN1
+9,9,,5739515,2026-09-20T12:00:00.000Z,Brøndby IF,FC København,0 - 1,FT,True,True,False,DEN1
+9,9,,5739516,2026-09-20T16:00:00.000Z,Viborg,Nordsjælland,4 - 1,FT,True,True,False,DEN1
+9,9,,5739517,2026-09-20T14:00:00.000Z,AC Horsens,AGF,2 - 2,FT,True,True,False,DEN1

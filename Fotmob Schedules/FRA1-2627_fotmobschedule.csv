@@ -1,0 +1,307 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5802905,2026-08-21T18:45:00Z,Marseille,Strasbourg,4 - 0,FT,True,True,False,FRA1
+1,1,,5802904,2026-08-22T15:15:00Z,Lens,Auxerre,5 - 2,FT,True,True,False,FRA1
+1,1,,5802903,2026-08-22T18:45:00Z,Le Mans,Brest,2 - 2,FT,True,True,False,FRA1
+1,1,,5802906,2026-08-22T18:45:00Z,Nice,Lorient,0 - 0,FT,True,True,False,FRA1
+1,1,,5802908,2026-08-22T18:45:00Z,Toulouse,Lyon,0 - 2,FT,True,True,False,FRA1
+1,1,,5802909,2026-08-22T18:45:00Z,Troyes,Paris FC,0 - 0,FT,True,True,False,FRA1
+1,1,,5802901,2026-08-23T13:00:00Z,Angers,Lille,0 - 2,FT,True,True,False,FRA1
+1,1,,5802902,2026-08-23T15:15:00Z,Le Havre,Monaco,0 - 1,FT,True,True,False,FRA1
+1,1,,5803105,2026-08-23T18:45:00Z,Rennes,Paris Saint-Germain,2 - 2,FT,True,True,False,FRA1
+2,2,,5802918,2026-08-28T19:00:00Z,Lille,Paris Saint-Germain,2 - 2,FT,True,True,False,FRA1
+2,2,,5802917,2026-08-29T15:15:00Z,Strasbourg,Lens,2 - 1,FT,True,True,False,FRA1
+2,2,,5802910,2026-08-29T18:45:00Z,Auxerre,Angers,1 - 3,FT,True,True,False,FRA1
+2,2,,5802911,2026-08-29T18:45:00Z,Brest,Toulouse,2 - 2,FT,True,True,False,FRA1
+2,2,,5802912,2026-08-29T18:45:00Z,Lorient,Troyes,1 - 2,FT,True,True,False,FRA1
+2,2,,5802913,2026-08-29T18:45:00Z,Lyon,Le Havre,1 - 1,FT,True,True,False,FRA1
+2,2,,5802915,2026-08-30T13:00:00Z,Paris FC,Nice,3 - 0,FT,True,True,False,FRA1
+2,2,,5802916,2026-08-30T15:15:00Z,Rennes,Le Mans,3 - 2,FT,True,True,False,FRA1
+2,2,,5802914,2026-08-30T18:45:00Z,Monaco,Marseille,2 - 0,FT,True,True,False,FRA1
+3,3,,5802926,2026-09-03T18:45:00Z,Toulouse,Lille,0 - 1,FT,True,True,False,FRA1
+3,3,,5802922,2026-09-04T17:00:00Z,Lyon,Auxerre,3 - 1,FT,True,True,False,FRA1
+3,3,,5802925,2026-09-04T19:05:00Z,Paris Saint-Germain,Monaco,1 - 2,FT,True,True,False,FRA1
+3,3,,5802921,2026-09-05T15:15:00Z,Lens,Lorient,0 - 1,FT,True,True,False,FRA1
+3,3,,5802920,2026-09-05T18:45:00Z,Le Havre,Brest,1 - 2,FT,True,True,False,FRA1
+3,3,,5802924,2026-09-05T18:45:00Z,Nice,Le Mans,1 - 1,FT,True,True,False,FRA1
+3,3,,5802927,2026-09-06T13:00:00Z,Troyes,Strasbourg,2 - 6,FT,True,True,False,FRA1
+3,3,,5802919,2026-09-06T15:15:00Z,Angers,Rennes,1 - 2,FT,True,True,False,FRA1
+3,3,,5802923,2026-09-06T18:45:00Z,Marseille,Paris FC,2 - 3,FT,True,True,False,FRA1
+4,4,,5802935,2026-09-11T18:45:00Z,Rennes,Marseille,1 - 0,FT,True,True,False,FRA1
+4,4,,5802936,2026-09-12T15:15:00Z,Strasbourg,Monaco,1 - 1,FT,True,True,False,FRA1
+4,4,,5802928,2026-09-12T18:45:00Z,Auxerre,Nice,1 - 0,FT,True,True,False,FRA1
+4,4,,5802930,2026-09-12T18:45:00Z,Le Havre,Angers,0 - 0,FT,True,True,False,FRA1
+4,4,,5802933,2026-09-12T18:45:00Z,Lorient,Toulouse,2 - 2,FT,True,True,False,FRA1
+4,4,,5802934,2026-09-12T18:45:00Z,Paris FC,Lyon,0 - 0,FT,True,True,False,FRA1
+4,4,,5802932,2026-09-13T13:00:00Z,Lille,Troyes,2 - 0,FT,True,True,False,FRA1
+4,4,,5802931,2026-09-13T15:15:00Z,Le Mans,Lens,2 - 2,FT,True,True,False,FRA1
+4,4,,5802929,2026-09-13T18:45:00Z,Brest,Paris Saint-Germain,0 - 1,FT,True,True,False,FRA1
+5,5,,5802941,2026-09-18T18:45:00Z,Monaco,Lens,2 - 1,FT,True,True,False,FRA1
+5,5,,5802943,2026-09-19T15:15:00Z,Paris FC,Strasbourg,2 - 1,FT,True,True,False,FRA1
+5,5,,5802937,2026-09-19T18:45:00Z,Angers,Troyes,2 - 0,FT,True,True,False,FRA1
+5,5,,5802939,2026-09-19T18:45:00Z,Le Mans,Lorient,2 - 1,FT,True,True,False,FRA1
+5,5,,5802940,2026-09-19T18:45:00Z,Lyon,Rennes,4 - 0,FT,True,True,False,FRA1
+5,5,,5802944,2026-09-19T18:45:00Z,Toulouse,Le Havre,3 - 2,FT,True,True,False,FRA1
+6,6,,5802947,2026-10-09T18:45:00Z,Lens,Lyon,,,False,False,False,FRA1
+6,6,,5802948,2026-10-10T15:15:00Z,Lille,Le Havre,,,False,False,False,FRA1
+6,6,,5802946,2026-10-10T18:45:00Z,Brest,Angers,,,False,False,False,FRA1
+6,6,,5802949,2026-10-10T18:45:00Z,Lorient,Paris FC,,,False,False,False,FRA1
+6,6,,5802950,2026-10-10T18:45:00Z,Monaco,Toulouse,,,False,False,False,FRA1
+6,6,,5802952,2026-10-10T18:45:00Z,Paris Saint-Germain,Le Mans,,,False,False,False,FRA1
+6,6,,5802951,2026-10-11T13:00:00Z,Nice,Strasbourg,,,False,False,False,FRA1
+6,6,,5802953,2026-10-11T15:15:00Z,Rennes,Auxerre,,,False,False,False,FRA1
+6,6,,5802954,2026-10-11T18:45:00Z,Troyes,Marseille,,,False,False,False,FRA1
+7,7,,5802957,2026-10-16T18:45:00Z,Le Mans,Toulouse,,,False,False,False,FRA1
+7,7,,5802962,2026-10-17T15:15:00Z,Strasbourg,Paris Saint-Germain,,,False,False,False,FRA1
+7,7,,5802958,2026-10-17T18:45:00Z,Lille,Brest,,,False,False,False,FRA1
+7,7,,5802963,2026-10-17T18:45:00Z,Troyes,Lens,,,False,False,False,FRA1
+7,7,,5802955,2026-10-18T13:00:00Z,Angers,Marseille,,,False,False,False,FRA1
+7,7,,5802956,2026-10-18T15:15:00Z,Le Havre,Auxerre,,,False,False,False,FRA1
+7,7,,5802959,2026-10-18T15:15:00Z,Lorient,Monaco,,,False,False,False,FRA1
+7,7,,5802961,2026-10-18T15:15:00Z,Paris FC,Rennes,,,False,False,False,FRA1
+7,7,,5802960,2026-10-18T18:45:00Z,Lyon,Nice,,,False,False,False,FRA1
+8,8,,5802966,2026-10-23T18:45:00Z,Brest,Nice,,,False,False,False,FRA1
+8,8,,5802971,2026-10-24T15:15:00Z,Toulouse,Troyes,,,False,False,False,FRA1
+8,8,,5802967,2026-10-24T18:45:00Z,Lens,Paris FC,,,False,False,False,FRA1
+8,8,,5802969,2026-10-25T14:00:00Z,Monaco,Lille,,,False,False,False,FRA1
+8,8,,5802964,2026-10-25T16:15:00Z,Angers,Lorient,,,False,False,False,FRA1
+8,8,,5802965,2026-10-25T16:15:00Z,Auxerre,Le Mans,,,False,False,False,FRA1
+8,8,,5802968,2026-10-25T16:15:00Z,Marseille,Le Havre,,,False,False,False,FRA1
+8,8,,5802970,2026-10-25T16:15:00Z,Rennes,Strasbourg,,,False,False,False,FRA1
+8,8,,5802972,2026-10-25T19:45:00Z,Paris Saint-Germain,Lyon,,,False,False,False,FRA1
+9,9,,5802973,2026-10-30T18:00:00Z,Le Havre,Paris Saint-Germain,,,False,False,False,FRA1
+9,9,,5802974,2026-10-30T20:05:00Z,Lille,Lens,,,False,False,False,FRA1
+9,9,,5802978,2026-10-31T16:15:00Z,Nice,Rennes,,,False,False,False,FRA1
+9,9,,5802975,2026-10-31T19:45:00Z,Lorient,Brest,,,False,False,False,FRA1
+9,9,,5802976,2026-10-31T19:45:00Z,Lyon,Angers,,,False,False,False,FRA1
+9,9,,5802981,2026-10-31T19:45:00Z,Troyes,Le Mans,,,False,False,False,FRA1
+9,9,,5802980,2026-11-01T14:00:00Z,Strasbourg,Auxerre,,,False,False,False,FRA1
+9,9,,5802979,2026-11-01T16:15:00Z,Paris FC,Monaco,,,False,False,False,FRA1
+9,9,,5802977,2026-11-01T19:45:00Z,Marseille,Toulouse,,,False,False,False,FRA1
+10,10,,5802989,2026-11-06T19:45:00Z,Toulouse,Strasbourg,,,False,False,False,FRA1
+10,10,,5802983,2026-11-07T16:15:00Z,Auxerre,Paris FC,,,False,False,False,FRA1
+10,10,,5802987,2026-11-07T19:45:00Z,Paris Saint-Germain,Troyes,,,False,False,False,FRA1
+10,10,,5802988,2026-11-08T14:00:00Z,Rennes,Lille,,,False,False,False,FRA1
+10,10,,5802982,2026-11-08T16:15:00Z,Angers,Nice,,,False,False,False,FRA1
+10,10,,5802984,2026-11-08T16:15:00Z,Brest,Lyon,,,False,False,False,FRA1
+10,10,,5802985,2026-11-08T16:15:00Z,Le Havre,Lorient,,,False,False,False,FRA1
+10,10,,5802986,2026-11-08T16:15:00Z,Le Mans,Monaco,,,False,False,False,FRA1
+10,10,,5802990,2026-11-08T19:45:00Z,Lens,Marseille,,,False,False,False,FRA1
+11,11,,5802999,2026-11-20T19:45:00Z,Troyes,Le Havre,,,False,False,False,FRA1
+11,11,,5802996,2026-11-21T16:15:00Z,Nice,Paris Saint-Germain,,,False,False,False,FRA1
+11,11,,5802991,2026-11-21T19:45:00Z,Lens,Toulouse,,,False,False,False,FRA1
+11,11,,5802992,2026-11-21T19:45:00Z,Lille,Lyon,,,False,False,False,FRA1
+11,11,,5802995,2026-11-21T19:45:00Z,Monaco,Auxerre,,,False,False,False,FRA1
+11,11,,5802998,2026-11-21T19:45:00Z,Strasbourg,Brest,,,False,False,False,FRA1
+11,11,,5802997,2026-11-22T14:00:00Z,Paris FC,Angers,,,False,False,False,FRA1
+11,11,,5802993,2026-11-22T16:15:00Z,Lorient,Rennes,,,False,False,False,FRA1
+11,11,,5802994,2026-11-22T19:45:00Z,Marseille,Le Mans,,,False,False,False,FRA1
+12,12,,5803002,2026-11-27T19:45:00Z,Brest,Paris FC,,,False,False,False,FRA1
+12,12,,5803000,2026-11-28T16:15:00Z,Angers,Lens,,,False,False,False,FRA1
+12,12,,5803003,2026-11-28T19:45:00Z,Le Havre,Strasbourg,,,False,False,False,FRA1
+12,12,,5803004,2026-11-28T19:45:00Z,Le Mans,Lille,,,False,False,False,FRA1
+12,12,,5803006,2026-11-28T19:45:00Z,Nice,Troyes,,,False,False,False,FRA1
+12,12,,5803007,2026-11-28T19:45:00Z,Paris Saint-Germain,Lorient,,,False,False,False,FRA1
+12,12,,5803001,2026-11-29T14:00:00Z,Auxerre,Marseille,,,False,False,False,FRA1
+12,12,,5803008,2026-11-29T16:15:00Z,Toulouse,Rennes,,,False,False,False,FRA1
+12,12,,5803005,2026-11-29T19:45:00Z,Lyon,Monaco,,,False,False,False,FRA1
+13,13,,5803009,2026-12-05T16:00:00Z,Lens,Le Havre,,,False,False,False,FRA1
+13,13,,5803010,2026-12-05T16:00:00Z,Lille,Auxerre,,,False,False,False,FRA1
+13,13,,5803011,2026-12-05T16:00:00Z,Marseille,Nice,,,False,False,False,FRA1
+13,13,,5803012,2026-12-05T16:00:00Z,Monaco,Angers,,,False,False,False,FRA1
+13,13,,5803013,2026-12-05T16:00:00Z,Paris FC,Le Mans,,,False,False,False,FRA1
+13,13,,5803014,2026-12-05T16:00:00Z,Rennes,Brest,,,False,False,False,FRA1
+13,13,,5803015,2026-12-05T16:00:00Z,Strasbourg,Lorient,,,False,False,False,FRA1
+13,13,,5803016,2026-12-05T16:00:00Z,Toulouse,Paris Saint-Germain,,,False,False,False,FRA1
+13,13,,5803017,2026-12-05T16:00:00Z,Troyes,Lyon,,,False,False,False,FRA1
+14,14,,5803018,2026-12-12T16:00:00Z,Angers,Strasbourg,,,False,False,False,FRA1
+14,14,,5803019,2026-12-12T16:00:00Z,Auxerre,Toulouse,,,False,False,False,FRA1
+14,14,,5803020,2026-12-12T16:00:00Z,Brest,Troyes,,,False,False,False,FRA1
+14,14,,5803021,2026-12-12T16:00:00Z,Le Havre,Le Mans,,,False,False,False,FRA1
+14,14,,5803022,2026-12-12T16:00:00Z,Lorient,Lille,,,False,False,False,FRA1
+14,14,,5803023,2026-12-12T16:00:00Z,Nice,Lens,,,False,False,False,FRA1
+14,14,,5803024,2026-12-12T16:00:00Z,Paris Saint-Germain,Paris FC,,,False,False,False,FRA1
+14,14,,5803025,2026-12-12T16:00:00Z,Rennes,Monaco,,,False,False,False,FRA1
+14,14,,5803026,2026-12-13T19:45:00Z,Lyon,Marseille,,,False,False,False,FRA1
+15,15,,5803027,2027-01-02T16:00:00Z,Brest,Marseille,,,False,False,False,FRA1
+15,15,,5803028,2027-01-02T16:00:00Z,Le Mans,Lyon,,,False,False,False,FRA1
+15,15,,5803029,2027-01-02T16:00:00Z,Lille,Strasbourg,,,False,False,False,FRA1
+15,15,,5803030,2027-01-02T16:00:00Z,Lorient,Auxerre,,,False,False,False,FRA1
+15,15,,5803031,2027-01-02T16:00:00Z,Monaco,Nice,,,False,False,False,FRA1
+15,15,,5803032,2027-01-02T16:00:00Z,Paris FC,Le Havre,,,False,False,False,FRA1
+15,15,,5803033,2027-01-02T16:00:00Z,Toulouse,Angers,,,False,False,False,FRA1
+15,15,,5803034,2027-01-02T16:00:00Z,Troyes,Rennes,,,False,False,False,FRA1
+15,15,,5803035,2027-01-03T19:45:00Z,Lens,Paris Saint-Germain,,,False,False,False,FRA1
+16,16,,5803036,2027-01-16T16:00:00Z,Angers,Paris Saint-Germain,,,False,False,False,FRA1
+16,16,,5803037,2027-01-16T16:00:00Z,Auxerre,Troyes,,,False,False,False,FRA1
+16,16,,5803038,2027-01-16T16:00:00Z,Lyon,Lorient,,,False,False,False,FRA1
+16,16,,5803039,2027-01-16T16:00:00Z,Marseille,Lille,,,False,False,False,FRA1
+16,16,,5803040,2027-01-16T16:00:00Z,Monaco,Brest,,,False,False,False,FRA1
+16,16,,5803041,2027-01-16T16:00:00Z,Nice,Le Havre,,,False,False,False,FRA1
+16,16,,5803042,2027-01-16T16:00:00Z,Paris FC,Toulouse,,,False,False,False,FRA1
+16,16,,5803043,2027-01-16T16:00:00Z,Rennes,Lens,,,False,False,False,FRA1
+16,16,,5803044,2027-01-16T16:00:00Z,Strasbourg,Le Mans,,,False,False,False,FRA1
+17,17,,5803045,2027-01-23T16:00:00Z,Le Havre,Rennes,,,False,False,False,FRA1
+17,17,,5803046,2027-01-23T16:00:00Z,Le Mans,Angers,,,False,False,False,FRA1
+17,17,,5803047,2027-01-23T16:00:00Z,Lens,Brest,,,False,False,False,FRA1
+17,17,,5803048,2027-01-23T16:00:00Z,Lille,Paris FC,,,False,False,False,FRA1
+17,17,,5803049,2027-01-23T16:00:00Z,Lorient,Marseille,,,False,False,False,FRA1
+17,17,,5803050,2027-01-23T16:00:00Z,Paris Saint-Germain,Auxerre,,,False,False,False,FRA1
+17,17,,5803051,2027-01-23T16:00:00Z,Strasbourg,Lyon,,,False,False,False,FRA1
+17,17,,5803052,2027-01-23T16:00:00Z,Toulouse,Nice,,,False,False,False,FRA1
+17,17,,5803053,2027-01-23T16:00:00Z,Troyes,Monaco,,,False,False,False,FRA1
+18,18,,5803054,2027-01-30T16:00:00Z,Angers,Le Havre,,,False,False,False,FRA1
+18,18,,5803055,2027-01-30T16:00:00Z,Brest,Strasbourg,,,False,False,False,FRA1
+18,18,,5803056,2027-01-30T16:00:00Z,Le Mans,Nice,,,False,False,False,FRA1
+18,18,,5803057,2027-01-30T16:00:00Z,Lyon,Lille,,,False,False,False,FRA1
+18,18,,5803058,2027-01-30T16:00:00Z,Marseille,Troyes,,,False,False,False,FRA1
+18,18,,5803059,2027-01-30T16:00:00Z,Monaco,Paris Saint-Germain,,,False,False,False,FRA1
+18,18,,5803060,2027-01-30T16:00:00Z,Paris FC,Auxerre,,,False,False,False,FRA1
+18,18,,5803061,2027-01-30T16:00:00Z,Rennes,Lorient,,,False,False,False,FRA1
+18,18,,5803062,2027-01-30T16:00:00Z,Toulouse,Lens,,,False,False,False,FRA1
+19,19,,5803063,2027-02-06T16:00:00Z,Auxerre,Monaco,,,False,False,False,FRA1
+19,19,,5803064,2027-02-06T16:00:00Z,Le Havre,Toulouse,,,False,False,False,FRA1
+19,19,,5803065,2027-02-06T16:00:00Z,Lens,Angers,,,False,False,False,FRA1
+19,19,,5803066,2027-02-06T16:00:00Z,Lorient,Le Mans,,,False,False,False,FRA1
+19,19,,5803067,2027-02-06T16:00:00Z,Nice,Brest,,,False,False,False,FRA1
+19,19,,5803068,2027-02-06T16:00:00Z,Rennes,Lyon,,,False,False,False,FRA1
+19,19,,5803069,2027-02-06T16:00:00Z,Strasbourg,Paris FC,,,False,False,False,FRA1
+19,19,,5803070,2027-02-06T16:00:00Z,Troyes,Lille,,,False,False,False,FRA1
+19,19,,5803071,2027-02-07T19:45:00Z,Paris Saint-Germain,Marseille,,,False,False,False,FRA1
+20,20,,5803072,2027-02-13T16:00:00Z,Auxerre,Strasbourg,,,False,False,False,FRA1
+20,20,,5803073,2027-02-13T16:00:00Z,Brest,Rennes,,,False,False,False,FRA1
+20,20,,5803074,2027-02-13T16:00:00Z,Le Mans,Paris Saint-Germain,,,False,False,False,FRA1
+20,20,,5803075,2027-02-13T16:00:00Z,Lille,Nice,,,False,False,False,FRA1
+20,20,,5803076,2027-02-13T16:00:00Z,Lorient,Le Havre,,,False,False,False,FRA1
+20,20,,5803077,2027-02-13T16:00:00Z,Lyon,Lens,,,False,False,False,FRA1
+20,20,,5803078,2027-02-13T16:00:00Z,Marseille,Angers,,,False,False,False,FRA1
+20,20,,5803079,2027-02-13T16:00:00Z,Paris FC,Troyes,,,False,False,False,FRA1
+20,20,,5803080,2027-02-13T16:00:00Z,Toulouse,Monaco,,,False,False,False,FRA1
+21,21,,5803081,2027-02-20T16:00:00Z,Angers,Paris FC,,,False,False,False,FRA1
+21,21,,5803082,2027-02-20T16:00:00Z,Le Havre,Lyon,,,False,False,False,FRA1
+21,21,,5803083,2027-02-20T16:00:00Z,Lens,Troyes,,,False,False,False,FRA1
+21,21,,5803084,2027-02-20T16:00:00Z,Lille,Lorient,,,False,False,False,FRA1
+21,21,,5803085,2027-02-20T16:00:00Z,Monaco,Le Mans,,,False,False,False,FRA1
+21,21,,5803086,2027-02-20T16:00:00Z,Nice,Auxerre,,,False,False,False,FRA1
+21,21,,5803087,2027-02-20T16:00:00Z,Paris Saint-Germain,Brest,,,False,False,False,FRA1
+21,21,,5803088,2027-02-20T16:00:00Z,Rennes,Toulouse,,,False,False,False,FRA1
+21,21,,5803089,2027-02-20T16:00:00Z,Strasbourg,Marseille,,,False,False,False,FRA1
+22,22,,5803090,2027-02-27T16:00:00Z,Auxerre,Lille,,,False,False,False,FRA1
+22,22,,5803091,2027-02-27T16:00:00Z,Brest,Monaco,,,False,False,False,FRA1
+22,22,,5803092,2027-02-27T16:00:00Z,Le Mans,Paris FC,,,False,False,False,FRA1
+22,22,,5803093,2027-02-27T16:00:00Z,Lorient,Angers,,,False,False,False,FRA1
+22,22,,5803094,2027-02-27T16:00:00Z,Lyon,Toulouse,,,False,False,False,FRA1
+22,22,,5803095,2027-02-27T16:00:00Z,Marseille,Rennes,,,False,False,False,FRA1
+22,22,,5803096,2027-02-27T16:00:00Z,Strasbourg,Le Havre,,,False,False,False,FRA1
+22,22,,5803097,2027-02-27T16:00:00Z,Troyes,Nice,,,False,False,False,FRA1
+22,22,,5803098,2027-02-28T19:45:00Z,Paris Saint-Germain,Lens,,,False,False,False,FRA1
+23,23,,5802907,2027-03-06T16:00:00Z,Paris Saint-Germain,Rennes,,,False,False,False,FRA1
+23,23,,5803099,2027-03-06T16:00:00Z,Angers,Auxerre,,,False,False,False,FRA1
+23,23,,5803100,2027-03-06T16:00:00Z,Le Havre,Nice,,,False,False,False,FRA1
+23,23,,5803101,2027-03-06T16:00:00Z,Lens,Strasbourg,,,False,False,False,FRA1
+23,23,,5803102,2027-03-06T16:00:00Z,Lille,Marseille,,,False,False,False,FRA1
+23,23,,5803103,2027-03-06T16:00:00Z,Monaco,Lyon,,,False,False,False,FRA1
+23,23,,5803104,2027-03-06T16:00:00Z,Paris FC,Brest,,,False,False,False,FRA1
+23,23,,5803106,2027-03-06T16:00:00Z,Toulouse,Le Mans,,,False,False,False,FRA1
+23,23,,5803107,2027-03-06T16:00:00Z,Troyes,Lorient,,,False,False,False,FRA1
+24,24,,5803108,2027-03-13T16:00:00Z,Auxerre,Paris Saint-Germain,,,False,False,False,FRA1
+24,24,,5803109,2027-03-13T16:00:00Z,Brest,Lille,,,False,False,False,FRA1
+24,24,,5803110,2027-03-13T16:00:00Z,Le Havre,Lens,,,False,False,False,FRA1
+24,24,,5803111,2027-03-13T16:00:00Z,Le Mans,Rennes,,,False,False,False,FRA1
+24,24,,5803112,2027-03-13T16:00:00Z,Lyon,Troyes,,,False,False,False,FRA1
+24,24,,5803113,2027-03-13T16:00:00Z,Marseille,Monaco,,,False,False,False,FRA1
+24,24,,5803114,2027-03-13T16:00:00Z,Nice,Toulouse,,,False,False,False,FRA1
+24,24,,5803115,2027-03-13T16:00:00Z,Paris FC,Lorient,,,False,False,False,FRA1
+24,24,,5803116,2027-03-13T16:00:00Z,Strasbourg,Angers,,,False,False,False,FRA1
+25,25,,5803117,2027-03-20T16:00:00Z,Angers,Le Mans,,,False,False,False,FRA1
+25,25,,5803118,2027-03-20T16:00:00Z,Lens,Lille,,,False,False,False,FRA1
+25,25,,5803119,2027-03-20T16:00:00Z,Lorient,Nice,,,False,False,False,FRA1
+25,25,,5803120,2027-03-20T16:00:00Z,Monaco,Le Havre,,,False,False,False,FRA1
+25,25,,5803121,2027-03-20T16:00:00Z,Paris Saint-Germain,Strasbourg,,,False,False,False,FRA1
+25,25,,5803122,2027-03-20T16:00:00Z,Rennes,Paris FC,,,False,False,False,FRA1
+25,25,,5803123,2027-03-20T16:00:00Z,Toulouse,Brest,,,False,False,False,FRA1
+25,25,,5803124,2027-03-20T16:00:00Z,Troyes,Auxerre,,,False,False,False,FRA1
+25,25,,5803125,2027-03-21T19:45:00Z,Marseille,Lyon,,,False,False,False,FRA1
+26,26,,5803126,2027-04-03T15:00:00Z,Angers,Monaco,,,False,False,False,FRA1
+26,26,,5803127,2027-04-03T15:00:00Z,Auxerre,Lens,,,False,False,False,FRA1
+26,26,,5803128,2027-04-03T15:00:00Z,Brest,Lorient,,,False,False,False,FRA1
+26,26,,5803129,2027-04-03T15:00:00Z,Le Havre,Troyes,,,False,False,False,FRA1
+26,26,,5803130,2027-04-03T15:00:00Z,Le Mans,Marseille,,,False,False,False,FRA1
+26,26,,5803131,2027-04-03T15:00:00Z,Lille,Rennes,,,False,False,False,FRA1
+26,26,,5803132,2027-04-03T15:00:00Z,Nice,Lyon,,,False,False,False,FRA1
+26,26,,5803133,2027-04-03T15:00:00Z,Paris FC,Paris Saint-Germain,,,False,False,False,FRA1
+26,26,,5803134,2027-04-03T15:00:00Z,Strasbourg,Toulouse,,,False,False,False,FRA1
+27,27,,5803135,2027-04-10T15:00:00Z,Le Mans,Auxerre,,,False,False,False,FRA1
+27,27,,5803136,2027-04-10T15:00:00Z,Lille,Toulouse,,,False,False,False,FRA1
+27,27,,5803137,2027-04-10T15:00:00Z,Lorient,Lens,,,False,False,False,FRA1
+27,27,,5803138,2027-04-10T15:00:00Z,Lyon,Strasbourg,,,False,False,False,FRA1
+27,27,,5803139,2027-04-10T15:00:00Z,Marseille,Brest,,,False,False,False,FRA1
+27,27,,5803140,2027-04-10T15:00:00Z,Monaco,Rennes,,,False,False,False,FRA1
+27,27,,5803141,2027-04-10T15:00:00Z,Nice,Paris FC,,,False,False,False,FRA1
+27,27,,5803142,2027-04-10T15:00:00Z,Paris Saint-Germain,Le Havre,,,False,False,False,FRA1
+27,27,,5803143,2027-04-10T15:00:00Z,Troyes,Angers,,,False,False,False,FRA1
+28,28,,5803144,2027-04-17T15:00:00Z,Angers,Lyon,,,False,False,False,FRA1
+28,28,,5803145,2027-04-17T15:00:00Z,Auxerre,Lorient,,,False,False,False,FRA1
+28,28,,5803146,2027-04-17T15:00:00Z,Brest,Le Mans,,,False,False,False,FRA1
+28,28,,5803147,2027-04-17T15:00:00Z,Le Havre,Marseille,,,False,False,False,FRA1
+28,28,,5803148,2027-04-17T15:00:00Z,Lens,Nice,,,False,False,False,FRA1
+28,28,,5803149,2027-04-17T15:00:00Z,Monaco,Strasbourg,,,False,False,False,FRA1
+28,28,,5803150,2027-04-17T15:00:00Z,Paris Saint-Germain,Lille,,,False,False,False,FRA1
+28,28,,5803151,2027-04-17T15:00:00Z,Rennes,Troyes,,,False,False,False,FRA1
+28,28,,5803152,2027-04-17T15:00:00Z,Toulouse,Paris FC,,,False,False,False,FRA1
+29,29,,5803153,2027-04-24T15:00:00Z,Le Mans,Le Havre,,,False,False,False,FRA1
+29,29,,5803154,2027-04-24T15:00:00Z,Lille,Monaco,,,False,False,False,FRA1
+29,29,,5803155,2027-04-24T15:00:00Z,Lorient,Paris Saint-Germain,,,False,False,False,FRA1
+29,29,,5803156,2027-04-24T15:00:00Z,Lyon,Brest,,,False,False,False,FRA1
+29,29,,5803157,2027-04-24T15:00:00Z,Marseille,Auxerre,,,False,False,False,FRA1
+29,29,,5803158,2027-04-24T15:00:00Z,Nice,Angers,,,False,False,False,FRA1
+29,29,,5803159,2027-04-24T15:00:00Z,Paris FC,Lens,,,False,False,False,FRA1
+29,29,,5803160,2027-04-24T15:00:00Z,Strasbourg,Rennes,,,False,False,False,FRA1
+29,29,,5803161,2027-04-24T15:00:00Z,Troyes,Toulouse,,,False,False,False,FRA1
+30,30,,5803162,2027-05-01T15:00:00Z,Auxerre,Lyon,,,False,False,False,FRA1
+30,30,,5803163,2027-05-01T15:00:00Z,Le Havre,Paris FC,,,False,False,False,FRA1
+30,30,,5803164,2027-05-01T15:00:00Z,Lens,Le Mans,,,False,False,False,FRA1
+30,30,,5803165,2027-05-01T15:00:00Z,Monaco,Lorient,,,False,False,False,FRA1
+30,30,,5803166,2027-05-01T15:00:00Z,Paris Saint-Germain,Angers,,,False,False,False,FRA1
+30,30,,5803167,2027-05-01T15:00:00Z,Rennes,Nice,,,False,False,False,FRA1
+30,30,,5803168,2027-05-01T15:00:00Z,Strasbourg,Lille,,,False,False,False,FRA1
+30,30,,5803169,2027-05-01T15:00:00Z,Toulouse,Marseille,,,False,False,False,FRA1
+30,30,,5803170,2027-05-01T15:00:00Z,Troyes,Brest,,,False,False,False,FRA1
+31,31,,5803171,2027-05-08T15:00:00Z,Angers,Toulouse,,,False,False,False,FRA1
+31,31,,5803172,2027-05-08T15:00:00Z,Brest,Auxerre,,,False,False,False,FRA1
+31,31,,5803173,2027-05-08T15:00:00Z,Le Mans,Troyes,,,False,False,False,FRA1
+31,31,,5803174,2027-05-08T15:00:00Z,Lens,Monaco,,,False,False,False,FRA1
+31,31,,5803175,2027-05-08T15:00:00Z,Lorient,Strasbourg,,,False,False,False,FRA1
+31,31,,5803176,2027-05-08T15:00:00Z,Nice,Marseille,,,False,False,False,FRA1
+31,31,,5803177,2027-05-08T15:00:00Z,Paris FC,Lille,,,False,False,False,FRA1
+31,31,,5803178,2027-05-08T15:00:00Z,Rennes,Le Havre,,,False,False,False,FRA1
+31,31,,5803179,2027-05-09T18:45:00Z,Lyon,Paris Saint-Germain,,,False,False,False,FRA1
+32,32,,5803180,2027-05-16T15:00:00Z,Auxerre,Rennes,,,False,False,False,FRA1
+32,32,,5803181,2027-05-16T15:00:00Z,Brest,Le Havre,,,False,False,False,FRA1
+32,32,,5803182,2027-05-16T15:00:00Z,Lille,Angers,,,False,False,False,FRA1
+32,32,,5803183,2027-05-16T15:00:00Z,Lyon,Le Mans,,,False,False,False,FRA1
+32,32,,5803184,2027-05-16T15:00:00Z,Marseille,Lens,,,False,False,False,FRA1
+32,32,,5803185,2027-05-16T15:00:00Z,Monaco,Paris FC,,,False,False,False,FRA1
+32,32,,5803186,2027-05-16T15:00:00Z,Paris Saint-Germain,Nice,,,False,False,False,FRA1
+32,32,,5803187,2027-05-16T15:00:00Z,Strasbourg,Troyes,,,False,False,False,FRA1
+32,32,,5803188,2027-05-16T15:00:00Z,Toulouse,Lorient,,,False,False,False,FRA1
+33,33,,5803189,2027-05-22T15:00:00Z,Angers,Brest,,,False,False,False,FRA1
+33,33,,5803190,2027-05-22T15:00:00Z,Le Havre,Lille,,,False,False,False,FRA1
+33,33,,5803191,2027-05-22T15:00:00Z,Le Mans,Strasbourg,,,False,False,False,FRA1
+33,33,,5803192,2027-05-22T15:00:00Z,Lens,Rennes,,,False,False,False,FRA1
+33,33,,5803193,2027-05-22T15:00:00Z,Lorient,Lyon,,,False,False,False,FRA1
+33,33,,5803194,2027-05-22T15:00:00Z,Nice,Monaco,,,False,False,False,FRA1
+33,33,,5803195,2027-05-22T15:00:00Z,Paris FC,Marseille,,,False,False,False,FRA1
+33,33,,5803196,2027-05-22T15:00:00Z,Toulouse,Auxerre,,,False,False,False,FRA1
+33,33,,5803197,2027-05-22T15:00:00Z,Troyes,Paris Saint-Germain,,,False,False,False,FRA1
+34,34,,5803198,2027-05-29T19:00:00Z,Auxerre,Le Havre,,,False,False,False,FRA1
+34,34,,5803199,2027-05-29T19:00:00Z,Brest,Lens,,,False,False,False,FRA1
+34,34,,5803200,2027-05-29T19:00:00Z,Lille,Le Mans,,,False,False,False,FRA1
+34,34,,5803201,2027-05-29T19:00:00Z,Lyon,Paris FC,,,False,False,False,FRA1
+34,34,,5803202,2027-05-29T19:00:00Z,Marseille,Lorient,,,False,False,False,FRA1
+34,34,,5803203,2027-05-29T19:00:00Z,Monaco,Troyes,,,False,False,False,FRA1
+34,34,,5803204,2027-05-29T19:00:00Z,Paris Saint-Germain,Toulouse,,,False,False,False,FRA1
+34,34,,5803205,2027-05-29T19:00:00Z,Rennes,Angers,,,False,False,False,FRA1
+34,34,,5803206,2027-05-29T19:00:00Z,Strasbourg,Nice,,,False,False,False,FRA1
+5,5,,5802938,2026-09-20T13:00:00.000Z,Auxerre,Brest,2 - 1,FT,True,True,False,FRA1
+5,5,,5802942,2026-09-20T15:15:00.000Z,Nice,Lille,2 - 1,FT,True,True,False,FRA1
+5,5,,5802945,2026-09-20T18:45:00.000Z,Marseille,Paris Saint-Germain,1 - 2,,False,True,False,FRA1

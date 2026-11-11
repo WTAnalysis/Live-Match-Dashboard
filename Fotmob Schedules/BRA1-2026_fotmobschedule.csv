@@ -1,0 +1,381 @@
+round,roundName,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,match_url,league
+1,1,5103369,2026-01-28T22:00:00Z,Atletico MG,Palmeiras,02-Feb,FT,TRUE,TRUE,FALSE,/matches/atletico-mg-vs-palmeiras/3hsci5#5103369,BRA1
+1,1,5103371,2026-01-28T22:00:00Z,Coritiba,Red Bull Bragantino,0 - 1,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-red-bull-bragantino/3a13fun#5103371,BRA1
+1,1,5103370,2026-01-28T22:00:00Z,Internacional,Athletico Paranaense,0 - 1,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-athletico-paranaense/2z6yge#5103370,BRA1
+1,1,5103372,2026-01-28T22:00:00Z,Vitoria,Remo,2 - 0,FT,TRUE,TRUE,FALSE,/matches/remo-vs-vitoria/q2yct#5103372,BRA1
+1,1,5103364,2026-01-28T22:30:00Z,Fluminense,Gremio,02-Jan,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-fluminense/36qten#5103364,BRA1
+1,1,5103373,2026-01-28T23:00:00Z,Chapecoense AF,Santos FC,04-Feb,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-chapecoense-af/9rm470i#5103373,BRA1
+1,1,5103367,2026-01-28T23:00:00Z,Corinthians,Bahia,01-Feb,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-corinthians/2l45o7#5103367,BRA1
+1,1,5103366,2026-01-29T00:30:00Z,Sao Paulo,Flamengo,02-Jan,FT,TRUE,TRUE,FALSE,/matches/flamengo-vs-sao-paulo/3bnaf6#5103366,BRA1
+1,1,5103368,2026-01-29T23:00:00Z,Mirassol,Vasco da Gama,02-Jan,FT,TRUE,TRUE,FALSE,/matches/vasco-da-gama-vs-mirassol/6yixlf1#5103368,BRA1
+1,1,5103365,2026-01-30T00:30:00Z,Botafogo RJ,Cruzeiro,4 - 0,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-cruzeiro/2rojr8#5103365,BRA1
+2,2,5103374,2026-02-04T22:00:00Z,Flamengo,Internacional,01-Jan,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-flamengo/2tl466#5103374,BRA1
+2,2,5103378,2026-02-04T22:00:00Z,Red Bull Bragantino,Atletico MG,1 - 0,FT,TRUE,TRUE,FALSE,/matches/atletico-mg-vs-red-bull-bragantino/3b15h2e#5103378,BRA1
+2,2,5103383,2026-02-04T23:00:00Z,Remo,Mirassol,02-Feb,FT,TRUE,TRUE,FALSE,/matches/remo-vs-mirassol/6a8t32u#5103383,BRA1
+2,2,5103376,2026-02-04T23:00:00Z,Santos FC,Sao Paulo,01-Jan,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-sao-paulo/2x4hbi#5103376,BRA1
+2,2,5103380,2026-02-05T00:30:00Z,Gremio,Botafogo RJ,05-Mar,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-gremio/2rjude#5103380,BRA1
+2,2,5103377,2026-02-05T00:30:00Z,Palmeiras,Vitoria,05-Jan,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-palmeiras/2omr8l#5103377,BRA1
+2,2,5103382,2026-02-05T22:00:00Z,Bahia,Fluminense,01-Jan,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-fluminense/2lp1f9#5103382,BRA1
+2,2,5103375,2026-02-05T23:00:00Z,Vasco da Gama,Chapecoense AF,01-Jan,FT,TRUE,TRUE,FALSE,/matches/vasco-da-gama-vs-chapecoense-af/9xnh3v2#5103375,BRA1
+2,2,5103379,2026-02-06T00:30:00Z,Cruzeiro,Coritiba,01-Feb,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-cruzeiro/35rjl7#5103379,BRA1
+3,3,5103392,2026-02-11T00:30:00Z,Vitoria,Flamengo,01-Feb,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-flamengo/2j7it6#5103392,BRA1
+3,3,5103393,2026-02-11T22:00:00Z,Chapecoense AF,Coritiba,03-Mar,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-chapecoense-af/9vwezfl#5103393,BRA1
+3,3,5103388,2026-02-11T22:00:00Z,Mirassol,Cruzeiro,02-Feb,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-mirassol/6x3m8fz#5103388,BRA1
+3,3,5103389,2026-02-11T23:00:00Z,Atletico MG,Remo,03-Mar,FT,TRUE,TRUE,FALSE,/matches/remo-vs-atletico-mg/1658yx#5103389,BRA1
+3,3,5103386,2026-02-12T00:30:00Z,Sao Paulo,Gremio,2 - 0,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-sao-paulo/3bmuya#5103386,BRA1
+3,3,5103385,2026-02-12T00:30:00Z,Vasco da Gama,Bahia,0 - 1,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-vasco-da-gama/2q3v42#5103385,BRA1
+3,3,5103391,2026-02-12T22:00:00Z,Athletico Paranaense,Santos FC,02-Jan,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-athletico-paranaense/2x2vbs#5103391,BRA1
+3,3,5103384,2026-02-12T22:30:00Z,Fluminense,Botafogo RJ,1 - 0,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-fluminense/2sks6t#5103384,BRA1
+3,3,5103387,2026-02-12T23:00:00Z,Corinthians,Red Bull Bragantino,2 - 0,FT,TRUE,TRUE,FALSE,/matches/corinthians-vs-red-bull-bragantino/3a40g51#5103387,BRA1
+3,3,5103390,2026-02-13T00:30:00Z,Internacional,Palmeiras,01-Mar,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-palmeiras/2zb0wr#5103390,BRA1
+2,2,5103381,2026-02-19T22:30:00Z,Athletico Paranaense,Corinthians,0 - 1,FT,TRUE,TRUE,FALSE,/matches/corinthians-vs-athletico-paranaense/3c1wu1#5103381,BRA1
+4,4,5103402,2026-02-25T00:00:00Z,Bahia,Chapecoense AF,,PP,FALSE,FALSE,TRUE,/matches/bahia-vs-chapecoense-af/9pg15jc#5103402,BRA1
+4,4,5103395,2026-02-25T00:00:00Z,Botafogo RJ,Vitoria,,PP,FALSE,FALSE,TRUE,/matches/vitoria-vs-botafogo-rj/26m8t0#5103395,BRA1
+4,4,5103394,2026-02-25T00:00:00Z,Flamengo,Mirassol,,PP,FALSE,FALSE,TRUE,/matches/flamengo-vs-mirassol/6x2hbc2#5103394,BRA1
+4,4,5103398,2026-02-25T22:00:00Z,Red Bull Bragantino,Athletico Paranaense,01-Jan,FT,TRUE,TRUE,FALSE,/matches/athletico-paranaense-vs-red-bull-bragantino/3b181n4#5103398,BRA1
+4,4,5103403,2026-02-25T22:00:00Z,Remo,Internacional,01-Jan,FT,TRUE,TRUE,FALSE,/matches/remo-vs-internacional/vrfbe#5103403,BRA1
+4,4,5103401,2026-02-25T22:30:00Z,Coritiba,Sao Paulo,0 - 1,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-sao-paulo/3bm00l#5103401,BRA1
+4,4,5103399,2026-02-25T23:00:00Z,Cruzeiro,Corinthians,01-Jan,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-corinthians/368qov#5103399,BRA1
+4,4,5103400,2026-02-26T00:30:00Z,Gremio,Atletico MG,02-Jan,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-atletico-mg/3bkpme#5103400,BRA1
+4,4,5103397,2026-02-26T00:30:00Z,Palmeiras,Fluminense,02-Jan,FT,TRUE,TRUE,FALSE,/matches/fluminense-vs-palmeiras/3ctxoi#5103397,BRA1
+4,4,5103396,2026-02-26T22:00:00Z,Santos FC,Vasco da Gama,02-Jan,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-vasco-da-gama/2x42tj#5103396,BRA1
+5,5,5103408,2026-03-11T00:30:00Z,Mirassol,Santos FC,02-Feb,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-mirassol/6th631i#5103408,BRA1
+5,5,5103409,2026-03-11T22:00:00Z,Atletico MG,Internacional,1 - 0,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-atletico-mg/2z6jtb#5103409,BRA1
+5,5,5103412,2026-03-11T23:00:00Z,Bahia,Vitoria,01-Jan,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-bahia/20jpec#5103412,BRA1
+5,5,5103407,2026-03-12T00:30:00Z,Corinthians,Coritiba,0 - 2,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-corinthians/362v5g#5103407,BRA1
+5,5,5103404,2026-03-12T00:30:00Z,Flamengo,Cruzeiro,2 - 0,FT,TRUE,TRUE,FALSE,/matches/flamengo-vs-cruzeiro/35ssud#5103404,BRA1
+5,5,5103413,2026-03-12T22:00:00Z,Remo,Fluminense,0 - 2,FT,TRUE,TRUE,FALSE,/matches/remo-vs-fluminense/13awuw#5103413,BRA1
+5,5,5103405,2026-03-12T22:30:00Z,Vasco da Gama,Palmeiras,02-Jan,FT,TRUE,TRUE,FALSE,/matches/vasco-da-gama-vs-palmeiras/3hu3yb#5103405,BRA1
+5,5,5103406,2026-03-12T23:00:00Z,Sao Paulo,Chapecoense AF,2 - 0,FT,TRUE,TRUE,FALSE,/matches/sao-paulo-vs-chapecoense-af/9xnlkc0#5103406,BRA1
+5,5,5103410,2026-03-13T00:30:00Z,Gremio,Red Bull Bragantino,01-Jan,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-red-bull-bragantino/3a18k84#5103410,BRA1
+6,6,5103422,2026-03-14T21:30:00Z,Vitoria,Atletico MG,2 - 0,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-atletico-mg/2oiid8#5103422,BRA1
+6,6,5103415,2026-03-14T23:30:00Z,Botafogo RJ,Flamengo,0 - 3,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-flamengo/2rk8he#5103415,BRA1
+6,6,5103414,2026-03-15T19:00:00Z,Fluminense,Athletico Paranaense,03-Feb,FT,TRUE,TRUE,FALSE,/matches/fluminense-vs-athletico-paranaense/3cpm9n#5103414,BRA1
+6,6,5103420,2026-03-15T19:00:00Z,Internacional,Bahia,0 - 1,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-internacional/29u010#5103420,BRA1
+6,6,5103416,2026-03-15T19:00:00Z,Santos FC,Corinthians,01-Jan,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-corinthians/2rxyuz#5103416,BRA1
+6,6,5103421,2026-03-15T21:30:00Z,Coritiba,Remo,1 - 0,FT,TRUE,TRUE,FALSE,/matches/remo-vs-coritiba/12nd9k#5103421,BRA1
+6,6,5103417,2026-03-15T21:30:00Z,Palmeiras,Mirassol,1 - 0,FT,TRUE,TRUE,FALSE,/matches/palmeiras-vs-mirassol/6yjnpkf#5103417,BRA1
+6,6,5103419,2026-03-15T23:30:00Z,Cruzeiro,Vasco da Gama,03-Mar,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-vasco-da-gama/3brl5m#5103419,BRA1
+6,6,5103418,2026-03-15T23:30:00Z,Red Bull Bragantino,Sao Paulo,01-Feb,FT,TRUE,TRUE,FALSE,/matches/sao-paulo-vs-red-bull-bragantino/3b1ibya#5103418,BRA1
+6,6,5103423,2026-03-16T23:00:00Z,Chapecoense AF,Gremio,01-Jan,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-chapecoense-af/9vwnvla#5103423,BRA1
+7,7,5103432,2026-03-18T22:00:00Z,Bahia,Red Bull Bragantino,2 - 0,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-red-bull-bragantino/36bpxse#5103432,BRA1
+7,7,5103427,2026-03-18T22:00:00Z,Palmeiras,Botafogo RJ,02-Jan,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-palmeiras/2x83ul#5103427,BRA1
+7,7,5103431,2026-03-18T22:30:00Z,Athletico Paranaense,Cruzeiro,02-Jan,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-athletico-paranaense/3bqaqa#5103431,BRA1
+7,7,5103429,2026-03-18T23:00:00Z,Atletico MG,Sao Paulo,1 - 0,FT,TRUE,TRUE,FALSE,/matches/atletico-mg-vs-sao-paulo/3hppck#5103429,BRA1
+7,7,5103428,2026-03-18T23:00:00Z,Mirassol,Coritiba,0 - 1,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-mirassol/6x265le#5103428,BRA1
+7,7,5103426,2026-03-19T00:30:00Z,Santos FC,Internacional,01-Feb,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-internacional/2g8plq#5103426,BRA1
+7,7,5103425,2026-03-19T00:30:00Z,Vasco da Gama,Fluminense,03-Feb,FT,TRUE,TRUE,FALSE,/matches/fluminense-vs-vasco-da-gama/3cqwvt#5103425,BRA1
+7,7,5103430,2026-03-19T22:00:00Z,Gremio,Vitoria,2 - 0,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-gremio/2j75ay#5103430,BRA1
+7,7,5103424,2026-03-19T23:00:00Z,Flamengo,Remo,3 - 0,FT,TRUE,TRUE,FALSE,/matches/remo-vs-flamengo/12o3n8#5103424,BRA1
+7,7,5103433,2026-03-20T00:30:00Z,Chapecoense AF,Corinthians,0 - 0,FT,TRUE,TRUE,FALSE,/matches/corinthians-vs-chapecoense-af/9w1hbaj#5103433,BRA1
+8,8,5103438,2026-03-21T19:00:00Z,Red Bull Bragantino,Botafogo RJ,01-Feb,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-red-bull-bragantino/37kn9qm#5103438,BRA1
+8,8,5103434,2026-03-21T21:30:00Z,Fluminense,Atletico MG,1 - 0,FT,TRUE,TRUE,FALSE,/matches/fluminense-vs-atletico-mg/3cp6qb#5103434,BRA1
+8,8,5103436,2026-03-22T00:00:00Z,Sao Paulo,Palmeiras,0 - 1,FT,TRUE,TRUE,FALSE,/matches/sao-paulo-vs-palmeiras/3hujtf#5103436,BRA1
+8,8,5103441,2026-03-22T19:00:00Z,Athletico Paranaense,Coritiba,2 - 0,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-athletico-paranaense/3bka5n#5103441,BRA1
+8,8,5103439,2026-03-22T19:00:00Z,Cruzeiro,Santos FC,0 - 0,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-cruzeiro/2rndeh#5103439,BRA1
+8,8,5103443,2026-03-22T19:00:00Z,Remo,Bahia,04-Jan,FT,TRUE,TRUE,FALSE,/matches/remo-vs-bahia/qw2et#5103443,BRA1
+8,8,5103435,2026-03-22T19:00:00Z,Vasco da Gama,Gremio,02-Jan,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-vasco-da-gama/3bmfhg#5103435,BRA1
+8,8,5103440,2026-03-22T21:30:00Z,Internacional,Chapecoense AF,2 - 0,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-chapecoense-af/9s97hm0#5103440,BRA1
+8,8,5103442,2026-03-22T21:30:00Z,Vitoria,Mirassol,1 - 0,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-mirassol/6r98fun#5103442,BRA1
+8,8,5103437,2026-03-22T23:30:00Z,Corinthians,Flamengo,01-Jan,FT,TRUE,TRUE,FALSE,/matches/flamengo-vs-corinthians/3644gv#5103437,BRA1
+5,5,5103411,2026-03-29T22:30:00Z,Athletico Paranaense,Botafogo RJ,04-Jan,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-athletico-paranaense/2x42tm#5103411,BRA1
+9,9,5103445,2026-04-01T22:30:00Z,Botafogo RJ,Mirassol,03-Feb,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-mirassol/6thh5vr#5103445,BRA1
+9,9,5103450,2026-04-01T22:30:00Z,Internacional,Sao Paulo,01-Jan,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-sao-paulo/2z8l10#5103450,BRA1
+9,9,5103452,2026-04-01T23:00:00Z,Bahia,Athletico Paranaense,3 - 0,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-athletico-paranaense/2q2p3e#5103452,BRA1
+9,9,5103449,2026-04-01T23:00:00Z,Cruzeiro,Vitoria,3 - 0,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-cruzeiro/2jbnfg#5103449,BRA1
+9,9,5103451,2026-04-01T23:30:00Z,Coritiba,Vasco da Gama,01-Jan,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-vasco-da-gama/3blkjt#5103451,BRA1
+9,9,5103444,2026-04-02T00:30:00Z,Fluminense,Corinthians,03-Jan,FT,TRUE,TRUE,FALSE,/matches/corinthians-vs-fluminense/3778sb#5103444,BRA1
+9,9,5103453,2026-04-02T22:00:00Z,Chapecoense AF,Atletico MG,0 - 4,FT,TRUE,TRUE,FALSE,/matches/atletico-mg-vs-chapecoense-af/9xmz9zk#5103453,BRA1
+9,9,5103446,2026-04-02T22:00:00Z,Santos FC,Remo,2 - 0,FT,TRUE,TRUE,FALSE,/matches/remo-vs-santos-fc/um6jc#5103446,BRA1
+9,9,5103447,2026-04-03T00:30:00Z,Palmeiras,Gremio,02-Jan,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-palmeiras/3bpfrv#5103447,BRA1
+9,9,5103448,2026-04-03T00:30:00Z,Red Bull Bragantino,Flamengo,3 - 0,FT,TRUE,TRUE,FALSE,/matches/flamengo-vs-red-bull-bragantino/3a1b4ew#5103448,BRA1
+10,10,5103456,2026-04-04T21:30:00Z,Sao Paulo,Cruzeiro,04-Jan,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-sao-paulo/3bs0ms#5103456,BRA1
+10,10,5103461,2026-04-04T23:30:00Z,Coritiba,Fluminense,01-Jan,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-fluminense/36pz40#5103461,BRA1
+10,10,5103455,2026-04-05T00:00:00Z,Vasco da Gama,Botafogo RJ,01-Feb,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-vasco-da-gama/2x5abm#5103455,BRA1
+10,10,5103463,2026-04-05T19:00:00Z,Chapecoense AF,Vitoria,01-Jan,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-chapecoense-af/9oyew9c#5103463,BRA1
+10,10,5103459,2026-04-05T20:30:00Z,Atletico MG,Athletico Paranaense,02-Jan,FT,TRUE,TRUE,FALSE,/matches/atletico-mg-vs-athletico-paranaense/3hnxxe#5103459,BRA1
+10,10,5103454,2026-04-05T20:30:00Z,Flamengo,Santos FC,03-Jan,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-flamengo/2rj25k#5103454,BRA1
+10,10,5103462,2026-04-05T22:30:00Z,Bahia,Palmeiras,01-Feb,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-palmeiras/2q6l6l#5103462,BRA1
+10,10,5103457,2026-04-05T22:30:00Z,Corinthians,Internacional,0 - 1,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-corinthians/2u06e1#5103457,BRA1
+10,10,5103458,2026-04-05T23:00:00Z,Mirassol,Red Bull Bragantino,0 - 1,FT,TRUE,TRUE,FALSE,/matches/red-bull-bragantino-vs-mirassol/h6hq59a#5103458,BRA1
+10,10,5103460,2026-04-05T23:30:00Z,Gremio,Remo,0 - 0,FT,TRUE,TRUE,FALSE,/matches/remo-vs-gremio/12nuun#5103460,BRA1
+11,11,5103473,2026-04-11T19:30:00Z,Remo,Vasco da Gama,01-Jan,FT,TRUE,TRUE,FALSE,/matches/remo-vs-vasco-da-gama/1669p7#5103473,BRA1
+11,11,5103472,2026-04-11T19:30:00Z,Vitoria,Sao Paulo,2 - 0,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-sao-paulo/2okfuc#5103472,BRA1
+11,11,5103468,2026-04-11T21:30:00Z,Mirassol,Bahia,01-Feb,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-mirassol/6rny18n#5103468,BRA1
+11,11,5103466,2026-04-11T23:00:00Z,Santos FC,Atletico MG,1 - 0,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-atletico-mg/2x2gtx#5103466,BRA1
+11,11,5103470,2026-04-11T23:30:00Z,Internacional,Gremio,0 - 0,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-gremio/2tkpx1#5103470,BRA1
+11,11,5103471,2026-04-12T14:00:00Z,Athletico Paranaense,Chapecoense AF,2 - 0,FT,TRUE,TRUE,FALSE,/matches/athletico-paranaense-vs-chapecoense-af/9xn3qge#5103471,BRA1
+11,11,5103465,2026-04-12T19:00:00Z,Botafogo RJ,Coritiba,02-Feb,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-coritiba/2rj25h#5103465,BRA1
+11,11,5103464,2026-04-12T21:00:00Z,Fluminense,Flamengo,01-Feb,FT,TRUE,TRUE,FALSE,/matches/flamengo-vs-fluminense/36r8k0#5103464,BRA1
+11,11,5103467,2026-04-12T21:30:00Z,Corinthians,Palmeiras,0 - 0,FT,TRUE,TRUE,FALSE,/matches/corinthians-vs-palmeiras/3c67tm#5103467,BRA1
+11,11,5103469,2026-04-12T21:30:00Z,Cruzeiro,Red Bull Bragantino,02-Jan,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-red-bull-bragantino/3a23aja#5103469,BRA1
+12,12,5103483,2026-04-18T21:30:00Z,Chapecoense AF,Botafogo RJ,01-Apr,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-chapecoense-af/9rmhgco#5103483,BRA1
+12,12,5103475,2026-04-18T21:30:00Z,Vasco da Gama,Sao Paulo,02-Jan,FT,TRUE,TRUE,FALSE,/matches/vasco-da-gama-vs-sao-paulo/3hrgs2#5103475,BRA1
+12,12,5103482,2026-04-18T23:00:00Z,Vitoria,Corinthians,0 - 0,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-corinthians/2jlsm7#5103482,BRA1
+12,12,5103479,2026-04-18T23:30:00Z,Cruzeiro,Gremio,2 - 0,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-cruzeiro/35sdra#5103479,BRA1
+12,12,5103480,2026-04-19T14:00:00Z,Internacional,Mirassol,01-Feb,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-mirassol/6u0gqg8#5103480,BRA1
+12,12,5103481,2026-04-19T19:00:00Z,Coritiba,Atletico MG,2 - 0,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-atletico-mg/3bjuoz#5103481,BRA1
+12,12,5103476,2026-04-19T19:00:00Z,Santos FC,Fluminense,02-Mar,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-fluminense/2sjln8#5103476,BRA1
+12,12,5103477,2026-04-19T21:30:00Z,Palmeiras,Athletico Paranaense,1 - 0,FT,TRUE,TRUE,FALSE,/matches/athletico-paranaense-vs-palmeiras/3hssd5#5103477,BRA1
+12,12,5103478,2026-04-19T21:30:00Z,Red Bull Bragantino,Remo,04-Feb,FT,TRUE,TRUE,FALSE,/matches/remo-vs-red-bull-bragantino/2uhqs8g#5103478,BRA1
+12,12,5103474,2026-04-19T22:30:00Z,Flamengo,Bahia,2 - 0,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-flamengo/2kprn6#5103474,BRA1
+13,13,5103492,2026-04-25T21:30:00Z,Bahia,Santos FC,02-Feb,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-santos-fc/27zkgu#5103492,BRA1
+13,13,5103485,2026-04-25T21:30:00Z,Botafogo RJ,Internacional,02-Feb,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-internacional/2g9tgk#5103485,BRA1
+13,13,5103493,2026-04-25T21:30:00Z,Remo,Cruzeiro,0 - 1,FT,TRUE,TRUE,FALSE,/matches/remo-vs-cruzeiro/12qsfh#5103493,BRA1
+13,13,5103486,2026-04-26T00:00:00Z,Sao Paulo,Mirassol,1 - 0,FT,TRUE,TRUE,FALSE,/matches/sao-paulo-vs-mirassol/6yj1bq0#5103486,BRA1
+13,13,5103487,2026-04-26T19:00:00Z,Corinthians,Vasco da Gama,1 - 0,FT,TRUE,TRUE,FALSE,/matches/corinthians-vs-vasco-da-gama/3c37bm#5103487,BRA1
+13,13,5103490,2026-04-26T19:00:00Z,Gremio,Coritiba,1 - 0,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-gremio/35mimp#5103490,BRA1
+13,13,5103491,2026-04-26T21:30:00Z,Athletico Paranaense,Vitoria,03-Jan,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-athletico-paranaense/2oiw9e#5103491,BRA1
+13,13,5103488,2026-04-26T21:30:00Z,Red Bull Bragantino,Palmeiras,0 - 1,FT,TRUE,TRUE,FALSE,/matches/palmeiras-vs-red-bull-bragantino/3b1xrfv#5103488,BRA1
+13,13,5103489,2026-04-26T23:30:00Z,Atletico MG,Flamengo,0 - 4,FT,TRUE,TRUE,FALSE,/matches/flamengo-vs-atletico-mg/3bl535#5103489,BRA1
+13,13,5103484,2026-04-26T23:30:00Z,Fluminense,Chapecoense AF,02-Jan,FT,TRUE,TRUE,FALSE,/matches/fluminense-vs-chapecoense-af/9w89yi9#5103484,BRA1
+14,14,5103495,2026-05-02T19:00:00Z,Botafogo RJ,Remo,01-Feb,FT,TRUE,TRUE,FALSE,/matches/remo-vs-botafogo-rj/umu0l#5103495,BRA1
+14,14,5103497,2026-05-02T21:30:00Z,Palmeiras,Santos FC,01-Jan,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-palmeiras/2x6wbx#5103497,BRA1
+14,14,5103502,2026-05-02T21:30:00Z,Vitoria,Coritiba,04-Jan,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-coritiba/2j6eal#5103502,BRA1
+14,14,5103501,2026-05-02T23:30:00Z,Athletico Paranaense,Gremio,0 - 0,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-athletico-paranaense/3bl534#5103501,BRA1
+14,14,5103499,2026-05-03T00:00:00Z,Cruzeiro,Atletico MG,01-Mar,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-atletico-mg/3bpv98#5103499,BRA1
+14,14,5103494,2026-05-03T19:00:00Z,Flamengo,Vasco da Gama,02-Feb,FT,TRUE,TRUE,FALSE,/matches/flamengo-vs-vasco-da-gama/3bmuyb#5103494,BRA1
+14,14,5103496,2026-05-03T19:00:00Z,Sao Paulo,Bahia,02-Feb,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-sao-paulo/2q494c#5103496,BRA1
+14,14,5103503,2026-05-03T21:30:00Z,Chapecoense AF,Red Bull Bragantino,01-Feb,FT,TRUE,TRUE,FALSE,/matches/red-bull-bragantino-vs-chapecoense-af/lpdpohe#5103503,BRA1
+14,14,5103500,2026-05-03T21:30:00Z,Internacional,Fluminense,2 - 0,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-fluminense/2um15i#5103500,BRA1
+14,14,5103498,2026-05-03T23:30:00Z,Mirassol,Corinthians,02-Jan,FT,TRUE,TRUE,FALSE,/matches/corinthians-vs-mirassol/6x6eonh#5103498,BRA1
+15,15,5103511,2026-05-09T19:00:00Z,Coritiba,Internacional,02-Feb,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-coritiba/2tjxeu#5103511,BRA1
+15,15,5103504,2026-05-09T21:00:00Z,Fluminense,Vitoria,02-Feb,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-fluminense/2k6i99#5103504,BRA1
+15,15,5103512,2026-05-10T00:00:00Z,Bahia,Cruzeiro,01-Feb,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-cruzeiro/2ktxhg#5103512,BRA1
+15,15,5103509,2026-05-10T19:00:00Z,Atletico MG,Botafogo RJ,01-Jan,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-atletico-mg/2x3obo#5103509,BRA1
+15,15,5103513,2026-05-10T20:40:00Z,Remo,Palmeiras,01-Jan,FT,TRUE,TRUE,FALSE,/matches/remo-vs-palmeiras/168209#5103513,BRA1
+15,15,5103507,2026-05-10T21:30:00Z,Corinthians,Sao Paulo,03-Feb,FT,TRUE,TRUE,FALSE,/matches/corinthians-vs-sao-paulo/3c3mtj#5103507,BRA1
+15,15,5103508,2026-05-10T21:30:00Z,Mirassol,Chapecoense AF,01-Jan,FT,TRUE,TRUE,FALSE,/matches/mirassol-vs-chapecoense-af/u0h9hkz#5103508,BRA1
+15,15,5103506,2026-05-10T21:30:00Z,Santos FC,Red Bull Bragantino,2 - 0,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-red-bull-bragantino/37kfo2s#5103506,BRA1
+15,15,5103510,2026-05-10T22:30:00Z,Gremio,Flamengo,0 - 1,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-flamengo/35nruw#5103510,BRA1
+15,15,5103505,2026-05-10T23:30:00Z,Vasco da Gama,Athletico Paranaense,1 - 0,FT,TRUE,TRUE,FALSE,/matches/athletico-paranaense-vs-vasco-da-gama/3hppcj#5103505,BRA1
+16,16,5103519,2026-05-16T21:30:00Z,Atletico MG,Mirassol,03-Jan,FT,TRUE,TRUE,FALSE,/matches/atletico-mg-vs-mirassol/6yiio7f#5103519,BRA1
+16,16,5103520,2026-05-16T21:30:00Z,Internacional,Vasco da Gama,04-Jan,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-vasco-da-gama/2z86dt#5103520,BRA1
+16,16,5103514,2026-05-16T22:00:00Z,Fluminense,Sao Paulo,02-Jan,FT,TRUE,TRUE,FALSE,/matches/fluminense-vs-sao-paulo/3crcf9#5103514,BRA1
+16,16,5103517,2026-05-17T00:00:00Z,Palmeiras,Cruzeiro,01-Jan,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-palmeiras/3bulid#5103517,BRA1
+16,16,5103516,2026-05-17T14:00:00Z,Santos FC,Coritiba,0 - 3,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-coritiba/2rhvtw#5103516,BRA1
+16,16,5103522,2026-05-17T19:00:00Z,Bahia,Gremio,01-Jan,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-gremio/2kpe0y#5103522,BRA1
+16,16,5103515,2026-05-17T19:00:00Z,Botafogo RJ,Corinthians,03-Jan,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-corinthians/2rz59z#5103515,BRA1
+16,16,5103523,2026-05-17T21:30:00Z,Chapecoense AF,Remo,02-Mar,FT,TRUE,TRUE,FALSE,/matches/remo-vs-chapecoense-af/94ipij5#5103523,BRA1
+16,16,5103518,2026-05-17T21:30:00Z,Red Bull Bragantino,Vitoria,2 - 0,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-red-bull-bragantino/361n8ye#5103518,BRA1
+16,16,5103521,2026-05-17T22:30:00Z,Athletico Paranaense,Flamengo,01-Jan,FT,TRUE,TRUE,FALSE,/matches/flamengo-vs-athletico-paranaense/3blkjw#5103521,BRA1
+17,17,5103526,2026-05-23T20:00:00Z,Sao Paulo,Botafogo RJ,01-Jan,FT,TRUE,TRUE,FALSE,/matches/botafogo-rj-vs-sao-paulo/2x5oto#5103526,BRA1
+17,17,5103532,2026-05-23T20:00:00Z,Vitoria,Internacional,2 - 0,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-internacional/28f1v0#5103532,BRA1
+17,17,5103530,2026-05-23T22:00:00Z,Gremio,Santos FC,03-Feb,FT,TRUE,TRUE,FALSE,/matches/santos-fc-vs-gremio/2rio1n#5103530,BRA1
+17,17,5103528,2026-05-23T22:00:00Z,Mirassol,Fluminense,1 - 0,FT,TRUE,TRUE,FALSE,/matches/fluminense-vs-mirassol/6xc3cqq#5103528,BRA1
+17,17,5103524,2026-05-24T00:00:00Z,Flamengo,Palmeiras,0 - 3,FT,TRUE,TRUE,FALSE,/matches/flamengo-vs-palmeiras/3bpv8x#5103524,BRA1
+17,17,5103529,2026-05-24T19:00:00Z,Cruzeiro,Chapecoense AF,02-Jan,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-chapecoense-af/9vy58ls#5103529,BRA1
+17,17,5103533,2026-05-24T19:00:00Z,Remo,Athletico Paranaense,01-Feb,FT,TRUE,TRUE,FALSE,/matches/remo-vs-athletico-paranaense/165i5g#5103533,BRA1
+17,17,5103527,2026-05-24T21:30:00Z,Corinthians,Atletico MG,1 - 0,FT,TRUE,TRUE,FALSE,/matches/corinthians-vs-atletico-mg/3c1hc8#5103527,BRA1
+17,17,5103525,2026-05-24T23:30:00Z,Vasco da Gama,Red Bull Bragantino,0 - 3,FT,TRUE,TRUE,FALSE,/matches/vasco-da-gama-vs-red-bull-bragantino/3b1frdg#5103525,BRA1
+17,17,5103531,2026-05-25T23:00:00Z,Coritiba,Bahia,03-Feb,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-coritiba/2komsl#5103531,BRA1
+18,18,5103541,2026-05-30T19:00:00Z,Athletico Paranaense,Mirassol,1 - 0,FT,TRUE,TRUE,FALSE,/matches/athletico-paranaense-vs-mirassol/6yimeia#5103541,BRA1
+18,18,5103534,2026-05-30T19:00:00Z,Flamengo,Coritiba,3 - 0,FT,TRUE,TRUE,FALSE,/matches/coritiba-vs-flamengo/35mxpf#5103534,BRA1
+18,18,5103542,2026-05-30T20:30:00Z,Bahia,Botafogo RJ,02-Jan,FT,TRUE,TRUE,FALSE,/matches/bahia-vs-botafogo-rj/280mf0#5103542,BRA1
+18,18,5103540,2026-05-30T20:30:00Z,Gremio,Corinthians,01-Mar,FT,TRUE,TRUE,FALSE,/matches/gremio-vs-corinthians/363pd1#5103540,BRA1
+18,18,5103536,2026-05-30T23:00:00Z,Santos FC,Vitoria,03-Jan,FT,TRUE,TRUE,FALSE,/matches/vitoria-vs-santos-fc/26l76u#5103536,BRA1
+18,18,5103538,2026-05-31T14:00:00Z,Red Bull Bragantino,Internacional,03-Jan,FT,TRUE,TRUE,FALSE,/matches/internacional-vs-red-bull-bragantino/37xoeze#5103538,BRA1
+18,18,5103537,2026-05-31T19:00:00Z,Palmeiras,Chapecoense AF,1 - 0,FT,TRUE,TRUE,FALSE,/matches/palmeiras-vs-chapecoense-af/9xocb69#5103537,BRA1
+18,18,5103535,2026-05-31T19:00:00Z,Vasco da Gama,Atletico MG,0 - 1,FT,TRUE,TRUE,FALSE,/matches/atletico-mg-vs-vasco-da-gama/3hp9hq#5103535,BRA1
+18,18,5103539,2026-05-31T23:30:00Z,Cruzeiro,Fluminense,01-Jan,FT,TRUE,TRUE,FALSE,/matches/cruzeiro-vs-fluminense/36vv8t#5103539,BRA1
+18,18,5103543,2026-05-31T23:30:00Z,Remo,Sao Paulo,1 - 0,FT,TRUE,TRUE,FALSE,/matches/remo-vs-sao-paulo/166ivu#5103543,BRA1
+19,19,5103549,2026-07-22T00:00:00Z,Atletico MG,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-atletico-mg/2q2b38#5103549,BRA1
+19,19,5103545,2026-07-22T00:00:00Z,Botafogo RJ,Santos FC,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-botafogo-rj/2ect29#5103545,BRA1
+19,19,5103553,2026-07-22T00:00:00Z,Chapecoense AF,Flamengo,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-chapecoense-af/9vwsbo6#5103553,BRA1
+19,19,5103547,2026-07-22T00:00:00Z,Corinthians,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-corinthians/12xedz#5103547,BRA1
+19,19,5103551,2026-07-22T00:00:00Z,Coritiba,Palmeiras,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-palmeiras/3boktu#5103551,BRA1
+19,19,5103544,2026-07-22T00:00:00Z,Fluminense,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/fluminense-vs-red-bull-bragantino/3a7xdan#5103544,BRA1
+19,19,5103550,2026-07-22T00:00:00Z,Internacional,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/internacional-vs-cruzeiro/2tph0j#5103550,BRA1
+19,19,5103548,2026-07-22T00:00:00Z,Mirassol,Gremio,,,FALSE,FALSE,FALSE,/matches/gremio-vs-mirassol/6x2dlf5#5103548,BRA1
+19,19,5103546,2026-07-22T00:00:00Z,Sao Paulo,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/athletico-paranaense-vs-sao-paulo/3hq57e#5103546,BRA1
+19,19,5103552,2026-07-22T00:00:00Z,Vitoria,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-vasco-da-gama/2ok1y2#5103552,BRA1
+20,20,5103557,2026-07-25T00:00:00Z,Athletico Paranaense,Internacional,,,FALSE,FALSE,FALSE,/matches/internacional-vs-athletico-paranaense/2z6yge#5103557,BRA1
+20,20,5103558,2026-07-25T00:00:00Z,Bahia,Corinthians,,,FALSE,FALSE,FALSE,/matches/bahia-vs-corinthians/2l45o7#5103558,BRA1
+20,20,5103555,2026-07-25T00:00:00Z,Cruzeiro,Botafogo RJ,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-cruzeiro/2rojr8#5103555,BRA1
+20,20,5103560,2026-07-25T00:00:00Z,Flamengo,Sao Paulo,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-sao-paulo/3bnaf6#5103560,BRA1
+20,20,5103556,2026-07-25T00:00:00Z,Gremio,Fluminense,,,FALSE,FALSE,FALSE,/matches/gremio-vs-fluminense/36qten#5103556,BRA1
+20,20,5103563,2026-07-25T00:00:00Z,Palmeiras,Atletico MG,,,FALSE,FALSE,FALSE,/matches/atletico-mg-vs-palmeiras/3hsci5#5103563,BRA1
+20,20,5103554,2026-07-25T00:00:00Z,Red Bull Bragantino,Coritiba,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-red-bull-bragantino/3a13fun#5103554,BRA1
+20,20,5103559,2026-07-25T00:00:00Z,Remo,Vitoria,,,FALSE,FALSE,FALSE,/matches/remo-vs-vitoria/q2yct#5103559,BRA1
+20,20,5103562,2026-07-25T00:00:00Z,Santos FC,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-chapecoense-af/9rm470i#5103562,BRA1
+20,20,5103561,2026-07-25T00:00:00Z,Vasco da Gama,Mirassol,,,FALSE,FALSE,FALSE,/matches/vasco-da-gama-vs-mirassol/6yixlf1#5103561,BRA1
+21,21,5103569,2026-07-29T00:00:00Z,Atletico MG,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/atletico-mg-vs-red-bull-bragantino/3b15h2e#5103569,BRA1
+21,21,5103565,2026-07-29T00:00:00Z,Botafogo RJ,Gremio,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-gremio/2rjude#5103565,BRA1
+21,21,5103573,2026-07-29T00:00:00Z,Chapecoense AF,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/vasco-da-gama-vs-chapecoense-af/9xnh3v2#5103573,BRA1
+21,21,5103567,2026-07-29T00:00:00Z,Corinthians,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/corinthians-vs-athletico-paranaense/3c1wu1#5103567,BRA1
+21,21,5103571,2026-07-29T00:00:00Z,Coritiba,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-cruzeiro/35rjl7#5103571,BRA1
+21,21,5103564,2026-07-29T00:00:00Z,Fluminense,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-fluminense/2lp1f9#5103564,BRA1
+21,21,5103570,2026-07-29T00:00:00Z,Internacional,Flamengo,,,FALSE,FALSE,FALSE,/matches/internacional-vs-flamengo/2tl466#5103570,BRA1
+21,21,5103568,2026-07-29T00:00:00Z,Mirassol,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-mirassol/6a8t32u#5103568,BRA1
+21,21,5103566,2026-07-29T00:00:00Z,Sao Paulo,Santos FC,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-sao-paulo/2x4hbi#5103566,BRA1
+21,21,5103572,2026-07-29T00:00:00Z,Vitoria,Palmeiras,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-palmeiras/2omr8l#5103572,BRA1
+22,22,5103582,2026-08-08T00:00:00Z,Bahia,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/bahia-vs-vasco-da-gama/2q3v42#5103582,BRA1
+22,22,5103575,2026-08-08T00:00:00Z,Botafogo RJ,Fluminense,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-fluminense/2sks6t#5103575,BRA1
+22,22,5103581,2026-08-08T00:00:00Z,Coritiba,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-chapecoense-af/9vwezfl#5103581,BRA1
+22,22,5103579,2026-08-08T00:00:00Z,Cruzeiro,Mirassol,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-mirassol/6x3m8fz#5103579,BRA1
+22,22,5103574,2026-08-08T00:00:00Z,Flamengo,Vitoria,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-flamengo/2j7it6#5103574,BRA1
+22,22,5103580,2026-08-08T00:00:00Z,Gremio,Sao Paulo,,,FALSE,FALSE,FALSE,/matches/gremio-vs-sao-paulo/3bmuya#5103580,BRA1
+22,22,5103577,2026-08-08T00:00:00Z,Palmeiras,Internacional,,,FALSE,FALSE,FALSE,/matches/internacional-vs-palmeiras/2zb0wr#5103577,BRA1
+22,22,5103578,2026-08-08T00:00:00Z,Red Bull Bragantino,Corinthians,,,FALSE,FALSE,FALSE,/matches/corinthians-vs-red-bull-bragantino/3a40g51#5103578,BRA1
+22,22,5103583,2026-08-08T00:00:00Z,Remo,Atletico MG,,,FALSE,FALSE,FALSE,/matches/remo-vs-atletico-mg/1658yx#5103583,BRA1
+22,22,5103576,2026-08-08T00:00:00Z,Santos FC,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-athletico-paranaense/2x2vbs#5103576,BRA1
+23,23,5103591,2026-08-15T00:00:00Z,Athletico Paranaense,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/athletico-paranaense-vs-red-bull-bragantino/3b181n4#5103591,BRA1
+23,23,5103589,2026-08-15T00:00:00Z,Atletico MG,Gremio,,,FALSE,FALSE,FALSE,/matches/gremio-vs-atletico-mg/3bkpme#5103589,BRA1
+23,23,5103593,2026-08-15T00:00:00Z,Chapecoense AF,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-chapecoense-af/9pg15jc#5103593,BRA1
+23,23,5103587,2026-08-15T00:00:00Z,Corinthians,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-corinthians/368qov#5103587,BRA1
+23,23,5103584,2026-08-15T00:00:00Z,Fluminense,Palmeiras,,,FALSE,FALSE,FALSE,/matches/fluminense-vs-palmeiras/3ctxoi#5103584,BRA1
+23,23,5103590,2026-08-15T00:00:00Z,Internacional,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-internacional/vrfbe#5103590,BRA1
+23,23,5103588,2026-08-15T00:00:00Z,Mirassol,Flamengo,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-mirassol/6x2hbc2#5103588,BRA1
+23,23,5103586,2026-08-15T00:00:00Z,Sao Paulo,Coritiba,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-sao-paulo/3bm00l#5103586,BRA1
+23,23,5103585,2026-08-15T00:00:00Z,Vasco da Gama,Santos FC,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-vasco-da-gama/2x42tj#5103585,BRA1
+23,23,5103592,2026-08-15T00:00:00Z,Vitoria,Botafogo RJ,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-botafogo-rj/26m8t0#5103592,BRA1
+24,24,5103595,2026-08-22T00:00:00Z,Botafogo RJ,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-athletico-paranaense/2x42tm#5103595,BRA1
+24,24,5103603,2026-08-22T00:00:00Z,Chapecoense AF,Sao Paulo,,,FALSE,FALSE,FALSE,/matches/sao-paulo-vs-chapecoense-af/9xnlkc0#5103603,BRA1
+24,24,5103601,2026-08-22T00:00:00Z,Coritiba,Corinthians,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-corinthians/362v5g#5103601,BRA1
+24,24,5103599,2026-08-22T00:00:00Z,Cruzeiro,Flamengo,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-cruzeiro/35ssud#5103599,BRA1
+24,24,5103594,2026-08-22T00:00:00Z,Fluminense,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-fluminense/13awuw#5103594,BRA1
+24,24,5103600,2026-08-22T00:00:00Z,Internacional,Atletico MG,,,FALSE,FALSE,FALSE,/matches/internacional-vs-atletico-mg/2z6jtb#5103600,BRA1
+24,24,5103597,2026-08-22T00:00:00Z,Palmeiras,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/vasco-da-gama-vs-palmeiras/3hu3yb#5103597,BRA1
+24,24,5103598,2026-08-22T00:00:00Z,Red Bull Bragantino,Gremio,,,FALSE,FALSE,FALSE,/matches/gremio-vs-red-bull-bragantino/3a18k84#5103598,BRA1
+24,24,5103596,2026-08-22T00:00:00Z,Santos FC,Mirassol,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-mirassol/6th631i#5103596,BRA1
+24,24,5103602,2026-08-22T00:00:00Z,Vitoria,Bahia,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-bahia/20jpec#5103602,BRA1
+25,25,5103611,2026-08-29T00:00:00Z,Athletico Paranaense,Fluminense,,,FALSE,FALSE,FALSE,/matches/fluminense-vs-athletico-paranaense/3cpm9n#5103611,BRA1
+25,25,5103609,2026-08-29T00:00:00Z,Atletico MG,Vitoria,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-atletico-mg/2oiid8#5103609,BRA1
+25,25,5103612,2026-08-29T00:00:00Z,Bahia,Internacional,,,FALSE,FALSE,FALSE,/matches/bahia-vs-internacional/29u010#5103612,BRA1
+25,25,5103607,2026-08-29T00:00:00Z,Corinthians,Santos FC,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-corinthians/2rxyuz#5103607,BRA1
+25,25,5103604,2026-08-29T00:00:00Z,Flamengo,Botafogo RJ,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-flamengo/2rk8he#5103604,BRA1
+25,25,5103610,2026-08-29T00:00:00Z,Gremio,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/gremio-vs-chapecoense-af/9vwnvla#5103610,BRA1
+25,25,5103608,2026-08-29T00:00:00Z,Mirassol,Palmeiras,,,FALSE,FALSE,FALSE,/matches/palmeiras-vs-mirassol/6yjnpkf#5103608,BRA1
+25,25,5103613,2026-08-29T00:00:00Z,Remo,Coritiba,,,FALSE,FALSE,FALSE,/matches/remo-vs-coritiba/12nd9k#5103613,BRA1
+25,25,5103606,2026-08-29T00:00:00Z,Sao Paulo,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/sao-paulo-vs-red-bull-bragantino/3b1ibya#5103606,BRA1
+25,25,5103605,2026-08-29T00:00:00Z,Vasco da Gama,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-vasco-da-gama/3brl5m#5103605,BRA1
+26,26,5103615,2026-09-05T00:00:00Z,Botafogo RJ,Palmeiras,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-palmeiras/2x83ul#5103615,BRA1
+26,26,5103617,2026-09-05T00:00:00Z,Corinthians,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/corinthians-vs-chapecoense-af/9w1hbaj#5103617,BRA1
+26,26,5103621,2026-09-05T00:00:00Z,Coritiba,Mirassol,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-mirassol/6x265le#5103621,BRA1
+26,26,5103619,2026-09-05T00:00:00Z,Cruzeiro,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-athletico-paranaense/3bqaqa#5103619,BRA1
+26,26,5103614,2026-09-05T00:00:00Z,Fluminense,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/fluminense-vs-vasco-da-gama/3cqwvt#5103614,BRA1
+26,26,5103620,2026-09-05T00:00:00Z,Internacional,Santos FC,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-internacional/2g8plq#5103620,BRA1
+26,26,5103618,2026-09-05T00:00:00Z,Red Bull Bragantino,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-red-bull-bragantino/36bpxse#5103618,BRA1
+26,26,5103623,2026-09-05T00:00:00Z,Remo,Flamengo,,,FALSE,FALSE,FALSE,/matches/remo-vs-flamengo/12o3n8#5103623,BRA1
+26,26,5103616,2026-09-05T00:00:00Z,Sao Paulo,Atletico MG,,,FALSE,FALSE,FALSE,/matches/atletico-mg-vs-sao-paulo/3hppck#5103616,BRA1
+26,26,5103622,2026-09-05T00:00:00Z,Vitoria,Gremio,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-gremio/2j75ay#5103622,BRA1
+27,27,5103629,2026-09-12T00:00:00Z,Atletico MG,Fluminense,,,FALSE,FALSE,FALSE,/matches/fluminense-vs-atletico-mg/3cp6qb#5103629,BRA1
+27,27,5103632,2026-09-12T00:00:00Z,Bahia,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-bahia/qw2et#5103632,BRA1
+27,27,5103625,2026-09-12T00:00:00Z,Botafogo RJ,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-red-bull-bragantino/37kn9qm#5103625,BRA1
+27,27,5103633,2026-09-12T00:00:00Z,Chapecoense AF,Internacional,,,FALSE,FALSE,FALSE,/matches/internacional-vs-chapecoense-af/9s97hm0#5103633,BRA1
+27,27,5103631,2026-09-12T00:00:00Z,Coritiba,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-athletico-paranaense/3bka5n#5103631,BRA1
+27,27,5103624,2026-09-12T00:00:00Z,Flamengo,Corinthians,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-corinthians/3644gv#5103624,BRA1
+27,27,5103630,2026-09-12T00:00:00Z,Gremio,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/gremio-vs-vasco-da-gama/3bmfhg#5103630,BRA1
+27,27,5103628,2026-09-12T00:00:00Z,Mirassol,Vitoria,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-mirassol/6r98fun#5103628,BRA1
+27,27,5103627,2026-09-12T00:00:00Z,Palmeiras,Sao Paulo,,,FALSE,FALSE,FALSE,/matches/sao-paulo-vs-palmeiras/3hujtf#5103627,BRA1
+27,27,5103626,2026-09-12T00:00:00Z,Santos FC,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-cruzeiro/2rndeh#5103626,BRA1
+28,28,5103641,2026-09-19T00:00:00Z,Athletico Paranaense,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-athletico-paranaense/2q2p3e#5103641,BRA1
+28,28,5103639,2026-09-19T00:00:00Z,Atletico MG,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/atletico-mg-vs-chapecoense-af/9xmz9zk#5103639,BRA1
+28,28,5103637,2026-09-19T00:00:00Z,Corinthians,Fluminense,,,FALSE,FALSE,FALSE,/matches/corinthians-vs-fluminense/3778sb#5103637,BRA1
+28,28,5103634,2026-09-19T00:00:00Z,Flamengo,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-red-bull-bragantino/3a1b4ew#5103634,BRA1
+28,28,5103640,2026-09-19T00:00:00Z,Gremio,Palmeiras,,,FALSE,FALSE,FALSE,/matches/gremio-vs-palmeiras/3bpfrv#5103640,BRA1
+28,28,5103638,2026-09-19T00:00:00Z,Mirassol,Botafogo RJ,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-mirassol/6thh5vr#5103638,BRA1
+28,28,5103643,2026-09-19T00:00:00Z,Remo,Santos FC,,,FALSE,FALSE,FALSE,/matches/remo-vs-santos-fc/um6jc#5103643,BRA1
+28,28,5103636,2026-09-19T00:00:00Z,Sao Paulo,Internacional,,,FALSE,FALSE,FALSE,/matches/internacional-vs-sao-paulo/2z8l10#5103636,BRA1
+28,28,5103635,2026-09-19T00:00:00Z,Vasco da Gama,Coritiba,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-vasco-da-gama/3blkjt#5103635,BRA1
+28,28,5103642,2026-09-19T00:00:00Z,Vitoria,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-cruzeiro/2jbnfg#5103642,BRA1
+29,29,5103651,2026-10-07T00:00:00Z,Athletico Paranaense,Atletico MG,,,FALSE,FALSE,FALSE,/matches/atletico-mg-vs-athletico-paranaense/3hnxxe#5103651,BRA1
+29,29,5103645,2026-10-07T00:00:00Z,Botafogo RJ,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-vasco-da-gama/2x5abm#5103645,BRA1
+29,29,5103649,2026-10-07T00:00:00Z,Cruzeiro,Sao Paulo,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-sao-paulo/3bs0ms#5103649,BRA1
+29,29,5103644,2026-10-07T00:00:00Z,Fluminense,Coritiba,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-fluminense/36pz40#5103644,BRA1
+29,29,5103650,2026-10-07T00:00:00Z,Internacional,Corinthians,,,FALSE,FALSE,FALSE,/matches/internacional-vs-corinthians/2u06e1#5103650,BRA1
+29,29,5103647,2026-10-07T00:00:00Z,Palmeiras,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-palmeiras/2q6l6l#5103647,BRA1
+29,29,5103648,2026-10-07T00:00:00Z,Red Bull Bragantino,Mirassol,,,FALSE,FALSE,FALSE,/matches/red-bull-bragantino-vs-mirassol/h6hq59a#5103648,BRA1
+29,29,5103653,2026-10-07T00:00:00Z,Remo,Gremio,,,FALSE,FALSE,FALSE,/matches/remo-vs-gremio/12nuun#5103653,BRA1
+29,29,5103646,2026-10-07T00:00:00Z,Santos FC,Flamengo,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-flamengo/2rj25k#5103646,BRA1
+29,29,5103652,2026-10-07T00:00:00Z,Vitoria,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-chapecoense-af/9oyew9c#5103652,BRA1
+30,30,5103659,2026-10-10T00:00:00Z,Atletico MG,Santos FC,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-atletico-mg/2x2gtx#5103659,BRA1
+30,30,5103662,2026-10-10T00:00:00Z,Bahia,Mirassol,,,FALSE,FALSE,FALSE,/matches/bahia-vs-mirassol/6rny18n#5103662,BRA1
+30,30,5103663,2026-10-10T00:00:00Z,Chapecoense AF,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/athletico-paranaense-vs-chapecoense-af/9xn3qge#5103663,BRA1
+30,30,5103661,2026-10-10T00:00:00Z,Coritiba,Botafogo RJ,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-coritiba/2rj25h#5103661,BRA1
+30,30,5103654,2026-10-10T00:00:00Z,Flamengo,Fluminense,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-fluminense/36r8k0#5103654,BRA1
+30,30,5103660,2026-10-10T00:00:00Z,Gremio,Internacional,,,FALSE,FALSE,FALSE,/matches/internacional-vs-gremio/2tkpx1#5103660,BRA1
+30,30,5103657,2026-10-10T00:00:00Z,Palmeiras,Corinthians,,,FALSE,FALSE,FALSE,/matches/corinthians-vs-palmeiras/3c67tm#5103657,BRA1
+30,30,5103658,2026-10-10T00:00:00Z,Red Bull Bragantino,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-red-bull-bragantino/3a23aja#5103658,BRA1
+30,30,5103656,2026-10-10T00:00:00Z,Sao Paulo,Vitoria,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-sao-paulo/2okfuc#5103656,BRA1
+30,30,5103655,2026-10-10T00:00:00Z,Vasco da Gama,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-vasco-da-gama/1669p7#5103655,BRA1
+31,31,5103671,2026-10-17T00:00:00Z,Athletico Paranaense,Palmeiras,,,FALSE,FALSE,FALSE,/matches/athletico-paranaense-vs-palmeiras/3hssd5#5103671,BRA1
+31,31,5103669,2026-10-17T00:00:00Z,Atletico MG,Coritiba,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-atletico-mg/3bjuoz#5103669,BRA1
+31,31,5103672,2026-10-17T00:00:00Z,Bahia,Flamengo,,,FALSE,FALSE,FALSE,/matches/bahia-vs-flamengo/2kprn6#5103672,BRA1
+31,31,5103665,2026-10-17T00:00:00Z,Botafogo RJ,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-chapecoense-af/9rmhgco#5103665,BRA1
+31,31,5103667,2026-10-17T00:00:00Z,Corinthians,Vitoria,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-corinthians/2jlsm7#5103667,BRA1
+31,31,5103664,2026-10-17T00:00:00Z,Fluminense,Santos FC,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-fluminense/2sjln8#5103664,BRA1
+31,31,5103670,2026-10-17T00:00:00Z,Gremio,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/gremio-vs-cruzeiro/35sdra#5103670,BRA1
+31,31,5103668,2026-10-17T00:00:00Z,Mirassol,Internacional,,,FALSE,FALSE,FALSE,/matches/internacional-vs-mirassol/6u0gqg8#5103668,BRA1
+31,31,5103673,2026-10-17T00:00:00Z,Remo,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/remo-vs-red-bull-bragantino/2uhqs8g#5103673,BRA1
+31,31,5103666,2026-10-17T00:00:00Z,Sao Paulo,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/vasco-da-gama-vs-sao-paulo/3hrgs2#5103666,BRA1
+32,32,5103683,2026-10-24T00:00:00Z,Chapecoense AF,Fluminense,,,FALSE,FALSE,FALSE,/matches/fluminense-vs-chapecoense-af/9w89yi9#5103683,BRA1
+32,32,5103681,2026-10-24T00:00:00Z,Coritiba,Gremio,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-gremio/35mimp#5103681,BRA1
+32,32,5103679,2026-10-24T00:00:00Z,Cruzeiro,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-cruzeiro/12qsfh#5103679,BRA1
+32,32,5103674,2026-10-24T00:00:00Z,Flamengo,Atletico MG,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-atletico-mg/3bl535#5103674,BRA1
+32,32,5103680,2026-10-24T00:00:00Z,Internacional,Botafogo RJ,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-internacional/2g9tgk#5103680,BRA1
+32,32,5103678,2026-10-24T00:00:00Z,Mirassol,Sao Paulo,,,FALSE,FALSE,FALSE,/matches/sao-paulo-vs-mirassol/6yj1bq0#5103678,BRA1
+32,32,5103677,2026-10-24T00:00:00Z,Palmeiras,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/palmeiras-vs-red-bull-bragantino/3b1xrfv#5103677,BRA1
+32,32,5103676,2026-10-24T00:00:00Z,Santos FC,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-santos-fc/27zkgu#5103676,BRA1
+32,32,5103675,2026-10-24T00:00:00Z,Vasco da Gama,Corinthians,,,FALSE,FALSE,FALSE,/matches/corinthians-vs-vasco-da-gama/3c37bm#5103675,BRA1
+32,32,5103682,2026-10-24T00:00:00Z,Vitoria,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-athletico-paranaense/2oiw9e#5103682,BRA1
+33,33,5103689,2026-10-28T00:00:00Z,Atletico MG,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-atletico-mg/3bpv98#5103689,BRA1
+33,33,5103692,2026-10-28T00:00:00Z,Bahia,Sao Paulo,,,FALSE,FALSE,FALSE,/matches/bahia-vs-sao-paulo/2q494c#5103692,BRA1
+33,33,5103687,2026-10-28T00:00:00Z,Corinthians,Mirassol,,,FALSE,FALSE,FALSE,/matches/corinthians-vs-mirassol/6x6eonh#5103687,BRA1
+33,33,5103691,2026-10-28T00:00:00Z,Coritiba,Vitoria,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-coritiba/2j6eal#5103691,BRA1
+33,33,5103684,2026-10-28T00:00:00Z,Fluminense,Internacional,,,FALSE,FALSE,FALSE,/matches/internacional-vs-fluminense/2um15i#5103684,BRA1
+33,33,5103690,2026-10-28T00:00:00Z,Gremio,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/gremio-vs-athletico-paranaense/3bl534#5103690,BRA1
+33,33,5103688,2026-10-28T00:00:00Z,Red Bull Bragantino,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/red-bull-bragantino-vs-chapecoense-af/lpdpohe#5103688,BRA1
+33,33,5103693,2026-10-28T00:00:00Z,Remo,Botafogo RJ,,,FALSE,FALSE,FALSE,/matches/remo-vs-botafogo-rj/umu0l#5103693,BRA1
+33,33,5103686,2026-10-28T00:00:00Z,Santos FC,Palmeiras,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-palmeiras/2x6wbx#5103686,BRA1
+33,33,5103685,2026-10-28T00:00:00Z,Vasco da Gama,Flamengo,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-vasco-da-gama/3bmuyb#5103685,BRA1
+34,34,5103701,2026-11-04T00:00:00Z,Athletico Paranaense,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/athletico-paranaense-vs-vasco-da-gama/3hppcj#5103701,BRA1
+34,34,5103695,2026-11-04T00:00:00Z,Botafogo RJ,Atletico MG,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-atletico-mg/2x3obo#5103695,BRA1
+34,34,5103703,2026-11-04T00:00:00Z,Chapecoense AF,Mirassol,,,FALSE,FALSE,FALSE,/matches/mirassol-vs-chapecoense-af/u0h9hkz#5103703,BRA1
+34,34,5103699,2026-11-04T00:00:00Z,Cruzeiro,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-cruzeiro/2ktxhg#5103699,BRA1
+34,34,5103694,2026-11-04T00:00:00Z,Flamengo,Gremio,,,FALSE,FALSE,FALSE,/matches/gremio-vs-flamengo/35nruw#5103694,BRA1
+34,34,5103700,2026-11-04T00:00:00Z,Internacional,Coritiba,,,FALSE,FALSE,FALSE,/matches/internacional-vs-coritiba/2tjxeu#5103700,BRA1
+34,34,5103697,2026-11-04T00:00:00Z,Palmeiras,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-palmeiras/168209#5103697,BRA1
+34,34,5103698,2026-11-04T00:00:00Z,Red Bull Bragantino,Santos FC,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-red-bull-bragantino/37kfo2s#5103698,BRA1
+34,34,5103696,2026-11-04T00:00:00Z,Sao Paulo,Corinthians,,,FALSE,FALSE,FALSE,/matches/corinthians-vs-sao-paulo/3c3mtj#5103696,BRA1
+34,34,5103702,2026-11-04T00:00:00Z,Vitoria,Fluminense,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-fluminense/2k6i99#5103702,BRA1
+35,35,5103707,2026-11-18T00:00:00Z,Corinthians,Botafogo RJ,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-corinthians/2rz59z#5103707,BRA1
+35,35,5103711,2026-11-18T00:00:00Z,Coritiba,Santos FC,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-coritiba/2rhvtw#5103711,BRA1
+35,35,5103709,2026-11-18T00:00:00Z,Cruzeiro,Palmeiras,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-palmeiras/3bulid#5103709,BRA1
+35,35,5103704,2026-11-18T00:00:00Z,Flamengo,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-athletico-paranaense/3blkjw#5103704,BRA1
+35,35,5103710,2026-11-18T00:00:00Z,Gremio,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-gremio/2kpe0y#5103710,BRA1
+35,35,5103708,2026-11-18T00:00:00Z,Mirassol,Atletico MG,,,FALSE,FALSE,FALSE,/matches/atletico-mg-vs-mirassol/6yiio7f#5103708,BRA1
+35,35,5103713,2026-11-18T00:00:00Z,Remo,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/remo-vs-chapecoense-af/94ipij5#5103713,BRA1
+35,35,5103706,2026-11-18T00:00:00Z,Sao Paulo,Fluminense,,,FALSE,FALSE,FALSE,/matches/fluminense-vs-sao-paulo/3crcf9#5103706,BRA1
+35,35,5103705,2026-11-18T00:00:00Z,Vasco da Gama,Internacional,,,FALSE,FALSE,FALSE,/matches/internacional-vs-vasco-da-gama/2z86dt#5103705,BRA1
+35,35,5103712,2026-11-18T00:00:00Z,Vitoria,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-red-bull-bragantino/361n8ye#5103712,BRA1
+36,36,5103721,2026-11-21T00:00:00Z,Athletico Paranaense,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-athletico-paranaense/165i5g#5103721,BRA1
+36,36,5103719,2026-11-21T00:00:00Z,Atletico MG,Corinthians,,,FALSE,FALSE,FALSE,/matches/corinthians-vs-atletico-mg/3c1hc8#5103719,BRA1
+36,36,5103722,2026-11-21T00:00:00Z,Bahia,Coritiba,,,FALSE,FALSE,FALSE,/matches/bahia-vs-coritiba/2komsl#5103722,BRA1
+36,36,5103715,2026-11-21T00:00:00Z,Botafogo RJ,Sao Paulo,,,FALSE,FALSE,FALSE,/matches/botafogo-rj-vs-sao-paulo/2x5oto#5103715,BRA1
+36,36,5103723,2026-11-21T00:00:00Z,Chapecoense AF,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-chapecoense-af/9vy58ls#5103723,BRA1
+36,36,5103714,2026-11-21T00:00:00Z,Fluminense,Mirassol,,,FALSE,FALSE,FALSE,/matches/fluminense-vs-mirassol/6xc3cqq#5103714,BRA1
+36,36,5103720,2026-11-21T00:00:00Z,Internacional,Vitoria,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-internacional/28f1v0#5103720,BRA1
+36,36,5103717,2026-11-21T00:00:00Z,Palmeiras,Flamengo,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-palmeiras/3bpv8x#5103717,BRA1
+36,36,5103718,2026-11-21T00:00:00Z,Red Bull Bragantino,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/vasco-da-gama-vs-red-bull-bragantino/3b1frdg#5103718,BRA1
+36,36,5103716,2026-11-21T00:00:00Z,Santos FC,Gremio,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-gremio/2rio1n#5103716,BRA1
+37,37,5103729,2026-11-28T00:00:00Z,Atletico MG,Vasco da Gama,,,FALSE,FALSE,FALSE,/matches/atletico-mg-vs-vasco-da-gama/3hp9hq#5103729,BRA1
+37,37,5103725,2026-11-28T00:00:00Z,Botafogo RJ,Bahia,,,FALSE,FALSE,FALSE,/matches/bahia-vs-botafogo-rj/280mf0#5103725,BRA1
+37,37,5103733,2026-11-28T00:00:00Z,Chapecoense AF,Palmeiras,,,FALSE,FALSE,FALSE,/matches/palmeiras-vs-chapecoense-af/9xocb69#5103733,BRA1
+37,37,5103727,2026-11-28T00:00:00Z,Corinthians,Gremio,,,FALSE,FALSE,FALSE,/matches/gremio-vs-corinthians/363pd1#5103727,BRA1
+37,37,5103731,2026-11-28T00:00:00Z,Coritiba,Flamengo,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-flamengo/35mxpf#5103731,BRA1
+37,37,5103724,2026-11-28T00:00:00Z,Fluminense,Cruzeiro,,,FALSE,FALSE,FALSE,/matches/cruzeiro-vs-fluminense/36vv8t#5103724,BRA1
+37,37,5103730,2026-11-28T00:00:00Z,Internacional,Red Bull Bragantino,,,FALSE,FALSE,FALSE,/matches/internacional-vs-red-bull-bragantino/37xoeze#5103730,BRA1
+37,37,5103728,2026-11-28T00:00:00Z,Mirassol,Athletico Paranaense,,,FALSE,FALSE,FALSE,/matches/athletico-paranaense-vs-mirassol/6yimeia#5103728,BRA1
+37,37,5103726,2026-11-28T00:00:00Z,Sao Paulo,Remo,,,FALSE,FALSE,FALSE,/matches/remo-vs-sao-paulo/166ivu#5103726,BRA1
+37,37,5103732,2026-11-28T00:00:00Z,Vitoria,Santos FC,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-santos-fc/26l76u#5103732,BRA1
+38,38,5103741,2026-12-02T00:00:00Z,Athletico Paranaense,Sao Paulo,,,FALSE,FALSE,FALSE,/matches/athletico-paranaense-vs-sao-paulo/3hq57e#5103741,BRA1
+38,38,5103742,2026-12-02T00:00:00Z,Bahia,Atletico MG,,,FALSE,FALSE,FALSE,/matches/bahia-vs-atletico-mg/2q2b38#5103742,BRA1
+38,38,5103739,2026-12-02T00:00:00Z,Cruzeiro,Internacional,,,FALSE,FALSE,FALSE,/matches/internacional-vs-cruzeiro/2tph0j#5103739,BRA1
+38,38,5103734,2026-12-02T00:00:00Z,Flamengo,Chapecoense AF,,,FALSE,FALSE,FALSE,/matches/flamengo-vs-chapecoense-af/9vwsbo6#5103734,BRA1
+38,38,5103740,2026-12-02T00:00:00Z,Gremio,Mirassol,,,FALSE,FALSE,FALSE,/matches/gremio-vs-mirassol/6x2dlf5#5103740,BRA1
+38,38,5103737,2026-12-02T00:00:00Z,Palmeiras,Coritiba,,,FALSE,FALSE,FALSE,/matches/coritiba-vs-palmeiras/3boktu#5103737,BRA1
+38,38,5103738,2026-12-02T00:00:00Z,Red Bull Bragantino,Fluminense,,,FALSE,FALSE,FALSE,/matches/fluminense-vs-red-bull-bragantino/3a7xdan#5103738,BRA1
+38,38,5103743,2026-12-02T00:00:00Z,Remo,Corinthians,,,FALSE,FALSE,FALSE,/matches/remo-vs-corinthians/12xedz#5103743,BRA1
+38,38,5103736,2026-12-02T00:00:00Z,Santos FC,Botafogo RJ,,,FALSE,FALSE,FALSE,/matches/santos-fc-vs-botafogo-rj/2ect29#5103736,BRA1
+38,38,5103735,2026-12-02T00:00:00Z,Vasco da Gama,Vitoria,,,FALSE,FALSE,FALSE,/matches/vitoria-vs-vasco-da-gama/2ok1y2#5103735,BRA1

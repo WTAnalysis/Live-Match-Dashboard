@@ -1,0 +1,381 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5967044,2026-08-21T18:30:00Z,LR Vicenza,Catanzaro,3 - 2,FT,True,True,False,ITA2
+1,1,,5967041,2026-08-22T17:00:00Z,Carrarese,Mantova,1 - 2,FT,True,True,False,ITA2
+1,1,,5967047,2026-08-22T17:00:00Z,Südtirol,Virtus Entella,1 - 0,FT,True,True,False,ITA2
+1,1,,5967039,2026-08-22T19:00:00Z,Avellino,Arezzo,1 - 2,FT,True,True,False,ITA2
+1,1,,5967040,2026-08-22T19:00:00Z,Benevento,Modena,1 - 2,FT,True,True,False,ITA2
+1,1,,5967043,2026-08-22T19:00:00Z,Empoli,Cremonese,1 - 0,FT,True,True,False,ITA2
+1,1,,5967046,2026-08-23T17:00:00Z,Pisa,Padova,0 - 1,FT,True,True,False,ITA2
+1,1,,5967048,2026-08-23T17:00:00Z,Hellas Verona,Ascoli,1 - 2,FT,True,True,False,ITA2
+1,1,,5967042,2026-08-23T19:00:00Z,Cesena,Sampdoria,1 - 1,FT,True,True,False,ITA2
+1,1,,5967045,2026-08-23T19:00:00Z,Palermo,Juve Stabia,1 - 0,FT,True,True,False,ITA2
+2,2,,5967053,2026-08-28T18:30:00Z,Cremonese,Modena,0 - 3,FT,True,True,False,ITA2
+2,2,,5967054,2026-08-29T17:00:00Z,Virtus Entella,Cesena,1 - 2,FT,True,True,False,ITA2
+2,2,,5967058,2026-08-29T17:00:00Z,Sampdoria,Juve Stabia,1 - 2,FT,True,True,False,ITA2
+2,2,,5967050,2026-08-29T19:00:00Z,Ascoli,Carrarese,1 - 1,FT,True,True,False,ITA2
+2,2,,5967051,2026-08-29T19:00:00Z,Avellino,LR Vicenza,3 - 0,FT,True,True,False,ITA2
+2,2,,5967056,2026-08-29T19:00:00Z,Padova,Hellas Verona,1 - 1,FT,True,True,False,ITA2
+2,2,,5967049,2026-08-30T17:00:00Z,Arezzo,Palermo,2 - 3,FT,True,True,False,ITA2
+2,2,,5967055,2026-08-30T17:00:00Z,Mantova,Empoli,3 - 1,FT,True,True,False,ITA2
+2,2,,5967052,2026-08-30T19:00:00Z,Benevento,Südtirol,1 - 1,FT,True,True,False,ITA2
+2,2,,5967057,2026-08-30T19:00:00Z,Pisa,Catanzaro,2 - 1,FT,True,True,False,ITA2
+3,3,,5967067,2026-09-05T13:00:00Z,Südtirol,Catanzaro,2 - 0,FT,True,True,False,ITA2
+3,3,,5967059,2026-09-05T15:15:00Z,Ascoli,Benevento,1 - 0,FT,True,True,False,ITA2
+3,3,,5967060,2026-09-05T17:30:00Z,Carrarese,Empoli,0 - 1,FT,True,True,False,ITA2
+3,3,,5967061,2026-09-06T13:00:00Z,Cesena,Mantova,1 - 1,FT,True,True,False,ITA2
+3,3,,5967063,2026-09-06T13:00:00Z,Virtus Entella,LR Vicenza,2 - 2,FT,True,True,False,ITA2
+3,3,,5967064,2026-09-06T13:00:00Z,Juve Stabia,Pisa,0 - 3,FT,True,True,False,ITA2
+3,3,,5967065,2026-09-06T13:00:00Z,Modena,Avellino,0 - 1,FT,True,True,False,ITA2
+3,3,,5967068,2026-09-06T15:15:00Z,Hellas Verona,Arezzo,5 - 0,FT,True,True,False,ITA2
+3,3,,5967062,2026-09-06T17:30:00Z,Cremonese,Padova,3 - 1,FT,True,True,False,ITA2
+3,3,,5967066,2026-09-07T18:30:00Z,Palermo,Sampdoria,3 - 1,FT,True,True,False,ITA2
+4,4,,5967073,2026-09-11T17:00:00Z,Empoli,Arezzo,0 - 1,FT,True,True,False,ITA2
+4,4,,5967070,2026-09-11T19:00:00Z,Benevento,Hellas Verona,3 - 1,FT,True,True,False,ITA2
+4,4,,5967077,2026-09-11T19:00:00Z,Pisa,Virtus Entella,1 - 4,FT,True,True,False,ITA2
+4,4,,5967074,2026-09-12T13:00:00Z,LR Vicenza,Juve Stabia,1 - 1,FT,True,True,False,ITA2
+4,4,,5967076,2026-09-12T13:00:00Z,Padova,Ascoli,1 - 0,FT,True,True,False,ITA2
+4,4,,5967078,2026-09-12T13:00:00Z,Südtirol,Modena,1 - 1,FT,True,True,False,ITA2
+4,4,,5967071,2026-09-12T15:15:00Z,Catanzaro,Carrarese,1 - 0,FT,True,True,False,ITA2
+4,4,,5967072,2026-09-12T17:30:00Z,Cesena,Cremonese,2 - 2,FT,True,True,False,ITA2
+4,4,,5967069,2026-09-13T15:15:00Z,Avellino,Palermo,1 - 1,FT,True,True,False,ITA2
+4,4,,5967075,2026-09-13T15:15:00Z,Mantova,Sampdoria,2 - 0,FT,True,True,False,ITA2
+5,5,,5967083,2026-09-18T18:30:00Z,Juve Stabia,Cesena,1 - 1,FT,True,True,False,ITA2
+5,5,,5967081,2026-09-19T13:00:00Z,Carrarese,Benevento,0 - 1,FT,True,True,False,ITA2
+5,5,,5967082,2026-09-19T13:00:00Z,Cremonese,Virtus Entella,0 - 0,FT,True,True,False,ITA2
+5,5,,5967086,2026-09-19T13:00:00Z,Palermo,Padova,2 - 1,FT,True,True,False,ITA2
+5,5,,5967087,2026-09-19T15:15:00Z,Sampdoria,Catanzaro,2 - 1,FT,True,True,False,ITA2
+5,5,,5967080,2026-09-19T17:30:00Z,Ascoli,Avellino,3 - 1,FT,True,True,False,ITA2
+6,6,,5967090,2026-10-09T18:30:00Z,Avellino,Sampdoria,,,False,False,False,ITA2
+6,6,,5967091,2026-10-10T13:00:00Z,Benevento,Cesena,,,False,False,False,ITA2
+6,6,,5967093,2026-10-10T13:00:00Z,Empoli,Palermo,,,False,False,False,ITA2
+6,6,,5967094,2026-10-10T13:00:00Z,Virtus Entella,Juve Stabia,,,False,False,False,ITA2
+6,6,,5967098,2026-10-10T13:00:00Z,Südtirol,Ascoli,,,False,False,False,ITA2
+6,6,,5967095,2026-10-10T15:15:00Z,LR Vicenza,Pisa,,,False,False,False,ITA2
+6,6,,5967089,2026-10-10T17:30:00Z,Arezzo,Cremonese,,,False,False,False,ITA2
+6,6,,5967092,2026-10-11T13:00:00Z,Catanzaro,Mantova,,,False,False,False,ITA2
+6,6,,5967097,2026-10-11T15:15:00Z,Padova,Carrarese,,,False,False,False,ITA2
+6,6,,5967096,2026-10-11T17:30:00Z,Modena,Hellas Verona,,,False,False,False,ITA2
+7,7,,5967108,2026-10-16T18:30:00Z,Hellas Verona,Catanzaro,,,False,False,False,ITA2
+7,7,,5967099,2026-10-17T13:00:00Z,Ascoli,Empoli,,,False,False,False,ITA2
+7,7,,5967100,2026-10-17T13:00:00Z,Benevento,LR Vicenza,,,False,False,False,ITA2
+7,7,,5967101,2026-10-17T13:00:00Z,Carrarese,Modena,,,False,False,False,ITA2
+7,7,,5967105,2026-10-17T13:00:00Z,Padova,Virtus Entella,,,False,False,False,ITA2
+7,7,,5967104,2026-10-17T15:15:00Z,Mantova,Palermo,,,False,False,False,ITA2
+7,7,,5967106,2026-10-17T17:30:00Z,Pisa,Cremonese,,,False,False,False,ITA2
+7,7,,5967103,2026-10-18T13:00:00Z,Juve Stabia,Südtirol,,,False,False,False,ITA2
+7,7,,5967102,2026-10-18T15:15:00Z,Cesena,Avellino,,,False,False,False,ITA2
+7,7,,5967107,2026-10-18T17:30:00Z,Sampdoria,Arezzo,,,False,False,False,ITA2
+8,8,,5967113,2026-10-23T18:30:00Z,Empoli,LR Vicenza,,,False,False,False,ITA2
+8,8,,5967110,2026-10-24T13:00:00Z,Avellino,Padova,,,False,False,False,ITA2
+8,8,,5967112,2026-10-24T13:00:00Z,Cremonese,Juve Stabia,,,False,False,False,ITA2
+8,8,,5967114,2026-10-24T13:00:00Z,Virtus Entella,Mantova,,,False,False,False,ITA2
+8,8,,5967115,2026-10-24T13:00:00Z,Modena,Cesena,,,False,False,False,ITA2
+8,8,,5967117,2026-10-24T13:00:00Z,Südtirol,Sampdoria,,,False,False,False,ITA2
+8,8,,5967111,2026-10-24T15:15:00Z,Catanzaro,Ascoli,,,False,False,False,ITA2
+8,8,,5967109,2026-10-24T17:30:00Z,Arezzo,Benevento,,,False,False,False,ITA2
+8,8,,5967116,2026-10-25T14:00:00Z,Palermo,Carrarese,,,False,False,False,ITA2
+8,8,,5967118,2026-10-25T16:15:00Z,Hellas Verona,Pisa,,,False,False,False,ITA2
+9,9,,5967120,2026-10-27T18:00:00Z,Benevento,Catanzaro,,,False,False,False,ITA2
+9,9,,5967119,2026-10-27T19:00:00Z,Ascoli,Sampdoria,,,False,False,False,ITA2
+9,9,,5967122,2026-10-27T19:00:00Z,Cesena,Empoli,,,False,False,False,ITA2
+9,9,,5967123,2026-10-27T19:00:00Z,Virtus Entella,Avellino,,,False,False,False,ITA2
+9,9,,5967125,2026-10-27T19:00:00Z,LR Vicenza,Modena,,,False,False,False,ITA2
+9,9,,5967126,2026-10-27T19:00:00Z,Mantova,Cremonese,,,False,False,False,ITA2
+9,9,,5967127,2026-10-27T19:00:00Z,Padova,Südtirol,,,False,False,False,ITA2
+9,9,,5967128,2026-10-28T18:00:00Z,Pisa,Palermo,,,False,False,False,ITA2
+9,9,,5967121,2026-10-28T19:00:00Z,Carrarese,Arezzo,,,False,False,False,ITA2
+9,9,,5967124,2026-10-28T19:00:00Z,Juve Stabia,Hellas Verona,,,False,False,False,ITA2
+10,10,,5967132,2026-10-31T14:00:00Z,Cremonese,Benevento,,,False,False,False,ITA2
+10,10,,5967134,2026-10-31T14:00:00Z,Modena,Mantova,,,False,False,False,ITA2
+10,10,,5967137,2026-10-31T14:00:00Z,Südtirol,Cesena,,,False,False,False,ITA2
+10,10,,5967131,2026-10-31T16:15:00Z,Catanzaro,Padova,,,False,False,False,ITA2
+10,10,,5967136,2026-10-31T18:30:00Z,Sampdoria,Virtus Entella,,,False,False,False,ITA2
+10,10,,5967129,2026-11-01T14:00:00Z,Arezzo,Ascoli,,,False,False,False,ITA2
+10,10,,5967130,2026-11-01T14:00:00Z,Avellino,Pisa,,,False,False,False,ITA2
+10,10,,5967133,2026-11-01T14:00:00Z,Empoli,Juve Stabia,,,False,False,False,ITA2
+10,10,,5967138,2026-11-01T16:15:00Z,Hellas Verona,Carrarese,,,False,False,False,ITA2
+10,10,,5967135,2026-11-01T18:30:00Z,Palermo,LR Vicenza,,,False,False,False,ITA2
+11,11,,5967139,2026-11-06T19:30:00Z,Ascoli,Palermo,,,False,False,False,ITA2
+11,11,,5967142,2026-11-07T14:00:00Z,Cesena,Catanzaro,,,False,False,False,ITA2
+11,11,,5967144,2026-11-07T14:00:00Z,Juve Stabia,Arezzo,,,False,False,False,ITA2
+11,11,,5967147,2026-11-07T14:00:00Z,Padova,Empoli,,,False,False,False,ITA2
+11,11,,5967148,2026-11-07T14:00:00Z,Pisa,Südtirol,,,False,False,False,ITA2
+11,11,,5967146,2026-11-07T16:15:00Z,Mantova,Hellas Verona,,,False,False,False,ITA2
+11,11,,5967140,2026-11-07T18:30:00Z,Benevento,Avellino,,,False,False,False,ITA2
+11,11,,5967143,2026-11-08T14:00:00Z,Virtus Entella,Modena,,,False,False,False,ITA2
+11,11,,5967141,2026-11-08T16:15:00Z,Carrarese,Sampdoria,,,False,False,False,ITA2
+11,11,,5967145,2026-11-08T18:30:00Z,LR Vicenza,Cremonese,,,False,False,False,ITA2
+12,12,,5967149,2026-11-21T14:00:00Z,Arezzo,Padova,,,False,False,False,ITA2
+12,12,,5967150,2026-11-21T14:00:00Z,Ascoli,LR Vicenza,,,False,False,False,ITA2
+12,12,,5967151,2026-11-21T14:00:00Z,Avellino,Mantova,,,False,False,False,ITA2
+12,12,,5967152,2026-11-21T14:00:00Z,Carrarese,Virtus Entella,,,False,False,False,ITA2
+12,12,,5967153,2026-11-21T14:00:00Z,Catanzaro,Palermo,,,False,False,False,ITA2
+12,12,,5967154,2026-11-21T14:00:00Z,Empoli,Pisa,,,False,False,False,ITA2
+12,12,,5967155,2026-11-21T14:00:00Z,Modena,Juve Stabia,,,False,False,False,ITA2
+12,12,,5967156,2026-11-21T14:00:00Z,Sampdoria,Benevento,,,False,False,False,ITA2
+12,12,,5967157,2026-11-21T14:00:00Z,Südtirol,Cremonese,,,False,False,False,ITA2
+12,12,,5967158,2026-11-21T14:00:00Z,Hellas Verona,Cesena,,,False,False,False,ITA2
+13,13,,5967159,2026-11-24T14:00:00Z,Benevento,Empoli,,,False,False,False,ITA2
+13,13,,5967160,2026-11-24T14:00:00Z,Cesena,Ascoli,,,False,False,False,ITA2
+13,13,,5967161,2026-11-24T14:00:00Z,Cremonese,Avellino,,,False,False,False,ITA2
+13,13,,5967162,2026-11-24T14:00:00Z,Virtus Entella,Hellas Verona,,,False,False,False,ITA2
+13,13,,5967163,2026-11-24T14:00:00Z,Juve Stabia,Catanzaro,,,False,False,False,ITA2
+13,13,,5967164,2026-11-24T14:00:00Z,LR Vicenza,Carrarese,,,False,False,False,ITA2
+13,13,,5967165,2026-11-24T14:00:00Z,Mantova,Arezzo,,,False,False,False,ITA2
+13,13,,5967166,2026-11-24T14:00:00Z,Padova,Sampdoria,,,False,False,False,ITA2
+13,13,,5967167,2026-11-24T14:00:00Z,Palermo,Südtirol,,,False,False,False,ITA2
+13,13,,5967168,2026-11-24T14:00:00Z,Pisa,Modena,,,False,False,False,ITA2
+14,14,,5967169,2026-11-28T14:00:00Z,Arezzo,Pisa,,,False,False,False,ITA2
+14,14,,5967170,2026-11-28T14:00:00Z,Ascoli,Virtus Entella,,,False,False,False,ITA2
+14,14,,5967171,2026-11-28T14:00:00Z,Carrarese,Juve Stabia,,,False,False,False,ITA2
+14,14,,5967172,2026-11-28T14:00:00Z,Catanzaro,Avellino,,,False,False,False,ITA2
+14,14,,5967173,2026-11-28T14:00:00Z,Empoli,Hellas Verona,,,False,False,False,ITA2
+14,14,,5967174,2026-11-28T14:00:00Z,LR Vicenza,Cesena,,,False,False,False,ITA2
+14,14,,5967175,2026-11-28T14:00:00Z,Modena,Padova,,,False,False,False,ITA2
+14,14,,5967176,2026-11-28T14:00:00Z,Palermo,Benevento,,,False,False,False,ITA2
+14,14,,5967177,2026-11-28T14:00:00Z,Sampdoria,Cremonese,,,False,False,False,ITA2
+14,14,,5967178,2026-11-28T14:00:00Z,Südtirol,Mantova,,,False,False,False,ITA2
+15,15,,5967179,2026-12-05T14:00:00Z,Avellino,Südtirol,,,False,False,False,ITA2
+15,15,,5967180,2026-12-05T14:00:00Z,Cesena,Carrarese,,,False,False,False,ITA2
+15,15,,5967181,2026-12-05T14:00:00Z,Cremonese,Catanzaro,,,False,False,False,ITA2
+15,15,,5967182,2026-12-05T14:00:00Z,Virtus Entella,Empoli,,,False,False,False,ITA2
+15,15,,5967183,2026-12-05T14:00:00Z,Juve Stabia,Benevento,,,False,False,False,ITA2
+15,15,,5967184,2026-12-05T14:00:00Z,Mantova,Ascoli,,,False,False,False,ITA2
+15,15,,5967185,2026-12-05T14:00:00Z,Modena,Arezzo,,,False,False,False,ITA2
+15,15,,5967186,2026-12-05T14:00:00Z,Padova,LR Vicenza,,,False,False,False,ITA2
+15,15,,5967187,2026-12-05T14:00:00Z,Pisa,Sampdoria,,,False,False,False,ITA2
+15,15,,5967188,2026-12-05T14:00:00Z,Hellas Verona,Palermo,,,False,False,False,ITA2
+16,16,,5967189,2026-12-08T14:00:00Z,Arezzo,Cesena,,,False,False,False,ITA2
+16,16,,5967190,2026-12-08T14:00:00Z,Ascoli,Juve Stabia,,,False,False,False,ITA2
+16,16,,5967191,2026-12-08T14:00:00Z,Benevento,Padova,,,False,False,False,ITA2
+16,16,,5967192,2026-12-08T14:00:00Z,Carrarese,Pisa,,,False,False,False,ITA2
+16,16,,5967193,2026-12-08T14:00:00Z,Catanzaro,Virtus Entella,,,False,False,False,ITA2
+16,16,,5967194,2026-12-08T14:00:00Z,Empoli,Südtirol,,,False,False,False,ITA2
+16,16,,5967195,2026-12-08T14:00:00Z,LR Vicenza,Mantova,,,False,False,False,ITA2
+16,16,,5967196,2026-12-08T14:00:00Z,Palermo,Cremonese,,,False,False,False,ITA2
+16,16,,5967197,2026-12-08T14:00:00Z,Sampdoria,Modena,,,False,False,False,ITA2
+16,16,,5967198,2026-12-08T14:00:00Z,Hellas Verona,Avellino,,,False,False,False,ITA2
+17,17,,5967199,2026-12-12T14:00:00Z,Avellino,Empoli,,,False,False,False,ITA2
+17,17,,5967200,2026-12-12T14:00:00Z,Cesena,Palermo,,,False,False,False,ITA2
+17,17,,5967201,2026-12-12T14:00:00Z,Cremonese,Carrarese,,,False,False,False,ITA2
+17,17,,5967202,2026-12-12T14:00:00Z,Virtus Entella,Arezzo,,,False,False,False,ITA2
+17,17,,5967203,2026-12-12T14:00:00Z,Juve Stabia,Padova,,,False,False,False,ITA2
+17,17,,5967204,2026-12-12T14:00:00Z,Mantova,Benevento,,,False,False,False,ITA2
+17,17,,5967205,2026-12-12T14:00:00Z,Modena,Catanzaro,,,False,False,False,ITA2
+17,17,,5967206,2026-12-12T14:00:00Z,Pisa,Ascoli,,,False,False,False,ITA2
+17,17,,5967207,2026-12-12T14:00:00Z,Sampdoria,LR Vicenza,,,False,False,False,ITA2
+17,17,,5967208,2026-12-12T14:00:00Z,Südtirol,Hellas Verona,,,False,False,False,ITA2
+18,18,,5967209,2026-12-19T14:00:00Z,Ascoli,Modena,,,False,False,False,ITA2
+18,18,,5967210,2026-12-19T14:00:00Z,Benevento,Pisa,,,False,False,False,ITA2
+18,18,,5967211,2026-12-19T14:00:00Z,Carrarese,Avellino,,,False,False,False,ITA2
+18,18,,5967212,2026-12-19T14:00:00Z,Catanzaro,Arezzo,,,False,False,False,ITA2
+18,18,,5967213,2026-12-19T14:00:00Z,Empoli,Sampdoria,,,False,False,False,ITA2
+18,18,,5967214,2026-12-19T14:00:00Z,Juve Stabia,Mantova,,,False,False,False,ITA2
+18,18,,5967215,2026-12-19T14:00:00Z,LR Vicenza,Südtirol,,,False,False,False,ITA2
+18,18,,5967216,2026-12-19T14:00:00Z,Padova,Cesena,,,False,False,False,ITA2
+18,18,,5967217,2026-12-19T14:00:00Z,Palermo,Virtus Entella,,,False,False,False,ITA2
+18,18,,5967218,2026-12-19T14:00:00Z,Hellas Verona,Cremonese,,,False,False,False,ITA2
+19,19,,5967219,2026-12-27T14:00:00Z,Arezzo,LR Vicenza,,,False,False,False,ITA2
+19,19,,5967220,2026-12-27T14:00:00Z,Avellino,Juve Stabia,,,False,False,False,ITA2
+19,19,,5967221,2026-12-27T14:00:00Z,Catanzaro,Empoli,,,False,False,False,ITA2
+19,19,,5967222,2026-12-27T14:00:00Z,Cesena,Pisa,,,False,False,False,ITA2
+19,19,,5967223,2026-12-27T14:00:00Z,Cremonese,Ascoli,,,False,False,False,ITA2
+19,19,,5967224,2026-12-27T14:00:00Z,Virtus Entella,Benevento,,,False,False,False,ITA2
+19,19,,5967225,2026-12-27T14:00:00Z,Mantova,Padova,,,False,False,False,ITA2
+19,19,,5967226,2026-12-27T14:00:00Z,Modena,Palermo,,,False,False,False,ITA2
+19,19,,5967227,2026-12-27T14:00:00Z,Sampdoria,Hellas Verona,,,False,False,False,ITA2
+19,19,,5967228,2026-12-27T14:00:00Z,Südtirol,Carrarese,,,False,False,False,ITA2
+20,20,,5967229,2027-01-09T14:00:00Z,Arezzo,Hellas Verona,,,False,False,False,ITA2
+20,20,,5967230,2027-01-09T14:00:00Z,Ascoli,Catanzaro,,,False,False,False,ITA2
+20,20,,5967231,2027-01-09T14:00:00Z,Cesena,Modena,,,False,False,False,ITA2
+20,20,,5967232,2027-01-09T14:00:00Z,Juve Stabia,Sampdoria,,,False,False,False,ITA2
+20,20,,5967233,2027-01-09T14:00:00Z,LR Vicenza,Virtus Entella,,,False,False,False,ITA2
+20,20,,5967234,2027-01-09T14:00:00Z,Mantova,Carrarese,,,False,False,False,ITA2
+20,20,,5967235,2027-01-09T14:00:00Z,Padova,Cremonese,,,False,False,False,ITA2
+20,20,,5967236,2027-01-09T14:00:00Z,Palermo,Empoli,,,False,False,False,ITA2
+20,20,,5967237,2027-01-09T14:00:00Z,Pisa,Avellino,,,False,False,False,ITA2
+20,20,,5967238,2027-01-09T14:00:00Z,Südtirol,Benevento,,,False,False,False,ITA2
+21,21,,5967239,2027-01-16T14:00:00Z,Ascoli,Südtirol,,,False,False,False,ITA2
+21,21,,5967240,2027-01-16T14:00:00Z,Avellino,Virtus Entella,,,False,False,False,ITA2
+21,21,,5967241,2027-01-16T14:00:00Z,Benevento,Arezzo,,,False,False,False,ITA2
+21,21,,5967242,2027-01-16T14:00:00Z,Carrarese,Padova,,,False,False,False,ITA2
+21,21,,5967243,2027-01-16T14:00:00Z,Catanzaro,Cesena,,,False,False,False,ITA2
+21,21,,5967244,2027-01-16T14:00:00Z,Cremonese,LR Vicenza,,,False,False,False,ITA2
+21,21,,5967245,2027-01-16T14:00:00Z,Empoli,Modena,,,False,False,False,ITA2
+21,21,,5967246,2027-01-16T14:00:00Z,Palermo,Pisa,,,False,False,False,ITA2
+21,21,,5967247,2027-01-16T14:00:00Z,Sampdoria,Mantova,,,False,False,False,ITA2
+21,21,,5967248,2027-01-16T14:00:00Z,Hellas Verona,Juve Stabia,,,False,False,False,ITA2
+22,22,,5967249,2027-01-23T14:00:00Z,Arezzo,Empoli,,,False,False,False,ITA2
+22,22,,5967250,2027-01-23T14:00:00Z,Cesena,Benevento,,,False,False,False,ITA2
+22,22,,5967251,2027-01-23T14:00:00Z,Virtus Entella,Sampdoria,,,False,False,False,ITA2
+22,22,,5967252,2027-01-23T14:00:00Z,Juve Stabia,Cremonese,,,False,False,False,ITA2
+22,22,,5967253,2027-01-23T14:00:00Z,LR Vicenza,Ascoli,,,False,False,False,ITA2
+22,22,,5967254,2027-01-23T14:00:00Z,Mantova,Avellino,,,False,False,False,ITA2
+22,22,,5967255,2027-01-23T14:00:00Z,Modena,Carrarese,,,False,False,False,ITA2
+22,22,,5967256,2027-01-23T14:00:00Z,Padova,Catanzaro,,,False,False,False,ITA2
+22,22,,5967257,2027-01-23T14:00:00Z,Pisa,Hellas Verona,,,False,False,False,ITA2
+22,22,,5967258,2027-01-23T14:00:00Z,Südtirol,Palermo,,,False,False,False,ITA2
+23,23,,5967259,2027-01-30T14:00:00Z,Ascoli,Padova,,,False,False,False,ITA2
+23,23,,5967260,2027-01-30T14:00:00Z,Avellino,Cesena,,,False,False,False,ITA2
+23,23,,5967261,2027-01-30T14:00:00Z,Benevento,Sampdoria,,,False,False,False,ITA2
+23,23,,5967262,2027-01-30T14:00:00Z,Carrarese,LR Vicenza,,,False,False,False,ITA2
+23,23,,5967263,2027-01-30T14:00:00Z,Catanzaro,Juve Stabia,,,False,False,False,ITA2
+23,23,,5967264,2027-01-30T14:00:00Z,Cremonese,Pisa,,,False,False,False,ITA2
+23,23,,5967265,2027-01-30T14:00:00Z,Empoli,Mantova,,,False,False,False,ITA2
+23,23,,5967266,2027-01-30T14:00:00Z,Virtus Entella,Südtirol,,,False,False,False,ITA2
+23,23,,5967267,2027-01-30T14:00:00Z,Palermo,Arezzo,,,False,False,False,ITA2
+23,23,,5967268,2027-01-30T14:00:00Z,Hellas Verona,Modena,,,False,False,False,ITA2
+24,24,,5967269,2027-02-06T14:00:00Z,Benevento,Cremonese,,,False,False,False,ITA2
+24,24,,5967270,2027-02-06T14:00:00Z,Cesena,Hellas Verona,,,False,False,False,ITA2
+24,24,,5967271,2027-02-06T14:00:00Z,Juve Stabia,Carrarese,,,False,False,False,ITA2
+24,24,,5967272,2027-02-06T14:00:00Z,LR Vicenza,Palermo,,,False,False,False,ITA2
+24,24,,5967273,2027-02-06T14:00:00Z,Mantova,Catanzaro,,,False,False,False,ITA2
+24,24,,5967274,2027-02-06T14:00:00Z,Modena,Virtus Entella,,,False,False,False,ITA2
+24,24,,5967275,2027-02-06T14:00:00Z,Padova,Arezzo,,,False,False,False,ITA2
+24,24,,5967276,2027-02-06T14:00:00Z,Pisa,Empoli,,,False,False,False,ITA2
+24,24,,5967277,2027-02-06T14:00:00Z,Sampdoria,Ascoli,,,False,False,False,ITA2
+24,24,,5967278,2027-02-06T14:00:00Z,Südtirol,Avellino,,,False,False,False,ITA2
+25,25,,5967279,2027-02-13T14:00:00Z,Arezzo,Sampdoria,,,False,False,False,ITA2
+25,25,,5967280,2027-02-13T14:00:00Z,Avellino,Ascoli,,,False,False,False,ITA2
+25,25,,5967281,2027-02-13T14:00:00Z,Catanzaro,Hellas Verona,,,False,False,False,ITA2
+25,25,,5967282,2027-02-13T14:00:00Z,Cremonese,Cesena,,,False,False,False,ITA2
+25,25,,5967283,2027-02-13T14:00:00Z,Empoli,Benevento,,,False,False,False,ITA2
+25,25,,5967284,2027-02-13T14:00:00Z,Virtus Entella,Carrarese,,,False,False,False,ITA2
+25,25,,5967285,2027-02-13T14:00:00Z,LR Vicenza,Padova,,,False,False,False,ITA2
+25,25,,5967286,2027-02-13T14:00:00Z,Modena,Südtirol,,,False,False,False,ITA2
+25,25,,5967287,2027-02-13T14:00:00Z,Palermo,Mantova,,,False,False,False,ITA2
+25,25,,5967288,2027-02-13T14:00:00Z,Pisa,Juve Stabia,,,False,False,False,ITA2
+26,26,,5967289,2027-02-20T14:00:00Z,Ascoli,Pisa,,,False,False,False,ITA2
+26,26,,5967290,2027-02-20T14:00:00Z,Benevento,Mantova,,,False,False,False,ITA2
+26,26,,5967291,2027-02-20T14:00:00Z,Carrarese,Catanzaro,,,False,False,False,ITA2
+26,26,,5967292,2027-02-20T14:00:00Z,Cesena,LR Vicenza,,,False,False,False,ITA2
+26,26,,5967293,2027-02-20T14:00:00Z,Cremonese,Palermo,,,False,False,False,ITA2
+26,26,,5967294,2027-02-20T14:00:00Z,Juve Stabia,Empoli,,,False,False,False,ITA2
+26,26,,5967295,2027-02-20T14:00:00Z,Padova,Modena,,,False,False,False,ITA2
+26,26,,5967296,2027-02-20T14:00:00Z,Sampdoria,Avellino,,,False,False,False,ITA2
+26,26,,5967297,2027-02-20T14:00:00Z,Südtirol,Arezzo,,,False,False,False,ITA2
+26,26,,5967298,2027-02-20T14:00:00Z,Hellas Verona,Virtus Entella,,,False,False,False,ITA2
+27,27,,5967299,2027-02-27T14:00:00Z,Arezzo,Carrarese,,,False,False,False,ITA2
+27,27,,5967300,2027-02-27T14:00:00Z,Catanzaro,Südtirol,,,False,False,False,ITA2
+27,27,,5967301,2027-02-27T14:00:00Z,Empoli,Ascoli,,,False,False,False,ITA2
+27,27,,5967302,2027-02-27T14:00:00Z,Virtus Entella,Cremonese,,,False,False,False,ITA2
+27,27,,5967303,2027-02-27T14:00:00Z,Juve Stabia,Modena,,,False,False,False,ITA2
+27,27,,5967304,2027-02-27T14:00:00Z,LR Vicenza,Avellino,,,False,False,False,ITA2
+27,27,,5967305,2027-02-27T14:00:00Z,Mantova,Cesena,,,False,False,False,ITA2
+27,27,,5967306,2027-02-27T14:00:00Z,Palermo,Hellas Verona,,,False,False,False,ITA2
+27,27,,5967307,2027-02-27T14:00:00Z,Pisa,Benevento,,,False,False,False,ITA2
+27,27,,5967308,2027-02-27T14:00:00Z,Sampdoria,Padova,,,False,False,False,ITA2
+28,28,,5967309,2027-03-02T14:00:00Z,Ascoli,Arezzo,,,False,False,False,ITA2
+28,28,,5967310,2027-03-02T14:00:00Z,Avellino,Catanzaro,,,False,False,False,ITA2
+28,28,,5967311,2027-03-02T14:00:00Z,Benevento,Juve Stabia,,,False,False,False,ITA2
+28,28,,5967312,2027-03-02T14:00:00Z,Carrarese,Palermo,,,False,False,False,ITA2
+28,28,,5967313,2027-03-02T14:00:00Z,Cesena,Virtus Entella,,,False,False,False,ITA2
+28,28,,5967314,2027-03-02T14:00:00Z,Cremonese,Sampdoria,,,False,False,False,ITA2
+28,28,,5967315,2027-03-02T14:00:00Z,Modena,Pisa,,,False,False,False,ITA2
+28,28,,5967316,2027-03-02T14:00:00Z,Padova,Mantova,,,False,False,False,ITA2
+28,28,,5967317,2027-03-02T14:00:00Z,Südtirol,LR Vicenza,,,False,False,False,ITA2
+28,28,,5967318,2027-03-02T14:00:00Z,Hellas Verona,Empoli,,,False,False,False,ITA2
+29,29,,5967319,2027-03-06T14:00:00Z,Arezzo,Juve Stabia,,,False,False,False,ITA2
+29,29,,5967320,2027-03-06T14:00:00Z,Avellino,Hellas Verona,,,False,False,False,ITA2
+29,29,,5967321,2027-03-06T14:00:00Z,Catanzaro,Cremonese,,,False,False,False,ITA2
+29,29,,5967322,2027-03-06T14:00:00Z,Empoli,Carrarese,,,False,False,False,ITA2
+29,29,,5967323,2027-03-06T14:00:00Z,Virtus Entella,Ascoli,,,False,False,False,ITA2
+29,29,,5967324,2027-03-06T14:00:00Z,Mantova,Südtirol,,,False,False,False,ITA2
+29,29,,5967325,2027-03-06T14:00:00Z,Padova,Benevento,,,False,False,False,ITA2
+29,29,,5967326,2027-03-06T14:00:00Z,Palermo,Modena,,,False,False,False,ITA2
+29,29,,5967327,2027-03-06T14:00:00Z,Pisa,LR Vicenza,,,False,False,False,ITA2
+29,29,,5967328,2027-03-06T14:00:00Z,Sampdoria,Cesena,,,False,False,False,ITA2
+30,30,,5967329,2027-03-13T14:00:00Z,Benevento,Virtus Entella,,,False,False,False,ITA2
+30,30,,5967330,2027-03-13T14:00:00Z,Carrarese,Südtirol,,,False,False,False,ITA2
+30,30,,5967331,2027-03-13T14:00:00Z,Catanzaro,Pisa,,,False,False,False,ITA2
+30,30,,5967332,2027-03-13T14:00:00Z,Cesena,Padova,,,False,False,False,ITA2
+30,30,,5967333,2027-03-13T14:00:00Z,Cremonese,Mantova,,,False,False,False,ITA2
+30,30,,5967334,2027-03-13T14:00:00Z,Empoli,Avellino,,,False,False,False,ITA2
+30,30,,5967335,2027-03-13T14:00:00Z,Juve Stabia,Palermo,,,False,False,False,ITA2
+30,30,,5967336,2027-03-13T14:00:00Z,LR Vicenza,Arezzo,,,False,False,False,ITA2
+30,30,,5967337,2027-03-13T14:00:00Z,Modena,Ascoli,,,False,False,False,ITA2
+30,30,,5967338,2027-03-13T14:00:00Z,Hellas Verona,Sampdoria,,,False,False,False,ITA2
+31,31,,5967339,2027-03-20T14:00:00Z,Arezzo,Modena,,,False,False,False,ITA2
+31,31,,5967340,2027-03-20T14:00:00Z,Ascoli,Cremonese,,,False,False,False,ITA2
+31,31,,5967341,2027-03-20T14:00:00Z,Avellino,Benevento,,,False,False,False,ITA2
+31,31,,5967342,2027-03-20T14:00:00Z,Carrarese,Cesena,,,False,False,False,ITA2
+31,31,,5967343,2027-03-20T14:00:00Z,Virtus Entella,Catanzaro,,,False,False,False,ITA2
+31,31,,5967344,2027-03-20T14:00:00Z,LR Vicenza,Hellas Verona,,,False,False,False,ITA2
+31,31,,5967345,2027-03-20T14:00:00Z,Mantova,Juve Stabia,,,False,False,False,ITA2
+31,31,,5967346,2027-03-20T14:00:00Z,Padova,Palermo,,,False,False,False,ITA2
+31,31,,5967347,2027-03-20T14:00:00Z,Sampdoria,Empoli,,,False,False,False,ITA2
+31,31,,5967348,2027-03-20T14:00:00Z,Südtirol,Pisa,,,False,False,False,ITA2
+32,32,,5967349,2027-04-03T13:00:00Z,Benevento,Ascoli,,,False,False,False,ITA2
+32,32,,5967350,2027-04-03T13:00:00Z,Catanzaro,LR Vicenza,,,False,False,False,ITA2
+32,32,,5967351,2027-04-03T13:00:00Z,Cesena,Südtirol,,,False,False,False,ITA2
+32,32,,5967352,2027-04-03T13:00:00Z,Empoli,Padova,,,False,False,False,ITA2
+32,32,,5967353,2027-04-03T13:00:00Z,Juve Stabia,Virtus Entella,,,False,False,False,ITA2
+32,32,,5967354,2027-04-03T13:00:00Z,Modena,Sampdoria,,,False,False,False,ITA2
+32,32,,5967355,2027-04-03T13:00:00Z,Palermo,Avellino,,,False,False,False,ITA2
+32,32,,5967356,2027-04-03T13:00:00Z,Pisa,Carrarese,,,False,False,False,ITA2
+32,32,,5967357,2027-04-03T13:00:00Z,Hellas Verona,Mantova,,,False,False,False,ITA2
+32,32,,5967418,2027-04-03T13:00:00Z,Cremonese,Arezzo,,,False,False,False,ITA2
+33,33,,5967358,2027-04-10T13:00:00Z,Arezzo,Catanzaro,,,False,False,False,ITA2
+33,33,,5967359,2027-04-10T13:00:00Z,Ascoli,Cesena,,,False,False,False,ITA2
+33,33,,5967360,2027-04-10T13:00:00Z,Avellino,Cremonese,,,False,False,False,ITA2
+33,33,,5967361,2027-04-10T13:00:00Z,Carrarese,Hellas Verona,,,False,False,False,ITA2
+33,33,,5967362,2027-04-10T13:00:00Z,Virtus Entella,Pisa,,,False,False,False,ITA2
+33,33,,5967363,2027-04-10T13:00:00Z,LR Vicenza,Benevento,,,False,False,False,ITA2
+33,33,,5967364,2027-04-10T13:00:00Z,Mantova,Modena,,,False,False,False,ITA2
+33,33,,5967365,2027-04-10T13:00:00Z,Padova,Juve Stabia,,,False,False,False,ITA2
+33,33,,5967366,2027-04-10T13:00:00Z,Sampdoria,Palermo,,,False,False,False,ITA2
+33,33,,5967367,2027-04-10T13:00:00Z,Südtirol,Empoli,,,False,False,False,ITA2
+34,34,,5967368,2027-04-17T13:00:00Z,Arezzo,Mantova,,,False,False,False,ITA2
+34,34,,5967369,2027-04-17T13:00:00Z,Catanzaro,Benevento,,,False,False,False,ITA2
+34,34,,5967370,2027-04-17T13:00:00Z,Cremonese,Südtirol,,,False,False,False,ITA2
+34,34,,5967371,2027-04-17T13:00:00Z,Empoli,Virtus Entella,,,False,False,False,ITA2
+34,34,,5967372,2027-04-17T13:00:00Z,Juve Stabia,Avellino,,,False,False,False,ITA2
+34,34,,5967373,2027-04-17T13:00:00Z,Modena,LR Vicenza,,,False,False,False,ITA2
+34,34,,5967374,2027-04-17T13:00:00Z,Palermo,Ascoli,,,False,False,False,ITA2
+34,34,,5967375,2027-04-17T13:00:00Z,Pisa,Cesena,,,False,False,False,ITA2
+34,34,,5967376,2027-04-17T13:00:00Z,Sampdoria,Carrarese,,,False,False,False,ITA2
+34,34,,5967377,2027-04-17T13:00:00Z,Hellas Verona,Padova,,,False,False,False,ITA2
+35,35,,5967378,2027-04-24T13:00:00Z,Ascoli,Mantova,,,False,False,False,ITA2
+35,35,,5967379,2027-04-24T13:00:00Z,Avellino,Modena,,,False,False,False,ITA2
+35,35,,5967380,2027-04-24T13:00:00Z,Benevento,Carrarese,,,False,False,False,ITA2
+35,35,,5967381,2027-04-24T13:00:00Z,Catanzaro,Sampdoria,,,False,False,False,ITA2
+35,35,,5967382,2027-04-24T13:00:00Z,Cesena,Juve Stabia,,,False,False,False,ITA2
+35,35,,5967383,2027-04-24T13:00:00Z,Cremonese,Hellas Verona,,,False,False,False,ITA2
+35,35,,5967384,2027-04-24T13:00:00Z,Virtus Entella,Palermo,,,False,False,False,ITA2
+35,35,,5967385,2027-04-24T13:00:00Z,LR Vicenza,Empoli,,,False,False,False,ITA2
+35,35,,5967386,2027-04-24T13:00:00Z,Pisa,Arezzo,,,False,False,False,ITA2
+35,35,,5967387,2027-04-24T13:00:00Z,Südtirol,Padova,,,False,False,False,ITA2
+36,36,,5967388,2027-05-01T13:00:00Z,Arezzo,Avellino,,,False,False,False,ITA2
+36,36,,5967389,2027-05-01T13:00:00Z,Carrarese,Ascoli,,,False,False,False,ITA2
+36,36,,5967390,2027-05-01T13:00:00Z,Empoli,Cesena,,,False,False,False,ITA2
+36,36,,5967391,2027-05-01T13:00:00Z,Juve Stabia,LR Vicenza,,,False,False,False,ITA2
+36,36,,5967392,2027-05-01T13:00:00Z,Mantova,Virtus Entella,,,False,False,False,ITA2
+36,36,,5967393,2027-05-01T13:00:00Z,Modena,Cremonese,,,False,False,False,ITA2
+36,36,,5967394,2027-05-01T13:00:00Z,Padova,Pisa,,,False,False,False,ITA2
+36,36,,5967395,2027-05-01T13:00:00Z,Palermo,Catanzaro,,,False,False,False,ITA2
+36,36,,5967396,2027-05-01T13:00:00Z,Sampdoria,Südtirol,,,False,False,False,ITA2
+36,36,,5967397,2027-05-01T13:00:00Z,Hellas Verona,Benevento,,,False,False,False,ITA2
+37,37,,5967398,2027-05-08T13:00:00Z,Ascoli,Hellas Verona,,,False,False,False,ITA2
+37,37,,5967399,2027-05-08T13:00:00Z,Avellino,Carrarese,,,False,False,False,ITA2
+37,37,,5967400,2027-05-08T13:00:00Z,Benevento,Palermo,,,False,False,False,ITA2
+37,37,,5967401,2027-05-08T13:00:00Z,Catanzaro,Modena,,,False,False,False,ITA2
+37,37,,5967402,2027-05-08T13:00:00Z,Cesena,Arezzo,,,False,False,False,ITA2
+37,37,,5967403,2027-05-08T13:00:00Z,Cremonese,Empoli,,,False,False,False,ITA2
+37,37,,5967404,2027-05-08T13:00:00Z,Virtus Entella,Padova,,,False,False,False,ITA2
+37,37,,5967405,2027-05-08T13:00:00Z,LR Vicenza,Sampdoria,,,False,False,False,ITA2
+37,37,,5967406,2027-05-08T13:00:00Z,Pisa,Mantova,,,False,False,False,ITA2
+37,37,,5967407,2027-05-08T13:00:00Z,Südtirol,Juve Stabia,,,False,False,False,ITA2
+38,38,,5967408,2027-05-14T13:00:00Z,Arezzo,Virtus Entella,,,False,False,False,ITA2
+38,38,,5967409,2027-05-14T13:00:00Z,Carrarese,Cremonese,,,False,False,False,ITA2
+38,38,,5967410,2027-05-14T13:00:00Z,Empoli,Catanzaro,,,False,False,False,ITA2
+38,38,,5967411,2027-05-14T13:00:00Z,Juve Stabia,Ascoli,,,False,False,False,ITA2
+38,38,,5967412,2027-05-14T13:00:00Z,Mantova,LR Vicenza,,,False,False,False,ITA2
+38,38,,5967413,2027-05-14T13:00:00Z,Modena,Benevento,,,False,False,False,ITA2
+38,38,,5967414,2027-05-14T13:00:00Z,Padova,Avellino,,,False,False,False,ITA2
+38,38,,5967415,2027-05-14T13:00:00Z,Palermo,Cesena,,,False,False,False,ITA2
+38,38,,5967416,2027-05-14T13:00:00Z,Sampdoria,Pisa,,,False,False,False,ITA2
+38,38,,5967417,2027-05-14T13:00:00Z,Hellas Verona,Südtirol,,,False,False,False,ITA2
+5,5,,5967079,2026-09-20T13:00:00.000Z,Arezzo,Südtirol,1 - 4,FT,True,True,False,ITA2
+5,5,,5967084,2026-09-20T15:15:00.000Z,Mantova,Pisa,2 - 2,FT,True,True,False,ITA2
+5,5,,5967085,2026-09-20T17:30:00.000Z,Modena,Empoli,2 - 1,FT,True,True,False,ITA2
+5,5,,5967088,2026-09-20T13:00:00.000Z,Hellas Verona,LR Vicenza,2 - 1,FT,True,True,False,ITA2

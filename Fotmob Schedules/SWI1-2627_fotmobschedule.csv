@@ -1,0 +1,133 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5804220,2026-07-25T16:00:00Z,Lausanne,Grasshopper,1 - 1,FT,True,True,False,SWI1
+1,1,,5804221,2026-07-25T16:00:00Z,Servette,Basel,0 - 1,FT,True,True,False,SWI1
+1,1,,5804222,2026-07-25T18:30:00Z,Luzern,Thun,1 - 3,FT,True,True,False,SWI1
+1,1,,5804223,2026-07-26T12:00:00Z,Young Boys,Sion,4 - 2,FT,True,True,False,SWI1
+1,1,,5804224,2026-07-26T14:30:00Z,Lugano,FC Vaduz,2 - 1,FT,True,True,False,SWI1
+1,1,,5804225,2026-07-26T14:30:00Z,St. Gallen,FC Zürich,2 - 1,FT,True,True,False,SWI1
+2,2,,5804226,2026-08-01T16:00:00Z,Basel,Lausanne,0 - 1,FT,True,True,False,SWI1
+2,2,,5804227,2026-08-01T16:00:00Z,FC Zürich,Servette,2 - 1,FT,True,True,False,SWI1
+2,2,,5804228,2026-08-01T18:30:00Z,Thun,Young Boys,0 - 6,FT,True,True,False,SWI1
+2,2,,5804229,2026-08-02T12:00:00Z,FC Vaduz,St. Gallen,2 - 3,FT,True,True,False,SWI1
+2,2,,5804230,2026-08-02T14:30:00Z,Grasshopper,Lugano,1 - 4,FT,True,True,False,SWI1
+2,2,,5804231,2026-08-02T14:30:00Z,Sion,Luzern,3 - 0,FT,True,True,False,SWI1
+3,3,,5804233,2026-08-08T16:00:00Z,Lausanne,Young Boys,2 - 2,FT,True,True,False,SWI1
+3,3,,5804234,2026-08-08T18:30:00Z,Servette,Grasshopper,2 - 1,FT,True,True,False,SWI1
+3,3,,5804235,2026-08-09T12:00:00Z,Lugano,FC Zürich,5 - 0,FT,True,True,False,SWI1
+3,3,,5804232,2026-08-09T14:30:00Z,Basel,Thun,4 - 2,FT,True,True,False,SWI1
+3,3,,5804236,2026-08-09T14:30:00Z,Sion,FC Vaduz,3 - 2,FT,True,True,False,SWI1
+3,3,,5804237,2026-08-09T14:30:00Z,St. Gallen,Luzern,2 - 2,FT,True,True,False,SWI1
+4,4,,5804238,2026-08-22T16:00:00Z,Luzern,Lausanne,1 - 0,FT,True,True,False,SWI1
+4,4,,5804239,2026-08-22T18:30:00Z,FC Zürich,Basel,1 - 2,FT,True,True,False,SWI1
+4,4,,5804240,2026-08-23T12:00:00Z,Young Boys,FC Vaduz,4 - 2,FT,True,True,False,SWI1
+5,5,,5804244,2026-08-29T16:00:00Z,Lausanne,FC Zürich,2 - 3,FT,True,True,False,SWI1
+5,5,,5804245,2026-08-29T16:00:00Z,Servette,Luzern,1 - 1,FT,True,True,False,SWI1
+5,5,,5804246,2026-08-29T18:30:00Z,Young Boys,Basel,3 - 3,FT,True,True,False,SWI1
+5,5,,5804247,2026-08-30T12:00:00Z,Sion,Lugano,1 - 2,FT,True,True,False,SWI1
+5,5,,5804248,2026-08-30T14:30:00Z,St. Gallen,Thun,3 - 4,FT,True,True,False,SWI1
+5,5,,5804249,2026-08-30T14:30:00Z,FC Vaduz,Grasshopper,5 - 2,FT,True,True,False,SWI1
+6,6,,5804250,2026-09-01T18:30:00Z,FC Zürich,Young Boys,2 - 4,FT,True,True,False,SWI1
+6,6,,5804251,2026-09-02T18:30:00Z,Grasshopper,St. Gallen,2 - 0,FT,True,True,False,SWI1
+6,6,,5804252,2026-09-02T18:30:00Z,Luzern,FC Vaduz,2 - 1,FT,True,True,False,SWI1
+6,6,,5804253,2026-09-02T18:30:00Z,Thun,Lausanne,0 - 0,FT,True,True,False,SWI1
+6,6,,5804254,2026-09-03T18:30:00Z,Basel,Sion,1 - 2,FT,True,True,False,SWI1
+6,6,,5804255,2026-09-03T18:30:00Z,Lugano,Servette,1 - 0,FT,True,True,False,SWI1
+7,7,,5804256,2026-09-05T16:00:00Z,FC Vaduz,Lausanne,3 - 1,FT,True,True,False,SWI1
+7,7,,5804257,2026-09-05T16:00:00Z,Young Boys,Luzern,3 - 3,FT,True,True,False,SWI1
+7,7,,5804258,2026-09-05T18:30:00Z,Grasshopper,FC Zürich,2 - 2,FT,True,True,False,SWI1
+7,7,,5804259,2026-09-06T12:00:00Z,Servette,St. Gallen,0 - 2,FT,True,True,False,SWI1
+7,7,,5804260,2026-09-06T14:30:00Z,Basel,Lugano,1 - 3,FT,True,True,False,SWI1
+7,7,,5804261,2026-09-06T14:30:00Z,Sion,Thun,3 - 2,FT,True,True,False,SWI1
+8,8,,5804262,2026-09-12T16:00:00Z,St. Gallen,Sion,0 - 3,FT,True,True,False,SWI1
+8,8,,5804263,2026-09-12T16:00:00Z,Thun,Grasshopper,0 - 1,FT,True,True,False,SWI1
+8,8,,5804264,2026-09-12T17:00:00Z,Lugano,Young Boys,2 - 2,FT,True,True,False,SWI1
+8,8,,5804265,2026-09-13T12:00:00Z,FC Zürich,FC Vaduz,2 - 1,FT,True,True,False,SWI1
+8,8,,5804266,2026-09-13T14:30:00Z,Lausanne,Servette,0 - 1,FT,True,True,False,SWI1
+8,8,,5804267,2026-09-13T14:30:00Z,Luzern,Basel,2 - 4,FT,True,True,False,SWI1
+4,4,,5804241,2026-09-15T17:00:00Z,Grasshopper,Sion,2 - 5,FT,True,True,False,SWI1
+4,4,,5804242,2026-09-16T17:00:00Z,Lugano,St. Gallen,4 - 1,FT,True,True,False,SWI1
+4,4,,5804243,2026-09-16T17:00:00Z,Thun,Servette,2 - 4,FT,True,True,False,SWI1
+9,9,,5804268,2026-09-19T16:00:00Z,Luzern,Grasshopper,5 - 1,FT,True,True,False,SWI1
+9,9,,5804269,2026-09-19T16:00:00Z,Young Boys,Servette,3 - 2,FT,True,True,False,SWI1
+9,9,,5804270,2026-09-19T16:00:00Z,Sion,FC Zürich,1 - 1,FT,True,True,False,SWI1
+10,10,,5804274,2026-10-10T16:00:00Z,Servette,Sion,,,False,False,False,SWI1
+10,10,,5804275,2026-10-10T16:00:00Z,FC Zürich,Thun,,,False,False,False,SWI1
+10,10,,5804276,2026-10-10T18:30:00Z,Lugano,Luzern,,,False,False,False,SWI1
+10,10,,5804277,2026-10-11T12:00:00Z,Grasshopper,Young Boys,,,False,False,False,SWI1
+10,10,,5804278,2026-10-11T14:30:00Z,St. Gallen,Lausanne,,,False,False,False,SWI1
+10,10,,5804279,2026-10-11T14:30:00Z,FC Vaduz,Basel,,,False,False,False,SWI1
+11,11,,5804281,2026-10-24T16:00:00Z,Servette,FC Vaduz,,,False,False,False,SWI1
+11,11,,5804285,2026-10-24T16:00:00Z,FC Zürich,Luzern,,,False,False,False,SWI1
+11,11,,5804284,2026-10-24T18:30:00Z,Young Boys,St. Gallen,,,False,False,False,SWI1
+11,11,,5804283,2026-10-25T13:00:00Z,Thun,Lugano,,,False,False,False,SWI1
+11,11,,5804280,2026-10-25T15:30:00Z,Basel,Grasshopper,,,False,False,False,SWI1
+11,11,,5804282,2026-10-25T15:30:00Z,Sion,Lausanne,,,False,False,False,SWI1
+12,12,,5804286,2026-10-31T17:00:00Z,Grasshopper,FC Vaduz,,,False,False,False,SWI1
+12,12,,5804290,2026-10-31T17:00:00Z,St. Gallen,Servette,,,False,False,False,SWI1
+12,12,,5804289,2026-10-31T19:30:00Z,Luzern,Sion,,,False,False,False,SWI1
+12,12,,5804291,2026-11-01T13:00:00Z,Young Boys,FC Zürich,,,False,False,False,SWI1
+12,12,,5804287,2026-11-01T15:30:00Z,Lausanne,Thun,,,False,False,False,SWI1
+12,12,,5804288,2026-11-01T15:30:00Z,Lugano,Basel,,,False,False,False,SWI1
+13,13,,5804293,2026-11-07T17:00:00Z,Luzern,Young Boys,,,False,False,False,SWI1
+13,13,,5804297,2026-11-07T17:00:00Z,FC Vaduz,Sion,,,False,False,False,SWI1
+13,13,,5804292,2026-11-07T19:30:00Z,Grasshopper,Lausanne,,,False,False,False,SWI1
+13,13,,5804295,2026-11-08T13:00:00Z,St. Gallen,Lugano,,,False,False,False,SWI1
+13,13,,5804294,2026-11-08T15:30:00Z,Servette,FC Zürich,,,False,False,False,SWI1
+13,13,,5804296,2026-11-08T15:30:00Z,Thun,Basel,,,False,False,False,SWI1
+14,14,,5804300,2026-11-21T17:00:00Z,Lugano,Grasshopper,,,False,False,False,SWI1
+14,14,,5804302,2026-11-21T17:00:00Z,Young Boys,Thun,,,False,False,False,SWI1
+14,14,,5804301,2026-11-21T19:30:00Z,Sion,Servette,,,False,False,False,SWI1
+14,14,,5804303,2026-11-22T13:00:00Z,FC Zürich,St. Gallen,,,False,False,False,SWI1
+14,14,,5804298,2026-11-22T15:30:00Z,Basel,Luzern,,,False,False,False,SWI1
+14,14,,5804299,2026-11-22T15:30:00Z,Lausanne,FC Vaduz,,,False,False,False,SWI1
+15,15,,5804304,2026-11-28T17:00:00Z,Grasshopper,Basel,,,False,False,False,SWI1
+15,15,,5804309,2026-11-28T17:00:00Z,FC Vaduz,FC Zürich,,,False,False,False,SWI1
+15,15,,5804306,2026-11-28T19:30:00Z,Servette,Lausanne,,,False,False,False,SWI1
+15,15,,5804305,2026-11-29T13:00:00Z,Luzern,Lugano,,,False,False,False,SWI1
+15,15,,5804307,2026-11-29T15:30:00Z,Sion,Young Boys,,,False,False,False,SWI1
+15,15,,5804308,2026-11-29T15:30:00Z,Thun,St. Gallen,,,False,False,False,SWI1
+16,16,,5804313,2026-12-05T17:00:00Z,Thun,Luzern,,,False,False,False,SWI1
+16,16,,5804314,2026-12-05T17:00:00Z,FC Vaduz,Young Boys,,,False,False,False,SWI1
+16,16,,5804315,2026-12-05T19:30:00Z,FC Zürich,Lugano,,,False,False,False,SWI1
+16,16,,5804310,2026-12-06T13:00:00Z,Basel,Servette,,,False,False,False,SWI1
+16,16,,5804311,2026-12-06T15:30:00Z,Lausanne,Sion,,,False,False,False,SWI1
+16,16,,5804312,2026-12-06T15:30:00Z,St. Gallen,Grasshopper,,,False,False,False,SWI1
+17,17,,5804319,2026-12-12T17:00:00Z,St. Gallen,FC Vaduz,,,False,False,False,SWI1
+17,17,,5804321,2026-12-12T17:00:00Z,FC Zürich,Grasshopper,,,False,False,False,SWI1
+17,17,,5804320,2026-12-12T19:30:00Z,Young Boys,Lausanne,,,False,False,False,SWI1
+17,17,,5804317,2026-12-13T13:00:00Z,Luzern,Servette,,,False,False,False,SWI1
+17,17,,5804316,2026-12-13T15:30:00Z,Lugano,Thun,,,False,False,False,SWI1
+17,17,,5804318,2026-12-13T15:30:00Z,Sion,Basel,,,False,False,False,SWI1
+18,18,,5804323,2026-12-19T17:00:00Z,Grasshopper,Luzern,,,False,False,False,SWI1
+18,18,,5804324,2026-12-19T17:00:00Z,Lausanne,St. Gallen,,,False,False,False,SWI1
+18,18,,5804322,2026-12-19T19:30:00Z,Basel,FC Zürich,,,False,False,False,SWI1
+18,18,,5804326,2026-12-20T13:00:00Z,Thun,Sion,,,False,False,False,SWI1
+18,18,,5804325,2026-12-20T15:30:00Z,Servette,Young Boys,,,False,False,False,SWI1
+18,18,,5804327,2026-12-20T15:30:00Z,FC Vaduz,Lugano,,,False,False,False,SWI1
+19,19,,5804328,2027-01-16T17:00:00Z,Basel,FC Vaduz,,,False,False,False,SWI1
+19,19,,5804330,2027-01-16T17:00:00Z,Servette,Thun,,,False,False,False,SWI1
+19,19,,5804332,2027-01-16T19:30:00Z,Young Boys,Lugano,,,False,False,False,SWI1
+19,19,,5804333,2027-01-17T13:00:00Z,FC Zürich,Lausanne,,,False,False,False,SWI1
+19,19,,5804329,2027-01-17T15:30:00Z,Luzern,St. Gallen,,,False,False,False,SWI1
+19,19,,5804331,2027-01-17T15:30:00Z,Sion,Grasshopper,,,False,False,False,SWI1
+20,20,,5804338,2027-01-23T17:00:00Z,Thun,FC Zürich,,,False,False,False,SWI1
+20,20,,5804339,2027-01-23T17:00:00Z,FC Vaduz,Luzern,,,False,False,False,SWI1
+20,20,,5804334,2027-01-23T19:30:00Z,Grasshopper,Servette,,,False,False,False,SWI1
+20,20,,5804335,2027-01-24T13:00:00Z,Lausanne,Basel,,,False,False,False,SWI1
+20,20,,5804336,2027-01-24T15:30:00Z,Lugano,Sion,,,False,False,False,SWI1
+20,20,,5804337,2027-01-24T15:30:00Z,St. Gallen,Young Boys,,,False,False,False,SWI1
+21,21,,5804341,2027-01-30T17:00:00Z,Grasshopper,Thun,,,False,False,False,SWI1
+21,21,,5804342,2027-01-30T17:00:00Z,Lugano,Lausanne,,,False,False,False,SWI1
+21,21,,5804340,2027-01-30T19:30:00Z,Basel,Young Boys,,,False,False,False,SWI1
+21,21,,5804344,2027-01-31T13:00:00Z,Sion,St. Gallen,,,False,False,False,SWI1
+21,21,,5804343,2027-01-31T15:30:00Z,Luzern,FC Zürich,,,False,False,False,SWI1
+21,21,,5804345,2027-01-31T15:30:00Z,FC Vaduz,Servette,,,False,False,False,SWI1
+22,22,,5804346,2027-02-06T17:00:00Z,Lausanne,Luzern,,,False,False,False,SWI1
+22,22,,5804349,2027-02-06T17:00:00Z,Thun,FC Vaduz,,,False,False,False,SWI1
+22,22,,5804348,2027-02-06T19:30:00Z,St. Gallen,Basel,,,False,False,False,SWI1
+22,22,,5804351,2027-02-07T13:00:00Z,FC Zürich,Sion,,,False,False,False,SWI1
+22,22,,5804347,2027-02-07T15:30:00Z,Servette,Lugano,,,False,False,False,SWI1
+22,22,,5804350,2027-02-07T15:30:00Z,Young Boys,Grasshopper,,,False,False,False,SWI1
+9,9,,5804271,2026-09-20T12:00:00.000Z,FC Vaduz,Thun,1 - 2,FT,True,True,False,SWI1
+9,9,,5804272,2026-09-20T14:30:00.000Z,Basel,St. Gallen,1 - 3,FT,True,True,False,SWI1
+9,9,,5804273,2026-09-20T14:30:00.000Z,Lausanne,Lugano,0 - 4,FT,True,True,False,SWI1

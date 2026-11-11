@@ -1,0 +1,307 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5881143,2026-08-28T18:30:00Z,Bayern München,VfB Stuttgart,5 - 1,FT,True,True,False,GER1
+1,1,,5881146,2026-08-29T13:30:00Z,Elversberg,Bayer Leverkusen,3 - 2,FT,True,True,False,GER1
+1,1,,5881147,2026-08-29T13:30:00Z,1. FC Köln,Hoffenheim,3 - 2,FT,True,True,False,GER1
+1,1,,5881149,2026-08-29T13:30:00Z,Mainz 05,Paderborn,0 - 0,FT,True,True,False,GER1
+1,1,,5881150,2026-08-29T13:30:00Z,RB Leipzig,Borussia Mönchengladbach,3 - 0,FT,True,True,False,GER1
+1,1,,5881151,2026-08-29T13:30:00Z,Union Berlin,Eintracht Frankfurt,3 - 3,FT,True,True,False,GER1
+1,1,,5881145,2026-08-29T16:30:00Z,Borussia Dortmund,Hamburger SV,2 - 0,FT,True,True,False,GER1
+1,1,,5881148,2026-08-30T13:30:00Z,Freiburg,Werder Bremen,4 - 1,FT,True,True,False,GER1
+1,1,,5881144,2026-08-30T15:30:00Z,Augsburg,Schalke 04,3 - 0,FT,True,True,False,GER1
+2,2,,5881159,2026-09-04T18:30:00Z,VfB Stuttgart,1. FC Köln,4 - 1,FT,True,True,False,GER1
+2,2,,5881152,2026-09-05T13:30:00Z,Bayer Leverkusen,Union Berlin,4 - 0,FT,True,True,False,GER1
+2,2,,5881153,2026-09-05T13:30:00Z,Borussia Mönchengladbach,Elversberg,3 - 4,FT,True,True,False,GER1
+2,2,,5881156,2026-09-05T13:30:00Z,Hoffenheim,Borussia Dortmund,2 - 3,FT,True,True,False,GER1
+2,2,,5881157,2026-09-05T13:30:00Z,Paderborn,Freiburg,0 - 1,FT,True,True,False,GER1
+2,2,,5881160,2026-09-05T13:30:00Z,Werder Bremen,RB Leipzig,3 - 1,FT,True,True,False,GER1
+2,2,,5881158,2026-09-05T16:30:00Z,Schalke 04,Bayern München,0 - 0,FT,True,True,False,GER1
+2,2,,5881155,2026-09-06T13:30:00Z,Hamburger SV,Mainz 05,0 - 5,FT,True,True,False,GER1
+2,2,,5881154,2026-09-06T15:30:00Z,Eintracht Frankfurt,Augsburg,1 - 4,FT,True,True,False,GER1
+3,3,,5881169,2026-09-11T18:30:00Z,Union Berlin,Schalke 04,1 - 3,FT,True,True,False,GER1
+3,3,,5881161,2026-09-12T13:30:00Z,Augsburg,Bayer Leverkusen,2 - 2,FT,True,True,False,GER1
+3,3,,5881162,2026-09-12T13:30:00Z,Borussia Dortmund,Paderborn,3 - 0,FT,True,True,False,GER1
+3,3,,5881165,2026-09-12T13:30:00Z,Freiburg,Borussia Mönchengladbach,5 - 0,FT,True,True,False,GER1
+3,3,,5881166,2026-09-12T13:30:00Z,Hoffenheim,VfB Stuttgart,2 - 1,FT,True,True,False,GER1
+3,3,,5881167,2026-09-12T13:30:00Z,Mainz 05,Eintracht Frankfurt,1 - 3,FT,True,True,False,GER1
+3,3,,5881164,2026-09-12T16:30:00Z,1. FC Köln,Werder Bremen,1 - 1,FT,True,True,False,GER1
+3,3,,5881168,2026-09-13T13:30:00Z,RB Leipzig,Hamburger SV,5 - 0,FT,True,True,False,GER1
+3,3,,5881163,2026-09-13T15:30:00Z,Elversberg,Bayern München,1 - 2,FT,True,True,False,GER1
+4,4,,5881171,2026-09-18T18:30:00Z,Bayern München,Union Berlin,7 - 0,FT,True,True,False,GER1
+4,4,,5881172,2026-09-19T13:30:00Z,Borussia Mönchengladbach,Mainz 05,3 - 4,FT,True,True,False,GER1
+4,4,,5881173,2026-09-19T13:30:00Z,Eintracht Frankfurt,Freiburg,2 - 2,FT,True,True,False,GER1
+4,4,,5881174,2026-09-19T13:30:00Z,Hamburger SV,1. FC Köln,2 - 1,FT,True,True,False,GER1
+4,4,,5881178,2026-09-19T13:30:00Z,Werder Bremen,Augsburg,3 - 2,FT,True,True,False,GER1
+4,4,,5881177,2026-09-19T16:30:00Z,VfB Stuttgart,Borussia Dortmund,0 - 1,FT,True,True,False,GER1
+5,5,,5881180,2026-10-09T18:30:00Z,Borussia Dortmund,Werder Bremen,,,False,False,False,GER1
+5,5,,5881179,2026-10-10T13:30:00Z,Augsburg,Bayern München,,,False,False,False,GER1
+5,5,,5881183,2026-10-10T13:30:00Z,Hoffenheim,Hamburger SV,,,False,False,False,GER1
+5,5,,5881184,2026-10-10T13:30:00Z,Mainz 05,Bayer Leverkusen,,,False,False,False,GER1
+5,5,,5881185,2026-10-10T13:30:00Z,Paderborn,VfB Stuttgart,,,False,False,False,GER1
+5,5,,5881187,2026-10-10T13:30:00Z,Union Berlin,Elversberg,,,False,False,False,GER1
+5,5,,5881186,2026-10-10T16:30:00Z,RB Leipzig,Eintracht Frankfurt,,,False,False,False,GER1
+5,5,,5881181,2026-10-11T13:30:00Z,1. FC Köln,Borussia Mönchengladbach,,,False,False,False,GER1
+5,5,,5881182,2026-10-11T15:30:00Z,Freiburg,Schalke 04,,,False,False,False,GER1
+6,6,,5881191,2026-10-16T18:30:00Z,Eintracht Frankfurt,1. FC Köln,,,False,False,False,GER1
+6,6,,5881192,2026-10-17T13:30:00Z,Elversberg,Augsburg,,,False,False,False,GER1
+6,6,,5881193,2026-10-17T13:30:00Z,Hamburger SV,VfB Stuttgart,,,False,False,False,GER1
+6,6,,5881194,2026-10-17T13:30:00Z,Schalke 04,Mainz 05,,,False,False,False,GER1
+6,6,,5881195,2026-10-17T13:30:00Z,Union Berlin,Borussia Dortmund,,,False,False,False,GER1
+6,6,,5881196,2026-10-17T13:30:00Z,Werder Bremen,Paderborn,,,False,False,False,GER1
+6,6,,5881189,2026-10-17T16:30:00Z,Bayern München,RB Leipzig,,,False,False,False,GER1
+6,6,,5881188,2026-10-18T13:30:00Z,Bayer Leverkusen,Freiburg,,,False,False,False,GER1
+6,6,,5881190,2026-10-18T15:30:00Z,Borussia Mönchengladbach,Hoffenheim,,,False,False,False,GER1
+7,7,,5881205,2026-10-23T18:30:00Z,VfB Stuttgart,Borussia Mönchengladbach,,,False,False,False,GER1
+7,7,,5881197,2026-10-24T13:30:00Z,Augsburg,Union Berlin,,,False,False,False,GER1
+7,7,,5881199,2026-10-24T13:30:00Z,1. FC Köln,Schalke 04,,,False,False,False,GER1
+7,7,,5881202,2026-10-24T13:30:00Z,Mainz 05,Werder Bremen,,,False,False,False,GER1
+7,7,,5881203,2026-10-24T13:30:00Z,Paderborn,Hamburger SV,,,False,False,False,GER1
+7,7,,5881204,2026-10-24T13:30:00Z,RB Leipzig,Elversberg,,,False,False,False,GER1
+7,7,,5881198,2026-10-24T16:30:00Z,Borussia Dortmund,Eintracht Frankfurt,,,False,False,False,GER1
+7,7,,5881201,2026-10-25T14:30:00Z,Hoffenheim,Bayer Leverkusen,,,False,False,False,GER1
+7,7,,5881200,2026-10-25T16:30:00Z,Freiburg,Bayern München,,,False,False,False,GER1
+8,8,,5881211,2026-10-30T19:30:00Z,Elversberg,Mainz 05,,,False,False,False,GER1
+8,8,,5881206,2026-10-31T14:30:00Z,Augsburg,Freiburg,,,False,False,False,GER1
+8,8,,5881207,2026-10-31T14:30:00Z,Bayer Leverkusen,VfB Stuttgart,,,False,False,False,GER1
+8,8,,5881209,2026-10-31T14:30:00Z,Borussia Mönchengladbach,Paderborn,,,False,False,False,GER1
+8,8,,5881212,2026-10-31T14:30:00Z,Schalke 04,RB Leipzig,,,False,False,False,GER1
+8,8,,5881214,2026-10-31T14:30:00Z,Werder Bremen,Hoffenheim,,,False,False,False,GER1
+8,8,,5881208,2026-10-31T17:30:00Z,Bayern München,Borussia Dortmund,,,False,False,False,GER1
+8,8,,5881213,2026-11-01T14:30:00Z,Union Berlin,1. FC Köln,,,False,False,False,GER1
+8,8,,5881210,2026-11-01T16:30:00Z,Eintracht Frankfurt,Hamburger SV,,,False,False,False,GER1
+9,9,,5881218,2026-11-06T19:30:00Z,Hamburger SV,Borussia Mönchengladbach,,,False,False,False,GER1
+9,9,,5881215,2026-11-07T14:30:00Z,Borussia Dortmund,Elversberg,,,False,False,False,GER1
+9,9,,5881220,2026-11-07T14:30:00Z,Mainz 05,Bayern München,,,False,False,False,GER1
+9,9,,5881221,2026-11-07T14:30:00Z,Paderborn,Eintracht Frankfurt,,,False,False,False,GER1
+9,9,,5881222,2026-11-07T14:30:00Z,RB Leipzig,Augsburg,,,False,False,False,GER1
+9,9,,5881223,2026-11-07T17:30:00Z,VfB Stuttgart,Werder Bremen,,,False,False,False,GER1
+9,9,,5881216,2026-11-08T14:30:00Z,1. FC Köln,Bayer Leverkusen,,,False,False,False,GER1
+9,9,,5881217,2026-11-08T16:30:00Z,Freiburg,Union Berlin,,,False,False,False,GER1
+9,9,,5881219,2026-11-08T18:30:00Z,Hoffenheim,Schalke 04,,,False,False,False,GER1
+10,10,,5881226,2026-11-20T19:30:00Z,Bayern München,1. FC Köln,,,False,False,False,GER1
+10,10,,5881225,2026-11-21T14:30:00Z,Bayer Leverkusen,Paderborn,,,False,False,False,GER1
+10,10,,5881227,2026-11-21T14:30:00Z,Borussia Mönchengladbach,Borussia Dortmund,,,False,False,False,GER1
+10,10,,5881228,2026-11-21T14:30:00Z,Eintracht Frankfurt,Hoffenheim,,,False,False,False,GER1
+10,10,,5881229,2026-11-21T14:30:00Z,Elversberg,Freiburg,,,False,False,False,GER1
+10,10,,5881231,2026-11-21T14:30:00Z,Union Berlin,RB Leipzig,,,False,False,False,GER1
+10,10,,5881230,2026-11-21T17:30:00Z,Schalke 04,VfB Stuttgart,,,False,False,False,GER1
+10,10,,5881224,2026-11-22T14:30:00Z,Augsburg,Mainz 05,,,False,False,False,GER1
+10,10,,5881232,2026-11-22T16:30:00Z,Werder Bremen,Hamburger SV,,,False,False,False,GER1
+11,11,,5881241,2026-11-27T19:30:00Z,Werder Bremen,Borussia Mönchengladbach,,,False,False,False,GER1
+11,11,,5881234,2026-11-28T14:30:00Z,1. FC Köln,Elversberg,,,False,False,False,GER1
+11,11,,5881236,2026-11-28T14:30:00Z,Hamburger SV,Bayern München,,,False,False,False,GER1
+11,11,,5881238,2026-11-28T14:30:00Z,Mainz 05,Union Berlin,,,False,False,False,GER1
+11,11,,5881239,2026-11-28T14:30:00Z,Paderborn,Schalke 04,,,False,False,False,GER1
+11,11,,5881240,2026-11-28T17:30:00Z,VfB Stuttgart,Eintracht Frankfurt,,,False,False,False,GER1
+11,11,,5881235,2026-11-29T14:30:00Z,Freiburg,RB Leipzig,,,False,False,False,GER1
+11,11,,5881237,2026-11-29T16:30:00Z,Hoffenheim,Augsburg,,,False,False,False,GER1
+11,11,,5881233,2026-11-29T18:30:00Z,Borussia Dortmund,Bayer Leverkusen,,,False,False,False,GER1
+12,12,,5881242,2026-12-05T14:30:00Z,Augsburg,1. FC Köln,,,False,False,False,GER1
+12,12,,5881243,2026-12-05T14:30:00Z,Bayer Leverkusen,Borussia Mönchengladbach,,,False,False,False,GER1
+12,12,,5881244,2026-12-05T14:30:00Z,Bayern München,Paderborn,,,False,False,False,GER1
+12,12,,5881245,2026-12-05T14:30:00Z,Eintracht Frankfurt,Werder Bremen,,,False,False,False,GER1
+12,12,,5881246,2026-12-05T14:30:00Z,Elversberg,VfB Stuttgart,,,False,False,False,GER1
+12,12,,5881247,2026-12-05T14:30:00Z,Freiburg,Hoffenheim,,,False,False,False,GER1
+12,12,,5881248,2026-12-05T14:30:00Z,RB Leipzig,Mainz 05,,,False,False,False,GER1
+12,12,,5881249,2026-12-05T14:30:00Z,Schalke 04,Borussia Dortmund,,,False,False,False,GER1
+12,12,,5881250,2026-12-05T14:30:00Z,Union Berlin,Hamburger SV,,,False,False,False,GER1
+13,13,,5881251,2026-12-12T14:30:00Z,Borussia Mönchengladbach,Eintracht Frankfurt,,,False,False,False,GER1
+13,13,,5881252,2026-12-12T14:30:00Z,Borussia Dortmund,Augsburg,,,False,False,False,GER1
+13,13,,5881253,2026-12-12T14:30:00Z,1. FC Köln,RB Leipzig,,,False,False,False,GER1
+13,13,,5881254,2026-12-12T14:30:00Z,Hamburger SV,Schalke 04,,,False,False,False,GER1
+13,13,,5881255,2026-12-12T14:30:00Z,Hoffenheim,Bayern München,,,False,False,False,GER1
+13,13,,5881256,2026-12-12T14:30:00Z,Mainz 05,Freiburg,,,False,False,False,GER1
+13,13,,5881257,2026-12-12T14:30:00Z,Paderborn,Elversberg,,,False,False,False,GER1
+13,13,,5881258,2026-12-12T14:30:00Z,VfB Stuttgart,Union Berlin,,,False,False,False,GER1
+13,13,,5881259,2026-12-12T14:30:00Z,Werder Bremen,Bayer Leverkusen,,,False,False,False,GER1
+14,14,,5881260,2026-12-19T14:30:00Z,Augsburg,Paderborn,,,False,False,False,GER1
+14,14,,5881261,2026-12-19T14:30:00Z,Bayer Leverkusen,Eintracht Frankfurt,,,False,False,False,GER1
+14,14,,5881262,2026-12-19T14:30:00Z,Bayern München,Werder Bremen,,,False,False,False,GER1
+14,14,,5881263,2026-12-19T14:30:00Z,Elversberg,Hamburger SV,,,False,False,False,GER1
+14,14,,5881264,2026-12-19T14:30:00Z,Freiburg,VfB Stuttgart,,,False,False,False,GER1
+14,14,,5881265,2026-12-19T14:30:00Z,Mainz 05,1. FC Köln,,,False,False,False,GER1
+14,14,,5881266,2026-12-19T14:30:00Z,RB Leipzig,Borussia Dortmund,,,False,False,False,GER1
+14,14,,5881267,2026-12-19T14:30:00Z,Schalke 04,Borussia Mönchengladbach,,,False,False,False,GER1
+14,14,,5881268,2026-12-19T14:30:00Z,Union Berlin,Hoffenheim,,,False,False,False,GER1
+15,15,,5881269,2027-01-09T14:30:00Z,Borussia Mönchengladbach,Bayern München,,,False,False,False,GER1
+15,15,,5881270,2027-01-09T14:30:00Z,Borussia Dortmund,Mainz 05,,,False,False,False,GER1
+15,15,,5881271,2027-01-09T14:30:00Z,Eintracht Frankfurt,Schalke 04,,,False,False,False,GER1
+15,15,,5881272,2027-01-09T14:30:00Z,1. FC Köln,Freiburg,,,False,False,False,GER1
+15,15,,5881273,2027-01-09T14:30:00Z,Hamburger SV,Bayer Leverkusen,,,False,False,False,GER1
+15,15,,5881274,2027-01-09T14:30:00Z,Hoffenheim,Elversberg,,,False,False,False,GER1
+15,15,,5881275,2027-01-09T14:30:00Z,Paderborn,RB Leipzig,,,False,False,False,GER1
+15,15,,5881276,2027-01-09T14:30:00Z,VfB Stuttgart,Augsburg,,,False,False,False,GER1
+15,15,,5881277,2027-01-09T14:30:00Z,Werder Bremen,Union Berlin,,,False,False,False,GER1
+16,16,,5881278,2027-01-12T19:30:00Z,Augsburg,Borussia Mönchengladbach,,,False,False,False,GER1
+16,16,,5881279,2027-01-12T19:30:00Z,Bayern München,Bayer Leverkusen,,,False,False,False,GER1
+16,16,,5881280,2027-01-12T19:30:00Z,Elversberg,Eintracht Frankfurt,,,False,False,False,GER1
+16,16,,5881281,2027-01-12T19:30:00Z,1. FC Köln,Borussia Dortmund,,,False,False,False,GER1
+16,16,,5881282,2027-01-12T19:30:00Z,Freiburg,Hamburger SV,,,False,False,False,GER1
+16,16,,5881283,2027-01-12T19:30:00Z,Mainz 05,Hoffenheim,,,False,False,False,GER1
+16,16,,5881284,2027-01-12T19:30:00Z,RB Leipzig,VfB Stuttgart,,,False,False,False,GER1
+16,16,,5881285,2027-01-12T19:30:00Z,Schalke 04,Werder Bremen,,,False,False,False,GER1
+16,16,,5881286,2027-01-12T19:30:00Z,Union Berlin,Paderborn,,,False,False,False,GER1
+17,17,,5881287,2027-01-16T14:30:00Z,Bayer Leverkusen,Schalke 04,,,False,False,False,GER1
+17,17,,5881288,2027-01-16T14:30:00Z,Borussia Mönchengladbach,Union Berlin,,,False,False,False,GER1
+17,17,,5881289,2027-01-16T14:30:00Z,Borussia Dortmund,Freiburg,,,False,False,False,GER1
+17,17,,5881290,2027-01-16T14:30:00Z,Eintracht Frankfurt,Bayern München,,,False,False,False,GER1
+17,17,,5881291,2027-01-16T14:30:00Z,Hamburger SV,Augsburg,,,False,False,False,GER1
+17,17,,5881292,2027-01-16T14:30:00Z,Hoffenheim,RB Leipzig,,,False,False,False,GER1
+17,17,,5881293,2027-01-16T14:30:00Z,Paderborn,1. FC Köln,,,False,False,False,GER1
+17,17,,5881294,2027-01-16T14:30:00Z,VfB Stuttgart,Mainz 05,,,False,False,False,GER1
+17,17,,5881295,2027-01-16T14:30:00Z,Werder Bremen,Elversberg,,,False,False,False,GER1
+18,18,,5881296,2027-01-23T14:30:00Z,Bayer Leverkusen,Elversberg,,,False,False,False,GER1
+18,18,,5881297,2027-01-23T14:30:00Z,Borussia Mönchengladbach,RB Leipzig,,,False,False,False,GER1
+18,18,,5881298,2027-01-23T14:30:00Z,Eintracht Frankfurt,Union Berlin,,,False,False,False,GER1
+18,18,,5881299,2027-01-23T14:30:00Z,Hamburger SV,Borussia Dortmund,,,False,False,False,GER1
+18,18,,5881300,2027-01-23T14:30:00Z,Hoffenheim,1. FC Köln,,,False,False,False,GER1
+18,18,,5881301,2027-01-23T14:30:00Z,Paderborn,Mainz 05,,,False,False,False,GER1
+18,18,,5881302,2027-01-23T14:30:00Z,Schalke 04,Augsburg,,,False,False,False,GER1
+18,18,,5881303,2027-01-23T14:30:00Z,VfB Stuttgart,Bayern München,,,False,False,False,GER1
+18,18,,5881304,2027-01-23T14:30:00Z,Werder Bremen,Freiburg,,,False,False,False,GER1
+19,19,,5881305,2027-01-30T14:30:00Z,Augsburg,Eintracht Frankfurt,,,False,False,False,GER1
+19,19,,5881306,2027-01-30T14:30:00Z,Bayern München,Schalke 04,,,False,False,False,GER1
+19,19,,5881307,2027-01-30T14:30:00Z,Borussia Dortmund,Hoffenheim,,,False,False,False,GER1
+19,19,,5881308,2027-01-30T14:30:00Z,Elversberg,Borussia Mönchengladbach,,,False,False,False,GER1
+19,19,,5881309,2027-01-30T14:30:00Z,1. FC Köln,VfB Stuttgart,,,False,False,False,GER1
+19,19,,5881310,2027-01-30T14:30:00Z,Freiburg,Paderborn,,,False,False,False,GER1
+19,19,,5881311,2027-01-30T14:30:00Z,Mainz 05,Hamburger SV,,,False,False,False,GER1
+19,19,,5881312,2027-01-30T14:30:00Z,RB Leipzig,Werder Bremen,,,False,False,False,GER1
+19,19,,5881313,2027-01-30T14:30:00Z,Union Berlin,Bayer Leverkusen,,,False,False,False,GER1
+20,20,,5881314,2027-02-06T14:30:00Z,Bayer Leverkusen,Augsburg,,,False,False,False,GER1
+20,20,,5881315,2027-02-06T14:30:00Z,Bayern München,Elversberg,,,False,False,False,GER1
+20,20,,5881316,2027-02-06T14:30:00Z,Borussia Mönchengladbach,Freiburg,,,False,False,False,GER1
+20,20,,5881317,2027-02-06T14:30:00Z,Eintracht Frankfurt,Mainz 05,,,False,False,False,GER1
+20,20,,5881318,2027-02-06T14:30:00Z,Hamburger SV,RB Leipzig,,,False,False,False,GER1
+20,20,,5881319,2027-02-06T14:30:00Z,Paderborn,Borussia Dortmund,,,False,False,False,GER1
+20,20,,5881320,2027-02-06T14:30:00Z,Schalke 04,Union Berlin,,,False,False,False,GER1
+20,20,,5881321,2027-02-06T14:30:00Z,VfB Stuttgart,Hoffenheim,,,False,False,False,GER1
+20,20,,5881322,2027-02-06T14:30:00Z,Werder Bremen,1. FC Köln,,,False,False,False,GER1
+21,21,,5881323,2027-02-13T14:30:00Z,Augsburg,Werder Bremen,,,False,False,False,GER1
+21,21,,5881324,2027-02-13T14:30:00Z,Borussia Dortmund,VfB Stuttgart,,,False,False,False,GER1
+21,21,,5881325,2027-02-13T14:30:00Z,Elversberg,Schalke 04,,,False,False,False,GER1
+21,21,,5881326,2027-02-13T14:30:00Z,1. FC Köln,Hamburger SV,,,False,False,False,GER1
+21,21,,5881327,2027-02-13T14:30:00Z,Freiburg,Eintracht Frankfurt,,,False,False,False,GER1
+21,21,,5881328,2027-02-13T14:30:00Z,Hoffenheim,Paderborn,,,False,False,False,GER1
+21,21,,5881329,2027-02-13T14:30:00Z,Mainz 05,Borussia Mönchengladbach,,,False,False,False,GER1
+21,21,,5881330,2027-02-13T14:30:00Z,RB Leipzig,Bayer Leverkusen,,,False,False,False,GER1
+21,21,,5881331,2027-02-13T14:30:00Z,Union Berlin,Bayern München,,,False,False,False,GER1
+22,22,,5881332,2027-02-20T14:30:00Z,Bayer Leverkusen,Mainz 05,,,False,False,False,GER1
+22,22,,5881333,2027-02-20T14:30:00Z,Bayern München,Augsburg,,,False,False,False,GER1
+22,22,,5881334,2027-02-20T14:30:00Z,Borussia Mönchengladbach,1. FC Köln,,,False,False,False,GER1
+22,22,,5881335,2027-02-20T14:30:00Z,Eintracht Frankfurt,RB Leipzig,,,False,False,False,GER1
+22,22,,5881336,2027-02-20T14:30:00Z,Elversberg,Union Berlin,,,False,False,False,GER1
+22,22,,5881337,2027-02-20T14:30:00Z,Hamburger SV,Hoffenheim,,,False,False,False,GER1
+22,22,,5881338,2027-02-20T14:30:00Z,Schalke 04,Freiburg,,,False,False,False,GER1
+22,22,,5881339,2027-02-20T14:30:00Z,VfB Stuttgart,Paderborn,,,False,False,False,GER1
+22,22,,5881340,2027-02-20T14:30:00Z,Werder Bremen,Borussia Dortmund,,,False,False,False,GER1
+23,23,,5881341,2027-02-27T14:30:00Z,Augsburg,Elversberg,,,False,False,False,GER1
+23,23,,5881342,2027-02-27T14:30:00Z,Borussia Dortmund,Union Berlin,,,False,False,False,GER1
+23,23,,5881343,2027-02-27T14:30:00Z,1. FC Köln,Eintracht Frankfurt,,,False,False,False,GER1
+23,23,,5881344,2027-02-27T14:30:00Z,Freiburg,Bayer Leverkusen,,,False,False,False,GER1
+23,23,,5881345,2027-02-27T14:30:00Z,Hoffenheim,Borussia Mönchengladbach,,,False,False,False,GER1
+23,23,,5881346,2027-02-27T14:30:00Z,Mainz 05,Schalke 04,,,False,False,False,GER1
+23,23,,5881347,2027-02-27T14:30:00Z,Paderborn,Werder Bremen,,,False,False,False,GER1
+23,23,,5881348,2027-02-27T14:30:00Z,RB Leipzig,Bayern München,,,False,False,False,GER1
+23,23,,5881349,2027-02-27T14:30:00Z,VfB Stuttgart,Hamburger SV,,,False,False,False,GER1
+24,24,,5881350,2027-03-02T19:30:00Z,Bayer Leverkusen,Hoffenheim,,,False,False,False,GER1
+24,24,,5881351,2027-03-02T19:30:00Z,Bayern München,Freiburg,,,False,False,False,GER1
+24,24,,5881352,2027-03-02T19:30:00Z,Borussia Mönchengladbach,VfB Stuttgart,,,False,False,False,GER1
+24,24,,5881353,2027-03-02T19:30:00Z,Eintracht Frankfurt,Borussia Dortmund,,,False,False,False,GER1
+24,24,,5881354,2027-03-02T19:30:00Z,Elversberg,RB Leipzig,,,False,False,False,GER1
+24,24,,5881355,2027-03-02T19:30:00Z,Hamburger SV,Paderborn,,,False,False,False,GER1
+24,24,,5881356,2027-03-02T19:30:00Z,Schalke 04,1. FC Köln,,,False,False,False,GER1
+24,24,,5881357,2027-03-02T19:30:00Z,Union Berlin,Augsburg,,,False,False,False,GER1
+24,24,,5881358,2027-03-02T19:30:00Z,Werder Bremen,Mainz 05,,,False,False,False,GER1
+25,25,,5881359,2027-03-06T14:30:00Z,Borussia Dortmund,Bayern München,,,False,False,False,GER1
+25,25,,5881360,2027-03-06T14:30:00Z,1. FC Köln,Union Berlin,,,False,False,False,GER1
+25,25,,5881361,2027-03-06T14:30:00Z,Freiburg,Augsburg,,,False,False,False,GER1
+25,25,,5881362,2027-03-06T14:30:00Z,Hamburger SV,Eintracht Frankfurt,,,False,False,False,GER1
+25,25,,5881363,2027-03-06T14:30:00Z,Hoffenheim,Werder Bremen,,,False,False,False,GER1
+25,25,,5881364,2027-03-06T14:30:00Z,Mainz 05,Elversberg,,,False,False,False,GER1
+25,25,,5881365,2027-03-06T14:30:00Z,Paderborn,Borussia Mönchengladbach,,,False,False,False,GER1
+25,25,,5881366,2027-03-06T14:30:00Z,RB Leipzig,Schalke 04,,,False,False,False,GER1
+25,25,,5881367,2027-03-06T14:30:00Z,VfB Stuttgart,Bayer Leverkusen,,,False,False,False,GER1
+26,26,,5881368,2027-03-13T14:30:00Z,Augsburg,RB Leipzig,,,False,False,False,GER1
+26,26,,5881369,2027-03-13T14:30:00Z,Bayer Leverkusen,1. FC Köln,,,False,False,False,GER1
+26,26,,5881370,2027-03-13T14:30:00Z,Bayern München,Mainz 05,,,False,False,False,GER1
+26,26,,5881371,2027-03-13T14:30:00Z,Borussia Mönchengladbach,Hamburger SV,,,False,False,False,GER1
+26,26,,5881372,2027-03-13T14:30:00Z,Eintracht Frankfurt,Paderborn,,,False,False,False,GER1
+26,26,,5881373,2027-03-13T14:30:00Z,Elversberg,Borussia Dortmund,,,False,False,False,GER1
+26,26,,5881374,2027-03-13T14:30:00Z,Schalke 04,Hoffenheim,,,False,False,False,GER1
+26,26,,5881375,2027-03-13T14:30:00Z,Union Berlin,Freiburg,,,False,False,False,GER1
+26,26,,5881376,2027-03-13T14:30:00Z,Werder Bremen,VfB Stuttgart,,,False,False,False,GER1
+27,27,,5881377,2027-03-20T14:30:00Z,Borussia Dortmund,Borussia Mönchengladbach,,,False,False,False,GER1
+27,27,,5881378,2027-03-20T14:30:00Z,1. FC Köln,Bayern München,,,False,False,False,GER1
+27,27,,5881379,2027-03-20T14:30:00Z,Freiburg,Elversberg,,,False,False,False,GER1
+27,27,,5881380,2027-03-20T14:30:00Z,Hamburger SV,Werder Bremen,,,False,False,False,GER1
+27,27,,5881381,2027-03-20T14:30:00Z,Hoffenheim,Eintracht Frankfurt,,,False,False,False,GER1
+27,27,,5881382,2027-03-20T14:30:00Z,Mainz 05,Augsburg,,,False,False,False,GER1
+27,27,,5881383,2027-03-20T14:30:00Z,Paderborn,Bayer Leverkusen,,,False,False,False,GER1
+27,27,,5881384,2027-03-20T14:30:00Z,RB Leipzig,Union Berlin,,,False,False,False,GER1
+27,27,,5881385,2027-03-20T14:30:00Z,VfB Stuttgart,Schalke 04,,,False,False,False,GER1
+28,28,,5881386,2027-04-03T13:30:00Z,Augsburg,Hoffenheim,,,False,False,False,GER1
+28,28,,5881387,2027-04-03T13:30:00Z,Bayer Leverkusen,Borussia Dortmund,,,False,False,False,GER1
+28,28,,5881388,2027-04-03T13:30:00Z,Bayern München,Hamburger SV,,,False,False,False,GER1
+28,28,,5881389,2027-04-03T13:30:00Z,Borussia Mönchengladbach,Werder Bremen,,,False,False,False,GER1
+28,28,,5881390,2027-04-03T13:30:00Z,Eintracht Frankfurt,VfB Stuttgart,,,False,False,False,GER1
+28,28,,5881391,2027-04-03T13:30:00Z,Elversberg,1. FC Köln,,,False,False,False,GER1
+28,28,,5881392,2027-04-03T13:30:00Z,RB Leipzig,Freiburg,,,False,False,False,GER1
+28,28,,5881393,2027-04-03T13:30:00Z,Schalke 04,Paderborn,,,False,False,False,GER1
+28,28,,5881394,2027-04-03T13:30:00Z,Union Berlin,Mainz 05,,,False,False,False,GER1
+29,29,,5881395,2027-04-10T13:30:00Z,Borussia Mönchengladbach,Bayer Leverkusen,,,False,False,False,GER1
+29,29,,5881396,2027-04-10T13:30:00Z,Borussia Dortmund,Schalke 04,,,False,False,False,GER1
+29,29,,5881397,2027-04-10T13:30:00Z,1. FC Köln,Augsburg,,,False,False,False,GER1
+29,29,,5881398,2027-04-10T13:30:00Z,Hamburger SV,Union Berlin,,,False,False,False,GER1
+29,29,,5881399,2027-04-10T13:30:00Z,Hoffenheim,Freiburg,,,False,False,False,GER1
+29,29,,5881400,2027-04-10T13:30:00Z,Mainz 05,RB Leipzig,,,False,False,False,GER1
+29,29,,5881401,2027-04-10T13:30:00Z,Paderborn,Bayern München,,,False,False,False,GER1
+29,29,,5881402,2027-04-10T13:30:00Z,VfB Stuttgart,Elversberg,,,False,False,False,GER1
+29,29,,5881403,2027-04-10T13:30:00Z,Werder Bremen,Eintracht Frankfurt,,,False,False,False,GER1
+30,30,,5881404,2027-04-17T13:30:00Z,Augsburg,Borussia Dortmund,,,False,False,False,GER1
+30,30,,5881405,2027-04-17T13:30:00Z,Bayer Leverkusen,Werder Bremen,,,False,False,False,GER1
+30,30,,5881406,2027-04-17T13:30:00Z,Bayern München,Hoffenheim,,,False,False,False,GER1
+30,30,,5881407,2027-04-17T13:30:00Z,Eintracht Frankfurt,Borussia Mönchengladbach,,,False,False,False,GER1
+30,30,,5881408,2027-04-17T13:30:00Z,Elversberg,Paderborn,,,False,False,False,GER1
+30,30,,5881409,2027-04-17T13:30:00Z,Freiburg,Mainz 05,,,False,False,False,GER1
+30,30,,5881410,2027-04-17T13:30:00Z,RB Leipzig,1. FC Köln,,,False,False,False,GER1
+30,30,,5881411,2027-04-17T13:30:00Z,Schalke 04,Hamburger SV,,,False,False,False,GER1
+30,30,,5881412,2027-04-17T13:30:00Z,Union Berlin,VfB Stuttgart,,,False,False,False,GER1
+31,31,,5881413,2027-04-24T13:30:00Z,Borussia Mönchengladbach,Schalke 04,,,False,False,False,GER1
+31,31,,5881414,2027-04-24T13:30:00Z,Borussia Dortmund,RB Leipzig,,,False,False,False,GER1
+31,31,,5881415,2027-04-24T13:30:00Z,Eintracht Frankfurt,Bayer Leverkusen,,,False,False,False,GER1
+31,31,,5881416,2027-04-24T13:30:00Z,1. FC Köln,Mainz 05,,,False,False,False,GER1
+31,31,,5881417,2027-04-24T13:30:00Z,Hamburger SV,Elversberg,,,False,False,False,GER1
+31,31,,5881418,2027-04-24T13:30:00Z,Hoffenheim,Union Berlin,,,False,False,False,GER1
+31,31,,5881419,2027-04-24T13:30:00Z,Paderborn,Augsburg,,,False,False,False,GER1
+31,31,,5881420,2027-04-24T13:30:00Z,VfB Stuttgart,Freiburg,,,False,False,False,GER1
+31,31,,5881421,2027-04-24T13:30:00Z,Werder Bremen,Bayern München,,,False,False,False,GER1
+32,32,,5881422,2027-05-08T13:30:00Z,Augsburg,VfB Stuttgart,,,False,False,False,GER1
+32,32,,5881423,2027-05-08T13:30:00Z,Bayer Leverkusen,Hamburger SV,,,False,False,False,GER1
+32,32,,5881424,2027-05-08T13:30:00Z,Bayern München,Borussia Mönchengladbach,,,False,False,False,GER1
+32,32,,5881425,2027-05-08T13:30:00Z,Elversberg,Hoffenheim,,,False,False,False,GER1
+32,32,,5881426,2027-05-08T13:30:00Z,Freiburg,1. FC Köln,,,False,False,False,GER1
+32,32,,5881427,2027-05-08T13:30:00Z,Mainz 05,Borussia Dortmund,,,False,False,False,GER1
+32,32,,5881428,2027-05-08T13:30:00Z,RB Leipzig,Paderborn,,,False,False,False,GER1
+32,32,,5881429,2027-05-08T13:30:00Z,Schalke 04,Eintracht Frankfurt,,,False,False,False,GER1
+32,32,,5881430,2027-05-08T13:30:00Z,Union Berlin,Werder Bremen,,,False,False,False,GER1
+33,33,,5881431,2027-05-15T13:30:00Z,Bayer Leverkusen,Bayern München,,,False,False,False,GER1
+33,33,,5881432,2027-05-15T13:30:00Z,Borussia Mönchengladbach,Augsburg,,,False,False,False,GER1
+33,33,,5881433,2027-05-15T13:30:00Z,Borussia Dortmund,1. FC Köln,,,False,False,False,GER1
+33,33,,5881434,2027-05-15T13:30:00Z,Eintracht Frankfurt,Elversberg,,,False,False,False,GER1
+33,33,,5881435,2027-05-15T13:30:00Z,Hamburger SV,Freiburg,,,False,False,False,GER1
+33,33,,5881436,2027-05-15T13:30:00Z,Hoffenheim,Mainz 05,,,False,False,False,GER1
+33,33,,5881437,2027-05-15T13:30:00Z,Paderborn,Union Berlin,,,False,False,False,GER1
+33,33,,5881438,2027-05-15T13:30:00Z,VfB Stuttgart,RB Leipzig,,,False,False,False,GER1
+33,33,,5881439,2027-05-15T13:30:00Z,Werder Bremen,Schalke 04,,,False,False,False,GER1
+34,34,,5881440,2027-05-22T13:30:00Z,Augsburg,Hamburger SV,,,False,False,False,GER1
+34,34,,5881441,2027-05-22T13:30:00Z,Bayern München,Eintracht Frankfurt,,,False,False,False,GER1
+34,34,,5881442,2027-05-22T13:30:00Z,Elversberg,Werder Bremen,,,False,False,False,GER1
+34,34,,5881443,2027-05-22T13:30:00Z,1. FC Köln,Paderborn,,,False,False,False,GER1
+34,34,,5881444,2027-05-22T13:30:00Z,Freiburg,Borussia Dortmund,,,False,False,False,GER1
+34,34,,5881445,2027-05-22T13:30:00Z,Mainz 05,VfB Stuttgart,,,False,False,False,GER1
+34,34,,5881446,2027-05-22T13:30:00Z,RB Leipzig,Hoffenheim,,,False,False,False,GER1
+34,34,,5881447,2027-05-22T13:30:00Z,Schalke 04,Bayer Leverkusen,,,False,False,False,GER1
+34,34,,5881448,2027-05-22T13:30:00Z,Union Berlin,Borussia Mönchengladbach,,,False,False,False,GER1
+4,4,,5881170,2026-09-20T13:30:00.000Z,Bayer Leverkusen,RB Leipzig,2 - 0,FT,True,True,False,GER1
+4,4,,5881175,2026-09-20T17:30:00.000Z,Paderborn,Hoffenheim,3 - 1,FT,True,True,False,GER1
+4,4,,5881176,2026-09-20T15:30:00.000Z,Schalke 04,Elversberg,0 - 0,FT,True,True,False,GER1

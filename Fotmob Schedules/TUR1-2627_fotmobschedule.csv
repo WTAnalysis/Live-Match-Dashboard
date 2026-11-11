@@ -1,0 +1,307 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5904710,2026-08-14T18:30:00Z,Galatasaray,Çorum FK,2 - 2,FT,True,True,False,TUR1
+1,1,,5904705,2026-08-15T16:00:00Z,Kasımpaşa,Trabzonspor,1 - 1,FT,True,True,False,TUR1
+1,1,,5904709,2026-08-15T16:00:00Z,Konyaspor,Rizespor,0 - 1,FT,True,True,False,TUR1
+1,1,,5904704,2026-08-15T18:30:00Z,Gaziantep FK,Alanyaspor,1 - 1,FT,True,True,False,TUR1
+1,1,,5904708,2026-08-15T18:30:00Z,Gençlerbirliği,Fenerbahçe,2 - 1,FT,True,True,False,TUR1
+1,1,,5904706,2026-08-16T16:00:00Z,Başakşehir,Kocaelispor,2 - 0,FT,True,True,False,TUR1
+1,1,,5904707,2026-08-16T18:30:00Z,Amed Sportif,Erzurumspor FK,3 - 0,FT,True,True,False,TUR1
+1,1,,5904711,2026-08-16T18:30:00Z,Beşiktaş,Eyüpspor,1 - 0,FT,True,True,False,TUR1
+1,1,,5904712,2026-08-17T18:30:00Z,Samsunspor,Göztepe,3 - 3,FT,True,True,False,TUR1
+2,2,,5904721,2026-08-21T18:30:00Z,Erzurumspor FK,Galatasaray,0 - 4,FT,True,True,False,TUR1
+2,2,,5904716,2026-08-22T16:00:00Z,Rizespor,Samsunspor,0 - 2,FT,True,True,False,TUR1
+2,2,,5904718,2026-08-22T16:00:00Z,Çorum FK,Kasımpaşa,0 - 1,FT,True,True,False,TUR1
+2,2,,5904719,2026-08-22T18:30:00Z,Fenerbahçe,Konyaspor,4 - 2,FT,True,True,False,TUR1
+2,2,,5904713,2026-08-23T16:00:00Z,Trabzonspor,Başakşehir,2 - 1,FT,True,True,False,TUR1
+2,2,,5904714,2026-08-23T16:00:00Z,Eyüpspor,Gaziantep FK,0 - 1,FT,True,True,False,TUR1
+2,2,,5904715,2026-08-23T18:30:00Z,Alanyaspor,Beşiktaş,1 - 0,FT,True,True,False,TUR1
+2,2,,5904717,2026-08-23T18:30:00Z,Göztepe,Gençlerbirliği,0 - 1,FT,True,True,False,TUR1
+2,2,,5904720,2026-08-24T18:30:00Z,Kocaelispor,Amed Sportif,2 - 0,FT,True,True,False,TUR1
+3,3,,5904726,2026-08-28T18:30:00Z,Gençlerbirliği,Erzurumspor FK,1 - 1,FT,True,True,False,TUR1
+3,3,,5904727,2026-08-29T16:00:00Z,Konyaspor,Kocaelispor,1 - 2,FT,True,True,False,TUR1
+3,3,,5904722,2026-08-29T18:30:00Z,Gaziantep FK,Rizespor,1 - 2,FT,True,True,False,TUR1
+3,3,,5904728,2026-08-29T18:30:00Z,Galatasaray,Göztepe,3 - 2,FT,True,True,False,TUR1
+3,3,,5904723,2026-08-30T16:00:00Z,Eyüpspor,Alanyaspor,2 - 1,FT,True,True,False,TUR1
+3,3,,5904724,2026-08-30T18:30:00Z,Başakşehir,Kasımpaşa,1 - 1,FT,True,True,False,TUR1
+3,3,,5904730,2026-08-30T18:30:00Z,Samsunspor,Fenerbahçe,0 - 2,FT,True,True,False,TUR1
+3,3,,5904725,2026-08-31T18:30:00Z,Amed Sportif,Trabzonspor,2 - 1,FT,True,True,False,TUR1
+3,3,,5904729,2026-08-31T18:30:00Z,Beşiktaş,Çorum FK,6 - 2,FT,True,True,False,TUR1
+4,4,,5904733,2026-09-04T17:00:00Z,Başakşehir,Galatasaray,2 - 3,FT,True,True,False,TUR1
+4,4,,5904739,2026-09-05T14:00:00Z,Erzurumspor FK,Konyaspor,1 - 0,FT,True,True,False,TUR1
+4,4,,5904737,2026-09-05T17:00:00Z,Fenerbahçe,Beşiktaş,1 - 2,FT,True,True,False,TUR1
+4,4,,5904732,2026-09-06T14:00:00Z,Kasımpaşa,Amed Sportif,2 - 2,FT,True,True,False,TUR1
+4,4,,5904736,2026-09-06T14:00:00Z,Çorum FK,Eyüpspor,3 - 0,FT,True,True,False,TUR1
+4,4,,5904731,2026-09-06T17:00:00Z,Trabzonspor,Gençlerbirliği,5 - 0,FT,True,True,False,TUR1
+4,4,,5904738,2026-09-06T17:00:00Z,Kocaelispor,Samsunspor,1 - 0,FT,True,True,False,TUR1
+4,4,,5904734,2026-09-07T17:00:00Z,Rizespor,Alanyaspor,0 - 1,FT,True,True,False,TUR1
+4,4,,5904735,2026-09-07T17:00:00Z,Göztepe,Gaziantep FK,2 - 4,FT,True,True,False,TUR1
+5,5,,5904747,2026-09-11T17:00:00Z,Beşiktaş,Erzurumspor FK,3 - 0,FT,True,True,False,TUR1
+5,5,,5904741,2026-09-12T14:00:00Z,Eyüpspor,Rizespor,0 - 2,FT,True,True,False,TUR1
+5,5,,5904748,2026-09-12T14:00:00Z,Samsunspor,Çorum FK,1 - 5,FT,True,True,False,TUR1
+5,5,,5904742,2026-09-12T17:00:00Z,Alanyaspor,Göztepe,2 - 2,FT,True,True,False,TUR1
+5,5,,5904745,2026-09-12T17:00:00Z,Konyaspor,Trabzonspor,1 - 0,FT,True,True,False,TUR1
+5,5,,5904744,2026-09-13T14:00:00Z,Gençlerbirliği,Kasımpaşa,1 - 2,FT,True,True,False,TUR1
+5,5,,5904743,2026-09-13T17:00:00Z,Amed Sportif,Başakşehir,5 - 0,FT,True,True,False,TUR1
+5,5,,5904746,2026-09-13T17:00:00Z,Galatasaray,Kocaelispor,1 - 0,FT,True,True,False,TUR1
+5,5,,5904740,2026-09-14T17:00:00Z,Gaziantep FK,Fenerbahçe,0 - 0,FT,True,True,False,TUR1
+6,6,,5904750,2026-09-18T17:00:00Z,Kasımpaşa,Konyaspor,0 - 0,FT,True,True,False,TUR1
+6,6,,5904754,2026-09-19T14:00:00Z,Çorum FK,Alanyaspor,1 - 2,FT,True,True,False,TUR1
+6,6,,5904756,2026-09-19T14:00:00Z,Kocaelispor,Gaziantep FK,2 - 0,FT,True,True,False,TUR1
+6,6,,5904749,2026-09-19T17:00:00Z,Trabzonspor,Galatasaray,4 - 0,FT,True,True,False,TUR1
+6,6,,5904751,2026-09-19T17:00:00Z,Başakşehir,Gençlerbirliği,4 - 0,FT,True,True,False,TUR1
+7,7,,5904764,2026-10-09T17:00:00Z,Galatasaray,Kasımpaşa,,,False,False,False,TUR1
+7,7,,5904762,2026-10-10T10:30:00Z,Gençlerbirliği,Amed Sportif,,,False,False,False,TUR1
+7,7,,5904760,2026-10-10T13:00:00Z,Alanyaspor,Erzurumspor FK,,,False,False,False,TUR1
+7,7,,5904766,2026-10-10T13:00:00Z,Samsunspor,Trabzonspor,,,False,False,False,TUR1
+7,7,,5904761,2026-10-10T16:00:00Z,Rizespor,Fenerbahçe,,,False,False,False,TUR1
+7,7,,5904763,2026-10-11T10:30:00Z,Konyaspor,Başakşehir,,,False,False,False,TUR1
+7,7,,5904758,2026-10-11T13:00:00Z,Gaziantep FK,Çorum FK,,,False,False,False,TUR1
+7,7,,5904765,2026-10-11T16:00:00Z,Beşiktaş,Kocaelispor,,,False,False,False,TUR1
+7,7,,5904759,2026-10-12T17:00:00Z,Eyüpspor,Göztepe,,,False,False,False,TUR1
+8,8,,5904772,2026-10-16T17:00:00Z,Çorum FK,Rizespor,,,False,False,False,TUR1
+8,8,,5904775,2026-10-17T10:30:00Z,Erzurumspor FK,Eyüpspor,,,False,False,False,TUR1
+8,8,,5904770,2026-10-17T13:00:00Z,Amed Sportif,Konyaspor,,,False,False,False,TUR1
+8,8,,5904771,2026-10-17T13:00:00Z,Gençlerbirliği,Galatasaray,,,False,False,False,TUR1
+8,8,,5904773,2026-10-17T16:00:00Z,Fenerbahçe,Alanyaspor,,,False,False,False,TUR1
+8,8,,5904768,2026-10-18T10:30:00Z,Kasımpaşa,Samsunspor,,,False,False,False,TUR1
+8,8,,5904774,2026-10-18T13:00:00Z,Kocaelispor,Göztepe,,,False,False,False,TUR1
+8,8,,5904769,2026-10-18T16:00:00Z,Başakşehir,Gaziantep FK,,,False,False,False,TUR1
+8,8,,5904767,2026-10-19T17:00:00Z,Trabzonspor,Beşiktaş,,,False,False,False,TUR1
+9,9,,5904778,2026-10-23T17:00:00Z,Alanyaspor,Kocaelispor,,,False,False,False,TUR1
+9,9,,5904777,2026-10-24T10:30:00Z,Eyüpspor,Kasımpaşa,,,False,False,False,TUR1
+9,9,,5904776,2026-10-24T13:00:00Z,Gaziantep FK,Erzurumspor FK,,,False,False,False,TUR1
+9,9,,5904784,2026-10-24T16:00:00Z,Samsunspor,Amed Sportif,,,False,False,False,TUR1
+9,9,,5904781,2026-10-25T13:00:00Z,Konyaspor,Gençlerbirliği,,,False,False,False,TUR1
+9,9,,5904780,2026-10-25T16:00:00Z,Göztepe,Çorum FK,,,False,False,False,TUR1
+9,9,,5904779,2026-10-26T16:00:00Z,Rizespor,Trabzonspor,,,False,False,False,TUR1
+9,9,,5904783,2026-10-26T16:00:00Z,Beşiktaş,Başakşehir,,,False,False,False,TUR1
+9,9,,5904782,2026-10-26T18:30:00Z,Galatasaray,Fenerbahçe,,,False,False,False,TUR1
+10,10,,5904790,2026-10-30T17:00:00Z,Konyaspor,Galatasaray,,,False,False,False,TUR1
+10,10,,5904793,2026-10-31T10:30:00Z,Erzurumspor FK,Çorum FK,,,False,False,False,TUR1
+10,10,,5904792,2026-10-31T13:00:00Z,Kocaelispor,Rizespor,,,False,False,False,TUR1
+10,10,,5904791,2026-10-31T16:00:00Z,Fenerbahçe,Göztepe,,,False,False,False,TUR1
+10,10,,5904788,2026-11-01T10:30:00Z,Amed Sportif,Eyüpspor,,,False,False,False,TUR1
+10,10,,5904785,2026-11-01T13:00:00Z,Trabzonspor,Gaziantep FK,,,False,False,False,TUR1
+10,10,,5904787,2026-11-01T13:00:00Z,Başakşehir,Samsunspor,,,False,False,False,TUR1
+10,10,,5904786,2026-11-01T16:00:00Z,Kasımpaşa,Beşiktaş,,,False,False,False,TUR1
+10,10,,5904789,2026-11-02T17:00:00Z,Gençlerbirliği,Alanyaspor,,,False,False,False,TUR1
+11,11,,5904794,2026-11-06T17:00:00Z,Gaziantep FK,Kasımpaşa,,,False,False,False,TUR1
+11,11,,5904795,2026-11-07T10:30:00Z,Eyüpspor,Kocaelispor,,,False,False,False,TUR1
+11,11,,5904802,2026-11-07T13:00:00Z,Samsunspor,Konyaspor,,,False,False,False,TUR1
+11,11,,5904798,2026-11-07T16:00:00Z,Göztepe,Başakşehir,,,False,False,False,TUR1
+11,11,,5904800,2026-11-07T16:00:00Z,Galatasaray,Amed Sportif,,,False,False,False,TUR1
+11,11,,5904797,2026-11-08T10:30:00Z,Rizespor,Erzurumspor FK,,,False,False,False,TUR1
+11,11,,5904799,2026-11-08T13:00:00Z,Çorum FK,Fenerbahçe,,,False,False,False,TUR1
+11,11,,5904796,2026-11-08T15:30:00Z,Alanyaspor,Trabzonspor,,,False,False,False,TUR1
+11,11,,5904801,2026-11-08T18:00:00Z,Beşiktaş,Gençlerbirliği,,,False,False,False,TUR1
+12,12,,5904807,2026-11-21T10:30:00Z,Gençlerbirliği,Gaziantep FK,,,False,False,False,TUR1
+12,12,,5904806,2026-11-21T13:00:00Z,Amed Sportif,Rizespor,,,False,False,False,TUR1
+12,12,,5904809,2026-11-21T13:00:00Z,Galatasaray,Samsunspor,,,False,False,False,TUR1
+12,12,,5904810,2026-11-21T16:00:00Z,Kocaelispor,Fenerbahçe,,,False,False,False,TUR1
+12,12,,5904811,2026-11-22T10:30:00Z,Erzurumspor FK,Göztepe,,,False,False,False,TUR1
+12,12,,5904804,2026-11-22T13:00:00Z,Kasımpaşa,Alanyaspor,,,False,False,False,TUR1
+12,12,,5904808,2026-11-22T13:00:00Z,Konyaspor,Beşiktaş,,,False,False,False,TUR1
+12,12,,5904803,2026-11-22T16:00:00Z,Trabzonspor,Eyüpspor,,,False,False,False,TUR1
+12,12,,5904805,2026-11-23T17:00:00Z,Başakşehir,Çorum FK,,,False,False,False,TUR1
+13,13,,5904814,2026-11-27T17:00:00Z,Alanyaspor,Konyaspor,,,False,False,False,TUR1
+13,13,,5904815,2026-11-27T17:00:00Z,Rizespor,Kasımpaşa,,,False,False,False,TUR1
+13,13,,5904820,2026-11-28T13:00:00Z,Samsunspor,Gençlerbirliği,,,False,False,False,TUR1
+13,13,,5904812,2026-11-28T16:00:00Z,Gaziantep FK,Amed Sportif,,,False,False,False,TUR1
+13,13,,5904817,2026-11-29T10:30:00Z,Çorum FK,Kocaelispor,,,False,False,False,TUR1
+13,13,,5904813,2026-11-29T13:00:00Z,Eyüpspor,Başakşehir,,,False,False,False,TUR1
+13,13,,5904818,2026-11-29T16:00:00Z,Fenerbahçe,Erzurumspor FK,,,False,False,False,TUR1
+13,13,,5904816,2026-11-30T16:00:00Z,Göztepe,Trabzonspor,,,False,False,False,TUR1
+13,13,,5904819,2026-11-30T18:00:00Z,Beşiktaş,Galatasaray,,,False,False,False,TUR1
+14,14,,5904827,2026-12-04T17:00:00Z,Galatasaray,Rizespor,,,False,False,False,TUR1
+14,14,,5904826,2026-12-05T10:30:00Z,Konyaspor,Gaziantep FK,,,False,False,False,TUR1
+14,14,,5904824,2026-12-05T13:00:00Z,Amed Sportif,Alanyaspor,,,False,False,False,TUR1
+14,14,,5904823,2026-12-05T16:00:00Z,Başakşehir,Fenerbahçe,,,False,False,False,TUR1
+14,14,,5904829,2026-12-06T10:30:00Z,Erzurumspor FK,Kocaelispor,,,False,False,False,TUR1
+14,14,,5904825,2026-12-06T13:00:00Z,Gençlerbirliği,Eyüpspor,,,False,False,False,TUR1
+14,14,,5904828,2026-12-06T13:00:00Z,Beşiktaş,Samsunspor,,,False,False,False,TUR1
+14,14,,5904821,2026-12-06T16:00:00Z,Trabzonspor,Çorum FK,,,False,False,False,TUR1
+14,14,,5904822,2026-12-07T17:00:00Z,Kasımpaşa,Göztepe,,,False,False,False,TUR1
+15,15,,5904835,2026-12-11T17:00:00Z,Çorum FK,Amed Sportif,,,False,False,False,TUR1
+15,15,,5904838,2026-12-12T10:30:00Z,Erzurumspor FK,Kasımpaşa,,,False,False,False,TUR1
+15,15,,5904832,2026-12-12T13:00:00Z,Alanyaspor,Samsunspor,,,False,False,False,TUR1
+15,15,,5904831,2026-12-12T16:00:00Z,Eyüpspor,Galatasaray,,,False,False,False,TUR1
+15,15,,5904837,2026-12-13T10:30:00Z,Kocaelispor,Gençlerbirliği,,,False,False,False,TUR1
+15,15,,5904833,2026-12-13T13:00:00Z,Rizespor,Başakşehir,,,False,False,False,TUR1
+15,15,,5904834,2026-12-13T13:00:00Z,Göztepe,Konyaspor,,,False,False,False,TUR1
+15,15,,5904836,2026-12-13T16:00:00Z,Fenerbahçe,Trabzonspor,,,False,False,False,TUR1
+15,15,,5904830,2026-12-14T17:00:00Z,Gaziantep FK,Beşiktaş,,,False,False,False,TUR1
+16,16,,5904840,2026-12-18T17:00:00Z,Kasımpaşa,Fenerbahçe,,,False,False,False,TUR1
+16,16,,5904842,2026-12-18T17:00:00Z,Amed Sportif,Göztepe,,,False,False,False,TUR1
+16,16,,5904844,2026-12-19T10:30:00Z,Konyaspor,Eyüpspor,,,False,False,False,TUR1
+16,16,,5904841,2026-12-19T13:00:00Z,Başakşehir,Erzurumspor FK,,,False,False,False,TUR1
+16,16,,5904845,2026-12-19T16:00:00Z,Galatasaray,Alanyaspor,,,False,False,False,TUR1
+16,16,,5904843,2026-12-20T10:30:00Z,Gençlerbirliği,Çorum FK,,,False,False,False,TUR1
+16,16,,5904847,2026-12-20T13:00:00Z,Samsunspor,Gaziantep FK,,,False,False,False,TUR1
+16,16,,5904846,2026-12-20T16:00:00Z,Beşiktaş,Rizespor,,,False,False,False,TUR1
+16,16,,5904839,2026-12-21T17:00:00Z,Trabzonspor,Kocaelispor,,,False,False,False,TUR1
+17,17,,5904848,2027-01-17T18:00:00Z,Gaziantep FK,Galatasaray,,,False,False,False,TUR1
+17,17,,5904849,2027-01-17T18:00:00Z,Eyüpspor,Samsunspor,,,False,False,False,TUR1
+17,17,,5904850,2027-01-17T18:00:00Z,Alanyaspor,Başakşehir,,,False,False,False,TUR1
+17,17,,5904851,2027-01-17T18:00:00Z,Rizespor,Gençlerbirliği,,,False,False,False,TUR1
+17,17,,5904852,2027-01-17T18:00:00Z,Göztepe,Beşiktaş,,,False,False,False,TUR1
+17,17,,5904853,2027-01-17T18:00:00Z,Çorum FK,Konyaspor,,,False,False,False,TUR1
+17,17,,5904854,2027-01-17T18:00:00Z,Fenerbahçe,Amed Sportif,,,False,False,False,TUR1
+17,17,,5904855,2027-01-17T18:00:00Z,Kocaelispor,Kasımpaşa,,,False,False,False,TUR1
+17,17,,5904856,2027-01-17T18:00:00Z,Erzurumspor FK,Trabzonspor,,,False,False,False,TUR1
+18,18,,5904857,2027-01-24T18:00:00Z,Alanyaspor,Gaziantep FK,,,False,False,False,TUR1
+18,18,,5904858,2027-01-24T18:00:00Z,Trabzonspor,Kasımpaşa,,,False,False,False,TUR1
+18,18,,5904859,2027-01-24T18:00:00Z,Kocaelispor,Başakşehir,,,False,False,False,TUR1
+18,18,,5904860,2027-01-24T18:00:00Z,Erzurumspor FK,Amed Sportif,,,False,False,False,TUR1
+18,18,,5904861,2027-01-24T18:00:00Z,Fenerbahçe,Gençlerbirliği,,,False,False,False,TUR1
+18,18,,5904862,2027-01-24T18:00:00Z,Rizespor,Konyaspor,,,False,False,False,TUR1
+18,18,,5904863,2027-01-24T18:00:00Z,Çorum FK,Galatasaray,,,False,False,False,TUR1
+18,18,,5904864,2027-01-24T18:00:00Z,Eyüpspor,Beşiktaş,,,False,False,False,TUR1
+18,18,,5904865,2027-01-24T18:00:00Z,Göztepe,Samsunspor,,,False,False,False,TUR1
+19,19,,5904866,2027-01-31T18:00:00Z,Başakşehir,Trabzonspor,,,False,False,False,TUR1
+19,19,,5904867,2027-01-31T18:00:00Z,Gaziantep FK,Eyüpspor,,,False,False,False,TUR1
+19,19,,5904868,2027-01-31T18:00:00Z,Beşiktaş,Alanyaspor,,,False,False,False,TUR1
+19,19,,5904869,2027-01-31T18:00:00Z,Samsunspor,Rizespor,,,False,False,False,TUR1
+19,19,,5904870,2027-01-31T18:00:00Z,Gençlerbirliği,Göztepe,,,False,False,False,TUR1
+19,19,,5904871,2027-01-31T18:00:00Z,Kasımpaşa,Çorum FK,,,False,False,False,TUR1
+19,19,,5904872,2027-01-31T18:00:00Z,Konyaspor,Fenerbahçe,,,False,False,False,TUR1
+19,19,,5904873,2027-01-31T18:00:00Z,Amed Sportif,Kocaelispor,,,False,False,False,TUR1
+19,19,,5904874,2027-01-31T18:00:00Z,Galatasaray,Erzurumspor FK,,,False,False,False,TUR1
+20,20,,5904875,2027-02-07T18:00:00Z,Rizespor,Gaziantep FK,,,False,False,False,TUR1
+20,20,,5904876,2027-02-07T18:00:00Z,Alanyaspor,Eyüpspor,,,False,False,False,TUR1
+20,20,,5904877,2027-02-07T18:00:00Z,Kasımpaşa,Başakşehir,,,False,False,False,TUR1
+20,20,,5904878,2027-02-07T18:00:00Z,Trabzonspor,Amed Sportif,,,False,False,False,TUR1
+20,20,,5904879,2027-02-07T18:00:00Z,Erzurumspor FK,Gençlerbirliği,,,False,False,False,TUR1
+20,20,,5904880,2027-02-07T18:00:00Z,Kocaelispor,Konyaspor,,,False,False,False,TUR1
+20,20,,5904881,2027-02-07T18:00:00Z,Göztepe,Galatasaray,,,False,False,False,TUR1
+20,20,,5904882,2027-02-07T18:00:00Z,Çorum FK,Beşiktaş,,,False,False,False,TUR1
+20,20,,5904883,2027-02-07T18:00:00Z,Fenerbahçe,Samsunspor,,,False,False,False,TUR1
+21,21,,5904884,2027-02-14T18:00:00Z,Gençlerbirliği,Trabzonspor,,,False,False,False,TUR1
+21,21,,5904885,2027-02-14T18:00:00Z,Amed Sportif,Kasımpaşa,,,False,False,False,TUR1
+21,21,,5904886,2027-02-14T18:00:00Z,Galatasaray,Başakşehir,,,False,False,False,TUR1
+21,21,,5904887,2027-02-14T18:00:00Z,Alanyaspor,Rizespor,,,False,False,False,TUR1
+21,21,,5904888,2027-02-14T18:00:00Z,Gaziantep FK,Göztepe,,,False,False,False,TUR1
+21,21,,5904889,2027-02-14T18:00:00Z,Eyüpspor,Çorum FK,,,False,False,False,TUR1
+21,21,,5904890,2027-02-14T18:00:00Z,Beşiktaş,Fenerbahçe,,,False,False,False,TUR1
+21,21,,5904891,2027-02-14T18:00:00Z,Samsunspor,Kocaelispor,,,False,False,False,TUR1
+21,21,,5904892,2027-02-14T18:00:00Z,Konyaspor,Erzurumspor FK,,,False,False,False,TUR1
+22,22,,5904893,2027-02-21T18:00:00Z,Fenerbahçe,Gaziantep FK,,,False,False,False,TUR1
+22,22,,5904894,2027-02-21T18:00:00Z,Rizespor,Eyüpspor,,,False,False,False,TUR1
+22,22,,5904895,2027-02-21T18:00:00Z,Göztepe,Alanyaspor,,,False,False,False,TUR1
+22,22,,5904896,2027-02-21T18:00:00Z,Başakşehir,Amed Sportif,,,False,False,False,TUR1
+22,22,,5904897,2027-02-21T18:00:00Z,Kasımpaşa,Gençlerbirliği,,,False,False,False,TUR1
+22,22,,5904898,2027-02-21T18:00:00Z,Trabzonspor,Konyaspor,,,False,False,False,TUR1
+22,22,,5904899,2027-02-21T18:00:00Z,Kocaelispor,Galatasaray,,,False,False,False,TUR1
+22,22,,5904900,2027-02-21T18:00:00Z,Erzurumspor FK,Beşiktaş,,,False,False,False,TUR1
+22,22,,5904901,2027-02-21T18:00:00Z,Çorum FK,Samsunspor,,,False,False,False,TUR1
+23,23,,5904902,2027-02-28T18:00:00Z,Galatasaray,Trabzonspor,,,False,False,False,TUR1
+23,23,,5904903,2027-02-28T18:00:00Z,Konyaspor,Kasımpaşa,,,False,False,False,TUR1
+23,23,,5904904,2027-02-28T18:00:00Z,Gençlerbirliği,Başakşehir,,,False,False,False,TUR1
+23,23,,5904905,2027-02-28T18:00:00Z,Beşiktaş,Amed Sportif,,,False,False,False,TUR1
+23,23,,5904906,2027-02-28T18:00:00Z,Rizespor,Göztepe,,,False,False,False,TUR1
+23,23,,5904907,2027-02-28T18:00:00Z,Alanyaspor,Çorum FK,,,False,False,False,TUR1
+23,23,,5904908,2027-02-28T18:00:00Z,Eyüpspor,Fenerbahçe,,,False,False,False,TUR1
+23,23,,5904909,2027-02-28T18:00:00Z,Gaziantep FK,Kocaelispor,,,False,False,False,TUR1
+23,23,,5904910,2027-02-28T18:00:00Z,Samsunspor,Erzurumspor FK,,,False,False,False,TUR1
+24,24,,5904911,2027-03-07T18:00:00Z,Çorum FK,Gaziantep FK,,,False,False,False,TUR1
+24,24,,5904912,2027-03-07T18:00:00Z,Göztepe,Eyüpspor,,,False,False,False,TUR1
+24,24,,5904913,2027-03-07T18:00:00Z,Erzurumspor FK,Alanyaspor,,,False,False,False,TUR1
+24,24,,5904914,2027-03-07T18:00:00Z,Fenerbahçe,Rizespor,,,False,False,False,TUR1
+24,24,,5904915,2027-03-07T18:00:00Z,Amed Sportif,Gençlerbirliği,,,False,False,False,TUR1
+24,24,,5904916,2027-03-07T18:00:00Z,Başakşehir,Konyaspor,,,False,False,False,TUR1
+24,24,,5904917,2027-03-07T18:00:00Z,Kasımpaşa,Galatasaray,,,False,False,False,TUR1
+24,24,,5904918,2027-03-07T18:00:00Z,Kocaelispor,Beşiktaş,,,False,False,False,TUR1
+24,24,,5904919,2027-03-07T18:00:00Z,Trabzonspor,Samsunspor,,,False,False,False,TUR1
+25,25,,5904920,2027-03-14T18:00:00Z,Beşiktaş,Trabzonspor,,,False,False,False,TUR1
+25,25,,5904921,2027-03-14T18:00:00Z,Samsunspor,Kasımpaşa,,,False,False,False,TUR1
+25,25,,5904922,2027-03-14T18:00:00Z,Gaziantep FK,Başakşehir,,,False,False,False,TUR1
+25,25,,5904923,2027-03-14T18:00:00Z,Konyaspor,Amed Sportif,,,False,False,False,TUR1
+25,25,,5904924,2027-03-14T18:00:00Z,Galatasaray,Gençlerbirliği,,,False,False,False,TUR1
+25,25,,5904925,2027-03-14T18:00:00Z,Rizespor,Çorum FK,,,False,False,False,TUR1
+25,25,,5904926,2027-03-14T18:00:00Z,Alanyaspor,Fenerbahçe,,,False,False,False,TUR1
+25,25,,5904927,2027-03-14T18:00:00Z,Göztepe,Kocaelispor,,,False,False,False,TUR1
+25,25,,5904928,2027-03-14T18:00:00Z,Eyüpspor,Erzurumspor FK,,,False,False,False,TUR1
+26,26,,5904929,2027-03-21T18:00:00Z,Erzurumspor FK,Gaziantep FK,,,False,False,False,TUR1
+26,26,,5904930,2027-03-21T18:00:00Z,Kasımpaşa,Eyüpspor,,,False,False,False,TUR1
+26,26,,5904931,2027-03-21T18:00:00Z,Kocaelispor,Alanyaspor,,,False,False,False,TUR1
+26,26,,5904932,2027-03-21T18:00:00Z,Trabzonspor,Rizespor,,,False,False,False,TUR1
+26,26,,5904933,2027-03-21T18:00:00Z,Çorum FK,Göztepe,,,False,False,False,TUR1
+26,26,,5904934,2027-03-21T18:00:00Z,Gençlerbirliği,Konyaspor,,,False,False,False,TUR1
+26,26,,5904935,2027-03-21T18:00:00Z,Fenerbahçe,Galatasaray,,,False,False,False,TUR1
+26,26,,5904936,2027-03-21T18:00:00Z,Başakşehir,Beşiktaş,,,False,False,False,TUR1
+26,26,,5904937,2027-03-21T18:00:00Z,Amed Sportif,Samsunspor,,,False,False,False,TUR1
+27,27,,5904938,2027-04-04T17:00:00Z,Gaziantep FK,Trabzonspor,,,False,False,False,TUR1
+27,27,,5904939,2027-04-04T17:00:00Z,Beşiktaş,Kasımpaşa,,,False,False,False,TUR1
+27,27,,5904940,2027-04-04T17:00:00Z,Samsunspor,Başakşehir,,,False,False,False,TUR1
+27,27,,5904941,2027-04-04T17:00:00Z,Eyüpspor,Amed Sportif,,,False,False,False,TUR1
+27,27,,5904942,2027-04-04T17:00:00Z,Alanyaspor,Gençlerbirliği,,,False,False,False,TUR1
+27,27,,5904943,2027-04-04T17:00:00Z,Galatasaray,Konyaspor,,,False,False,False,TUR1
+27,27,,5904944,2027-04-04T17:00:00Z,Göztepe,Fenerbahçe,,,False,False,False,TUR1
+27,27,,5904945,2027-04-04T17:00:00Z,Rizespor,Kocaelispor,,,False,False,False,TUR1
+27,27,,5904946,2027-04-04T17:00:00Z,Çorum FK,Erzurumspor FK,,,False,False,False,TUR1
+28,28,,5904947,2027-04-11T17:00:00Z,Kasımpaşa,Gaziantep FK,,,False,False,False,TUR1
+28,28,,5904948,2027-04-11T17:00:00Z,Kocaelispor,Eyüpspor,,,False,False,False,TUR1
+28,28,,5904949,2027-04-11T17:00:00Z,Trabzonspor,Alanyaspor,,,False,False,False,TUR1
+28,28,,5904950,2027-04-11T17:00:00Z,Erzurumspor FK,Rizespor,,,False,False,False,TUR1
+28,28,,5904951,2027-04-11T17:00:00Z,Başakşehir,Göztepe,,,False,False,False,TUR1
+28,28,,5904952,2027-04-11T17:00:00Z,Fenerbahçe,Çorum FK,,,False,False,False,TUR1
+28,28,,5904953,2027-04-11T17:00:00Z,Amed Sportif,Galatasaray,,,False,False,False,TUR1
+28,28,,5904954,2027-04-11T17:00:00Z,Gençlerbirliği,Beşiktaş,,,False,False,False,TUR1
+28,28,,5904955,2027-04-11T17:00:00Z,Konyaspor,Samsunspor,,,False,False,False,TUR1
+29,29,,5904956,2027-04-18T17:00:00Z,Eyüpspor,Trabzonspor,,,False,False,False,TUR1
+29,29,,5904957,2027-04-18T17:00:00Z,Alanyaspor,Kasımpaşa,,,False,False,False,TUR1
+29,29,,5904958,2027-04-18T17:00:00Z,Çorum FK,Başakşehir,,,False,False,False,TUR1
+29,29,,5904959,2027-04-18T17:00:00Z,Rizespor,Amed Sportif,,,False,False,False,TUR1
+29,29,,5904960,2027-04-18T17:00:00Z,Gaziantep FK,Gençlerbirliği,,,False,False,False,TUR1
+29,29,,5904961,2027-04-18T17:00:00Z,Beşiktaş,Konyaspor,,,False,False,False,TUR1
+29,29,,5904962,2027-04-18T17:00:00Z,Samsunspor,Galatasaray,,,False,False,False,TUR1
+29,29,,5904963,2027-04-18T17:00:00Z,Fenerbahçe,Kocaelispor,,,False,False,False,TUR1
+29,29,,5904964,2027-04-18T17:00:00Z,Göztepe,Erzurumspor FK,,,False,False,False,TUR1
+30,30,,5904965,2027-04-25T17:00:00Z,Amed Sportif,Gaziantep FK,,,False,False,False,TUR1
+30,30,,5904966,2027-04-25T17:00:00Z,Başakşehir,Eyüpspor,,,False,False,False,TUR1
+30,30,,5904967,2027-04-25T17:00:00Z,Konyaspor,Alanyaspor,,,False,False,False,TUR1
+30,30,,5904968,2027-04-25T17:00:00Z,Kasımpaşa,Rizespor,,,False,False,False,TUR1
+30,30,,5904969,2027-04-25T17:00:00Z,Trabzonspor,Göztepe,,,False,False,False,TUR1
+30,30,,5904970,2027-04-25T17:00:00Z,Kocaelispor,Çorum FK,,,False,False,False,TUR1
+30,30,,5904971,2027-04-25T17:00:00Z,Erzurumspor FK,Fenerbahçe,,,False,False,False,TUR1
+30,30,,5904972,2027-04-25T17:00:00Z,Galatasaray,Beşiktaş,,,False,False,False,TUR1
+30,30,,5904973,2027-04-25T17:00:00Z,Gençlerbirliği,Samsunspor,,,False,False,False,TUR1
+31,31,,5904974,2027-05-02T17:00:00Z,Çorum FK,Trabzonspor,,,False,False,False,TUR1
+31,31,,5904975,2027-05-02T17:00:00Z,Göztepe,Kasımpaşa,,,False,False,False,TUR1
+31,31,,5904976,2027-05-02T17:00:00Z,Fenerbahçe,Başakşehir,,,False,False,False,TUR1
+31,31,,5904977,2027-05-02T17:00:00Z,Alanyaspor,Amed Sportif,,,False,False,False,TUR1
+31,31,,5904978,2027-05-02T17:00:00Z,Eyüpspor,Gençlerbirliği,,,False,False,False,TUR1
+31,31,,5904979,2027-05-02T17:00:00Z,Gaziantep FK,Konyaspor,,,False,False,False,TUR1
+31,31,,5904980,2027-05-02T17:00:00Z,Rizespor,Galatasaray,,,False,False,False,TUR1
+31,31,,5904981,2027-05-02T17:00:00Z,Samsunspor,Beşiktaş,,,False,False,False,TUR1
+31,31,,5904982,2027-05-02T17:00:00Z,Kocaelispor,Erzurumspor FK,,,False,False,False,TUR1
+32,32,,5904983,2027-05-09T17:00:00Z,Beşiktaş,Gaziantep FK,,,False,False,False,TUR1
+32,32,,5904984,2027-05-09T17:00:00Z,Galatasaray,Eyüpspor,,,False,False,False,TUR1
+32,32,,5904985,2027-05-09T17:00:00Z,Samsunspor,Alanyaspor,,,False,False,False,TUR1
+32,32,,5904986,2027-05-09T17:00:00Z,Başakşehir,Rizespor,,,False,False,False,TUR1
+32,32,,5904987,2027-05-09T17:00:00Z,Konyaspor,Göztepe,,,False,False,False,TUR1
+32,32,,5904988,2027-05-09T17:00:00Z,Amed Sportif,Çorum FK,,,False,False,False,TUR1
+32,32,,5904989,2027-05-09T17:00:00Z,Trabzonspor,Fenerbahçe,,,False,False,False,TUR1
+32,32,,5904990,2027-05-09T17:00:00Z,Gençlerbirliği,Kocaelispor,,,False,False,False,TUR1
+32,32,,5904991,2027-05-09T17:00:00Z,Kasımpaşa,Erzurumspor FK,,,False,False,False,TUR1
+33,33,,5904992,2027-05-16T17:00:00Z,Kocaelispor,Trabzonspor,,,False,False,False,TUR1
+33,33,,5904993,2027-05-16T17:00:00Z,Fenerbahçe,Kasımpaşa,,,False,False,False,TUR1
+33,33,,5904994,2027-05-16T17:00:00Z,Erzurumspor FK,Başakşehir,,,False,False,False,TUR1
+33,33,,5904995,2027-05-16T17:00:00Z,Göztepe,Amed Sportif,,,False,False,False,TUR1
+33,33,,5904996,2027-05-16T17:00:00Z,Çorum FK,Gençlerbirliği,,,False,False,False,TUR1
+33,33,,5904997,2027-05-16T17:00:00Z,Eyüpspor,Konyaspor,,,False,False,False,TUR1
+33,33,,5904998,2027-05-16T17:00:00Z,Alanyaspor,Galatasaray,,,False,False,False,TUR1
+33,33,,5904999,2027-05-16T17:00:00Z,Rizespor,Beşiktaş,,,False,False,False,TUR1
+33,33,,5905000,2027-05-16T17:00:00Z,Gaziantep FK,Samsunspor,,,False,False,False,TUR1
+34,34,,5905001,2027-05-23T17:00:00Z,Galatasaray,Gaziantep FK,,,False,False,False,TUR1
+34,34,,5905002,2027-05-23T17:00:00Z,Samsunspor,Eyüpspor,,,False,False,False,TUR1
+34,34,,5905003,2027-05-23T17:00:00Z,Başakşehir,Alanyaspor,,,False,False,False,TUR1
+34,34,,5905004,2027-05-23T17:00:00Z,Gençlerbirliği,Rizespor,,,False,False,False,TUR1
+34,34,,5905005,2027-05-23T17:00:00Z,Beşiktaş,Göztepe,,,False,False,False,TUR1
+34,34,,5905006,2027-05-23T17:00:00Z,Konyaspor,Çorum FK,,,False,False,False,TUR1
+34,34,,5905007,2027-05-23T17:00:00Z,Amed Sportif,Fenerbahçe,,,False,False,False,TUR1
+34,34,,5905008,2027-05-23T17:00:00Z,Kasımpaşa,Kocaelispor,,,False,False,False,TUR1
+34,34,,5905009,2027-05-23T17:00:00Z,Trabzonspor,Erzurumspor FK,,,False,False,False,TUR1
+6,6,,5904752,2026-09-20T17:00:00.000Z,Amed Sportif,Beşiktaş,3 - 2,FT,True,True,False,TUR1
+6,6,,5904753,2026-09-20T17:00:00.000Z,Göztepe,Rizespor,2 - 2,FT,True,True,False,TUR1
+6,6,,5904755,2026-09-20T14:00:00.000Z,Fenerbahçe,Eyüpspor,8 - 0,FT,True,True,False,TUR1
+6,6,,5904757,2026-09-20T14:00:00.000Z,Erzurumspor FK,Samsunspor,1 - 0,FT,True,True,False,TUR1

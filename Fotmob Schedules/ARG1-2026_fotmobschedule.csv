@@ -1,0 +1,496 @@
+round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,match_url,league
+1,1,,5101879,2026-01-22T20:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/aldosivi-vs-defensa-y-justicia/o15q6x1#5101879,ARG1
+1,1,,5101881,2026-01-22T23:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-banfield/3d3g17#5101881,ARG1
+1,1,,5101893,2026-01-22T23:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-union/3dasph#5101893,ARG1
+1,1,,5101884,2026-01-23T01:15:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/central-cordoba-de-santiago-vs-gimnasia-mendoza/3wkxsan9#5101884,ARG1
+1,1,,5101888,2026-01-23T01:15:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-instituto/3d3vlj#5101888,ARG1
+1,1,,5101890,2026-01-23T22:00:00Z,,,02-Mar,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-san-lorenzo/3d25ci#5101890,ARG1
+1,1,,5101886,2026-01-23T23:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-estudiantes/3d56ak#5101886,ARG1
+1,1,,5101887,2026-01-24T01:15:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/atletico-tucuman-vs-independiente-rivadavia/o15cbr5#5101887,ARG1
+1,1,,5101891,2026-01-24T01:15:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/talleres-vs-newells-old-boys/3epkde#5101891,ARG1
+1,1,,5101882,2026-01-24T20:00:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-barracas-central/bhgz2zx#5101882,ARG1
+1,1,,5101885,2026-01-24T22:30:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-gimnasia-lp/3d9xkb#5101885,ARG1
+1,1,,5101889,2026-01-25T01:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-belgrano/3d6wk4#5101889,ARG1
+1,1,,5101883,2026-01-25T21:30:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-deportivo-riestra/lw1o37c#5101883,ARG1
+1,1,,5101880,2026-01-26T00:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-sarmiento/aem1p1z#5101880,ARG1
+1,1,,5101892,2026-01-26T00:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/tigre-vs-estudiantes-de-rio-cuarto/l345hh2#5101892,ARG1
+2,2,,5101904,2026-01-26T20:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-instituto/3d879k#5101904,ARG1
+2,2,,5101908,2026-01-27T20:45:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-talleres/3d8muf#5101908,ARG1
+2,2,,5101900,2026-01-27T23:00:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-gimnasia-mendoza/24ybxxd2#5101900,ARG1
+2,2,,5101901,2026-01-27T23:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-independiente-rivadavia/6s3h578#5101901,ARG1
+2,2,,5101895,2026-01-28T01:15:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/atletico-tucuman-vs-central-cordoba-de-santiago/wcumqqe#5101895,ARG1
+2,2,,5101903,2026-01-28T01:15:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-newells-old-boys/3efk9p#5101903,ARG1
+2,2,,5101894,2026-01-28T20:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/aldosivi-vs-barracas-central/wch02fj#5101894,ARG1
+2,2,,5101905,2026-01-28T22:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-rosario-central/3d1pse#5101905,ARG1
+2,2,,5101906,2026-01-28T23:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-gimnasia-lp/3d879x#5101906,ARG1
+2,2,,5101898,2026-01-29T01:15:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-estudiantes/3d4qq8#5101898,ARG1
+2,2,,5101897,2026-01-29T20:00:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/defensa-y-justicia-vs-deportivo-riestra/1coh9f29#5101897,ARG1
+2,2,,5101896,2026-01-29T22:15:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-tigre/29ujr0k#5101896,ARG1
+2,2,,5101902,2026-01-29T22:15:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-union/3d7rp7#5101902,ARG1
+2,2,,5101899,2026-01-30T00:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-estudiantes-de-rio-cuarto/bhpw8vu#5101899,ARG1
+2,2,,5101907,2026-01-30T00:30:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-sarmiento/aem69ab#5101907,ARG1
+3,3,,5101920,2026-01-31T20:30:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-central-cordoba-de-santiago/bhq5u2k#5101920,ARG1
+3,3,,5101916,2026-01-31T22:45:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-velez-sarsfield/3cyow2#5101916,ARG1
+3,3,,5101910,2026-02-01T01:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-atletico-tucuman/6s39s27#5101910,ARG1
+3,3,,5101921,2026-02-01T01:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-talleres/3dcyli#5101921,ARG1
+3,3,,5101912,2026-02-01T20:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/barracas-central-vs-deportivo-riestra/1o92wrsr#5101912,ARG1
+3,3,,5101913,2026-02-01T22:15:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-newells-old-boys/3ef4me#5101913,ARG1
+3,3,,5101919,2026-02-02T00:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-rosario-central/3czzk4#5101919,ARG1
+3,3,,5101915,2026-02-02T20:30:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/gimnasia-lp-vs-aldosivi/6s5mhc4#5101915,ARG1
+3,3,,5101914,2026-02-02T22:45:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/estudiantes-vs-defensa-y-justicia/6s4wp96#5101914,ARG1
+3,3,,5101922,2026-02-02T22:45:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-tigre/29tu5vq#5101922,ARG1
+3,3,,5101909,2026-02-03T01:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-belgrano/3d7rp3#5101909,ARG1
+3,3,,5101923,2026-02-03T01:00:00Z,,,4 - 0,FT,TRUE,TRUE,FALSE,/matches/union-vs-gimnasia-mendoza/24ygf7eb#5101923,ARG1
+3,3,,5101911,2026-02-03T22:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-estudiantes-de-rio-cuarto/bhq11h4#5101911,ARG1
+3,3,,5101917,2026-02-04T00:15:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/independiente-rivadavia-vs-sarmiento/uijz056#5101917,ARG1
+3,3,,5101918,2026-02-04T00:15:00Z,,,02-Feb,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-instituto/3d56ag#5101918,ARG1
+4,4,,5101927,2026-02-07T00:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/union-vs-central-cordoba-de-santiago/bhrw5u2#5101927,ARG1
+4,4,,5101924,2026-02-07T20:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-aldosivi/6s3oica#5101924,ARG1
+4,4,,5101935,2026-02-07T21:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-argentinos-juniors/3d2kwr#5101935,ARG1
+4,4,,5101936,2026-02-07T23:00:00Z,,,01-Apr,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-tigre/29tlmv0#5101936,ARG1
+4,4,,5101926,2026-02-08T01:15:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-belgrano/3d879m#5101926,ARG1
+4,4,,5101933,2026-02-08T01:15:00Z,,,02-Mar,FT,TRUE,TRUE,FALSE,/matches/newells-old-boys-vs-defensa-y-justicia/6sfuvss#5101933,ARG1
+4,4,,5101934,2026-02-08T20:00:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-club-atletico-platense/3d30h1#5101934,ARG1
+4,4,,5101937,2026-02-08T20:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/atletico-tucuman-vs-sarmiento/uijjdnz#5101937,ARG1
+4,4,,5101931,2026-02-08T22:15:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-san-lorenzo/3d1psd#5101931,ARG1
+4,4,,5101930,2026-02-09T01:15:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-gimnasia-mendoza/24yecro8#5101930,ARG1
+4,4,,5101938,2026-02-09T01:15:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-velez-sarsfield/3cy9c5#5101938,ARG1
+4,4,,5101925,2026-02-09T20:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/gimnasia-lp-vs-barracas-central/bhkkhtx#5101925,ARG1
+4,4,,5101928,2026-02-09T22:15:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/estudiantes-vs-deportivo-riestra/lw4skpf#5101928,ARG1
+4,4,,5101932,2026-02-09T22:15:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-talleres/3d9xk9#5101932,ARG1
+4,4,,5101929,2026-02-10T00:30:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/independiente-rivadavia-vs-estudiantes-de-rio-cuarto/wctylxf#5101929,ARG1
+5,5,,5101952,2026-02-12T22:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/tigre-vs-aldosivi/ehh8wl2#5101952,ARG1
+5,5,,5101939,2026-02-13T00:15:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-argentinos-juniors/3d0uo9#5101939,ARG1
+5,5,,5101947,2026-02-13T23:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-lanus/3czzk2#5101947,ARG1
+5,5,,5101943,2026-02-14T01:15:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-defensa-y-justicia/6s3dgmr#5101943,ARG1
+5,5,,5101953,2026-02-14T01:15:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-union/3d879q#5101953,ARG1
+5,5,,5101941,2026-02-14T20:30:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-banfield/3d30gz#5101941,ARG1
+5,5,,5101946,2026-02-14T22:45:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-sarmiento/aelevwq#5101946,ARG1
+5,5,,5101951,2026-02-14T22:45:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/talleres-vs-gimnasia-mendoza/24yi58it#5101951,ARG1
+5,5,,5101940,2026-02-15T01:00:00Z,,,4 - 0,FT,TRUE,TRUE,FALSE,/matches/atletico-tucuman-vs-estudiantes-de-rio-cuarto/wctiiqc#5101940,ARG1
+5,5,,5101948,2026-02-15T01:00:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-independiente-rivadavia/6s4lnik#5101948,ARG1
+5,5,,5101945,2026-02-15T20:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/estudiantes-vs-gimnasia-lp/3dfzo6#5101945,ARG1
+5,5,,5101942,2026-02-15T22:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-club-atletico-platense/3d2kwu#5101942,ARG1
+5,5,,5101949,2026-02-16T01:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-central-cordoba-de-santiago/bhr3e8h#5101949,ARG1
+5,5,,5101950,2026-02-16T01:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-barracas-central/bhi1fc1#5101950,ARG1
+5,5,,5101944,2026-02-16T22:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/newells-old-boys-vs-deportivo-riestra/lwogpva#5101944,ARG1
+6,6,,5101958,2026-02-20T20:15:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-defensa-y-justicia/6s4pc3f#5101958,ARG1
+6,6,,5101960,2026-02-20T20:45:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/estudiantes-vs-sarmiento/aen26xf#5101960,ARG1
+6,6,,5101956,2026-02-20T23:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-racing-club/3cyow3#5101956,ARG1
+6,6,,5101963,2026-02-20T23:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-atletico-tucuman/6s46x7g#5101963,ARG1
+6,6,,5101961,2026-02-21T01:15:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/gimnasia-lp-vs-gimnasia-mendoza/24yiu1s0#5101961,ARG1
+6,6,,5101965,2026-02-21T01:15:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-talleres/3daspm#5101965,ARG1
+6,6,,5101964,2026-02-21T20:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-barracas-central/bhipe2i#5101964,ARG1
+6,6,,5101962,2026-02-21T20:00:00Z,,,03-Feb,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-independiente-rivadavia/6s363ht#5101962,ARG1
+6,6,,5101955,2026-02-21T22:15:00Z,,,3 - 0,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-newells-old-boys/3ejh4p#5101955,ARG1
+6,6,,5101959,2026-02-21T22:15:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-deportivo-riestra/lw2ek0a#5101959,ARG1
+6,6,,5101957,2026-02-22T00:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/tigre-vs-central-cordoba-de-santiago/l351yf0#5101957,ARG1
+6,6,,5101966,2026-02-22T20:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-estudiantes-de-rio-cuarto/bhphv46#5101966,ARG1
+6,6,,5101968,2026-02-22T22:15:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-velez-sarsfield/3cxts9#5101968,ARG1
+6,6,,5101967,2026-02-23T00:30:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/union-vs-aldosivi/6s4wp94#5101967,ARG1
+7,7,,5101978,2026-02-24T20:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-defensa-y-justicia/6s4ead0#5101978,ARG1
+7,7,,5101981,2026-02-24T22:15:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-instituto/3d5lut#5101981,ARG1
+7,7,,5101972,2026-02-24T22:45:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/talleres-vs-central-cordoba-de-santiago/bhsk4ut#5101972,ARG1
+7,7,,5101971,2026-02-25T00:30:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-atletico-tucuman/6s4eacx#5101971,ARG1
+7,7,,5101975,2026-02-25T01:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-gimnasia-mendoza/24ya7wb2#5101975,ARG1
+7,7,,5101970,2026-02-25T20:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/tigre-vs-barracas-central/l2tvcvz#5101970,ARG1
+7,7,,5101974,2026-02-25T20:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-gimnasia-lp/3dbnv5#5101974,ARG1
+7,7,,5101977,2026-02-25T22:30:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/estudiantes-vs-newells-old-boys/3emiqd#5101977,ARG1
+7,7,,5101983,2026-02-25T22:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-deportivo-riestra/lw21blr#5101983,ARG1
+7,7,,5101979,2026-02-26T20:15:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-independiente-rivadavia/6s3dgmq#5101979,ARG1
+7,7,,5101982,2026-02-26T20:15:00Z,,,01-Mar,FT,TRUE,TRUE,FALSE,/matches/union-vs-sarmiento/aenbbek#5101982,ARG1
+7,7,,5101973,2026-02-26T22:30:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-estudiantes-de-rio-cuarto/bhp89xv#5101973,ARG1
+7,7,,5101980,2026-02-26T22:30:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-banfield/3d1a8d#5101980,ARG1
+8,8,,5101987,2026-02-28T20:45:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-gimnasia-mendoza/24y9vhp5#5101987,ARG1
+8,8,,5101992,2026-02-28T23:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-central-cordoba-de-santiago/bhphv4b#5101992,ARG1
+8,8,,5101997,2026-03-01T01:15:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-talleres/3dad4x#5101997,ARG1
+8,8,,5101995,2026-03-01T20:00:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-newells-old-boys/3ei664#5101995,ARG1
+8,8,,5101984,2026-03-01T22:15:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-barracas-central/bhib0fc#5101984,ARG1
+8,8,,5101994,2026-03-01T22:15:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-union/3db8a7#5101994,ARG1
+8,8,,5101988,2026-03-02T00:30:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-defensa-y-justicia/6s3oicc#5101988,ARG1
+8,8,,5101998,2026-03-02T00:30:00Z,,,02-Feb,FT,TRUE,TRUE,FALSE,/matches/gimnasia-lp-vs-tigre/29v77hi#5101998,ARG1
+8,8,,5101989,2026-03-02T22:15:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-deportivo-riestra/lw3vhni#5101989,ARG1
+8,8,,5101990,2026-03-02T22:15:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-estudiantes/3d5lux#5101990,ARG1
+8,8,,5101986,2026-03-03T00:30:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-aldosivi/6s3zk24#5101986,ARG1
+8,8,,5101993,2026-03-03T00:30:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-independiente-rivadavia/6s2yqd0#5101993,ARG1
+8,8,,5101996,2026-03-03T22:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/sarmiento-vs-estudiantes-de-rio-cuarto/13tf0jyl#5101996,ARG1
+8,8,,5101991,2026-03-03T22:15:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-belgrano/3d5luv#5101991,ARG1
+8,8,,5101985,2026-03-04T00:15:00Z,,,0 - 3,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-atletico-tucuman/6s363hr#5101985,ARG1
+7,7,,5101976,2026-03-05T00:00:00Z,,,0 - 3,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-lanus/3czk02#5101976,ARG1
+10,10,,5102023,2026-03-10T22:45:00Z,,,04-Apr,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-union/3d61fd#5102023,ARG1
+10,10,,5102028,2026-03-10T22:45:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-tigre/29ts14i#5102028,ARG1
+10,10,,5102025,2026-03-11T01:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-newells-old-boys/3ekcfw#5102025,ARG1
+10,10,,5102026,2026-03-11T01:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-sarmiento/aelabok#5102026,ARG1
+10,10,,5102014,2026-03-11T20:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-argentinos-juniors/3d4b5p#5102014,ARG1
+10,10,,5102016,2026-03-11T20:30:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-gimnasia-lp/3dcylk#5102016,ARG1
+10,10,,5102017,2026-03-11T22:45:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-san-lorenzo/3czzk3#5102017,ARG1
+10,10,,5102015,2026-03-12T01:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/atletico-tucuman-vs-aldosivi/o155e68#5102015,ARG1
+10,10,,5102024,2026-03-12T01:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/independiente-rivadavia-vs-barracas-central/wch83zi#5102024,ARG1
+10,10,,5102018,2026-03-12T20:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/defensa-y-justicia-vs-central-cordoba-de-santiago/wcvavjh#5102018,ARG1
+10,10,,5102019,2026-03-12T20:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/deportivo-riestra-vs-gimnasia-mendoza/4sswibzh#5102019,ARG1
+10,10,,5102021,2026-03-12T22:15:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-estudiantes-de-rio-cuarto/bhqp0fx#5102021,ARG1
+10,10,,5102027,2026-03-12T22:15:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-talleres/3dde6d#5102027,ARG1
+10,10,,5102022,2026-03-13T00:30:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-huracan/3cyow4#5102022,ARG1
+10,10,,5102020,2026-03-13T23:00:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-estudiantes/3d6wk6#5102020,ARG1
+11,11,,5102037,2026-03-14T22:00:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-club-atletico-platense/3d3g19#5102037,ARG1
+11,11,,5102040,2026-03-15T00:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-banfield/3d4qq1#5102040,ARG1
+11,11,,5102033,2026-03-15T18:15:00Z,,,02-Mar,FT,TRUE,TRUE,FALSE,/matches/gimnasia-lp-vs-independiente-rivadavia/6s5q5x9#5102033,ARG1
+11,11,,5102031,2026-03-15T20:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-talleres/3de9c6#5102031,ARG1
+11,11,,5102039,2026-03-15T22:45:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-sarmiento/aeks2s6#5102039,ARG1
+11,11,,5102042,2026-03-16T01:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-tigre/29u6yfn#5102042,ARG1
+11,11,,5102043,2026-03-16T01:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-union/3d5luz#5102043,ARG1
+11,11,,5102029,2026-03-16T18:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-aldosivi/6s3dgmp#5102029,ARG1
+11,11,,5102030,2026-03-16T18:30:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/atletico-tucuman-vs-barracas-central/wcgs0vl#5102030,ARG1
+11,11,,5102041,2026-03-16T21:30:00Z,,,02-May,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-defensa-y-justicia/6s3s6wx#5102041,ARG1
+11,11,,5102038,2026-03-16T23:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-estudiantes-de-rio-cuarto/bhp3hcr#5102038,ARG1
+11,11,,5102035,2026-03-17T01:15:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-instituto/3d3g1a#5102035,ARG1
+11,11,,5102036,2026-03-17T22:00:00Z,,,5 - 0,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-newells-old-boys/3ehav7#5102036,ARG1
+11,11,,5102032,2026-03-18T00:15:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/central-cordoba-de-santiago-vs-deportivo-riestra/1o9ltexi#5102032,ARG1
+11,11,,5102034,2026-03-18T00:15:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/estudiantes-vs-gimnasia-mendoza/24yfqe5i#5102034,ARG1
+12,12,,5102045,2026-03-21T00:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/gimnasia-lp-vs-atletico-tucuman/6s5isr0#5102045,ARG1
+12,12,,5102046,2026-03-21T00:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-tigre/29u9372#5102046,ARG1
+12,12,,5102058,2026-03-21T18:30:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-lanus/3d0f43#5102058,ARG1
+12,12,,5102049,2026-03-21T20:45:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/union-vs-defensa-y-justicia/6s542f1#5102049,ARG1
+12,12,,5102056,2026-03-21T20:45:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/newells-old-boys-vs-gimnasia-mendoza/24zglz2n#5102056,ARG1
+12,12,,5102054,2026-03-21T23:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-talleres/3d879v#5102054,ARG1
+12,12,,5102047,2026-03-22T01:15:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-belgrano/3d56ai#5102047,ARG1
+12,12,,5102057,2026-03-22T18:30:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/aldosivi-vs-sarmiento/uijr6wk#5102057,ARG1
+12,12,,5102052,2026-03-22T20:45:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-estudiantes-de-rio-cuarto/bhokb0l#5102052,ARG1
+12,12,,5102048,2026-03-22T23:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-instituto/3d30h2#5102048,ARG1
+12,12,,5102044,2026-03-23T01:15:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-club-atletico-platense/3d6gzl#5102044,ARG1
+12,12,,5102055,2026-03-23T01:15:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-independiente-rivadavia/6s3s6ww#5102055,ARG1
+12,12,,5102051,2026-03-23T22:00:00Z,,,5 - 0,FT,TRUE,TRUE,FALSE,/matches/estudiantes-vs-central-cordoba-de-santiago/bhrmkmr#5102051,ARG1
+12,12,,5102053,2026-03-24T00:15:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-barracas-central/bhhn1pa#5102053,ARG1
+12,12,,5102050,2026-03-25T22:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-deportivo-riestra/lw2rsex#5102050,ARG1
+6,6,,5101954,2026-03-27T00:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-argentinos-juniors/3d3g16#5101954,ARG1
+7,7,,5101969,2026-03-31T17:00:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-aldosivi/6s3vvhh#5101969,ARG1
+13,13,,5102067,2026-04-01T23:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-club-atletico-platense/3d4qq3#5102067,ARG1
+13,13,,5102061,2026-04-02T18:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/sarmiento-vs-barracas-central/13t0vxjo#5102061,ARG1
+13,13,,5102072,2026-04-02T20:30:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/tigre-vs-independiente-rivadavia/ehheacr#5102072,ARG1
+13,13,,5102071,2026-04-02T23:30:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-talleres/3d7rpc#5102071,ARG1
+13,13,,5102064,2026-04-03T18:00:00Z,,,03-Feb,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-gimnasia-mendoza/24yakax0#5102064,ARG1
+13,13,,5102073,2026-04-03T20:15:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/union-vs-deportivo-riestra/lw55t4s#5102073,ARG1
+13,13,,5102070,2026-04-03T22:30:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-estudiantes/3d7c4n#5102070,ARG1
+13,13,,5102059,2026-04-04T16:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/aldosivi-vs-estudiantes-de-rio-cuarto/wctqkbv#5102059,ARG1
+13,13,,5102065,2026-04-04T20:30:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-racing-club/3cz4g1#5102065,ARG1
+13,13,,5102069,2026-04-05T00:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-atletico-tucuman/6s3ktrp#5102069,ARG1
+13,13,,5102063,2026-04-05T18:30:00Z,,,0 - 3,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-gimnasia-lp/3dad4z#5102063,ARG1
+13,13,,5102068,2026-04-05T21:00:00Z,,,3 - 0,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-belgrano/3d3g1c#5102068,ARG1
+13,13,,5102062,2026-04-05T23:30:00Z,,,01-Mar,FT,TRUE,TRUE,FALSE,/matches/newells-old-boys-vs-central-cordoba-de-santiago/bi5vpbn#5102062,ARG1
+13,13,,5102060,2026-04-06T22:00:00Z,,,03-Feb,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-banfield/3d5luq#5102060,ARG1
+13,13,,5102066,2026-04-07T00:15:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-defensa-y-justicia/6s4hyxs#5102066,ARG1
+14,14,,5102075,2026-04-11T00:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-aldosivi/6s4hyxq#5102075,ARG1
+14,14,,5102078,2026-04-11T18:00:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-deportivo-riestra/lw423v1#5102078,ARG1
+14,14,,5102082,2026-04-11T18:30:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-independiente-rivadavia/6s3zk25#5102082,ARG1
+14,14,,5102079,2026-04-11T20:15:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/estudiantes-vs-union/3dcyld#5102079,ARG1
+14,14,,5102076,2026-04-11T22:30:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-independiente/3cxts8#5102076,ARG1
+14,14,,5102080,2026-04-12T00:45:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/barracas-central-vs-estudiantes-de-rio-cuarto/15wl0yfi#5102080,ARG1
+14,14,,5102085,2026-04-12T18:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-gimnasia-mendoza/24ye0d1z#5102085,ARG1
+14,14,,5102084,2026-04-12T18:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-newells-old-boys/3ehqin#5102084,ARG1
+14,14,,5102074,2026-04-12T20:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/tigre-vs-atletico-tucuman/ehh3ite#5102074,ARG1
+14,14,,5102081,2026-04-12T20:30:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-rosario-central/3d25cj#5102081,ARG1
+14,14,,5102086,2026-04-12T23:00:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-racing-club/3cy9c6#5102086,ARG1
+14,14,,5102077,2026-04-13T19:30:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/talleres-vs-defensa-y-justicia/6s5mhc6#5102077,ARG1
+14,14,,5102087,2026-04-13T19:30:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/gimnasia-lp-vs-sarmiento/aeo793f#5102087,ARG1
+14,14,,5102083,2026-04-13T22:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-banfield/3d3vlg#5102083,ARG1
+14,14,,5102088,2026-04-14T00:30:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-central-cordoba-de-santiago/bhpmnpi#5102088,ARG1
+15,15,,5102103,2026-04-17T23:30:00Z,,,02-Mar,FT,TRUE,TRUE,FALSE,/matches/union-vs-newells-old-boys/3ene1y#5102103,ARG1
+15,15,,5102094,2026-04-18T18:00:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/gimnasia-lp-vs-estudiantes-de-rio-cuarto/bhs5r1c#5102094,ARG1
+15,15,,5102097,2026-04-18T20:15:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-estudiantes/3dad4q#5102097,ARG1
+15,15,,5102096,2026-04-18T22:30:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-defensa-y-justicia/6s39s2a#5102096,ARG1
+15,15,,5102090,2026-04-19T00:45:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-atletico-tucuman/6s3s6wu#5102090,ARG1
+15,15,,5102089,2026-04-19T16:30:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-aldosivi/6s39s28#5102089,ARG1
+15,15,,5102098,2026-04-19T20:00:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-boca-juniors/3cwyoi#5102098,ARG1
+15,15,,5102099,2026-04-19T23:30:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-sarmiento/aelskle#5102099,ARG1
+15,15,,5102101,2026-04-19T23:30:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/talleres-vs-deportivo-riestra/lw62w7o#5102101,ARG1
+15,15,,5102092,2026-04-20T18:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-barracas-central/bhj3rpx#5102092,ARG1
+15,15,,5102091,2026-04-20T20:15:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-independiente-rivadavia/6s438mt#5102091,ARG1
+15,15,,5102093,2026-04-20T20:15:00Z,,,04-Mar,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-central-cordoba-de-santiago/bhqylmz#5102093,ARG1
+15,15,,5102100,2026-04-20T22:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-san-lorenzo/3d0uo6#5102100,ARG1
+15,15,,5102095,2026-04-21T00:45:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-gimnasia-mendoza/24yblir0#5102095,ARG1
+15,15,,5102102,2026-04-21T00:45:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-tigre/29twamz#5102102,ARG1
+16,16,,5102106,2026-04-23T23:00:00Z,,,0 - 4,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-defensa-y-justicia/6s363hu#5102106,ARG1
+16,16,,5102107,2026-04-24T20:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-deportivo-riestra/lw1upej#5102107,ARG1
+16,16,,5102109,2026-04-24T22:15:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-estudiantes-de-rio-cuarto/bhpmnpd#5102109,ARG1
+16,16,,5102112,2026-04-24T22:15:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-central-cordoba-de-santiago/bhq11h9#5102112,ARG1
+16,16,,5102114,2026-04-25T00:30:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/san-lorenzo-vs-club-atletico-platense/3d56af#5102114,ARG1
+16,16,,5102115,2026-04-25T00:30:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-barracas-central/bhhi95r#5102115,ARG1
+16,16,,5102108,2026-04-25T20:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/estudiantes-vs-talleres/3df4i3#5102108,ARG1
+16,16,,5102117,2026-04-25T22:15:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/tigre-vs-sarmiento/jlsqko9#5102117,ARG1
+16,16,,5102116,2026-04-26T00:30:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-aldosivi/6s2v1sm#5102116,ARG1
+16,16,,5102111,2026-04-26T18:00:00Z,,,05-Jan,FT,TRUE,TRUE,FALSE,/matches/independiente-rivadavia-vs-gimnasia-mendoza/3ek498ir#5102111,ARG1
+16,16,,5102105,2026-04-26T20:30:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-gimnasia-lp/3df4i5#5102105,ARG1
+16,16,,5102113,2026-04-26T20:30:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-newells-old-boys/3eks3j#5102113,ARG1
+16,16,,5102104,2026-04-26T23:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-atletico-tucuman/6s3vvhg#5102104,ARG1
+16,16,,5102118,2026-04-27T21:45:00Z,,,02-Feb,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-union/3d6gzs#5102118,ARG1
+16,16,,5102110,2026-04-28T00:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/huracan-vs-argentinos-juniors/3d30gy#5102110,ARG1
+9,9,,5102000,2026-05-02T17:00:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/banfield-vs-barracas-central/bhifsz1#5102000,ARG1
+9,9,,5102006,2026-05-02T17:30:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-deportivo-riestra/lw2l67l#5102006,ARG1
+9,9,,5102002,2026-05-02T19:15:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-central-cordoba-de-santiago/bhpd2j5#5102002,ARG1
+9,9,,5102011,2026-05-02T21:45:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-san-lorenzo/3d0f44#5102011,ARG1
+9,9,,5102012,2026-05-02T21:45:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/union-vs-talleres/3dfzo4#5102012,ARG1
+9,9,,5102007,2026-05-03T00:15:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/club-atletico-platense-vs-estudiantes/3d9xk2#5102007,ARG1
+9,9,,5101999,2026-05-03T16:30:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/aldosivi-vs-independiente-rivadavia/o15j9c2#5101999,ARG1
+9,9,,5102001,2026-05-03T19:00:00Z,,,4 - 0,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-sarmiento/aemt2ge#5102001,ARG1
+9,9,,5102004,2026-05-03T19:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-gimnasia-lp/3dcj0q#5102004,ARG1
+9,9,,5102008,2026-05-03T19:00:00Z,,,0 - 0,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-huracan/3d0f42#5102008,ARG1
+9,9,,5102010,2026-05-03T19:00:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/rosario-central-vs-tigre/29u2oww#5102010,ARG1
+9,9,,5102009,2026-05-03T21:30:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-atletico-tucuman/6s2rd89#5102009,ARG1
+9,9,,5102005,2026-05-04T20:00:00Z,,,02-Jan,FT,TRUE,TRUE,FALSE,/matches/defensa-y-justicia-vs-gimnasia-mendoza/3ek4ow58#5102005,ARG1
+9,9,,5102013,2026-05-04T22:15:00Z,,,01-Jan,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-newells-old-boys/3efzx1#5102013,ARG1
+9,9,,5102003,2026-05-05T00:30:00Z,,,0 - 2,FT,TRUE,TRUE,FALSE,/matches/instituto-vs-estudiantes-de-rio-cuarto/bhqff94#5102003,ARG1
+01-Aug,Round of 16,,5449137,2026-05-09T19:30:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-talleres/3de9c6#5449137,ARG1
+01-Aug,Round of 16,,5449138,2026-05-09T22:00:00Z,,,02-Mar,AET,TRUE,TRUE,FALSE,/matches/boca-juniors-vs-huracan/3cz4g2#5449138,ARG1
+01-Aug,Round of 16,,5449140,2026-05-10T00:30:00Z,,,01-Feb,FT,TRUE,TRUE,FALSE,/matches/union-vs-independiente-rivadavia/6s50du2#5449140,ARG1
+01-Aug,Round of 16,,5449139,2026-05-10T01:15:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/lanus-vs-argentinos-juniors/3d3g16#5449139,ARG1
+01-Aug,Round of 16,,5449141,2026-05-10T18:00:00Z,,,03-Jan,FT,TRUE,TRUE,FALSE,/matches/independiente-vs-rosario-central/3d0uo7#5449141,ARG1
+01-Aug,Round of 16,,5449142,2026-05-10T20:00:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/racing-club-vs-estudiantes/3d61fb#5449142,ARG1
+01-Aug,Round of 16,,5449143,2026-05-10T22:00:00Z,,,02-Feb,Pen,TRUE,TRUE,FALSE,/matches/river-plate-vs-san-lorenzo/3czk03#5449143,ARG1
+01-Aug,Round of 16,,5449144,2026-05-11T00:30:00Z,,,0 - 1,FT,TRUE,TRUE,FALSE,/matches/velez-sarsfield-vs-gimnasia-lp/3d9hzo#5449144,ARG1
+01-Apr,Quarter-Finals,,5499692,2026-05-12T22:00:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/belgrano-vs-union/3dc3fq#5499692,ARG1
+01-Apr,Quarter-Finals,,5499693,2026-05-13T00:30:00Z,,,1 - 0,AET,TRUE,TRUE,FALSE,/matches/huracan-vs-argentinos-juniors/3d30gy#5499693,ARG1
+01-Apr,Quarter-Finals,,5499694,2026-05-13T21:45:00Z,,,02-Jan,AET,TRUE,TRUE,FALSE,/matches/racing-club-vs-rosario-central/3d1pse#5499694,ARG1
+01-Apr,Quarter-Finals,,5499695,2026-05-14T00:30:00Z,,,2 - 0,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-gimnasia-lp/3d879x#5499695,ARG1
+01-Feb,Semi-Finals,,5586275,2026-05-16T22:30:00Z,,,1 - 0,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-rosario-central/3czzk4#5586275,ARG1
+01-Feb,Semi-Finals,,5586276,2026-05-17T20:00:00Z,,,01-Jan,Pen,TRUE,TRUE,FALSE,/matches/argentinos-juniors-vs-belgrano/3d7rp3#5586276,ARG1
+final,Final,,5647379,2026-05-24T18:30:00Z,,,02-Mar,FT,TRUE,TRUE,FALSE,/matches/river-plate-vs-belgrano/3d3g1c#5647379,ARG1
+1,1,,5115874,2026-07-23T22:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-belgrano/3d6wk4#5115874,ARG1
+1,1,,5115886,2026-07-23T22:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-sarmiento/aem1p1z#5115886,ARG1
+1,1,,5115875,2026-07-24T00:45:00Z,,,,,FALSE,FALSE,FALSE,/matches/aldosivi-vs-defensa-y-justicia/o15q6x1#5115875,ARG1
+1,1,,5115879,2026-07-24T19:45:00Z,,,,,FALSE,FALSE,FALSE,/matches/central-cordoba-de-santiago-vs-gimnasia-mendoza/3wkxsan9#5115879,ARG1
+1,1,,5115884,2026-07-24T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-gimnasia-lp/3d9xkb#5115884,ARG1
+1,1,,5115887,2026-07-24T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-instituto/3d3vlj#5115887,ARG1
+1,1,,5115883,2026-07-25T00:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/club-atletico-platense-vs-union/3dasph#5115883,ARG1
+1,1,,5115880,2026-07-25T00:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-banfield/3d3g17#5115880,ARG1
+1,1,,5115878,2026-07-25T17:45:00Z,,,,,FALSE,FALSE,FALSE,/matches/tigre-vs-estudiantes-de-rio-cuarto/l345hh2#5115878,ARG1
+1,1,,5115882,2026-07-25T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/talleres-vs-newells-old-boys/3epkde#5115882,ARG1
+1,1,,5115885,2026-07-25T22:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-barracas-central/bhgz2zx#5115885,ARG1
+1,1,,5115881,2026-07-26T00:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-san-lorenzo/3d25ci#5115881,ARG1
+1,1,,5115873,2026-07-26T18:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/atletico-tucuman-vs-independiente-rivadavia/o15cbr5#5115873,ARG1
+1,1,,5115877,2026-07-26T20:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-estudiantes/3d56ak#5115877,ARG1
+1,1,,5115876,2026-07-26T22:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-deportivo-riestra/lw1o37c#5115876,ARG1
+2,2,,5115889,2026-07-28T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-sarmiento/aem69ab#5115889,ARG1
+2,2,,5115899,2026-07-28T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-gimnasia-mendoza/24ybxxd2#5115899,ARG1
+2,2,,5115888,2026-07-29T00:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-estudiantes-de-rio-cuarto/bhpw8vu#5115888,ARG1
+2,2,,5115898,2026-07-29T00:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-rosario-central/3d1pse#5115898,ARG1
+2,2,,5115890,2026-07-29T17:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/aldosivi-vs-barracas-central/wch02fj#5115890,ARG1
+2,2,,5115893,2026-07-29T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/defensa-y-justicia-vs-deportivo-riestra/1coh9f29#5115893,ARG1
+2,2,,5115894,2026-07-29T22:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-gimnasia-lp/3d879x#5115894,ARG1
+2,2,,5115897,2026-07-30T00:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/club-atletico-platense-vs-instituto/3d879k#5115897,ARG1
+2,2,,5115896,2026-07-30T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-independiente-rivadavia/6s3h578#5115896,ARG1
+2,2,,5115900,2026-07-30T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-talleres/3d8muf#5115900,ARG1
+2,2,,5115892,2026-07-31T00:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/atletico-tucuman-vs-central-cordoba-de-santiago/wcumqqe#5115892,ARG1
+2,2,,5115895,2026-07-31T00:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-newells-old-boys/3efk9p#5115895,ARG1
+3,3,,5115908,2026-08-01T18:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-estudiantes-de-rio-cuarto/bhq11h4#5115908,ARG1
+3,3,,5115909,2026-08-01T18:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/union-vs-gimnasia-mendoza/24ygf7eb#5115909,ARG1
+3,3,,5115904,2026-08-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-belgrano/3d7rp3#5115904,ARG1
+3,3,,5115907,2026-08-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/estudiantes-vs-defensa-y-justicia/6s4wp96#5115907,ARG1
+3,3,,5115914,2026-08-01T23:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-tigre/29tu5vq#5115914,ARG1
+3,3,,5115903,2026-08-02T17:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/gimnasia-lp-vs-aldosivi/6s5mhc4#5115903,ARG1
+3,3,,5115906,2026-08-02T17:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/barracas-central-vs-deportivo-riestra/1o92wrsr#5115906,ARG1
+3,3,,5115912,2026-08-02T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-newells-old-boys/3ef4me#5115912,ARG1
+3,3,,5115915,2026-08-02T22:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-rosario-central/3czzk4#5115915,ARG1
+3,3,,5115911,2026-08-03T00:30:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-instituto/3d56ag#5115911,ARG1
+3,3,,5115916,2026-08-03T19:45:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-rivadavia-vs-sarmiento/uijz056#5115916,ARG1
+3,3,,5115913,2026-08-03T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/club-atletico-platense-vs-talleres/3dcyli#5115913,ARG1
+3,3,,5115917,2026-08-03T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-velez-sarsfield/3cyow2#5115917,ARG1
+3,3,,5115905,2026-08-04T00:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-central-cordoba-de-santiago/bhq5u2k#5115905,ARG1
+3,3,,5115910,2026-08-04T00:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-atletico-tucuman/6s39s27#5115910,ARG1
+2,2,,5115891,2026-08-05T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-estudiantes/3d4qq8#5115891,ARG1
+2,2,,5115901,2026-08-06T00:15:00Z,,,,,FALSE,FALSE,FALSE,/matches/belgrano-vs-tigre/29ujr0k#5115901,ARG1
+2,2,,5115902,2026-08-06T22:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-union/3d7rp7#5115902,ARG1
+4,4,,5115918,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-argentinos-juniors/3d2kwr#5115918,ARG1
+4,4,,5115919,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/atletico-tucuman-vs-sarmiento/uijjdnz#5115919,ARG1
+4,4,,5115920,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-belgrano/3d879m#5115920,ARG1
+4,4,,5115921,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-velez-sarsfield/3cy9c5#5115921,ARG1
+4,4,,5115922,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/newells-old-boys-vs-defensa-y-justicia/6sfuvss#5115922,ARG1
+4,4,,5115923,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/estudiantes-vs-deportivo-riestra/lw4skpf#5115923,ARG1
+4,4,,5115924,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/gimnasia-lp-vs-barracas-central/bhkkhtx#5115924,ARG1
+4,4,,5115925,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-club-atletico-platense/3d30h1#5115925,ARG1
+4,4,,5115926,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-rivadavia-vs-estudiantes-de-rio-cuarto/wctylxf#5115926,ARG1
+4,4,,5115927,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-gimnasia-mendoza/24yecro8#5115927,ARG1
+4,4,,5115928,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-aldosivi/6s3oica#5115928,ARG1
+4,4,,5115929,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-san-lorenzo/3d1psd#5115929,ARG1
+4,4,,5115930,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-talleres/3d9xk9#5115930,ARG1
+4,4,,5115931,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-tigre/29tlmv0#5115931,ARG1
+4,4,,5115932,2026-08-09T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/union-vs-central-cordoba-de-santiago/bhrw5u2#5115932,ARG1
+5,5,,5115933,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/tigre-vs-aldosivi/ehh8wl2#5115933,ARG1
+5,5,,5115934,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-barracas-central/bhi1fc1#5115934,ARG1
+5,5,,5115935,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/belgrano-vs-independiente-rivadavia/6s4lnik#5115935,ARG1
+5,5,,5115936,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-central-cordoba-de-santiago/bhr3e8h#5115936,ARG1
+5,5,,5115942,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-club-atletico-platense/3d2kwu#5115942,ARG1
+5,5,,5115937,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/estudiantes-vs-gimnasia-lp/3dfzo6#5115937,ARG1
+5,5,,5115938,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/atletico-tucuman-vs-estudiantes-de-rio-cuarto/wctiiqc#5115938,ARG1
+5,5,,5115939,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/talleres-vs-gimnasia-mendoza/24yi58it#5115939,ARG1
+5,5,,5115940,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-lanus/3czzk2#5115940,ARG1
+5,5,,5115941,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/newells-old-boys-vs-deportivo-riestra/lwogpva#5115941,ARG1
+5,5,,5115943,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-banfield/3d30gz#5115943,ARG1
+5,5,,5115944,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-argentinos-juniors/3d0uo9#5115944,ARG1
+5,5,,5115945,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-union/3d879q#5115945,ARG1
+5,5,,5115946,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-sarmiento/aelevwq#5115946,ARG1
+5,5,,5115947,2026-08-16T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-defensa-y-justicia/6s3dgmr#5115947,ARG1
+6,6,,5115948,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/union-vs-aldosivi/6s4wp94#5115948,ARG1
+6,6,,5115949,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-atletico-tucuman/6s46x7g#5115949,ARG1
+6,6,,5115950,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/club-atletico-platense-vs-barracas-central/bhipe2i#5115950,ARG1
+6,6,,5115951,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/belgrano-vs-defensa-y-justicia/6s4pc3f#5115951,ARG1
+6,6,,5115952,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-estudiantes-de-rio-cuarto/bhphv46#5115952,ARG1
+6,6,,5115953,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/gimnasia-lp-vs-gimnasia-mendoza/24yiu1s0#5115953,ARG1
+6,6,,5115954,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-deportivo-riestra/lw2ek0a#5115954,ARG1
+6,6,,5115955,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-independiente-rivadavia/6s363ht#5115955,ARG1
+6,6,,5115956,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-argentinos-juniors/3d3g16#5115956,ARG1
+6,6,,5115957,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-newells-old-boys/3ejh4p#5115957,ARG1
+6,6,,5115958,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-racing-club/3cyow3#5115958,ARG1
+6,6,,5115959,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-velez-sarsfield/3cxts9#5115959,ARG1
+6,6,,5115960,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/estudiantes-vs-sarmiento/aen26xf#5115960,ARG1
+6,6,,5115961,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-talleres/3daspm#5115961,ARG1
+6,6,,5115962,2026-08-23T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/tigre-vs-central-cordoba-de-santiago/l351yf0#5115962,ARG1
+7,7,,5115963,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/argentinos-juniors-vs-aldosivi/6s3vvhh#5115963,ARG1
+7,7,,5115964,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/belgrano-vs-atletico-tucuman/6s4eacx#5115964,ARG1
+7,7,,5115965,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/river-plate-vs-banfield/3d1a8d#5115965,ARG1
+7,7,,5115966,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/boca-juniors-vs-lanus/3czk02#5115966,ARG1
+7,7,,5115967,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/club-atletico-platense-vs-defensa-y-justicia/6s4ead0#5115967,ARG1
+7,7,,5115968,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/velez-sarsfield-vs-deportivo-riestra/lw21blr#5115968,ARG1
+7,7,,5115969,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/estudiantes-vs-newells-old-boys/3emiqd#5115969,ARG1
+7,7,,5115970,2026-08-30T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-estudiantes-de-rio-cuarto/bhp89xv#5115970,ARG1
+7,7,,5115971,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/independiente-vs-gimnasia-mendoza/24ya7wb2#5115971,ARG1
+7,7,,5115972,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/racing-club-vs-independiente-rivadavia/6s3dgmq#5115972,ARG1
+7,7,,5115973,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/san-lorenzo-vs-instituto/3d5lut#5115973,ARG1
+7,7,,5115974,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/rosario-central-vs-gimnasia-lp/3dbnv5#5115974,ARG1
+7,7,,5115975,2026-08-30T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/talleres-vs-central-cordoba-de-santiago/bhsk4ut#5115975,ARG1
+7,7,,5115976,2026-08-30T20:00:00Z,,,,PP,FALSE,FALSE,TRUE,/matches/tigre-vs-barracas-central/l2tvcvz#5115976,ARG1
+7,7,,5115977,2026-08-30T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/union-vs-sarmiento/aenbbek#5115977,ARG1
+8,8,,5115978,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-aldosivi/6s3zk24#5115978,ARG1
+8,8,,5115979,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-barracas-central/bhib0fc#5115979,ARG1
+8,8,,5115980,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-belgrano/3d5luv#5115980,ARG1
+8,8,,5115981,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-central-cordoba-de-santiago/bhphv4b#5115981,ARG1
+8,8,,5115986,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/club-atletico-platense-vs-deportivo-riestra/lw3vhni#5115986,ARG1
+8,8,,5115982,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/sarmiento-vs-estudiantes-de-rio-cuarto/13tf0jyl#5115982,ARG1
+8,8,,5115983,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/gimnasia-lp-vs-tigre/29v77hi#5115983,ARG1
+8,8,,5115984,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-gimnasia-mendoza/24y9vhp5#5115984,ARG1
+8,8,,5115985,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-defensa-y-justicia/6s3oicc#5115985,ARG1
+8,8,,5115987,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-atletico-tucuman/6s363hr#5115987,ARG1
+8,8,,5115988,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-independiente-rivadavia/6s2yqd0#5115988,ARG1
+8,8,,5115989,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-newells-old-boys/3ei664#5115989,ARG1
+8,8,,5115990,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-talleres/3dad4x#5115990,ARG1
+8,8,,5115991,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-union/3db8a7#5115991,ARG1
+8,8,,5115992,2026-09-06T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-estudiantes/3d5lux#5115992,ARG1
+9,9,,5115993,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-gimnasia-lp/3dcj0q#5115993,ARG1
+9,9,,5115994,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-atletico-tucuman/6s2rd89#5115994,ARG1
+9,9,,5115995,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-barracas-central/bhifsz1#5115995,ARG1
+9,9,,5115996,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-central-cordoba-de-santiago/bhpd2j5#5115996,ARG1
+9,9,,5115997,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/defensa-y-justicia-vs-gimnasia-mendoza/3ek4ow58#5115997,ARG1
+9,9,,5115998,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-deportivo-riestra/lw2l67l#5115998,ARG1
+9,9,,5115999,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/club-atletico-platense-vs-estudiantes/3d9xk2#5115999,ARG1
+9,9,,5116000,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-huracan/3d0f42#5116000,ARG1
+9,9,,5116001,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-san-lorenzo/3d0f44#5116001,ARG1
+9,9,,5116002,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/aldosivi-vs-independiente-rivadavia/o15j9c2#5116002,ARG1
+9,9,,5116003,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-estudiantes-de-rio-cuarto/bhqff94#5116003,ARG1
+9,9,,5116004,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-newells-old-boys/3efzx1#5116004,ARG1
+9,9,,5116005,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/belgrano-vs-sarmiento/aemt2ge#5116005,ARG1
+9,9,,5116006,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/union-vs-talleres/3dfzo4#5116006,ARG1
+9,9,,5116007,2026-09-13T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-tigre/29u2oww#5116007,ARG1
+10,10,,5116008,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/atletico-tucuman-vs-aldosivi/o155e68#5116008,ARG1
+10,10,,5116009,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-rivadavia-vs-barracas-central/wch83zi#5116009,ARG1
+10,10,,5116010,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/belgrano-vs-estudiantes-de-rio-cuarto/bhqp0fx#5116010,ARG1
+10,10,,5116011,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/defensa-y-justicia-vs-central-cordoba-de-santiago/wcvavjh#5116011,ARG1
+10,10,,5116016,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/club-atletico-platense-vs-newells-old-boys/3ekcfw#5116016,ARG1
+10,10,,5116012,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-gimnasia-lp/3dcylk#5116012,ARG1
+10,10,,5116013,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/deportivo-riestra-vs-gimnasia-mendoza/4sswibzh#5116013,ARG1
+10,10,,5116014,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-talleres/3dde6d#5116014,ARG1
+10,10,,5116015,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-estudiantes/3d6wk6#5116015,ARG1
+10,10,,5116017,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-sarmiento/aelabok#5116017,ARG1
+10,10,,5116018,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-huracan/3cyow4#5116018,ARG1
+10,10,,5116019,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-argentinos-juniors/3d4b5p#5116019,ARG1
+10,10,,5116020,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-san-lorenzo/3czzk3#5116020,ARG1
+10,10,,5116021,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-union/3d61fd#5116021,ARG1
+10,10,,5116022,2026-09-20T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-tigre/29ts14i#5116022,ARG1
+11,11,,5116023,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-tigre/29u6yfn#5116023,ARG1
+11,11,,5116024,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/atletico-tucuman-vs-barracas-central/wcgs0vl#5116024,ARG1
+11,11,,5116025,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-banfield/3d4qq1#5116025,ARG1
+11,11,,5116026,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-union/3d5luz#5116026,ARG1
+11,11,,5116027,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-defensa-y-justicia/6s3s6wx#5116027,ARG1
+11,11,,5116028,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/central-cordoba-de-santiago-vs-deportivo-riestra/1o9ltexi#5116028,ARG1
+11,11,,5116029,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/estudiantes-vs-gimnasia-mendoza/24yfqe5i#5116029,ARG1
+11,11,,5116030,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-estudiantes-de-rio-cuarto/bhp3hcr#5116030,ARG1
+11,11,,5116031,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-aldosivi/6s3dgmp#5116031,ARG1
+11,11,,5116032,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-instituto/3d3g1a#5116032,ARG1
+11,11,,5116033,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/gimnasia-lp-vs-independiente-rivadavia/6s5q5x9#5116033,ARG1
+11,11,,5116034,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-newells-old-boys/3ehav7#5116034,ARG1
+11,11,,5116035,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-sarmiento/aeks2s6#5116035,ARG1
+11,11,,5116036,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/belgrano-vs-talleres/3de9c6#5116036,ARG1
+11,11,,5116037,2026-10-04T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-club-atletico-platense/3d3g19#5116037,ARG1
+12,12,,5116038,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/aldosivi-vs-sarmiento/uijr6wk#5116038,ARG1
+12,12,,5116039,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-barracas-central/bhhn1pa#5116039,ARG1
+12,12,,5116040,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/estudiantes-vs-central-cordoba-de-santiago/bhrmkmr#5116040,ARG1
+12,12,,5116045,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-club-atletico-platense/3d6gzl#5116045,ARG1
+12,12,,5116041,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/gimnasia-lp-vs-atletico-tucuman/6s5isr0#5116041,ARG1
+12,12,,5116042,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/newells-old-boys-vs-gimnasia-mendoza/24zglz2n#5116042,ARG1
+12,12,,5116043,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-instituto/3d30h2#5116043,ARG1
+12,12,,5116044,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-lanus/3d0f43#5116044,ARG1
+12,12,,5116046,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-belgrano/3d56ai#5116046,ARG1
+12,12,,5116047,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-estudiantes-de-rio-cuarto/bhokb0l#5116047,ARG1
+12,12,,5116048,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-independiente-rivadavia/6s3s6ww#5116048,ARG1
+12,12,,5116049,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-deportivo-riestra/lw2rsex#5116049,ARG1
+12,12,,5116050,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-talleres/3d879v#5116050,ARG1
+12,12,,5116051,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-tigre/29u9372#5116051,ARG1
+12,12,,5116052,2026-10-11T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/union-vs-defensa-y-justicia/6s542f1#5116052,ARG1
+13,13,,5116053,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-atletico-tucuman/6s3ktrp#5116053,ARG1
+13,13,,5116054,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-banfield/3d5luq#5116054,ARG1
+13,13,,5116055,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-belgrano/3d3g1c#5116055,ARG1
+13,13,,5116056,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-talleres/3d7rpc#5116056,ARG1
+13,13,,5116064,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-club-atletico-platense/3d4qq3#5116064,ARG1
+13,13,,5116057,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-defensa-y-justicia/6s4hyxs#5116057,ARG1
+13,13,,5116058,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/union-vs-deportivo-riestra/lw55t4s#5116058,ARG1
+13,13,,5116059,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-estudiantes/3d7c4n#5116059,ARG1
+13,13,,5116060,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/aldosivi-vs-estudiantes-de-rio-cuarto/wctqkbv#5116060,ARG1
+13,13,,5116061,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-gimnasia-lp/3dad4z#5116061,ARG1
+13,13,,5116062,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/tigre-vs-independiente-rivadavia/ehheacr#5116062,ARG1
+13,13,,5116063,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/newells-old-boys-vs-central-cordoba-de-santiago/bi5vpbn#5116063,ARG1
+13,13,,5116065,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-racing-club/3cz4g1#5116065,ARG1
+13,13,,5116066,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/sarmiento-vs-barracas-central/13t0vxjo#5116066,ARG1
+13,13,,5116067,2026-10-18T20:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-gimnasia-mendoza/24yakax0#5116067,ARG1
+14,14,,5116068,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/belgrano-vs-aldosivi/6s4hyxq#5116068,ARG1
+14,14,,5116069,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-independiente-rivadavia/6s3zk25#5116069,ARG1
+14,14,,5116070,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-banfield/3d3vlg#5116070,ARG1
+14,14,,5116071,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/barracas-central-vs-estudiantes-de-rio-cuarto/15wl0yfi#5116071,ARG1
+14,14,,5116072,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-central-cordoba-de-santiago/bhpmnpi#5116072,ARG1
+14,14,,5116073,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/gimnasia-lp-vs-sarmiento/aeo793f#5116073,ARG1
+14,14,,5116074,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/club-atletico-platense-vs-gimnasia-mendoza/24ye0d1z#5116074,ARG1
+14,14,,5116075,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-independiente/3cxts8#5116075,ARG1
+14,14,,5116076,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-deportivo-riestra/lw423v1#5116076,ARG1
+14,14,,5116077,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-racing-club/3cy9c6#5116077,ARG1
+14,14,,5116078,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-rosario-central/3d25cj#5116078,ARG1
+14,14,,5116079,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-newells-old-boys/3ehqin#5116079,ARG1
+14,14,,5116080,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/talleres-vs-defensa-y-justicia/6s5mhc6#5116080,ARG1
+14,14,,5116081,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/tigre-vs-atletico-tucuman/ehh3ite#5116081,ARG1
+14,14,,5116082,2026-10-25T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/estudiantes-vs-union/3dcyld#5116082,ARG1
+15,15,,5116083,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/argentinos-juniors-vs-atletico-tucuman/6s3s6wu#5116083,ARG1
+15,15,,5116084,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/belgrano-vs-barracas-central/bhj3rpx#5116084,ARG1
+15,15,,5116085,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-boca-juniors/3cwyoi#5116085,ARG1
+15,15,,5116094,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/club-atletico-platense-vs-central-cordoba-de-santiago/bhqylmz#5116094,ARG1
+15,15,,5116086,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-defensa-y-justicia/6s39s2a#5116086,ARG1
+15,15,,5116087,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/talleres-vs-deportivo-riestra/lw62w7o#5116087,ARG1
+15,15,,5116088,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-estudiantes/3dad4q#5116088,ARG1
+15,15,,5116089,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/gimnasia-lp-vs-estudiantes-de-rio-cuarto/bhs5r1c#5116089,ARG1
+15,15,,5116090,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-tigre/29twamz#5116090,ARG1
+15,15,,5116091,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-independiente-rivadavia/6s438mt#5116091,ARG1
+15,15,,5116092,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-gimnasia-mendoza/24yblir0#5116092,ARG1
+15,15,,5116093,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/union-vs-newells-old-boys/3ene1y#5116093,ARG1
+15,15,,5116095,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-aldosivi/6s39s28#5116095,ARG1
+15,15,,5116096,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-sarmiento/aelskle#5116096,ARG1
+15,15,,5116097,2026-11-01T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-san-lorenzo/3d0uo6#5116097,ARG1
+16,16,,5116098,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/river-plate-vs-aldosivi/6s2v1sm#5116098,ARG1
+16,16,,5116099,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/huracan-vs-argentinos-juniors/3d30gy#5116099,ARG1
+16,16,,5116100,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/banfield-vs-atletico-tucuman/6s3vvhg#5116100,ARG1
+16,16,,5116101,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/racing-club-vs-barracas-central/bhhi95r#5116101,ARG1
+16,16,,5116102,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/boca-juniors-vs-defensa-y-justicia/6s363hu#5116102,ARG1
+16,16,,5116103,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/lanus-vs-central-cordoba-de-santiago/bhq11h9#5116103,ARG1
+16,16,,5116104,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/belgrano-vs-gimnasia-lp/3df4i5#5116104,ARG1
+16,16,,5116105,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-rivadavia-vs-gimnasia-mendoza/3ek498ir#5116105,ARG1
+16,16,,5116106,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/independiente-vs-deportivo-riestra/lw1upej#5116106,ARG1
+16,16,,5116107,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/instituto-vs-newells-old-boys/3eks3j#5116107,ARG1
+16,16,,5116108,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/rosario-central-vs-estudiantes-de-rio-cuarto/bhpmnpd#5116108,ARG1
+16,16,,5116109,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/san-lorenzo-vs-club-atletico-platense/3d56af#5116109,ARG1
+16,16,,5116110,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/estudiantes-vs-talleres/3df4i3#5116110,ARG1
+16,16,,5116111,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/tigre-vs-sarmiento/jlsqko9#5116111,ARG1
+16,16,,5116112,2026-11-08T21:00:00Z,,,,,FALSE,FALSE,FALSE,/matches/velez-sarsfield-vs-union/3d6gzs#5116112,ARG1

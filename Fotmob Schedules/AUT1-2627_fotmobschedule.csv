@@ -1,0 +1,133 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5845951,2026-07-31T17:30:00Z,LASK,Grazer AK,3 - 0,FT,True,True,False,AUT1
+1,1,,5845952,2026-08-01T15:00:00Z,WSG Tirol,Sturm Graz,1 - 1,FT,True,True,False,AUT1
+1,1,,5845953,2026-08-01T17:30:00Z,Salzburg,Hartberg,1 - 0,FT,True,True,False,AUT1
+1,1,,5845954,2026-08-02T15:00:00Z,Austria Lustenau,Ried,1 - 1,FT,True,True,False,AUT1
+1,1,,5845955,2026-08-02T15:00:00Z,Wolfsberger AC,Austria Wien,3 - 0,FT,True,True,False,AUT1
+1,1,,5845956,2026-08-02T17:00:00Z,Rapid Wien,Altach,1 - 0,FT,True,True,False,AUT1
+2,2,,5845957,2026-08-07T17:30:00Z,Altach,WSG Tirol,3 - 1,FT,True,True,False,AUT1
+2,2,,5845958,2026-08-08T15:00:00Z,Grazer AK,Austria Lustenau,2 - 1,FT,True,True,False,AUT1
+2,2,,5845959,2026-08-08T17:30:00Z,Hartberg,Sturm Graz,0 - 2,FT,True,True,False,AUT1
+2,2,,5845960,2026-08-09T15:00:00Z,Ried,Rapid Wien,1 - 2,FT,True,True,False,AUT1
+2,2,,5845961,2026-08-09T15:00:00Z,Wolfsberger AC,Salzburg,1 - 1,FT,True,True,False,AUT1
+2,2,,5845962,2026-08-09T17:00:00Z,Austria Wien,LASK,0 - 2,FT,True,True,False,AUT1
+3,3,,5845963,2026-08-14T17:30:00Z,LASK,Ried,4 - 1,FT,True,True,False,AUT1
+3,3,,5845964,2026-08-15T15:00:00Z,Austria Lustenau,Wolfsberger AC,2 - 1,FT,True,True,False,AUT1
+3,3,,5845965,2026-08-15T17:30:00Z,Sturm Graz,Altach,1 - 0,FT,True,True,False,AUT1
+3,3,,5845966,2026-08-16T15:00:00Z,Hartberg,Austria Wien,0 - 2,FT,True,True,False,AUT1
+3,3,,5845967,2026-08-16T15:00:00Z,WSG Tirol,Salzburg,0 - 3,FT,True,True,False,AUT1
+3,3,,5845968,2026-08-16T17:00:00Z,Rapid Wien,Grazer AK,8 - 0,FT,True,True,False,AUT1
+4,4,,5845969,2026-08-21T17:30:00Z,Ried,Grazer AK,1 - 0,FT,True,True,False,AUT1
+4,4,,5845970,2026-08-22T15:00:00Z,Altach,Hartberg,1 - 2,FT,True,True,False,AUT1
+4,4,,5845971,2026-08-22T17:30:00Z,Sturm Graz,Austria Lustenau,1 - 1,FT,True,True,False,AUT1
+5,5,,5845975,2026-08-28T17:30:00Z,Austria Lustenau,WSG Tirol,0 - 4,FT,True,True,False,AUT1
+5,5,,5845976,2026-08-29T15:00:00Z,Grazer AK,Wolfsberger AC,0 - 0,FT,True,True,False,AUT1
+5,5,,5845977,2026-08-29T17:30:00Z,LASK,Altach,3 - 0,FT,True,True,False,AUT1
+5,5,,5845978,2026-08-30T15:00:00Z,Hartberg,Ried,3 - 2,FT,True,True,False,AUT1
+5,5,,5845979,2026-08-30T15:00:00Z,Rapid Wien,Sturm Graz,3 - 1,FT,True,True,False,AUT1
+5,5,,5845980,2026-08-30T17:00:00Z,Salzburg,Austria Wien,4 - 1,FT,True,True,False,AUT1
+4,4,,5845972,2026-09-01T17:30:00Z,Wolfsberger AC,LASK,1 - 3,FT,True,True,False,AUT1
+4,4,,5845973,2026-09-02T16:30:00Z,Austria Wien,WSG Tirol,0 - 1,FT,True,True,False,AUT1
+4,4,,5845974,2026-09-02T18:30:00Z,Salzburg,Rapid Wien,5 - 1,FT,True,True,False,AUT1
+6,6,,5845983,2026-09-11T17:30:00Z,Ried,Salzburg,1 - 1,FT,True,True,False,AUT1
+6,6,,5845981,2026-09-12T15:00:00Z,Altach,Grazer AK,1 - 2,FT,True,True,False,AUT1
+6,6,,5845986,2026-09-12T17:30:00Z,Wolfsberger AC,Rapid Wien,0 - 3,FT,True,True,False,AUT1
+6,6,,5845982,2026-09-13T12:30:00Z,Austria Wien,Austria Lustenau,2 - 1,FT,True,True,False,AUT1
+6,6,,5845985,2026-09-13T12:30:00Z,WSG Tirol,Hartberg,2 - 2,FT,True,True,False,AUT1
+6,6,,5845984,2026-09-13T15:00:00Z,Sturm Graz,LASK,2 - 1,FT,True,True,False,AUT1
+7,7,,5845992,2026-09-18T17:30:00Z,Rapid Wien,WSG Tirol,3 - 0,FT,True,True,False,AUT1
+7,7,,5845987,2026-09-19T15:00:00Z,Austria Lustenau,Altach,2 - 0,FT,True,True,False,AUT1
+7,7,,5845988,2026-09-19T17:30:00Z,Grazer AK,Austria Wien,2 - 2,FT,True,True,False,AUT1
+8,8,,5845995,2026-10-10T15:00:00Z,Grazer AK,Salzburg,,,False,False,False,AUT1
+8,8,,5845998,2026-10-10T15:00:00Z,WSG Tirol,Ried,,,False,False,False,AUT1
+8,8,,5845994,2026-10-10T17:30:00Z,Austria Wien,Sturm Graz,,,False,False,False,AUT1
+8,8,,5845993,2026-10-11T12:30:00Z,Altach,Wolfsberger AC,,,False,False,False,AUT1
+8,8,,5845996,2026-10-11T12:30:00Z,Hartberg,Austria Lustenau,,,False,False,False,AUT1
+8,8,,5845997,2026-10-11T15:00:00Z,LASK,Rapid Wien,,,False,False,False,AUT1
+9,9,,5846002,2026-10-16T17:30:00Z,Rapid Wien,Hartberg,,,False,False,False,AUT1
+9,9,,5845999,2026-10-17T15:00:00Z,Austria Lustenau,LASK,,,False,False,False,AUT1
+9,9,,5846000,2026-10-17T17:30:00Z,Ried,Austria Wien,,,False,False,False,AUT1
+9,9,,5846001,2026-10-18T12:30:00Z,Salzburg,Altach,,,False,False,False,AUT1
+9,9,,5846004,2026-10-18T12:30:00Z,Wolfsberger AC,WSG Tirol,,,False,False,False,AUT1
+9,9,,5846003,2026-10-18T15:00:00Z,Sturm Graz,Grazer AK,,,False,False,False,AUT1
+10,10,,5846005,2026-10-23T17:30:00Z,Altach,Austria Wien,,,False,False,False,AUT1
+10,10,,5846006,2026-10-24T15:00:00Z,Hartberg,Wolfsberger AC,,,False,False,False,AUT1
+10,10,,5846010,2026-10-24T15:00:00Z,WSG Tirol,Grazer AK,,,False,False,False,AUT1
+10,10,,5846008,2026-10-24T17:30:00Z,Rapid Wien,Austria Lustenau,,,False,False,False,AUT1
+10,10,,5846009,2026-10-25T13:30:00Z,Sturm Graz,Ried,,,False,False,False,AUT1
+10,10,,5846007,2026-10-25T16:00:00Z,LASK,Salzburg,,,False,False,False,AUT1
+11,11,,5846013,2026-10-30T18:30:00Z,Grazer AK,Hartberg,,,False,False,False,AUT1
+11,11,,5846011,2026-10-31T16:00:00Z,Altach,Ried,,,False,False,False,AUT1
+11,11,,5846014,2026-10-31T18:30:00Z,LASK,WSG Tirol,,,False,False,False,AUT1
+11,11,,5846015,2026-11-01T13:30:00Z,Salzburg,Austria Lustenau,,,False,False,False,AUT1
+11,11,,5846016,2026-11-01T13:30:00Z,Wolfsberger AC,Sturm Graz,,,False,False,False,AUT1
+11,11,,5846012,2026-11-01T16:00:00Z,Austria Wien,Rapid Wien,,,False,False,False,AUT1
+12,12,,5846020,2026-11-06T18:30:00Z,Rapid Wien,Wolfsberger AC,,,False,False,False,AUT1
+12,12,,5846017,2026-11-07T16:00:00Z,Austria Lustenau,Grazer AK,,,False,False,False,AUT1
+12,12,,5846019,2026-11-07T18:30:00Z,Ried,LASK,,,False,False,False,AUT1
+12,12,,5846018,2026-11-08T13:30:00Z,Hartberg,Altach,,,False,False,False,AUT1
+12,12,,5846022,2026-11-08T13:30:00Z,WSG Tirol,Austria Wien,,,False,False,False,AUT1
+12,12,,5846021,2026-11-08T16:00:00Z,Sturm Graz,Salzburg,,,False,False,False,AUT1
+13,13,,5846026,2026-11-21T16:00:00Z,LASK,Hartberg,,,False,False,False,AUT1
+13,13,,5846027,2026-11-21T16:00:00Z,WSG Tirol,Austria Lustenau,,,False,False,False,AUT1
+13,13,,5846025,2026-11-21T18:30:00Z,Grazer AK,Rapid Wien,,,False,False,False,AUT1
+13,13,,5846023,2026-11-22T13:30:00Z,Altach,Sturm Graz,,,False,False,False,AUT1
+13,13,,5846028,2026-11-22T13:30:00Z,Wolfsberger AC,Ried,,,False,False,False,AUT1
+13,13,,5846024,2026-11-22T16:00:00Z,Austria Wien,Salzburg,,,False,False,False,AUT1
+14,14,,5846031,2026-11-27T18:30:00Z,Grazer AK,Altach,,,False,False,False,AUT1
+14,14,,5846030,2026-11-28T16:00:00Z,Austria Wien,Wolfsberger AC,,,False,False,False,AUT1
+14,14,,5846029,2026-11-28T18:30:00Z,Austria Lustenau,Rapid Wien,,,False,False,False,AUT1
+14,14,,5846032,2026-11-29T13:30:00Z,Ried,Hartberg,,,False,False,False,AUT1
+14,14,,5846034,2026-11-29T13:30:00Z,Sturm Graz,WSG Tirol,,,False,False,False,AUT1
+14,14,,5846033,2026-11-29T16:00:00Z,Salzburg,LASK,,,False,False,False,AUT1
+15,15,,5846035,2026-12-04T18:30:00Z,Altach,Salzburg,,,False,False,False,AUT1
+15,15,,5846036,2026-12-05T16:00:00Z,Hartberg,Grazer AK,,,False,False,False,AUT1
+15,15,,5846038,2026-12-05T18:30:00Z,Rapid Wien,LASK,,,False,False,False,AUT1
+15,15,,5846037,2026-12-06T13:30:00Z,Ried,WSG Tirol,,,False,False,False,AUT1
+15,15,,5846040,2026-12-06T13:30:00Z,Wolfsberger AC,Austria Lustenau,,,False,False,False,AUT1
+15,15,,5846039,2026-12-06T16:00:00Z,Sturm Graz,Austria Wien,,,False,False,False,AUT1
+16,16,,5846041,2026-12-11T18:30:00Z,Austria Lustenau,Hartberg,,,False,False,False,AUT1
+16,16,,5846046,2026-12-12T16:00:00Z,WSG Tirol,Altach,,,False,False,False,AUT1
+16,16,,5846045,2026-12-12T18:30:00Z,Rapid Wien,Ried,,,False,False,False,AUT1
+16,16,,5846042,2026-12-13T13:30:00Z,Grazer AK,Sturm Graz,,,False,False,False,AUT1
+16,16,,5846044,2026-12-13T13:30:00Z,Salzburg,Wolfsberger AC,,,False,False,False,AUT1
+16,16,,5846043,2026-12-13T16:00:00Z,LASK,Austria Wien,,,False,False,False,AUT1
+17,17,,5846047,2027-01-23T16:00:00Z,Austria Lustenau,Salzburg,,,False,False,False,AUT1
+17,17,,5846048,2027-01-23T16:00:00Z,Austria Wien,Grazer AK,,,False,False,False,AUT1
+17,17,,5846049,2027-01-23T16:00:00Z,Hartberg,Rapid Wien,,,False,False,False,AUT1
+17,17,,5846050,2027-01-23T16:00:00Z,Ried,Altach,,,False,False,False,AUT1
+17,17,,5846051,2027-01-23T16:00:00Z,Sturm Graz,Wolfsberger AC,,,False,False,False,AUT1
+17,17,,5846052,2027-01-23T16:00:00Z,WSG Tirol,LASK,,,False,False,False,AUT1
+18,18,,5846053,2027-01-30T16:00:00Z,Altach,Austria Lustenau,,,False,False,False,AUT1
+18,18,,5846054,2027-01-30T16:00:00Z,Grazer AK,WSG Tirol,,,False,False,False,AUT1
+18,18,,5846055,2027-01-30T16:00:00Z,LASK,Sturm Graz,,,False,False,False,AUT1
+18,18,,5846056,2027-01-30T16:00:00Z,Salzburg,Ried,,,False,False,False,AUT1
+18,18,,5846057,2027-01-30T16:00:00Z,Rapid Wien,Austria Wien,,,False,False,False,AUT1
+18,18,,5846058,2027-01-30T16:00:00Z,Wolfsberger AC,Hartberg,,,False,False,False,AUT1
+19,19,,5846059,2027-02-06T16:00:00Z,Austria Lustenau,Sturm Graz,,,False,False,False,AUT1
+19,19,,5846060,2027-02-06T16:00:00Z,Austria Wien,Altach,,,False,False,False,AUT1
+19,19,,5846061,2027-02-06T16:00:00Z,Grazer AK,Ried,,,False,False,False,AUT1
+19,19,,5846062,2027-02-06T16:00:00Z,Hartberg,Salzburg,,,False,False,False,AUT1
+19,19,,5846063,2027-02-06T16:00:00Z,LASK,Wolfsberger AC,,,False,False,False,AUT1
+19,19,,5846064,2027-02-06T16:00:00Z,WSG Tirol,Rapid Wien,,,False,False,False,AUT1
+20,20,,5846065,2027-02-13T16:00:00Z,Altach,LASK,,,False,False,False,AUT1
+20,20,,5846066,2027-02-13T16:00:00Z,Austria Wien,Hartberg,,,False,False,False,AUT1
+20,20,,5846067,2027-02-13T16:00:00Z,Ried,Austria Lustenau,,,False,False,False,AUT1
+20,20,,5846068,2027-02-13T16:00:00Z,Salzburg,WSG Tirol,,,False,False,False,AUT1
+20,20,,5846069,2027-02-13T16:00:00Z,Sturm Graz,Rapid Wien,,,False,False,False,AUT1
+20,20,,5846070,2027-02-13T16:00:00Z,Wolfsberger AC,Grazer AK,,,False,False,False,AUT1
+21,21,,5846071,2027-02-20T16:00:00Z,Austria Lustenau,Austria Wien,,,False,False,False,AUT1
+21,21,,5846072,2027-02-20T16:00:00Z,Grazer AK,LASK,,,False,False,False,AUT1
+21,21,,5846073,2027-02-20T16:00:00Z,Hartberg,WSG Tirol,,,False,False,False,AUT1
+21,21,,5846074,2027-02-20T16:00:00Z,Ried,Sturm Graz,,,False,False,False,AUT1
+21,21,,5846075,2027-02-20T16:00:00Z,Rapid Wien,Salzburg,,,False,False,False,AUT1
+21,21,,5846076,2027-02-20T16:00:00Z,Wolfsberger AC,Altach,,,False,False,False,AUT1
+22,22,,5846077,2027-02-27T16:00:00Z,Altach,Rapid Wien,,,False,False,False,AUT1
+22,22,,5846078,2027-02-27T16:00:00Z,Austria Wien,Ried,,,False,False,False,AUT1
+22,22,,5846079,2027-02-27T16:00:00Z,LASK,Austria Lustenau,,,False,False,False,AUT1
+22,22,,5846080,2027-02-27T16:00:00Z,Salzburg,Grazer AK,,,False,False,False,AUT1
+22,22,,5846081,2027-02-27T16:00:00Z,Sturm Graz,Hartberg,,,False,False,False,AUT1
+22,22,,5846082,2027-02-27T16:00:00Z,WSG Tirol,Wolfsberger AC,,,False,False,False,AUT1
+7,7,,5845989,2026-09-20T12:30:00.000Z,Hartberg,LASK,3 - 3,FT,True,True,False,AUT1
+7,7,,5845990,2026-09-20T12:30:00.000Z,Ried,Wolfsberger AC,4 - 1,FT,True,True,False,AUT1
+7,7,,5845991,2026-09-20T15:00:00.000Z,Salzburg,Sturm Graz,3 - 0,FT,True,True,False,AUT1

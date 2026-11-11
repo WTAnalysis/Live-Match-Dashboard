@@ -1,0 +1,381 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5749645,2026-08-22T16:30:00Z,Inter,Monza,4 - 1,FT,True,True,False,ITA1
+1,1,,5749648,2026-08-22T16:30:00Z,Udinese,Como,1 - 1,FT,True,True,False,ITA1
+1,1,,5749644,2026-08-22T18:45:00Z,Genoa,Napoli,0 - 2,FT,True,True,False,ITA1
+1,1,,5749646,2026-08-22T18:45:00Z,Parma,Cagliari,0 - 1,FT,True,True,False,ITA1
+1,1,,5749643,2026-08-23T16:30:00Z,Frosinone,Juventus,0 - 1,FT,True,True,False,ITA1
+1,1,,5749649,2026-08-23T16:30:00Z,Venezia,Lecce,0 - 2,FT,True,True,False,ITA1
+1,1,,5749641,2026-08-23T18:45:00Z,Atalanta,Sassuolo,2 - 1,FT,True,True,False,ITA1
+1,1,,5749647,2026-08-23T18:45:00Z,Torino,Milan,1 - 2,FT,True,True,False,ITA1
+1,1,,5749642,2026-08-24T16:30:00Z,Bologna,Lazio,0 - 1,FT,True,True,False,ITA1
+1,1,,5749640,2026-08-24T18:45:00Z,Roma,Fiorentina,4 - 0,FT,True,True,False,ITA1
+2,2,,5749650,2026-08-28T18:45:00Z,Milan,Venezia,2 - 0,FT,True,True,False,ITA1
+2,2,,5749653,2026-08-29T16:30:00Z,Fiorentina,Frosinone,0 - 3,FT,True,True,False,ITA1
+2,2,,5749657,2026-08-29T16:30:00Z,Monza,Udinese,2 - 3,FT,True,True,False,ITA1
+2,2,,5749659,2026-08-29T16:30:00Z,Sassuolo,Torino,2 - 1,FT,True,True,False,ITA1
+2,2,,5749654,2026-08-29T18:45:00Z,Juventus,Parma,2 - 0,FT,True,True,False,ITA1
+2,2,,5749658,2026-08-30T16:30:00Z,Napoli,Como,1 - 2,FT,True,True,False,ITA1
+2,2,,5749652,2026-08-30T18:45:00Z,Cagliari,Inter,0 - 1,FT,True,True,False,ITA1
+2,2,,5749655,2026-08-30T18:45:00Z,Lazio,Genoa,1 - 0,FT,True,True,False,ITA1
+2,2,,5749656,2026-08-31T16:30:00Z,Lecce,Roma,0 - 4,FT,True,True,False,ITA1
+2,2,,5749651,2026-08-31T18:45:00Z,Atalanta,Bologna,1 - 0,FT,True,True,False,ITA1
+3,3,,5749665,2026-09-04T18:45:00Z,Genoa,Como,1 - 4,FT,True,True,False,ITA1
+3,3,,5749663,2026-09-05T13:00:00Z,Fiorentina,Torino,1 - 2,FT,True,True,False,ITA1
+3,3,,5749666,2026-09-05T16:00:00Z,Inter,Napoli,3 - 2,FT,True,True,False,ITA1
+3,3,,5749660,2026-09-05T18:45:00Z,Roma,Atalanta,2 - 1,FT,True,True,False,ITA1
+3,3,,5749664,2026-09-06T13:00:00Z,Frosinone,Venezia,3 - 2,FT,True,True,False,ITA1
+3,3,,5749668,2026-09-06T13:00:00Z,Parma,Monza,1 - 1,FT,True,True,False,ITA1
+3,3,,5749661,2026-09-06T16:00:00Z,Bologna,Sassuolo,2 - 2,FT,True,True,False,ITA1
+3,3,,5749667,2026-09-06T18:45:00Z,Juventus,Milan,1 - 1,FT,True,True,False,ITA1
+3,3,,5749662,2026-09-07T16:30:00Z,Cagliari,Lecce,1 - 0,FT,True,True,False,ITA1
+3,3,,5749669,2026-09-07T18:45:00Z,Udinese,Lazio,1 - 2,FT,True,True,False,ITA1
+4,4,,5749679,2026-09-11T18:45:00Z,Venezia,Fiorentina,2 - 4,FT,True,True,False,ITA1
+4,4,,5749672,2026-09-12T13:00:00Z,Genoa,Frosinone,1 - 1,FT,True,True,False,ITA1
+4,4,,5749674,2026-09-12T16:00:00Z,Lazio,Milan,2 - 2,FT,True,True,False,ITA1
+4,4,,5749670,2026-09-12T18:45:00Z,Atalanta,Cagliari,1 - 2,FT,True,True,False,ITA1
+4,4,,5749675,2026-09-13T13:00:00Z,Lecce,Monza,3 - 2,FT,True,True,False,ITA1
+4,4,,5749676,2026-09-13T16:00:00Z,Napoli,Bologna,1 - 0,FT,True,True,False,ITA1
+4,4,,5749677,2026-09-13T18:45:00Z,Sassuolo,Juventus,3 - 2,FT,True,True,False,ITA1
+4,4,,5749671,2026-09-14T16:30:00Z,Como,Parma,2 - 1,FT,True,True,False,ITA1
+4,4,,5749678,2026-09-14T16:30:00Z,Torino,Roma,0 - 2,FT,True,True,False,ITA1
+4,4,,5749673,2026-09-14T18:45:00Z,Inter,Udinese,5 - 3,FT,True,True,False,ITA1
+5,5,,5749686,2026-09-18T18:45:00Z,Monza,Sassuolo,2 - 1,FT,True,True,False,ITA1
+5,5,,5749682,2026-09-19T13:00:00Z,Bologna,Torino,1 - 1,FT,True,True,False,ITA1
+5,5,,5749688,2026-09-19T13:00:00Z,Udinese,Cagliari,0 - 1,FT,True,True,False,ITA1
+5,5,,5749681,2026-09-19T16:00:00Z,Roma,Inter,2 - 2,FT,True,True,False,ITA1
+5,5,,5749689,2026-09-19T18:45:00Z,Venezia,Lazio,0 - 2,FT,True,True,False,ITA1
+6,6,,5749693,2026-10-10T13:00:00Z,Genoa,Fiorentina,,,False,False,False,ITA1
+6,6,,5749694,2026-10-10T16:00:00Z,Inter,Parma,,,False,False,False,ITA1
+6,6,,5749697,2026-10-10T18:45:00Z,Napoli,Frosinone,,,False,False,False,ITA1
+6,6,,5749692,2026-10-11T10:30:00Z,Como,Roma,,,False,False,False,ITA1
+6,6,,5749695,2026-10-11T13:00:00Z,Lazio,Monza,,,False,False,False,ITA1
+6,6,,5749696,2026-10-11T13:00:00Z,Lecce,Bologna,,,False,False,False,ITA1
+6,6,,5749698,2026-10-11T16:00:00Z,Sassuolo,Milan,,,False,False,False,ITA1
+6,6,,5749691,2026-10-11T18:45:00Z,Cagliari,Juventus,,,False,False,False,ITA1
+6,6,,5749690,2026-10-12T16:30:00Z,Atalanta,Venezia,,,False,False,False,ITA1
+6,6,,5749699,2026-10-12T18:45:00Z,Torino,Udinese,,,False,False,False,ITA1
+7,7,,5749704,2026-10-16T18:45:00Z,Frosinone,Sassuolo,,,False,False,False,ITA1
+7,7,,5749709,2026-10-17T13:00:00Z,Venezia,Napoli,,,False,False,False,ITA1
+7,7,,5749702,2026-10-17T16:00:00Z,Bologna,Inter,,,False,False,False,ITA1
+7,7,,5749701,2026-10-17T18:45:00Z,Roma,Genoa,,,False,False,False,ITA1
+7,7,,5749708,2026-10-18T10:30:00Z,Udinese,Lecce,,,False,False,False,ITA1
+7,7,,5749703,2026-10-18T13:00:00Z,Fiorentina,Como,,,False,False,False,ITA1
+7,7,,5749700,2026-10-18T16:00:00Z,Milan,Atalanta,,,False,False,False,ITA1
+7,7,,5749705,2026-10-18T18:45:00Z,Juventus,Lazio,,,False,False,False,ITA1
+7,7,,5749706,2026-10-19T16:30:00Z,Monza,Cagliari,,,False,False,False,ITA1
+7,7,,5749707,2026-10-19T18:45:00Z,Parma,Torino,,,False,False,False,ITA1
+8,8,,5749718,2026-10-23T18:45:00Z,Torino,Monza,,,False,False,False,ITA1
+8,8,,5749711,2026-10-24T13:00:00Z,Cagliari,Bologna,,,False,False,False,ITA1
+8,8,,5749712,2026-10-24T13:00:00Z,Como,Sassuolo,,,False,False,False,ITA1
+8,8,,5749717,2026-10-24T16:00:00Z,Napoli,Roma,,,False,False,False,ITA1
+8,8,,5749715,2026-10-24T18:45:00Z,Lazio,Parma,,,False,False,False,ITA1
+8,8,,5749714,2026-10-25T11:30:00Z,Inter,Fiorentina,,,False,False,False,ITA1
+8,8,,5749710,2026-10-25T14:00:00Z,Atalanta,Frosinone,,,False,False,False,ITA1
+8,8,,5749713,2026-10-25T14:00:00Z,Genoa,Venezia,,,False,False,False,ITA1
+8,8,,5749716,2026-10-25T17:00:00Z,Lecce,Juventus,,,False,False,False,ITA1
+8,8,,5749719,2026-10-25T19:45:00Z,Udinese,Milan,,,False,False,False,ITA1
+9,9,,5749727,2026-10-27T17:30:00Z,Sassuolo,Lazio,,,False,False,False,ITA1
+9,9,,5749721,2026-10-27T19:45:00Z,Roma,Cagliari,,,False,False,False,ITA1
+9,9,,5749728,2026-10-27T19:45:00Z,Torino,Como,,,False,False,False,ITA1
+9,9,,5749720,2026-10-28T17:30:00Z,Milan,Bologna,,,False,False,False,ITA1
+9,9,,5749726,2026-10-28T17:30:00Z,Parma,Udinese,,,False,False,False,ITA1
+9,9,,5749729,2026-10-28T17:30:00Z,Venezia,Inter,,,False,False,False,ITA1
+9,9,,5749724,2026-10-28T19:45:00Z,Genoa,Juventus,,,False,False,False,ITA1
+9,9,,5749725,2026-10-28T19:45:00Z,Monza,Napoli,,,False,False,False,ITA1
+9,9,,5749723,2026-10-29T17:30:00Z,Frosinone,Lecce,,,False,False,False,ITA1
+9,9,,5749722,2026-10-29T19:45:00Z,Fiorentina,Atalanta,,,False,False,False,ITA1
+10,10,,5749732,2026-10-31T14:00:00Z,Bologna,Monza,,,False,False,False,ITA1
+10,10,,5749739,2026-10-31T17:00:00Z,Udinese,Roma,,,False,False,False,ITA1
+10,10,,5749730,2026-10-31T19:45:00Z,Milan,Inter,,,False,False,False,ITA1
+10,10,,5749733,2026-11-01T11:30:00Z,Como,Venezia,,,False,False,False,ITA1
+10,10,,5749734,2026-11-01T14:00:00Z,Frosinone,Torino,,,False,False,False,ITA1
+10,10,,5749736,2026-11-01T14:00:00Z,Lazio,Cagliari,,,False,False,False,ITA1
+10,10,,5749737,2026-11-01T17:00:00Z,Lecce,Genoa,,,False,False,False,ITA1
+10,10,,5749735,2026-11-01T19:45:00Z,Juventus,Napoli,,,False,False,False,ITA1
+10,10,,5749738,2026-11-02T17:30:00Z,Sassuolo,Fiorentina,,,False,False,False,ITA1
+10,10,,5749731,2026-11-02T19:45:00Z,Atalanta,Parma,,,False,False,False,ITA1
+11,11,,5749749,2026-11-06T19:45:00Z,Venezia,Udinese,,,False,False,False,ITA1
+11,11,,5749741,2026-11-07T14:00:00Z,Cagliari,Frosinone,,,False,False,False,ITA1
+11,11,,5749748,2026-11-07T14:00:00Z,Torino,Lecce,,,False,False,False,ITA1
+11,11,,5749747,2026-11-07T17:00:00Z,Parma,Bologna,,,False,False,False,ITA1
+11,11,,5749740,2026-11-07T19:45:00Z,Roma,Sassuolo,,,False,False,False,ITA1
+11,11,,5749746,2026-11-08T11:30:00Z,Napoli,Lazio,,,False,False,False,ITA1
+11,11,,5749743,2026-11-08T14:00:00Z,Genoa,Milan,,,False,False,False,ITA1
+11,11,,5749745,2026-11-08T14:00:00Z,Monza,Atalanta,,,False,False,False,ITA1
+11,11,,5749744,2026-11-08T17:00:00Z,Inter,Como,,,False,False,False,ITA1
+11,11,,5749742,2026-11-08T19:45:00Z,Fiorentina,Juventus,,,False,False,False,ITA1
+12,12,,5749753,2026-11-21T14:00:00Z,Como,Cagliari,,,False,False,False,ITA1
+12,12,,5749755,2026-11-21T14:00:00Z,Lazio,Lecce,,,False,False,False,ITA1
+12,12,,5749758,2026-11-21T17:00:00Z,Parma,Roma,,,False,False,False,ITA1
+12,12,,5749757,2026-11-21T19:45:00Z,Napoli,Torino,,,False,False,False,ITA1
+12,12,,5749759,2026-11-22T11:30:00Z,Sassuolo,Genoa,,,False,False,False,ITA1
+12,12,,5749750,2026-11-22T14:00:00Z,Milan,Frosinone,,,False,False,False,ITA1
+12,12,,5749752,2026-11-22T17:00:00Z,Bologna,Udinese,,,False,False,False,ITA1
+12,12,,5749751,2026-11-22T19:45:00Z,Atalanta,Inter,,,False,False,False,ITA1
+12,12,,5749756,2026-11-23T17:30:00Z,Monza,Fiorentina,,,False,False,False,ITA1
+12,12,,5749754,2026-11-23T19:45:00Z,Juventus,Venezia,,,False,False,False,ITA1
+13,13,,5749760,2026-11-29T17:30:00Z,Roma,Monza,,,False,False,False,ITA1
+13,13,,5749761,2026-11-29T17:30:00Z,Cagliari,Milan,,,False,False,False,ITA1
+13,13,,5749762,2026-11-29T17:30:00Z,Como,Juventus,,,False,False,False,ITA1
+13,13,,5749763,2026-11-29T17:30:00Z,Frosinone,Parma,,,False,False,False,ITA1
+13,13,,5749764,2026-11-29T17:30:00Z,Inter,Genoa,,,False,False,False,ITA1
+13,13,,5749765,2026-11-29T17:30:00Z,Lecce,Atalanta,,,False,False,False,ITA1
+13,13,,5749766,2026-11-29T17:30:00Z,Sassuolo,Napoli,,,False,False,False,ITA1
+13,13,,5749767,2026-11-29T17:30:00Z,Torino,Lazio,,,False,False,False,ITA1
+13,13,,5749768,2026-11-29T17:30:00Z,Udinese,Fiorentina,,,False,False,False,ITA1
+13,13,,5749769,2026-11-29T17:30:00Z,Venezia,Bologna,,,False,False,False,ITA1
+14,14,,5749770,2026-12-06T17:30:00Z,Milan,Parma,,,False,False,False,ITA1
+14,14,,5749771,2026-12-06T17:30:00Z,Bologna,Roma,,,False,False,False,ITA1
+14,14,,5749772,2026-12-06T17:30:00Z,Fiorentina,Cagliari,,,False,False,False,ITA1
+14,14,,5749773,2026-12-06T17:30:00Z,Frosinone,Inter,,,False,False,False,ITA1
+14,14,,5749774,2026-12-06T17:30:00Z,Genoa,Torino,,,False,False,False,ITA1
+14,14,,5749775,2026-12-06T17:30:00Z,Juventus,Udinese,,,False,False,False,ITA1
+14,14,,5749776,2026-12-06T17:30:00Z,Lazio,Atalanta,,,False,False,False,ITA1
+14,14,,5749777,2026-12-06T17:30:00Z,Monza,Como,,,False,False,False,ITA1
+14,14,,5749778,2026-12-06T17:30:00Z,Napoli,Lecce,,,False,False,False,ITA1
+14,14,,5749779,2026-12-06T17:30:00Z,Venezia,Sassuolo,,,False,False,False,ITA1
+15,15,,5749780,2026-12-13T17:30:00Z,Atalanta,Genoa,,,False,False,False,ITA1
+15,15,,5749781,2026-12-13T17:30:00Z,Cagliari,Venezia,,,False,False,False,ITA1
+15,15,,5749782,2026-12-13T17:30:00Z,Como,Bologna,,,False,False,False,ITA1
+15,15,,5749783,2026-12-13T17:30:00Z,Inter,Torino,,,False,False,False,ITA1
+15,15,,5749784,2026-12-13T17:30:00Z,Juventus,Monza,,,False,False,False,ITA1
+15,15,,5749785,2026-12-13T17:30:00Z,Lazio,Roma,,,False,False,False,ITA1
+15,15,,5749786,2026-12-13T17:30:00Z,Lecce,Sassuolo,,,False,False,False,ITA1
+15,15,,5749787,2026-12-13T17:30:00Z,Napoli,Milan,,,False,False,False,ITA1
+15,15,,5749788,2026-12-13T17:30:00Z,Parma,Fiorentina,,,False,False,False,ITA1
+15,15,,5749789,2026-12-13T17:30:00Z,Udinese,Frosinone,,,False,False,False,ITA1
+16,16,,5749790,2026-12-20T17:30:00Z,Milan,Como,,,False,False,False,ITA1
+16,16,,5749791,2026-12-20T17:30:00Z,Roma,Juventus,,,False,False,False,ITA1
+16,16,,5749792,2026-12-20T17:30:00Z,Atalanta,Napoli,,,False,False,False,ITA1
+16,16,,5749793,2026-12-20T17:30:00Z,Fiorentina,Bologna,,,False,False,False,ITA1
+16,16,,5749794,2026-12-20T17:30:00Z,Frosinone,Lazio,,,False,False,False,ITA1
+16,16,,5749795,2026-12-20T17:30:00Z,Genoa,Udinese,,,False,False,False,ITA1
+16,16,,5749796,2026-12-20T17:30:00Z,Lecce,Inter,,,False,False,False,ITA1
+16,16,,5749797,2026-12-20T17:30:00Z,Sassuolo,Parma,,,False,False,False,ITA1
+16,16,,5749798,2026-12-20T17:30:00Z,Torino,Cagliari,,,False,False,False,ITA1
+16,16,,5749799,2026-12-20T17:30:00Z,Venezia,Monza,,,False,False,False,ITA1
+17,17,,5749800,2027-01-03T17:30:00Z,Roma,Frosinone,,,False,False,False,ITA1
+17,17,,5749801,2027-01-03T17:30:00Z,Bologna,Juventus,,,False,False,False,ITA1
+17,17,,5749802,2027-01-03T17:30:00Z,Cagliari,Genoa,,,False,False,False,ITA1
+17,17,,5749803,2027-01-03T17:30:00Z,Como,Lecce,,,False,False,False,ITA1
+17,17,,5749804,2027-01-03T17:30:00Z,Fiorentina,Lazio,,,False,False,False,ITA1
+17,17,,5749805,2027-01-03T17:30:00Z,Inter,Sassuolo,,,False,False,False,ITA1
+17,17,,5749806,2027-01-03T17:30:00Z,Monza,Milan,,,False,False,False,ITA1
+17,17,,5749807,2027-01-03T17:30:00Z,Parma,Napoli,,,False,False,False,ITA1
+17,17,,5749808,2027-01-03T17:30:00Z,Torino,Venezia,,,False,False,False,ITA1
+17,17,,5749809,2027-01-03T17:30:00Z,Udinese,Atalanta,,,False,False,False,ITA1
+18,18,,5749810,2027-01-06T17:30:00Z,Milan,Fiorentina,,,False,False,False,ITA1
+18,18,,5749811,2027-01-06T17:30:00Z,Atalanta,Como,,,False,False,False,ITA1
+18,18,,5749812,2027-01-06T17:30:00Z,Frosinone,Bologna,,,False,False,False,ITA1
+18,18,,5749813,2027-01-06T17:30:00Z,Genoa,Monza,,,False,False,False,ITA1
+18,18,,5749814,2027-01-06T17:30:00Z,Juventus,Torino,,,False,False,False,ITA1
+18,18,,5749815,2027-01-06T17:30:00Z,Lazio,Inter,,,False,False,False,ITA1
+18,18,,5749816,2027-01-06T17:30:00Z,Lecce,Parma,,,False,False,False,ITA1
+18,18,,5749817,2027-01-06T17:30:00Z,Napoli,Cagliari,,,False,False,False,ITA1
+18,18,,5749818,2027-01-06T17:30:00Z,Sassuolo,Udinese,,,False,False,False,ITA1
+18,18,,5749819,2027-01-06T17:30:00Z,Venezia,Roma,,,False,False,False,ITA1
+19,19,,5749820,2027-01-10T17:30:00Z,Roma,Milan,,,False,False,False,ITA1
+19,19,,5749821,2027-01-10T17:30:00Z,Bologna,Genoa,,,False,False,False,ITA1
+19,19,,5749822,2027-01-10T17:30:00Z,Cagliari,Sassuolo,,,False,False,False,ITA1
+19,19,,5749823,2027-01-10T17:30:00Z,Como,Lazio,,,False,False,False,ITA1
+19,19,,5749824,2027-01-10T17:30:00Z,Fiorentina,Lecce,,,False,False,False,ITA1
+19,19,,5749825,2027-01-10T17:30:00Z,Inter,Juventus,,,False,False,False,ITA1
+19,19,,5749826,2027-01-10T17:30:00Z,Monza,Frosinone,,,False,False,False,ITA1
+19,19,,5749827,2027-01-10T17:30:00Z,Parma,Venezia,,,False,False,False,ITA1
+19,19,,5749828,2027-01-10T17:30:00Z,Torino,Atalanta,,,False,False,False,ITA1
+19,19,,5749829,2027-01-10T17:30:00Z,Udinese,Napoli,,,False,False,False,ITA1
+20,20,,5749830,2027-01-17T17:30:00Z,Milan,Torino,,,False,False,False,ITA1
+20,20,,5749831,2027-01-17T17:30:00Z,Atalanta,Roma,,,False,False,False,ITA1
+20,20,,5749832,2027-01-17T17:30:00Z,Cagliari,Como,,,False,False,False,ITA1
+20,20,,5749833,2027-01-17T17:30:00Z,Juventus,Genoa,,,False,False,False,ITA1
+20,20,,5749834,2027-01-17T17:30:00Z,Lazio,Bologna,,,False,False,False,ITA1
+20,20,,5749835,2027-01-17T17:30:00Z,Lecce,Udinese,,,False,False,False,ITA1
+20,20,,5749836,2027-01-17T17:30:00Z,Napoli,Fiorentina,,,False,False,False,ITA1
+20,20,,5749837,2027-01-17T17:30:00Z,Parma,Inter,,,False,False,False,ITA1
+20,20,,5749838,2027-01-17T17:30:00Z,Sassuolo,Monza,,,False,False,False,ITA1
+20,20,,5749839,2027-01-17T17:30:00Z,Venezia,Frosinone,,,False,False,False,ITA1
+21,21,,5749840,2027-01-24T17:30:00Z,Roma,Udinese,,,False,False,False,ITA1
+21,21,,5749841,2027-01-24T17:30:00Z,Bologna,Atalanta,,,False,False,False,ITA1
+21,21,,5749842,2027-01-24T17:30:00Z,Como,Napoli,,,False,False,False,ITA1
+21,21,,5749843,2027-01-24T17:30:00Z,Fiorentina,Sassuolo,,,False,False,False,ITA1
+21,21,,5749844,2027-01-24T17:30:00Z,Frosinone,Milan,,,False,False,False,ITA1
+21,21,,5749845,2027-01-24T17:30:00Z,Genoa,Parma,,,False,False,False,ITA1
+21,21,,5749846,2027-01-24T17:30:00Z,Inter,Venezia,,,False,False,False,ITA1
+21,21,,5749847,2027-01-24T17:30:00Z,Juventus,Cagliari,,,False,False,False,ITA1
+21,21,,5749848,2027-01-24T17:30:00Z,Lecce,Torino,,,False,False,False,ITA1
+21,21,,5749849,2027-01-24T17:30:00Z,Monza,Lazio,,,False,False,False,ITA1
+22,22,,5749850,2027-01-31T17:30:00Z,Milan,Juventus,,,False,False,False,ITA1
+22,22,,5749851,2027-01-31T17:30:00Z,Atalanta,Fiorentina,,,False,False,False,ITA1
+22,22,,5749852,2027-01-31T17:30:00Z,Cagliari,Parma,,,False,False,False,ITA1
+22,22,,5749853,2027-01-31T17:30:00Z,Genoa,Lecce,,,False,False,False,ITA1
+22,22,,5749854,2027-01-31T17:30:00Z,Lazio,Venezia,,,False,False,False,ITA1
+22,22,,5749855,2027-01-31T17:30:00Z,Monza,Roma,,,False,False,False,ITA1
+22,22,,5749856,2027-01-31T17:30:00Z,Napoli,Inter,,,False,False,False,ITA1
+22,22,,5749857,2027-01-31T17:30:00Z,Sassuolo,Como,,,False,False,False,ITA1
+22,22,,5749858,2027-01-31T17:30:00Z,Torino,Frosinone,,,False,False,False,ITA1
+22,22,,5749859,2027-01-31T17:30:00Z,Udinese,Bologna,,,False,False,False,ITA1
+23,23,,5749860,2027-02-07T17:30:00Z,Roma,Torino,,,False,False,False,ITA1
+23,23,,5749861,2027-02-07T17:30:00Z,Atalanta,Lazio,,,False,False,False,ITA1
+23,23,,5749862,2027-02-07T17:30:00Z,Bologna,Milan,,,False,False,False,ITA1
+23,23,,5749863,2027-02-07T17:30:00Z,Como,Monza,,,False,False,False,ITA1
+23,23,,5749864,2027-02-07T17:30:00Z,Fiorentina,Udinese,,,False,False,False,ITA1
+23,23,,5749865,2027-02-07T17:30:00Z,Inter,Cagliari,,,False,False,False,ITA1
+23,23,,5749866,2027-02-07T17:30:00Z,Juventus,Sassuolo,,,False,False,False,ITA1
+23,23,,5749867,2027-02-07T17:30:00Z,Lecce,Napoli,,,False,False,False,ITA1
+23,23,,5749868,2027-02-07T17:30:00Z,Parma,Frosinone,,,False,False,False,ITA1
+23,23,,5749869,2027-02-07T17:30:00Z,Venezia,Genoa,,,False,False,False,ITA1
+24,24,,5749870,2027-02-14T17:30:00Z,Roma,Parma,,,False,False,False,ITA1
+24,24,,5749871,2027-02-14T17:30:00Z,Bologna,Como,,,False,False,False,ITA1
+24,24,,5749872,2027-02-14T17:30:00Z,Cagliari,Lazio,,,False,False,False,ITA1
+24,24,,5749873,2027-02-14T17:30:00Z,Frosinone,Fiorentina,,,False,False,False,ITA1
+24,24,,5749874,2027-02-14T17:30:00Z,Genoa,Atalanta,,,False,False,False,ITA1
+24,24,,5749875,2027-02-14T17:30:00Z,Inter,Milan,,,False,False,False,ITA1
+24,24,,5749876,2027-02-14T17:30:00Z,Monza,Lecce,,,False,False,False,ITA1
+24,24,,5749877,2027-02-14T17:30:00Z,Napoli,Juventus,,,False,False,False,ITA1
+24,24,,5749878,2027-02-14T17:30:00Z,Torino,Sassuolo,,,False,False,False,ITA1
+24,24,,5749879,2027-02-14T17:30:00Z,Udinese,Venezia,,,False,False,False,ITA1
+25,25,,5749880,2027-02-21T17:30:00Z,Milan,Genoa,,,False,False,False,ITA1
+25,25,,5749881,2027-02-21T17:30:00Z,Atalanta,Monza,,,False,False,False,ITA1
+25,25,,5749882,2027-02-21T17:30:00Z,Como,Torino,,,False,False,False,ITA1
+25,25,,5749883,2027-02-21T17:30:00Z,Fiorentina,Inter,,,False,False,False,ITA1
+25,25,,5749884,2027-02-21T17:30:00Z,Juventus,Bologna,,,False,False,False,ITA1
+25,25,,5749885,2027-02-21T17:30:00Z,Lazio,Napoli,,,False,False,False,ITA1
+25,25,,5749886,2027-02-21T17:30:00Z,Lecce,Frosinone,,,False,False,False,ITA1
+25,25,,5749887,2027-02-21T17:30:00Z,Sassuolo,Roma,,,False,False,False,ITA1
+25,25,,5749888,2027-02-21T17:30:00Z,Udinese,Parma,,,False,False,False,ITA1
+25,25,,5749889,2027-02-21T17:30:00Z,Venezia,Cagliari,,,False,False,False,ITA1
+26,26,,5749890,2027-02-28T17:30:00Z,Roma,Venezia,,,False,False,False,ITA1
+26,26,,5749891,2027-02-28T17:30:00Z,Bologna,Lecce,,,False,False,False,ITA1
+26,26,,5749892,2027-02-28T17:30:00Z,Cagliari,Udinese,,,False,False,False,ITA1
+26,26,,5749893,2027-02-28T17:30:00Z,Como,Milan,,,False,False,False,ITA1
+26,26,,5749894,2027-02-28T17:30:00Z,Frosinone,Napoli,,,False,False,False,ITA1
+26,26,,5749895,2027-02-28T17:30:00Z,Genoa,Lazio,,,False,False,False,ITA1
+26,26,,5749896,2027-02-28T17:30:00Z,Inter,Atalanta,,,False,False,False,ITA1
+26,26,,5749897,2027-02-28T17:30:00Z,Monza,Juventus,,,False,False,False,ITA1
+26,26,,5749898,2027-02-28T17:30:00Z,Parma,Sassuolo,,,False,False,False,ITA1
+26,26,,5749899,2027-02-28T17:30:00Z,Torino,Fiorentina,,,False,False,False,ITA1
+27,27,,5749900,2027-03-07T17:30:00Z,Milan,Cagliari,,,False,False,False,ITA1
+27,27,,5749901,2027-03-07T17:30:00Z,Atalanta,Torino,,,False,False,False,ITA1
+27,27,,5749902,2027-03-07T17:30:00Z,Fiorentina,Venezia,,,False,False,False,ITA1
+27,27,,5749903,2027-03-07T17:30:00Z,Juventus,Roma,,,False,False,False,ITA1
+27,27,,5749904,2027-03-07T17:30:00Z,Lazio,Frosinone,,,False,False,False,ITA1
+27,27,,5749905,2027-03-07T17:30:00Z,Lecce,Como,,,False,False,False,ITA1
+27,27,,5749906,2027-03-07T17:30:00Z,Monza,Genoa,,,False,False,False,ITA1
+27,27,,5749907,2027-03-07T17:30:00Z,Napoli,Parma,,,False,False,False,ITA1
+27,27,,5749908,2027-03-07T17:30:00Z,Sassuolo,Bologna,,,False,False,False,ITA1
+27,27,,5749909,2027-03-07T17:30:00Z,Udinese,Inter,,,False,False,False,ITA1
+28,28,,5749910,2027-03-14T17:30:00Z,Milan,Sassuolo,,,False,False,False,ITA1
+28,28,,5749911,2027-03-14T17:30:00Z,Bologna,Napoli,,,False,False,False,ITA1
+28,28,,5749912,2027-03-14T17:30:00Z,Cagliari,Fiorentina,,,False,False,False,ITA1
+28,28,,5749913,2027-03-14T17:30:00Z,Como,Udinese,,,False,False,False,ITA1
+28,28,,5749914,2027-03-14T17:30:00Z,Frosinone,Monza,,,False,False,False,ITA1
+28,28,,5749915,2027-03-14T17:30:00Z,Genoa,Roma,,,False,False,False,ITA1
+28,28,,5749916,2027-03-14T17:30:00Z,Lazio,Juventus,,,False,False,False,ITA1
+28,28,,5749917,2027-03-14T17:30:00Z,Parma,Lecce,,,False,False,False,ITA1
+28,28,,5749918,2027-03-14T17:30:00Z,Torino,Inter,,,False,False,False,ITA1
+28,28,,5749919,2027-03-14T17:30:00Z,Venezia,Atalanta,,,False,False,False,ITA1
+29,29,,5749920,2027-03-21T17:30:00Z,Roma,Lecce,,,False,False,False,ITA1
+29,29,,5749921,2027-03-21T17:30:00Z,Atalanta,Milan,,,False,False,False,ITA1
+29,29,,5749922,2027-03-21T17:30:00Z,Fiorentina,Genoa,,,False,False,False,ITA1
+29,29,,5749923,2027-03-21T17:30:00Z,Inter,Frosinone,,,False,False,False,ITA1
+29,29,,5749924,2027-03-21T17:30:00Z,Juventus,Como,,,False,False,False,ITA1
+29,29,,5749925,2027-03-21T17:30:00Z,Monza,Bologna,,,False,False,False,ITA1
+29,29,,5749926,2027-03-21T17:30:00Z,Napoli,Venezia,,,False,False,False,ITA1
+29,29,,5749927,2027-03-21T17:30:00Z,Parma,Lazio,,,False,False,False,ITA1
+29,29,,5749928,2027-03-21T17:30:00Z,Sassuolo,Cagliari,,,False,False,False,ITA1
+29,29,,5749929,2027-03-21T17:30:00Z,Udinese,Torino,,,False,False,False,ITA1
+30,30,,5749930,2027-04-04T16:30:00Z,Milan,Monza,,,False,False,False,ITA1
+30,30,,5749931,2027-04-04T16:30:00Z,Roma,Bologna,,,False,False,False,ITA1
+30,30,,5749932,2027-04-04T16:30:00Z,Cagliari,Napoli,,,False,False,False,ITA1
+30,30,,5749933,2027-04-04T16:30:00Z,Como,Fiorentina,,,False,False,False,ITA1
+30,30,,5749934,2027-04-04T16:30:00Z,Frosinone,Udinese,,,False,False,False,ITA1
+30,30,,5749935,2027-04-04T16:30:00Z,Genoa,Inter,,,False,False,False,ITA1
+30,30,,5749936,2027-04-04T16:30:00Z,Lecce,Lazio,,,False,False,False,ITA1
+30,30,,5749937,2027-04-04T16:30:00Z,Sassuolo,Atalanta,,,False,False,False,ITA1
+30,30,,5749938,2027-04-04T16:30:00Z,Torino,Juventus,,,False,False,False,ITA1
+30,30,,5749939,2027-04-04T16:30:00Z,Venezia,Parma,,,False,False,False,ITA1
+31,31,,5749940,2027-04-11T16:30:00Z,Bologna,Venezia,,,False,False,False,ITA1
+31,31,,5749941,2027-04-11T16:30:00Z,Cagliari,Atalanta,,,False,False,False,ITA1
+31,31,,5749942,2027-04-11T16:30:00Z,Fiorentina,Milan,,,False,False,False,ITA1
+31,31,,5749943,2027-04-11T16:30:00Z,Frosinone,Genoa,,,False,False,False,ITA1
+31,31,,5749944,2027-04-11T16:30:00Z,Inter,Roma,,,False,False,False,ITA1
+31,31,,5749945,2027-04-11T16:30:00Z,Juventus,Lecce,,,False,False,False,ITA1
+31,31,,5749946,2027-04-11T16:30:00Z,Lazio,Torino,,,False,False,False,ITA1
+31,31,,5749947,2027-04-11T16:30:00Z,Napoli,Sassuolo,,,False,False,False,ITA1
+31,31,,5749948,2027-04-11T16:30:00Z,Parma,Como,,,False,False,False,ITA1
+31,31,,5749949,2027-04-11T16:30:00Z,Udinese,Monza,,,False,False,False,ITA1
+32,32,,5749950,2027-04-18T16:30:00Z,Milan,Napoli,,,False,False,False,ITA1
+32,32,,5749951,2027-04-18T16:30:00Z,Roma,Lazio,,,False,False,False,ITA1
+32,32,,5749952,2027-04-18T16:30:00Z,Atalanta,Udinese,,,False,False,False,ITA1
+32,32,,5749953,2027-04-18T16:30:00Z,Bologna,Cagliari,,,False,False,False,ITA1
+32,32,,5749954,2027-04-18T16:30:00Z,Como,Frosinone,,,False,False,False,ITA1
+32,32,,5749955,2027-04-18T16:30:00Z,Fiorentina,Parma,,,False,False,False,ITA1
+32,32,,5749956,2027-04-18T16:30:00Z,Monza,Inter,,,False,False,False,ITA1
+32,32,,5749957,2027-04-18T16:30:00Z,Sassuolo,Lecce,,,False,False,False,ITA1
+32,32,,5749958,2027-04-18T16:30:00Z,Torino,Genoa,,,False,False,False,ITA1
+32,32,,5749959,2027-04-18T16:30:00Z,Venezia,Juventus,,,False,False,False,ITA1
+33,33,,5749960,2027-04-25T16:30:00Z,Cagliari,Monza,,,False,False,False,ITA1
+33,33,,5749961,2027-04-25T16:30:00Z,Frosinone,Roma,,,False,False,False,ITA1
+33,33,,5749962,2027-04-25T16:30:00Z,Genoa,Sassuolo,,,False,False,False,ITA1
+33,33,,5749963,2027-04-25T16:30:00Z,Inter,Bologna,,,False,False,False,ITA1
+33,33,,5749964,2027-04-25T16:30:00Z,Juventus,Fiorentina,,,False,False,False,ITA1
+33,33,,5749965,2027-04-25T16:30:00Z,Lazio,Como,,,False,False,False,ITA1
+33,33,,5749966,2027-04-25T16:30:00Z,Lecce,Milan,,,False,False,False,ITA1
+33,33,,5749967,2027-04-25T16:30:00Z,Napoli,Udinese,,,False,False,False,ITA1
+33,33,,5749968,2027-04-25T16:30:00Z,Parma,Atalanta,,,False,False,False,ITA1
+33,33,,5749969,2027-04-25T16:30:00Z,Venezia,Torino,,,False,False,False,ITA1
+34,34,,5749970,2027-05-02T16:30:00Z,Milan,Lazio,,,False,False,False,ITA1
+34,34,,5749971,2027-05-02T16:30:00Z,Roma,Napoli,,,False,False,False,ITA1
+34,34,,5749972,2027-05-02T16:30:00Z,Atalanta,Juventus,,,False,False,False,ITA1
+34,34,,5749973,2027-05-02T16:30:00Z,Bologna,Fiorentina,,,False,False,False,ITA1
+34,34,,5749974,2027-05-02T16:30:00Z,Como,Inter,,,False,False,False,ITA1
+34,34,,5749975,2027-05-02T16:30:00Z,Lecce,Cagliari,,,False,False,False,ITA1
+34,34,,5749976,2027-05-02T16:30:00Z,Monza,Venezia,,,False,False,False,ITA1
+34,34,,5749977,2027-05-02T16:30:00Z,Sassuolo,Frosinone,,,False,False,False,ITA1
+34,34,,5749978,2027-05-02T16:30:00Z,Torino,Parma,,,False,False,False,ITA1
+34,34,,5749979,2027-05-02T16:30:00Z,Udinese,Genoa,,,False,False,False,ITA1
+35,35,,5749980,2027-05-09T16:30:00Z,Fiorentina,Roma,,,False,False,False,ITA1
+35,35,,5749981,2027-05-09T16:30:00Z,Frosinone,Atalanta,,,False,False,False,ITA1
+35,35,,5749982,2027-05-09T16:30:00Z,Genoa,Cagliari,,,False,False,False,ITA1
+35,35,,5749983,2027-05-09T16:30:00Z,Inter,Lecce,,,False,False,False,ITA1
+35,35,,5749984,2027-05-09T16:30:00Z,Lazio,Sassuolo,,,False,False,False,ITA1
+35,35,,5749985,2027-05-09T16:30:00Z,Napoli,Monza,,,False,False,False,ITA1
+35,35,,5749986,2027-05-09T16:30:00Z,Parma,Milan,,,False,False,False,ITA1
+35,35,,5749987,2027-05-09T16:30:00Z,Torino,Bologna,,,False,False,False,ITA1
+35,35,,5749988,2027-05-09T16:30:00Z,Udinese,Juventus,,,False,False,False,ITA1
+35,35,,5749989,2027-05-09T16:30:00Z,Venezia,Como,,,False,False,False,ITA1
+36,36,,5749990,2027-05-16T16:30:00Z,Milan,Roma,,,False,False,False,ITA1
+36,36,,5749991,2027-05-16T16:30:00Z,Bologna,Frosinone,,,False,False,False,ITA1
+36,36,,5749992,2027-05-16T16:30:00Z,Cagliari,Torino,,,False,False,False,ITA1
+36,36,,5749993,2027-05-16T16:30:00Z,Como,Atalanta,,,False,False,False,ITA1
+36,36,,5749994,2027-05-16T16:30:00Z,Juventus,Inter,,,False,False,False,ITA1
+36,36,,5749995,2027-05-16T16:30:00Z,Lazio,Udinese,,,False,False,False,ITA1
+36,36,,5749996,2027-05-16T16:30:00Z,Lecce,Fiorentina,,,False,False,False,ITA1
+36,36,,5749997,2027-05-16T16:30:00Z,Monza,Parma,,,False,False,False,ITA1
+36,36,,5749998,2027-05-16T16:30:00Z,Napoli,Genoa,,,False,False,False,ITA1
+36,36,,5749999,2027-05-16T16:30:00Z,Sassuolo,Venezia,,,False,False,False,ITA1
+37,37,,5750000,2027-05-23T16:30:00Z,Roma,Como,,,False,False,False,ITA1
+37,37,,5750001,2027-05-23T16:30:00Z,Atalanta,Lecce,,,False,False,False,ITA1
+37,37,,5750002,2027-05-23T16:30:00Z,Fiorentina,Monza,,,False,False,False,ITA1
+37,37,,5750003,2027-05-23T16:30:00Z,Frosinone,Cagliari,,,False,False,False,ITA1
+37,37,,5750004,2027-05-23T16:30:00Z,Genoa,Bologna,,,False,False,False,ITA1
+37,37,,5750005,2027-05-23T16:30:00Z,Inter,Lazio,,,False,False,False,ITA1
+37,37,,5750006,2027-05-23T16:30:00Z,Parma,Juventus,,,False,False,False,ITA1
+37,37,,5750007,2027-05-23T16:30:00Z,Torino,Napoli,,,False,False,False,ITA1
+37,37,,5750008,2027-05-23T16:30:00Z,Udinese,Sassuolo,,,False,False,False,ITA1
+37,37,,5750009,2027-05-23T16:30:00Z,Venezia,Milan,,,False,False,False,ITA1
+38,38,,5750010,2027-05-30T16:30:00Z,Milan,Udinese,,,False,False,False,ITA1
+38,38,,5750011,2027-05-30T16:30:00Z,Bologna,Parma,,,False,False,False,ITA1
+38,38,,5750012,2027-05-30T16:30:00Z,Cagliari,Roma,,,False,False,False,ITA1
+38,38,,5750013,2027-05-30T16:30:00Z,Como,Genoa,,,False,False,False,ITA1
+38,38,,5750014,2027-05-30T16:30:00Z,Juventus,Frosinone,,,False,False,False,ITA1
+38,38,,5750015,2027-05-30T16:30:00Z,Lazio,Fiorentina,,,False,False,False,ITA1
+38,38,,5750016,2027-05-30T16:30:00Z,Lecce,Venezia,,,False,False,False,ITA1
+38,38,,5750017,2027-05-30T16:30:00Z,Monza,Torino,,,False,False,False,ITA1
+38,38,,5750018,2027-05-30T16:30:00Z,Napoli,Atalanta,,,False,False,False,ITA1
+38,38,,5750019,2027-05-30T16:30:00Z,Sassuolo,Inter,,,False,False,False,ITA1
+5,5,,5749680,2026-09-20T18:45:00.000Z,Milan,Lecce,3 - 0,,False,True,False,ITA1
+5,5,,5749683,2026-09-20T10:30:00.000Z,Fiorentina,Napoli,1 - 1,FT,True,True,False,ITA1
+5,5,,5749684,2026-09-20T13:00:00.000Z,Frosinone,Como,2 - 0,FT,True,True,False,ITA1
+5,5,,5749685,2026-09-20T16:00:00.000Z,Juventus,Atalanta,2 - 0,FT,True,True,False,ITA1
+5,5,,5749687,2026-09-20T13:00:00.000Z,Parma,Genoa,2 - 1,FT,True,True,False,ITA1

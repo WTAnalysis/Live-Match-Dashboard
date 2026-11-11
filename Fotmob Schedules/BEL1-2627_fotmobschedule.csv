@@ -1,0 +1,307 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5811710,2026-08-07T18:45:00Z,Club Brugge,Kortrijk,3 - 0,FT,True,True,False,BEL1
+1,1,,5811712,2026-08-08T16:15:00Z,Standard Liège,Cercle Brugge,2 - 2,FT,True,True,False,BEL1
+1,1,,5811713,2026-08-08T18:45:00Z,St.Truiden,Lommel,1 - 1,FT,True,True,False,BEL1
+1,1,,5811714,2026-08-08T18:45:00Z,Westerlo,Union St.Gilloise,1 - 5,FT,True,True,False,BEL1
+1,1,,5811715,2026-08-09T11:30:00Z,Gent,KV Mechelen,2 - 0,FT,True,True,False,BEL1
+1,1,,5811711,2026-08-09T14:00:00Z,Sporting Charleroi,OH Leuven,3 - 1,FT,True,True,False,BEL1
+1,1,,5811716,2026-08-09T14:00:00Z,Zulte Waregem,Genk,2 - 1,FT,True,True,False,BEL1
+1,1,,5811717,2026-08-09T16:30:00Z,Anderlecht,RAAL La Louvière,2 - 1,FT,True,True,False,BEL1
+1,1,,5811718,2026-08-09T17:15:00Z,Royal Antwerp,SK Beveren,2 - 1,FT,True,True,False,BEL1
+2,2,,5811719,2026-08-14T18:45:00Z,Cercle Brugge,St.Truiden,3 - 3,FT,True,True,False,BEL1
+2,2,,5811720,2026-08-15T14:00:00Z,Union St.Gilloise,Zulte Waregem,0 - 0,FT,True,True,False,BEL1
+2,2,,5811721,2026-08-15T16:15:00Z,Kortrijk,Royal Antwerp,0 - 3,FT,True,True,False,BEL1
+2,2,,5811722,2026-08-15T18:45:00Z,Genk,Westerlo,3 - 2,FT,True,True,False,BEL1
+2,2,,5811723,2026-08-15T18:45:00Z,OH Leuven,Club Brugge,0 - 3,FT,True,True,False,BEL1
+2,2,,5811724,2026-08-16T11:30:00Z,SK Beveren,Anderlecht,1 - 0,FT,True,True,False,BEL1
+2,2,,5811725,2026-08-16T14:00:00Z,RAAL La Louvière,Gent,1 - 2,FT,True,True,False,BEL1
+2,2,,5811726,2026-08-16T16:30:00Z,KV Mechelen,Standard Liège,3 - 3,FT,True,True,False,BEL1
+2,2,,5811727,2026-08-16T17:15:00Z,Lommel,Sporting Charleroi,0 - 1,FT,True,True,False,BEL1
+3,3,,5811728,2026-08-21T18:45:00Z,Standard Liège,RAAL La Louvière,2 - 0,FT,True,True,False,BEL1
+3,3,,5811729,2026-08-22T14:00:00Z,Zulte Waregem,SK Beveren,4 - 0,FT,True,True,False,BEL1
+3,3,,5811730,2026-08-22T16:15:00Z,Sporting Charleroi,KV Mechelen,2 - 0,FT,True,True,False,BEL1
+3,3,,5811731,2026-08-22T18:45:00Z,Royal Antwerp,Genk,4 - 4,FT,True,True,False,BEL1
+3,3,,5811734,2026-08-23T14:00:00Z,Lommel,Westerlo,4 - 0,FT,True,True,False,BEL1
+3,3,,5811735,2026-08-23T16:30:00Z,Club Brugge,Cercle Brugge,1 - 0,FT,True,True,False,BEL1
+4,4,,5811736,2026-08-28T18:45:00Z,Genk,SK Beveren,4 - 0,FT,True,True,False,BEL1
+4,4,,5811737,2026-08-29T14:00:00Z,RAAL La Louvière,KV Mechelen,2 - 2,FT,True,True,False,BEL1
+4,4,,5811738,2026-08-29T16:15:00Z,Kortrijk,Sporting Charleroi,1 - 3,FT,True,True,False,BEL1
+4,4,,5811739,2026-08-29T18:45:00Z,Cercle Brugge,Lommel,0 - 1,FT,True,True,False,BEL1
+4,4,,5811740,2026-08-29T18:45:00Z,OH Leuven,Standard Liège,1 - 2,FT,True,True,False,BEL1
+4,4,,5811741,2026-08-30T11:30:00Z,Gent,Club Brugge,2 - 1,FT,True,True,False,BEL1
+4,4,,5811742,2026-08-30T14:00:00Z,Royal Antwerp,St.Truiden,1 - 4,FT,True,True,False,BEL1
+4,4,,5811743,2026-08-30T16:30:00Z,Union St.Gilloise,Anderlecht,3 - 0,FT,True,True,False,BEL1
+4,4,,5811744,2026-08-30T17:15:00Z,Westerlo,Zulte Waregem,2 - 2,FT,True,True,False,BEL1
+3,3,,5811745,2026-09-02T18:30:00Z,St.Truiden,Union St.Gilloise,0 - 3,FT,True,True,False,BEL1
+3,3,,5811732,2026-09-03T18:30:00Z,Gent,OH Leuven,1 - 0,FT,True,True,False,BEL1
+3,3,,5811733,2026-09-03T18:30:00Z,Anderlecht,Kortrijk,1 - 0,FT,True,True,False,BEL1
+5,5,,5811746,2026-09-04T18:45:00Z,Lommel,Club Brugge,0 - 1,FT,True,True,False,BEL1
+5,5,,5811747,2026-09-05T14:00:00Z,Sporting Charleroi,Union St.Gilloise,2 - 3,FT,True,True,False,BEL1
+5,5,,5811748,2026-09-05T16:15:00Z,KV Mechelen,Westerlo,0 - 4,FT,True,True,False,BEL1
+5,5,,5811749,2026-09-05T18:45:00Z,Standard Liège,Royal Antwerp,1 - 0,FT,True,True,False,BEL1
+5,5,,5811750,2026-09-05T18:45:00Z,St.Truiden,RAAL La Louvière,4 - 0,FT,True,True,False,BEL1
+5,5,,5811751,2026-09-06T11:30:00Z,Cercle Brugge,Gent,0 - 3,FT,True,True,False,BEL1
+5,5,,5811752,2026-09-06T14:00:00Z,Kortrijk,Zulte Waregem,0 - 2,FT,True,True,False,BEL1
+5,5,,5811753,2026-09-06T16:30:00Z,Anderlecht,Genk,0 - 0,FT,True,True,False,BEL1
+5,5,,5811754,2026-09-06T17:15:00Z,SK Beveren,OH Leuven,3 - 0,FT,True,True,False,BEL1
+6,6,,5811755,2026-09-11T18:45:00Z,KV Mechelen,Anderlecht,0 - 1,FT,True,True,False,BEL1
+6,6,,5811756,2026-09-12T14:00:00Z,SK Beveren,St.Truiden,2 - 0,FT,True,True,False,BEL1
+6,6,,5811757,2026-09-12T16:15:00Z,Westerlo,Standard Liège,4 - 2,FT,True,True,False,BEL1
+6,6,,5811758,2026-09-12T18:45:00Z,OH Leuven,Cercle Brugge,1 - 1,FT,True,True,False,BEL1
+6,6,,5811759,2026-09-12T18:45:00Z,Union St.Gilloise,Lommel,5 - 0,FT,True,True,False,BEL1
+6,6,,5811760,2026-09-13T11:30:00Z,Club Brugge,Royal Antwerp,3 - 1,FT,True,True,False,BEL1
+6,6,,5811761,2026-09-13T14:00:00Z,Genk,Gent,1 - 1,FT,True,True,False,BEL1
+6,6,,5811762,2026-09-13T16:30:00Z,Zulte Waregem,Sporting Charleroi,0 - 1,FT,True,True,False,BEL1
+6,6,,5811763,2026-09-13T17:15:00Z,RAAL La Louvière,Kortrijk,3 - 0,FT,True,True,False,BEL1
+7,7,,5811764,2026-09-18T18:45:00Z,Gent,Standard Liège,2 - 1,FT,True,True,False,BEL1
+7,7,,5811765,2026-09-19T14:00:00Z,OH Leuven,RAAL La Louvière,2 - 0,FT,True,True,False,BEL1
+7,7,,5811766,2026-09-19T16:15:00Z,Sporting Charleroi,Cercle Brugge,3 - 2,FT,True,True,False,BEL1
+7,7,,5811767,2026-09-19T18:45:00Z,Anderlecht,Zulte Waregem,3 - 0,FT,True,True,False,BEL1
+7,7,,5811768,2026-09-19T18:45:00Z,Lommel,KV Mechelen,0 - 0,FT,True,True,False,BEL1
+8,8,,5811773,2026-10-09T18:45:00Z,SK Beveren,Lommel,,,False,False,False,BEL1
+8,8,,5811774,2026-10-10T14:00:00Z,Cercle Brugge,Anderlecht,,,False,False,False,BEL1
+8,8,,5811777,2026-10-10T16:15:00Z,RAAL La Louvière,Club Brugge,,,False,False,False,BEL1
+8,8,,5811775,2026-10-10T18:45:00Z,Genk,Kortrijk,,,False,False,False,BEL1
+8,8,,5811780,2026-10-10T18:45:00Z,Zulte Waregem,Gent,,,False,False,False,BEL1
+8,8,,5811779,2026-10-11T11:30:00Z,Standard Liège,Sporting Charleroi,,,False,False,False,BEL1
+8,8,,5811778,2026-10-11T14:00:00Z,Union St.Gilloise,OH Leuven,,,False,False,False,BEL1
+8,8,,5811781,2026-10-11T16:30:00Z,Westerlo,Royal Antwerp,,,False,False,False,BEL1
+8,8,,5811776,2026-10-11T17:15:00Z,KV Mechelen,St.Truiden,,,False,False,False,BEL1
+9,9,,5811786,2026-10-23T18:45:00Z,Kortrijk,KV Mechelen,,,False,False,False,BEL1
+9,9,,5811782,2026-10-24T14:00:00Z,Royal Antwerp,Sporting Charleroi,,,False,False,False,BEL1
+9,9,,5811787,2026-10-24T16:15:00Z,OH Leuven,Lommel,,,False,False,False,BEL1
+9,9,,5811788,2026-10-24T18:45:00Z,RAAL La Louvière,Zulte Waregem,,,False,False,False,BEL1
+9,9,,5811790,2026-10-24T18:45:00Z,Westerlo,SK Beveren,,,False,False,False,BEL1
+9,9,,5811784,2026-10-25T12:30:00Z,Genk,Standard Liège,,,False,False,False,BEL1
+9,9,,5811783,2026-10-25T15:00:00Z,Club Brugge,St.Truiden,,,False,False,False,BEL1
+9,9,,5811785,2026-10-25T17:30:00Z,Gent,Anderlecht,,,False,False,False,BEL1
+9,9,,5811789,2026-10-25T18:15:00Z,Union St.Gilloise,Cercle Brugge,,,False,False,False,BEL1
+10,10,,5811799,2026-10-30T19:45:00Z,Zulte Waregem,Club Brugge,,,False,False,False,BEL1
+10,10,,5811795,2026-10-31T15:00:00Z,KV Mechelen,Genk,,,False,False,False,BEL1
+10,10,,5811797,2026-10-31T17:15:00Z,Standard Liège,Kortrijk,,,False,False,False,BEL1
+10,10,,5811791,2026-10-31T19:45:00Z,Anderlecht,Westerlo,,,False,False,False,BEL1
+10,10,,5811792,2026-10-31T19:45:00Z,SK Beveren,Union St.Gilloise,,,False,False,False,BEL1
+10,10,,5811793,2026-11-01T12:30:00Z,Cercle Brugge,Royal Antwerp,,,False,False,False,BEL1
+10,10,,5811798,2026-11-01T15:00:00Z,St.Truiden,OH Leuven,,,False,False,False,BEL1
+10,10,,5811796,2026-11-01T17:30:00Z,Lommel,Gent,,,False,False,False,BEL1
+10,10,,5811794,2026-11-01T18:15:00Z,Sporting Charleroi,RAAL La Louvière,,,False,False,False,BEL1
+11,11,,5811806,2026-11-06T19:45:00Z,Standard Liège,SK Beveren,,,False,False,False,BEL1
+11,11,,5811808,2026-11-07T15:00:00Z,Westerlo,Sporting Charleroi,,,False,False,False,BEL1
+11,11,,5811803,2026-11-07T17:15:00Z,OH Leuven,KV Mechelen,,,False,False,False,BEL1
+11,11,,5811800,2026-11-07T19:45:00Z,Royal Antwerp,Lommel,,,False,False,False,BEL1
+11,11,,5811804,2026-11-07T19:45:00Z,RAAL La Louvière,Cercle Brugge,,,False,False,False,BEL1
+11,11,,5811801,2026-11-08T12:30:00Z,Club Brugge,Anderlecht,,,False,False,False,BEL1
+11,11,,5811802,2026-11-08T15:00:00Z,Gent,Kortrijk,,,False,False,False,BEL1
+11,11,,5811805,2026-11-08T17:30:00Z,Union St.Gilloise,Genk,,,False,False,False,BEL1
+11,11,,5811807,2026-11-08T18:15:00Z,St.Truiden,Zulte Waregem,,,False,False,False,BEL1
+12,12,,5811811,2026-11-20T19:45:00Z,Cercle Brugge,Westerlo,,,False,False,False,BEL1
+12,12,,5811812,2026-11-21T15:00:00Z,Sporting Charleroi,St.Truiden,,,False,False,False,BEL1
+12,12,,5811813,2026-11-21T17:15:00Z,Genk,RAAL La Louvière,,,False,False,False,BEL1
+12,12,,5811815,2026-11-21T19:45:00Z,KV Mechelen,Club Brugge,,,False,False,False,BEL1
+12,12,,5811817,2026-11-21T19:45:00Z,Zulte Waregem,Royal Antwerp,,,False,False,False,BEL1
+12,12,,5811810,2026-11-22T12:30:00Z,SK Beveren,Gent,,,False,False,False,BEL1
+12,12,,5811814,2026-11-22T15:00:00Z,Kortrijk,Union St.Gilloise,,,False,False,False,BEL1
+12,12,,5811809,2026-11-22T17:30:00Z,Anderlecht,OH Leuven,,,False,False,False,BEL1
+12,12,,5811816,2026-11-22T18:15:00Z,Lommel,Standard Liège,,,False,False,False,BEL1
+13,13,,5811821,2026-11-27T19:45:00Z,OH Leuven,Kortrijk,,,False,False,False,BEL1
+13,13,,5811826,2026-11-28T15:00:00Z,Westerlo,RAAL La Louvière,,,False,False,False,BEL1
+13,13,,5811819,2026-11-28T17:15:00Z,Cercle Brugge,KV Mechelen,,,False,False,False,BEL1
+13,13,,5811820,2026-11-28T19:45:00Z,Sporting Charleroi,SK Beveren,,,False,False,False,BEL1
+13,13,,5811822,2026-11-28T19:45:00Z,Lommel,Zulte Waregem,,,False,False,False,BEL1
+13,13,,5811825,2026-11-29T12:30:00Z,St.Truiden,Genk,,,False,False,False,BEL1
+13,13,,5811818,2026-11-29T15:00:00Z,Royal Antwerp,Anderlecht,,,False,False,False,BEL1
+13,13,,5811824,2026-11-29T17:30:00Z,Standard Liège,Club Brugge,,,False,False,False,BEL1
+13,13,,5811823,2026-11-29T18:15:00Z,Union St.Gilloise,Gent,,,False,False,False,BEL1
+14,14,,5811830,2026-12-11T19:45:00Z,Genk,OH Leuven,,,False,False,False,BEL1
+14,14,,5811832,2026-12-12T15:00:00Z,Kortrijk,Lommel,,,False,False,False,BEL1
+14,14,,5811834,2026-12-12T17:15:00Z,RAAL La Louvière,Royal Antwerp,,,False,False,False,BEL1
+14,14,,5811828,2026-12-12T19:45:00Z,SK Beveren,Cercle Brugge,,,False,False,False,BEL1
+14,14,,5811835,2026-12-12T19:45:00Z,Zulte Waregem,Standard Liège,,,False,False,False,BEL1
+14,14,,5811827,2026-12-13T12:30:00Z,Anderlecht,Sporting Charleroi,,,False,False,False,BEL1
+14,14,,5811829,2026-12-13T15:00:00Z,Club Brugge,Westerlo,,,False,False,False,BEL1
+14,14,,5811833,2026-12-13T17:30:00Z,KV Mechelen,Union St.Gilloise,,,False,False,False,BEL1
+14,14,,5811831,2026-12-13T18:15:00Z,Gent,St.Truiden,,,False,False,False,BEL1
+15,15,,5811836,2026-12-18T19:45:00Z,Royal Antwerp,OH Leuven,,,False,False,False,BEL1
+15,15,,5811837,2026-12-19T15:00:00Z,SK Beveren,KV Mechelen,,,False,False,False,BEL1
+15,15,,5811838,2026-12-19T17:15:00Z,Cercle Brugge,Zulte Waregem,,,False,False,False,BEL1
+15,15,,5811839,2026-12-19T19:45:00Z,Sporting Charleroi,Genk,,,False,False,False,BEL1
+15,15,,5811840,2026-12-19T19:45:00Z,Lommel,RAAL La Louvière,,,False,False,False,BEL1
+15,15,,5811842,2026-12-20T12:30:00Z,Standard Liège,Anderlecht,,,False,False,False,BEL1
+15,15,,5811843,2026-12-20T15:00:00Z,St.Truiden,Kortrijk,,,False,False,False,BEL1
+15,15,,5811841,2026-12-20T17:30:00Z,Union St.Gilloise,Club Brugge,,,False,False,False,BEL1
+15,15,,5811844,2026-12-20T18:15:00Z,Westerlo,Gent,,,False,False,False,BEL1
+16,16,,5811846,2026-12-26T12:30:00Z,Club Brugge,Sporting Charleroi,,,False,False,False,BEL1
+16,16,,5811849,2026-12-26T15:00:00Z,Kortrijk,Cercle Brugge,,,False,False,False,BEL1
+16,16,,5811851,2026-12-26T17:15:00Z,OH Leuven,Westerlo,,,False,False,False,BEL1
+16,16,,5811852,2026-12-26T19:45:00Z,RAAL La Louvière,SK Beveren,,,False,False,False,BEL1
+16,16,,5811853,2026-12-26T19:45:00Z,Standard Liège,Union St.Gilloise,,,False,False,False,BEL1
+16,16,,5811845,2026-12-27T12:30:00Z,Anderlecht,St.Truiden,,,False,False,False,BEL1
+16,16,,5811847,2026-12-27T15:00:00Z,Genk,Lommel,,,False,False,False,BEL1
+16,16,,5811848,2026-12-27T17:30:00Z,Gent,Royal Antwerp,,,False,False,False,BEL1
+16,16,,5811850,2026-12-27T18:15:00Z,KV Mechelen,Zulte Waregem,,,False,False,False,BEL1
+17,17,,5811855,2027-01-15T19:45:00Z,SK Beveren,Club Brugge,,,False,False,False,BEL1
+17,17,,5811858,2027-01-16T15:00:00Z,Lommel,Anderlecht,,,False,False,False,BEL1
+17,17,,5811859,2027-01-16T17:15:00Z,Union St.Gilloise,RAAL La Louvière,,,False,False,False,BEL1
+17,17,,5811854,2027-01-16T19:45:00Z,Royal Antwerp,KV Mechelen,,,False,False,False,BEL1
+17,17,,5811862,2027-01-16T19:45:00Z,Westerlo,Kortrijk,,,False,False,False,BEL1
+17,17,,5811860,2027-01-17T12:30:00Z,St.Truiden,Standard Liège,,,False,False,False,BEL1
+17,17,,5811856,2027-01-17T15:00:00Z,Cercle Brugge,Genk,,,False,False,False,BEL1
+17,17,,5811857,2027-01-17T17:30:00Z,Sporting Charleroi,Gent,,,False,False,False,BEL1
+17,17,,5811861,2027-01-17T18:15:00Z,Zulte Waregem,OH Leuven,,,False,False,False,BEL1
+18,18,,5811863,2027-01-23T16:00:00Z,Sporting Charleroi,Royal Antwerp,,,False,False,False,BEL1
+18,18,,5811864,2027-01-23T16:00:00Z,Club Brugge,RAAL La Louvière,,,False,False,False,BEL1
+18,18,,5811865,2027-01-23T16:00:00Z,Genk,Zulte Waregem,,,False,False,False,BEL1
+18,18,,5811866,2027-01-23T16:00:00Z,Gent,Cercle Brugge,,,False,False,False,BEL1
+18,18,,5811867,2027-01-23T16:00:00Z,Kortrijk,Anderlecht,,,False,False,False,BEL1
+18,18,,5811868,2027-01-23T16:00:00Z,KV Mechelen,Lommel,,,False,False,False,BEL1
+18,18,,5811869,2027-01-23T16:00:00Z,OH Leuven,St.Truiden,,,False,False,False,BEL1
+18,18,,5811870,2027-01-23T16:00:00Z,Union St.Gilloise,SK Beveren,,,False,False,False,BEL1
+18,18,,5811871,2027-01-23T16:00:00Z,Standard Liège,Westerlo,,,False,False,False,BEL1
+19,19,,5811872,2027-01-30T16:00:00Z,Anderlecht,Gent,,,False,False,False,BEL1
+19,19,,5811873,2027-01-30T16:00:00Z,Royal Antwerp,Club Brugge,,,False,False,False,BEL1
+19,19,,5811874,2027-01-30T16:00:00Z,SK Beveren,Kortrijk,,,False,False,False,BEL1
+19,19,,5811875,2027-01-30T16:00:00Z,Cercle Brugge,Standard Liège,,,False,False,False,BEL1
+19,19,,5811876,2027-01-30T16:00:00Z,Lommel,OH Leuven,,,False,False,False,BEL1
+19,19,,5811877,2027-01-30T16:00:00Z,RAAL La Louvière,Sporting Charleroi,,,False,False,False,BEL1
+19,19,,5811878,2027-01-30T16:00:00Z,St.Truiden,KV Mechelen,,,False,False,False,BEL1
+19,19,,5811879,2027-01-30T16:00:00Z,Zulte Waregem,Union St.Gilloise,,,False,False,False,BEL1
+19,19,,5811880,2027-01-30T16:00:00Z,Westerlo,Genk,,,False,False,False,BEL1
+20,20,,5811881,2027-02-06T16:00:00Z,Sporting Charleroi,Westerlo,,,False,False,False,BEL1
+20,20,,5811882,2027-02-06T16:00:00Z,Club Brugge,Standard Liège,,,False,False,False,BEL1
+20,20,,5811883,2027-02-06T16:00:00Z,Genk,Royal Antwerp,,,False,False,False,BEL1
+20,20,,5811884,2027-02-06T16:00:00Z,Gent,SK Beveren,,,False,False,False,BEL1
+20,20,,5811885,2027-02-06T16:00:00Z,Kortrijk,RAAL La Louvière,,,False,False,False,BEL1
+20,20,,5811886,2027-02-06T16:00:00Z,KV Mechelen,Cercle Brugge,,,False,False,False,BEL1
+20,20,,5811887,2027-02-06T16:00:00Z,OH Leuven,Anderlecht,,,False,False,False,BEL1
+20,20,,5811888,2027-02-06T16:00:00Z,Union St.Gilloise,St.Truiden,,,False,False,False,BEL1
+20,20,,5811889,2027-02-06T16:00:00Z,Zulte Waregem,Lommel,,,False,False,False,BEL1
+21,21,,5811890,2027-02-13T16:00:00Z,Anderlecht,KV Mechelen,,,False,False,False,BEL1
+21,21,,5811891,2027-02-13T16:00:00Z,Royal Antwerp,Kortrijk,,,False,False,False,BEL1
+21,21,,5811892,2027-02-13T16:00:00Z,SK Beveren,Genk,,,False,False,False,BEL1
+21,21,,5811893,2027-02-13T16:00:00Z,Cercle Brugge,Sporting Charleroi,,,False,False,False,BEL1
+21,21,,5811894,2027-02-13T16:00:00Z,Lommel,Union St.Gilloise,,,False,False,False,BEL1
+21,21,,5811895,2027-02-13T16:00:00Z,RAAL La Louvière,OH Leuven,,,False,False,False,BEL1
+21,21,,5811896,2027-02-13T16:00:00Z,Standard Liège,Zulte Waregem,,,False,False,False,BEL1
+21,21,,5811897,2027-02-13T16:00:00Z,St.Truiden,Gent,,,False,False,False,BEL1
+21,21,,5811898,2027-02-13T16:00:00Z,Westerlo,Club Brugge,,,False,False,False,BEL1
+22,22,,5811899,2027-02-20T16:00:00Z,Sporting Charleroi,Standard Liège,,,False,False,False,BEL1
+22,22,,5811900,2027-02-20T16:00:00Z,Club Brugge,Lommel,,,False,False,False,BEL1
+22,22,,5811901,2027-02-20T16:00:00Z,Gent,RAAL La Louvière,,,False,False,False,BEL1
+22,22,,5811902,2027-02-20T16:00:00Z,Kortrijk,Genk,,,False,False,False,BEL1
+22,22,,5811903,2027-02-20T16:00:00Z,KV Mechelen,SK Beveren,,,False,False,False,BEL1
+22,22,,5811904,2027-02-20T16:00:00Z,OH Leuven,Royal Antwerp,,,False,False,False,BEL1
+22,22,,5811905,2027-02-20T16:00:00Z,Union St.Gilloise,Westerlo,,,False,False,False,BEL1
+22,22,,5811906,2027-02-20T16:00:00Z,St.Truiden,Cercle Brugge,,,False,False,False,BEL1
+22,22,,5811907,2027-02-20T16:00:00Z,Zulte Waregem,Anderlecht,,,False,False,False,BEL1
+23,23,,5811908,2027-02-27T16:00:00Z,Anderlecht,Club Brugge,,,False,False,False,BEL1
+23,23,,5811909,2027-02-27T16:00:00Z,Royal Antwerp,Zulte Waregem,,,False,False,False,BEL1
+23,23,,5811910,2027-02-27T16:00:00Z,SK Beveren,Sporting Charleroi,,,False,False,False,BEL1
+23,23,,5811911,2027-02-27T16:00:00Z,Cercle Brugge,OH Leuven,,,False,False,False,BEL1
+23,23,,5811912,2027-02-27T16:00:00Z,Genk,Union St.Gilloise,,,False,False,False,BEL1
+23,23,,5811913,2027-02-27T16:00:00Z,Lommel,Kortrijk,,,False,False,False,BEL1
+23,23,,5811914,2027-02-27T16:00:00Z,RAAL La Louvière,St.Truiden,,,False,False,False,BEL1
+23,23,,5811915,2027-02-27T16:00:00Z,Standard Liège,Gent,,,False,False,False,BEL1
+23,23,,5811916,2027-02-27T16:00:00Z,Westerlo,KV Mechelen,,,False,False,False,BEL1
+24,24,,5811917,2027-03-06T16:00:00Z,Club Brugge,SK Beveren,,,False,False,False,BEL1
+24,24,,5811918,2027-03-06T16:00:00Z,Gent,Sporting Charleroi,,,False,False,False,BEL1
+24,24,,5811919,2027-03-06T16:00:00Z,KV Mechelen,Kortrijk,,,False,False,False,BEL1
+24,24,,5811920,2027-03-06T16:00:00Z,OH Leuven,Genk,,,False,False,False,BEL1
+24,24,,5811921,2027-03-06T16:00:00Z,RAAL La Louvière,Lommel,,,False,False,False,BEL1
+24,24,,5811922,2027-03-06T16:00:00Z,Union St.Gilloise,Standard Liège,,,False,False,False,BEL1
+24,24,,5811923,2027-03-06T16:00:00Z,St.Truiden,Royal Antwerp,,,False,False,False,BEL1
+24,24,,5811924,2027-03-06T16:00:00Z,Zulte Waregem,Cercle Brugge,,,False,False,False,BEL1
+24,24,,5811925,2027-03-06T16:00:00Z,Westerlo,Anderlecht,,,False,False,False,BEL1
+25,25,,5811926,2027-03-13T16:00:00Z,Anderlecht,Lommel,,,False,False,False,BEL1
+25,25,,5811927,2027-03-13T16:00:00Z,Royal Antwerp,RAAL La Louvière,,,False,False,False,BEL1
+25,25,,5811928,2027-03-13T16:00:00Z,SK Beveren,Westerlo,,,False,False,False,BEL1
+25,25,,5811929,2027-03-13T16:00:00Z,Cercle Brugge,Union St.Gilloise,,,False,False,False,BEL1
+25,25,,5811930,2027-03-13T16:00:00Z,Sporting Charleroi,Club Brugge,,,False,False,False,BEL1
+25,25,,5811931,2027-03-13T16:00:00Z,Genk,St.Truiden,,,False,False,False,BEL1
+25,25,,5811932,2027-03-13T16:00:00Z,Gent,Zulte Waregem,,,False,False,False,BEL1
+25,25,,5811933,2027-03-13T16:00:00Z,Kortrijk,OH Leuven,,,False,False,False,BEL1
+25,25,,5811934,2027-03-13T16:00:00Z,Standard Liège,KV Mechelen,,,False,False,False,BEL1
+26,26,,5811935,2027-03-20T16:00:00Z,Anderlecht,Standard Liège,,,False,False,False,BEL1
+26,26,,5811936,2027-03-20T16:00:00Z,Club Brugge,Gent,,,False,False,False,BEL1
+26,26,,5811937,2027-03-20T16:00:00Z,KV Mechelen,Sporting Charleroi,,,False,False,False,BEL1
+26,26,,5811938,2027-03-20T16:00:00Z,OH Leuven,Union St.Gilloise,,,False,False,False,BEL1
+26,26,,5811939,2027-03-20T16:00:00Z,Lommel,Royal Antwerp,,,False,False,False,BEL1
+26,26,,5811940,2027-03-20T16:00:00Z,RAAL La Louvière,Genk,,,False,False,False,BEL1
+26,26,,5811941,2027-03-20T16:00:00Z,St.Truiden,SK Beveren,,,False,False,False,BEL1
+26,26,,5811942,2027-03-20T16:00:00Z,Zulte Waregem,Kortrijk,,,False,False,False,BEL1
+26,26,,5811943,2027-03-20T16:00:00Z,Westerlo,Cercle Brugge,,,False,False,False,BEL1
+27,27,,5811944,2027-04-03T15:00:00Z,SK Beveren,Royal Antwerp,,,False,False,False,BEL1
+27,27,,5811945,2027-04-03T15:00:00Z,Cercle Brugge,RAAL La Louvière,,,False,False,False,BEL1
+27,27,,5811946,2027-04-03T15:00:00Z,Sporting Charleroi,Lommel,,,False,False,False,BEL1
+27,27,,5811947,2027-04-03T15:00:00Z,Genk,Anderlecht,,,False,False,False,BEL1
+27,27,,5811948,2027-04-03T15:00:00Z,Gent,Westerlo,,,False,False,False,BEL1
+27,27,,5811949,2027-04-03T15:00:00Z,Kortrijk,Club Brugge,,,False,False,False,BEL1
+27,27,,5811950,2027-04-03T15:00:00Z,OH Leuven,Zulte Waregem,,,False,False,False,BEL1
+27,27,,5811951,2027-04-03T15:00:00Z,Union St.Gilloise,KV Mechelen,,,False,False,False,BEL1
+27,27,,5811952,2027-04-03T15:00:00Z,Standard Liège,St.Truiden,,,False,False,False,BEL1
+28,28,,5811953,2027-04-10T15:00:00Z,Anderlecht,SK Beveren,,,False,False,False,BEL1
+28,28,,5811954,2027-04-10T15:00:00Z,Royal Antwerp,Cercle Brugge,,,False,False,False,BEL1
+28,28,,5811955,2027-04-10T15:00:00Z,Club Brugge,OH Leuven,,,False,False,False,BEL1
+28,28,,5811956,2027-04-10T15:00:00Z,Kortrijk,Standard Liège,,,False,False,False,BEL1
+28,28,,5811957,2027-04-10T15:00:00Z,KV Mechelen,Gent,,,False,False,False,BEL1
+28,28,,5811958,2027-04-10T15:00:00Z,Lommel,Genk,,,False,False,False,BEL1
+28,28,,5811959,2027-04-10T15:00:00Z,RAAL La Louvière,Union St.Gilloise,,,False,False,False,BEL1
+28,28,,5811960,2027-04-10T15:00:00Z,St.Truiden,Sporting Charleroi,,,False,False,False,BEL1
+28,28,,5811961,2027-04-10T15:00:00Z,Zulte Waregem,Westerlo,,,False,False,False,BEL1
+29,29,,5811962,2027-04-17T15:00:00Z,SK Beveren,Zulte Waregem,,,False,False,False,BEL1
+29,29,,5811963,2027-04-17T15:00:00Z,Cercle Brugge,Kortrijk,,,False,False,False,BEL1
+29,29,,5811964,2027-04-17T15:00:00Z,Sporting Charleroi,Anderlecht,,,False,False,False,BEL1
+29,29,,5811965,2027-04-17T15:00:00Z,Genk,Club Brugge,,,False,False,False,BEL1
+29,29,,5811966,2027-04-17T15:00:00Z,Gent,Lommel,,,False,False,False,BEL1
+29,29,,5811967,2027-04-17T15:00:00Z,KV Mechelen,RAAL La Louvière,,,False,False,False,BEL1
+29,29,,5811968,2027-04-17T15:00:00Z,Union St.Gilloise,Royal Antwerp,,,False,False,False,BEL1
+29,29,,5811969,2027-04-17T15:00:00Z,Standard Liège,OH Leuven,,,False,False,False,BEL1
+29,29,,5811970,2027-04-17T15:00:00Z,Westerlo,St.Truiden,,,False,False,False,BEL1
+30,30,,5811971,2027-04-24T15:00:00Z,Anderlecht,Cercle Brugge,,,False,False,False,BEL1
+30,30,,5811972,2027-04-24T15:00:00Z,Royal Antwerp,Gent,,,False,False,False,BEL1
+30,30,,5811973,2027-04-24T15:00:00Z,Club Brugge,Union St.Gilloise,,,False,False,False,BEL1
+30,30,,5811974,2027-04-24T15:00:00Z,Genk,Sporting Charleroi,,,False,False,False,BEL1
+30,30,,5811975,2027-04-24T15:00:00Z,Kortrijk,Westerlo,,,False,False,False,BEL1
+30,30,,5811976,2027-04-24T15:00:00Z,OH Leuven,SK Beveren,,,False,False,False,BEL1
+30,30,,5811977,2027-04-24T15:00:00Z,Lommel,St.Truiden,,,False,False,False,BEL1
+30,30,,5811978,2027-04-24T15:00:00Z,RAAL La Louvière,Standard Liège,,,False,False,False,BEL1
+30,30,,5811979,2027-04-24T15:00:00Z,Zulte Waregem,KV Mechelen,,,False,False,False,BEL1
+31,31,,5811980,2027-05-01T15:00:00Z,SK Beveren,RAAL La Louvière,,,False,False,False,BEL1
+31,31,,5811981,2027-05-01T15:00:00Z,Cercle Brugge,Club Brugge,,,False,False,False,BEL1
+31,31,,5811982,2027-05-01T15:00:00Z,Sporting Charleroi,Zulte Waregem,,,False,False,False,BEL1
+31,31,,5811983,2027-05-01T15:00:00Z,Gent,Genk,,,False,False,False,BEL1
+31,31,,5811984,2027-05-01T15:00:00Z,KV Mechelen,Royal Antwerp,,,False,False,False,BEL1
+31,31,,5811985,2027-05-01T15:00:00Z,Union St.Gilloise,Kortrijk,,,False,False,False,BEL1
+31,31,,5811986,2027-05-01T15:00:00Z,Standard Liège,Lommel,,,False,False,False,BEL1
+31,31,,5811987,2027-05-01T15:00:00Z,St.Truiden,Anderlecht,,,False,False,False,BEL1
+31,31,,5811988,2027-05-01T15:00:00Z,Westerlo,OH Leuven,,,False,False,False,BEL1
+32,32,,5811989,2027-05-08T15:00:00Z,Anderlecht,Union St.Gilloise,,,False,False,False,BEL1
+32,32,,5811990,2027-05-08T15:00:00Z,Royal Antwerp,Standard Liège,,,False,False,False,BEL1
+32,32,,5811991,2027-05-08T15:00:00Z,Club Brugge,KV Mechelen,,,False,False,False,BEL1
+32,32,,5811992,2027-05-08T15:00:00Z,Genk,Cercle Brugge,,,False,False,False,BEL1
+32,32,,5811993,2027-05-08T15:00:00Z,Kortrijk,Gent,,,False,False,False,BEL1
+32,32,,5811994,2027-05-08T15:00:00Z,OH Leuven,Sporting Charleroi,,,False,False,False,BEL1
+32,32,,5811995,2027-05-08T15:00:00Z,Lommel,SK Beveren,,,False,False,False,BEL1
+32,32,,5811996,2027-05-08T15:00:00Z,RAAL La Louvière,Westerlo,,,False,False,False,BEL1
+32,32,,5811997,2027-05-08T15:00:00Z,Zulte Waregem,St.Truiden,,,False,False,False,BEL1
+33,33,,5811998,2027-05-15T15:00:00Z,Anderlecht,Royal Antwerp,,,False,False,False,BEL1
+33,33,,5811999,2027-05-15T15:00:00Z,Cercle Brugge,SK Beveren,,,False,False,False,BEL1
+33,33,,5812000,2027-05-15T15:00:00Z,Sporting Charleroi,Kortrijk,,,False,False,False,BEL1
+33,33,,5812001,2027-05-15T15:00:00Z,Gent,Union St.Gilloise,,,False,False,False,BEL1
+33,33,,5812002,2027-05-15T15:00:00Z,KV Mechelen,OH Leuven,,,False,False,False,BEL1
+33,33,,5812003,2027-05-15T15:00:00Z,Standard Liège,Genk,,,False,False,False,BEL1
+33,33,,5812004,2027-05-15T15:00:00Z,St.Truiden,Club Brugge,,,False,False,False,BEL1
+33,33,,5812005,2027-05-15T15:00:00Z,Zulte Waregem,RAAL La Louvière,,,False,False,False,BEL1
+33,33,,5812006,2027-05-15T15:00:00Z,Westerlo,Lommel,,,False,False,False,BEL1
+34,34,,5812007,2027-05-22T15:00:00Z,Royal Antwerp,Westerlo,,,False,False,False,BEL1
+34,34,,5812008,2027-05-22T15:00:00Z,SK Beveren,Standard Liège,,,False,False,False,BEL1
+34,34,,5812009,2027-05-22T15:00:00Z,Club Brugge,Zulte Waregem,,,False,False,False,BEL1
+34,34,,5812010,2027-05-22T15:00:00Z,Genk,KV Mechelen,,,False,False,False,BEL1
+34,34,,5812011,2027-05-22T15:00:00Z,Kortrijk,St.Truiden,,,False,False,False,BEL1
+34,34,,5812012,2027-05-22T15:00:00Z,OH Leuven,Gent,,,False,False,False,BEL1
+34,34,,5812013,2027-05-22T15:00:00Z,Lommel,Cercle Brugge,,,False,False,False,BEL1
+34,34,,5812014,2027-05-22T15:00:00Z,RAAL La Louvière,Anderlecht,,,False,False,False,BEL1
+34,34,,5812015,2027-05-22T15:00:00Z,Union St.Gilloise,Sporting Charleroi,,,False,False,False,BEL1
+7,7,,5811769,2026-09-20T11:30:00.000Z,Royal Antwerp,Union St.Gilloise,0 - 2,FT,True,True,False,BEL1
+7,7,,5811770,2026-09-20T14:00:00.000Z,St.Truiden,Westerlo,0 - 2,FT,True,True,False,BEL1
+7,7,,5811771,2026-09-20T16:30:00.000Z,Club Brugge,Genk,3 - 0,FT,True,True,False,BEL1
+7,7,,5811772,2026-09-20T17:15:00.000Z,Kortrijk,SK Beveren,1 - 0,FT,True,True,False,BEL1

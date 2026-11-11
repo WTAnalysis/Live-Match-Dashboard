@@ -1,0 +1,463 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5868402,2026-08-14T18:30:00Z,Real Sociedad B,Castellón,0 - 1,FT,True,True,False,SPA2
+1,1,,5868394,2026-08-15T15:00:00Z,FC Andorra,AD Ceuta FC,5 - 1,FT,True,True,False,SPA2
+1,1,,5868396,2026-08-15T17:00:00Z,Cádiz,Celta Fortuna,0 - 0,FT,True,True,False,SPA2
+1,1,,5868401,2026-08-15T17:00:00Z,Real Oviedo,Granada,0 - 0,FT,True,True,False,SPA2
+1,1,,5868400,2026-08-15T19:30:00Z,Mallorca,Real Valladolid,2 - 0,FT,True,True,False,SPA2
+1,1,,5868397,2026-08-16T15:00:00Z,Eibar,Tenerife,1 - 3,FT,True,True,False,SPA2
+1,1,,5868395,2026-08-16T17:00:00Z,Burgos CF,Córdoba,3 - 2,FT,True,True,False,SPA2
+1,1,,5868398,2026-08-16T17:00:00Z,Girona,Leganés,1 - 1,FT,True,True,False,SPA2
+1,1,,5868399,2026-08-16T19:30:00Z,Las Palmas,Albacete,2 - 1,FT,True,True,False,SPA2
+1,1,,5868403,2026-08-17T17:00:00Z,Sporting Gijón,Sabadell,0 - 0,FT,True,True,False,SPA2
+1,1,,5868393,2026-08-17T19:30:00Z,Almería,Eldense,3 - 0,FT,True,True,False,SPA2
+2,2,,5868408,2026-08-21T19:00:00Z,Córdoba,Girona,2 - 1,FT,True,True,False,SPA2
+2,2,,5868412,2026-08-22T15:00:00Z,Real Oviedo,Leganés,0 - 1,FT,True,True,False,SPA2
+2,2,,5868404,2026-08-22T17:00:00Z,Albacete,Real Sociedad B,1 - 2,FT,True,True,False,SPA2
+2,2,,5868407,2026-08-22T17:00:00Z,AD Ceuta FC,Las Palmas,0 - 2,FT,True,True,False,SPA2
+2,2,,5868410,2026-08-22T19:30:00Z,Eldense,Cádiz,2 - 2,FT,True,True,False,SPA2
+2,2,,5868409,2026-08-23T15:00:00Z,Eibar,Real Valladolid,1 - 0,FT,True,True,False,SPA2
+2,2,,5868405,2026-08-23T17:00:00Z,Castellón,Sabadell,0 - 0,FT,True,True,False,SPA2
+2,2,,5868413,2026-08-23T17:00:00Z,Sporting Gijón,Burgos CF,1 - 0,FT,True,True,False,SPA2
+2,2,,5868414,2026-08-23T19:30:00Z,Tenerife,Almería,1 - 0,FT,True,True,False,SPA2
+2,2,,5868406,2026-08-24T17:00:00Z,Celta Fortuna,FC Andorra,4 - 2,FT,True,True,False,SPA2
+2,2,,5868411,2026-08-24T19:30:00Z,Granada,Mallorca,2 - 0,FT,True,True,False,SPA2
+3,3,,5868425,2026-08-28T19:00:00Z,Tenerife,Sporting Gijón,0 - 1,FT,True,True,False,SPA2
+3,3,,5868424,2026-08-29T15:00:00Z,Sabadell,Almería,1 - 0,FT,True,True,False,SPA2
+3,3,,5868415,2026-08-29T17:00:00Z,Albacete,Real Oviedo,0 - 1,FT,True,True,False,SPA2
+3,3,,5868422,2026-08-29T17:00:00Z,Leganés,Eldense,1 - 0,FT,True,True,False,SPA2
+3,3,,5868421,2026-08-29T19:30:00Z,Girona,Las Palmas,5 - 2,FT,True,True,False,SPA2
+3,3,,5868416,2026-08-30T15:00:00Z,FC Andorra,Eibar,0 - 1,FT,True,True,False,SPA2
+3,3,,5868418,2026-08-30T17:00:00Z,Cádiz,Real Valladolid,1 - 1,FT,True,True,False,SPA2
+3,3,,5868423,2026-08-30T17:00:00Z,Mallorca,AD Ceuta FC,3 - 0,FT,True,True,False,SPA2
+3,3,,5868420,2026-08-30T19:30:00Z,Córdoba,Granada,1 - 3,FT,True,True,False,SPA2
+3,3,,5868417,2026-08-31T17:00:00Z,Burgos CF,Real Sociedad B,2 - 2,FT,True,True,False,SPA2
+3,3,,5868419,2026-08-31T19:30:00Z,Celta Fortuna,Castellón,1 - 2,FT,True,True,False,SPA2
+4,4,,5868431,2026-09-04T18:30:00Z,Las Palmas,Leganés,0 - 0,FT,True,True,False,SPA2
+4,4,,5868433,2026-09-05T12:00:00Z,Real Sociedad B,Tenerife,1 - 1,FT,True,True,False,SPA2
+4,4,,5868435,2026-09-05T14:15:00Z,Sporting Gijón,Girona,0 - 2,FT,True,True,False,SPA2
+4,4,,5868428,2026-09-05T16:30:00Z,AD Ceuta FC,Celta Fortuna,0 - 2,FT,True,True,False,SPA2
+4,4,,5868436,2026-09-05T16:30:00Z,Real Valladolid,FC Andorra,1 - 0,FT,True,True,False,SPA2
+4,4,,5868430,2026-09-05T19:00:00Z,Eldense,Mallorca,0 - 0,FT,True,True,False,SPA2
+4,4,,5868429,2026-09-06T12:00:00Z,Eibar,Granada,3 - 0,FT,True,True,False,SPA2
+4,4,,5868432,2026-09-06T14:15:00Z,Real Oviedo,Burgos CF,0 - 0,FT,True,True,False,SPA2
+4,4,,5868427,2026-09-06T16:30:00Z,Castellón,Albacete,2 - 0,FT,True,True,False,SPA2
+4,4,,5868426,2026-09-06T19:00:00Z,Almería,Cádiz,3 - 2,FT,True,True,False,SPA2
+4,4,,5868434,2026-09-07T18:30:00Z,Sabadell,Córdoba,3 - 2,FT,True,True,False,SPA2
+5,5,,5868438,2026-09-11T18:30:00Z,Burgos CF,AD Ceuta FC,3 - 1,FT,True,True,False,SPA2
+5,5,,5868437,2026-09-12T12:00:00Z,FC Andorra,Real Sociedad B,1 - 3,FT,True,True,False,SPA2
+5,5,,5868439,2026-09-12T14:15:00Z,Cádiz,Las Palmas,0 - 1,FT,True,True,False,SPA2
+5,5,,5868442,2026-09-12T16:30:00Z,Girona,Castellón,1 - 2,FT,True,True,False,SPA2
+5,5,,5868443,2026-09-12T16:30:00Z,Granada,Albacete,1 - 1,FT,True,True,False,SPA2
+5,5,,5868441,2026-09-12T19:00:00Z,Córdoba,Almería,0 - 2,FT,True,True,False,SPA2
+5,5,,5868445,2026-09-13T12:00:00Z,Sporting Gijón,Eldense,0 - 1,FT,True,True,False,SPA2
+5,5,,5868447,2026-09-13T14:15:00Z,Real Valladolid,Real Oviedo,0 - 3,FT,True,True,False,SPA2
+5,5,,5868444,2026-09-13T16:30:00Z,Mallorca,Sabadell,2 - 0,FT,True,True,False,SPA2
+5,5,,5868446,2026-09-13T19:00:00Z,Tenerife,Leganés,2 - 0,FT,True,True,False,SPA2
+5,5,,5868440,2026-09-14T18:30:00Z,Celta Fortuna,Eibar,0 - 4,FT,True,True,False,SPA2
+6,6,,5868448,2026-09-18T18:30:00Z,Albacete,Córdoba,1 - 2,FT,True,True,False,SPA2
+6,6,,5868457,2026-09-19T12:00:00Z,Real Sociedad B,Mallorca,0 - 1,FT,True,True,False,SPA2
+6,6,,5868450,2026-09-19T14:15:00Z,FC Andorra,Sporting Gijón,1 - 3,FT,True,True,False,SPA2
+6,6,,5868452,2026-09-19T16:30:00Z,Castellón,Tenerife,5 - 0,FT,True,True,False,SPA2
+6,6,,5868454,2026-09-19T16:30:00Z,Eldense,Eibar,1 - 2,FT,True,True,False,SPA2
+6,6,,5868451,2026-09-19T19:00:00Z,Cádiz,Girona,1 - 2,FT,True,True,False,SPA2
+7,7,,5868463,2026-09-25T18:30:00Z,Girona,Albacete,,,False,False,False,SPA2
+7,7,,5868461,2026-09-26T12:00:00Z,AD Ceuta FC,Real Sociedad B,,,False,False,False,SPA2
+7,7,,5868464,2026-09-26T14:15:00Z,Granada,FC Andorra,,,False,False,False,SPA2
+7,7,,5868460,2026-09-26T16:30:00Z,Celta Fortuna,Sabadell,,,False,False,False,SPA2
+7,7,,5868468,2026-09-26T16:30:00Z,Tenerife,Cádiz,,,False,False,False,SPA2
+7,7,,5868469,2026-09-27T12:00:00Z,Real Valladolid,Córdoba,,,False,False,False,SPA2
+7,7,,5868466,2026-09-27T14:15:00Z,Mallorca,Almería,,,False,False,False,SPA2
+7,7,,5868459,2026-09-27T16:30:00Z,Burgos CF,Eldense,,,False,False,False,SPA2
+7,7,,5868462,2026-09-27T16:30:00Z,Eibar,Las Palmas,,,False,False,False,SPA2
+7,7,,5868467,2026-09-27T19:00:00Z,Real Oviedo,Sporting Gijón,,,False,False,False,SPA2
+7,7,,5868465,2026-09-28T18:30:00Z,Leganés,Castellón,,,False,False,False,SPA2
+8,8,,5868475,2026-10-02T18:30:00Z,Eldense,Real Oviedo,,,False,False,False,SPA2
+8,8,,5868470,2026-10-03T12:00:00Z,Albacete,Eibar,,,False,False,False,SPA2
+8,8,,5868471,2026-10-03T14:15:00Z,Almería,Burgos CF,,,False,False,False,SPA2
+8,8,,5868472,2026-10-03T16:30:00Z,Cádiz,Leganés,,,False,False,False,SPA2
+8,8,,5868479,2026-10-03T16:30:00Z,Sabadell,FC Andorra,,,False,False,False,SPA2
+8,8,,5868478,2026-10-04T12:00:00Z,Real Sociedad B,Granada,,,False,False,False,SPA2
+8,8,,5868480,2026-10-04T14:15:00Z,Sporting Gijón,Celta Fortuna,,,False,False,False,SPA2
+8,8,,5868473,2026-10-04T16:30:00Z,Castellón,AD Ceuta FC,,,False,False,False,SPA2
+8,8,,5868477,2026-10-04T16:30:00Z,Las Palmas,Real Valladolid,,,False,False,False,SPA2
+8,8,,5868476,2026-10-04T19:00:00Z,Girona,Mallorca,,,False,False,False,SPA2
+8,8,,5868474,2026-10-05T18:30:00Z,Córdoba,Tenerife,,,False,False,False,SPA2
+9,9,,5868486,2026-10-10T14:15:00Z,AD Ceuta FC,Sabadell,,,False,False,False,SPA2
+9,9,,5868487,2026-10-10T16:30:00Z,Eldense,Córdoba,,,False,False,False,SPA2
+9,9,,5868485,2026-10-10T19:00:00Z,Celta Fortuna,Real Sociedad B,,,False,False,False,SPA2
+9,9,,5868482,2026-10-11T12:00:00Z,FC Andorra,Castellón,,,False,False,False,SPA2
+9,9,,5868481,2026-10-11T14:15:00Z,Almería,Leganés,,,False,False,False,SPA2
+9,9,,5868488,2026-10-11T16:30:00Z,Mallorca,Las Palmas,,,False,False,False,SPA2
+9,9,,5868484,2026-10-11T19:00:00Z,Cádiz,Sporting Gijón,,,False,False,False,SPA2
+9,9,,5868491,2026-10-12T12:00:00Z,Real Valladolid,Albacete,,,False,False,False,SPA2
+9,9,,5868483,2026-10-12T14:15:00Z,Burgos CF,Granada,,,False,False,False,SPA2
+9,9,,5868489,2026-10-12T16:30:00Z,Real Oviedo,Eibar,,,False,False,False,SPA2
+9,9,,5868490,2026-10-12T19:00:00Z,Tenerife,Girona,,,False,False,False,SPA2
+10,10,,5868498,2026-10-16T18:30:00Z,Leganés,Córdoba,,,False,False,False,SPA2
+10,10,,5868500,2026-10-17T12:00:00Z,Real Sociedad B,Almería,,,False,False,False,SPA2
+10,10,,5868495,2026-10-17T14:15:00Z,Eibar,Mallorca,,,False,False,False,SPA2
+10,10,,5868501,2026-10-17T16:30:00Z,Sporting Gijón,Albacete,,,False,False,False,SPA2
+10,10,,5868499,2026-10-17T19:00:00Z,Las Palmas,Castellón,,,False,False,False,SPA2
+10,10,,5868494,2026-10-18T12:00:00Z,AD Ceuta FC,Real Oviedo,,,False,False,False,SPA2
+10,10,,5868497,2026-10-18T14:15:00Z,Granada,Cádiz,,,False,False,False,SPA2
+10,10,,5868496,2026-10-18T16:30:00Z,Girona,FC Andorra,,,False,False,False,SPA2
+10,10,,5868502,2026-10-18T16:30:00Z,Real Valladolid,Eldense,,,False,False,False,SPA2
+10,10,,5868492,2026-10-18T19:00:00Z,Burgos CF,Sabadell,,,False,False,False,SPA2
+10,10,,5868493,2026-10-19T18:30:00Z,Celta Fortuna,Tenerife,,,False,False,False,SPA2
+11,11,,5868503,2026-10-25T14:00:00Z,Albacete,Eldense,,,False,False,False,SPA2
+11,11,,5868504,2026-10-25T14:00:00Z,Almería,Real Oviedo,,,False,False,False,SPA2
+11,11,,5868505,2026-10-25T14:00:00Z,FC Andorra,Burgos CF,,,False,False,False,SPA2
+11,11,,5868506,2026-10-25T14:00:00Z,Cádiz,AD Ceuta FC,,,False,False,False,SPA2
+11,11,,5868507,2026-10-25T14:00:00Z,Castellón,Sporting Gijón,,,False,False,False,SPA2
+11,11,,5868508,2026-10-25T14:00:00Z,Córdoba,Eibar,,,False,False,False,SPA2
+11,11,,5868509,2026-10-25T14:00:00Z,Girona,Celta Fortuna,,,False,False,False,SPA2
+11,11,,5868510,2026-10-25T14:00:00Z,Granada,Real Valladolid,,,False,False,False,SPA2
+11,11,,5868511,2026-10-25T14:00:00Z,Leganés,Mallorca,,,False,False,False,SPA2
+11,11,,5868512,2026-10-25T14:00:00Z,Las Palmas,Real Sociedad B,,,False,False,False,SPA2
+11,11,,5868513,2026-10-25T14:00:00Z,Sabadell,Tenerife,,,False,False,False,SPA2
+12,12,,5868514,2026-11-01T14:00:00Z,Albacete,Sabadell,,,False,False,False,SPA2
+12,12,,5868515,2026-11-01T14:00:00Z,Burgos CF,Castellón,,,False,False,False,SPA2
+12,12,,5868516,2026-11-01T14:00:00Z,Celta Fortuna,Córdoba,,,False,False,False,SPA2
+12,12,,5868517,2026-11-01T14:00:00Z,AD Ceuta FC,Sporting Gijón,,,False,False,False,SPA2
+12,12,,5868518,2026-11-01T14:00:00Z,Eibar,Almería,,,False,False,False,SPA2
+12,12,,5868519,2026-11-01T14:00:00Z,Eldense,Granada,,,False,False,False,SPA2
+12,12,,5868520,2026-11-01T14:00:00Z,Mallorca,Cádiz,,,False,False,False,SPA2
+12,12,,5868521,2026-11-01T14:00:00Z,Real Oviedo,Las Palmas,,,False,False,False,SPA2
+12,12,,5868522,2026-11-01T14:00:00Z,Real Sociedad B,Girona,,,False,False,False,SPA2
+12,12,,5868523,2026-11-01T14:00:00Z,Tenerife,FC Andorra,,,False,False,False,SPA2
+12,12,,5868524,2026-11-01T14:00:00Z,Real Valladolid,Leganés,,,False,False,False,SPA2
+13,13,,5868525,2026-11-08T14:00:00Z,FC Andorra,Mallorca,,,False,False,False,SPA2
+13,13,,5868526,2026-11-08T14:00:00Z,Burgos CF,Celta Fortuna,,,False,False,False,SPA2
+13,13,,5868527,2026-11-08T14:00:00Z,Cádiz,Real Oviedo,,,False,False,False,SPA2
+13,13,,5868528,2026-11-08T14:00:00Z,Castellón,Eibar,,,False,False,False,SPA2
+13,13,,5868529,2026-11-08T14:00:00Z,Córdoba,AD Ceuta FC,,,False,False,False,SPA2
+13,13,,5868530,2026-11-08T14:00:00Z,Girona,Almería,,,False,False,False,SPA2
+13,13,,5868531,2026-11-08T14:00:00Z,Granada,Tenerife,,,False,False,False,SPA2
+13,13,,5868532,2026-11-08T14:00:00Z,Leganés,Albacete,,,False,False,False,SPA2
+13,13,,5868533,2026-11-08T14:00:00Z,Las Palmas,Eldense,,,False,False,False,SPA2
+13,13,,5868534,2026-11-08T14:00:00Z,Sabadell,Real Sociedad B,,,False,False,False,SPA2
+13,13,,5868535,2026-11-08T14:00:00Z,Sporting Gijón,Real Valladolid,,,False,False,False,SPA2
+14,14,,5868536,2026-11-15T14:00:00Z,Albacete,Celta Fortuna,,,False,False,False,SPA2
+14,14,,5868537,2026-11-15T14:00:00Z,Almería,FC Andorra,,,False,False,False,SPA2
+14,14,,5868538,2026-11-15T14:00:00Z,Eibar,Cádiz,,,False,False,False,SPA2
+14,14,,5868539,2026-11-15T14:00:00Z,Eldense,Sabadell,,,False,False,False,SPA2
+14,14,,5868540,2026-11-15T14:00:00Z,Granada,Las Palmas,,,False,False,False,SPA2
+14,14,,5868541,2026-11-15T14:00:00Z,Leganés,Burgos CF,,,False,False,False,SPA2
+14,14,,5868542,2026-11-15T14:00:00Z,Mallorca,Córdoba,,,False,False,False,SPA2
+14,14,,5868543,2026-11-15T14:00:00Z,Real Oviedo,Girona,,,False,False,False,SPA2
+14,14,,5868544,2026-11-15T14:00:00Z,Real Sociedad B,Sporting Gijón,,,False,False,False,SPA2
+14,14,,5868545,2026-11-15T14:00:00Z,Tenerife,AD Ceuta FC,,,False,False,False,SPA2
+14,14,,5868546,2026-11-15T14:00:00Z,Real Valladolid,Castellón,,,False,False,False,SPA2
+15,15,,5868547,2026-11-22T14:00:00Z,FC Andorra,Leganés,,,False,False,False,SPA2
+15,15,,5868548,2026-11-22T14:00:00Z,Burgos CF,Albacete,,,False,False,False,SPA2
+15,15,,5868549,2026-11-22T14:00:00Z,Castellón,Eldense,,,False,False,False,SPA2
+15,15,,5868550,2026-11-22T14:00:00Z,Celta Fortuna,Real Valladolid,,,False,False,False,SPA2
+15,15,,5868551,2026-11-22T14:00:00Z,AD Ceuta FC,Almería,,,False,False,False,SPA2
+15,15,,5868552,2026-11-22T14:00:00Z,Córdoba,Real Oviedo,,,False,False,False,SPA2
+15,15,,5868553,2026-11-22T14:00:00Z,Girona,Eibar,,,False,False,False,SPA2
+15,15,,5868554,2026-11-22T14:00:00Z,Real Sociedad B,Cádiz,,,False,False,False,SPA2
+15,15,,5868555,2026-11-22T14:00:00Z,Sabadell,Granada,,,False,False,False,SPA2
+15,15,,5868556,2026-11-22T14:00:00Z,Sporting Gijón,Las Palmas,,,False,False,False,SPA2
+15,15,,5868557,2026-11-22T14:00:00Z,Tenerife,Mallorca,,,False,False,False,SPA2
+16,16,,5868558,2026-11-29T14:00:00Z,Albacete,Tenerife,,,False,False,False,SPA2
+16,16,,5868559,2026-11-29T14:00:00Z,Almería,Sporting Gijón,,,False,False,False,SPA2
+16,16,,5868560,2026-11-29T14:00:00Z,Cádiz,Córdoba,,,False,False,False,SPA2
+16,16,,5868561,2026-11-29T14:00:00Z,Eibar,Burgos CF,,,False,False,False,SPA2
+16,16,,5868562,2026-11-29T14:00:00Z,Eldense,Girona,,,False,False,False,SPA2
+16,16,,5868563,2026-11-29T14:00:00Z,Granada,AD Ceuta FC,,,False,False,False,SPA2
+16,16,,5868564,2026-11-29T14:00:00Z,Leganés,Sabadell,,,False,False,False,SPA2
+16,16,,5868565,2026-11-29T14:00:00Z,Las Palmas,FC Andorra,,,False,False,False,SPA2
+16,16,,5868566,2026-11-29T14:00:00Z,Mallorca,Castellón,,,False,False,False,SPA2
+16,16,,5868567,2026-11-29T14:00:00Z,Real Oviedo,Celta Fortuna,,,False,False,False,SPA2
+16,16,,5868568,2026-11-29T14:00:00Z,Real Valladolid,Real Sociedad B,,,False,False,False,SPA2
+17,17,,5868569,2026-12-06T14:00:00Z,FC Andorra,Real Oviedo,,,False,False,False,SPA2
+17,17,,5868570,2026-12-06T14:00:00Z,Burgos CF,Cádiz,,,False,False,False,SPA2
+17,17,,5868571,2026-12-06T14:00:00Z,Castellón,Almería,,,False,False,False,SPA2
+17,17,,5868572,2026-12-06T14:00:00Z,Celta Fortuna,Mallorca,,,False,False,False,SPA2
+17,17,,5868573,2026-12-06T14:00:00Z,AD Ceuta FC,Albacete,,,False,False,False,SPA2
+17,17,,5868574,2026-12-06T14:00:00Z,Córdoba,Las Palmas,,,False,False,False,SPA2
+17,17,,5868575,2026-12-06T14:00:00Z,Girona,Real Valladolid,,,False,False,False,SPA2
+17,17,,5868576,2026-12-06T14:00:00Z,Real Sociedad B,Leganés,,,False,False,False,SPA2
+17,17,,5868577,2026-12-06T14:00:00Z,Sabadell,Eibar,,,False,False,False,SPA2
+17,17,,5868578,2026-12-06T14:00:00Z,Sporting Gijón,Granada,,,False,False,False,SPA2
+17,17,,5868579,2026-12-06T14:00:00Z,Tenerife,Eldense,,,False,False,False,SPA2
+18,18,,5868580,2026-12-13T14:00:00Z,Almería,Albacete,,,False,False,False,SPA2
+18,18,,5868581,2026-12-13T14:00:00Z,Cádiz,Sabadell,,,False,False,False,SPA2
+18,18,,5868582,2026-12-13T14:00:00Z,Córdoba,Castellón,,,False,False,False,SPA2
+18,18,,5868583,2026-12-13T14:00:00Z,Eibar,Sporting Gijón,,,False,False,False,SPA2
+18,18,,5868584,2026-12-13T14:00:00Z,Eldense,FC Andorra,,,False,False,False,SPA2
+18,18,,5868585,2026-12-13T14:00:00Z,Granada,Girona,,,False,False,False,SPA2
+18,18,,5868586,2026-12-13T14:00:00Z,Leganés,AD Ceuta FC,,,False,False,False,SPA2
+18,18,,5868587,2026-12-13T14:00:00Z,Las Palmas,Celta Fortuna,,,False,False,False,SPA2
+18,18,,5868588,2026-12-13T14:00:00Z,Mallorca,Burgos CF,,,False,False,False,SPA2
+18,18,,5868589,2026-12-13T14:00:00Z,Real Oviedo,Real Sociedad B,,,False,False,False,SPA2
+18,18,,5868590,2026-12-13T14:00:00Z,Real Valladolid,Tenerife,,,False,False,False,SPA2
+19,19,,5868591,2026-12-20T14:00:00Z,Albacete,Mallorca,,,False,False,False,SPA2
+19,19,,5868592,2026-12-20T14:00:00Z,Almería,Real Valladolid,,,False,False,False,SPA2
+19,19,,5868593,2026-12-20T14:00:00Z,FC Andorra,Cádiz,,,False,False,False,SPA2
+19,19,,5868594,2026-12-20T14:00:00Z,Burgos CF,Girona,,,False,False,False,SPA2
+19,19,,5868595,2026-12-20T14:00:00Z,Castellón,Granada,,,False,False,False,SPA2
+19,19,,5868596,2026-12-20T14:00:00Z,Celta Fortuna,Eldense,,,False,False,False,SPA2
+19,19,,5868597,2026-12-20T14:00:00Z,AD Ceuta FC,Eibar,,,False,False,False,SPA2
+19,19,,5868598,2026-12-20T14:00:00Z,Real Sociedad B,Córdoba,,,False,False,False,SPA2
+19,19,,5868599,2026-12-20T14:00:00Z,Sabadell,Las Palmas,,,False,False,False,SPA2
+19,19,,5868600,2026-12-20T14:00:00Z,Sporting Gijón,Leganés,,,False,False,False,SPA2
+19,19,,5868601,2026-12-20T14:00:00Z,Tenerife,Real Oviedo,,,False,False,False,SPA2
+20,20,,5868602,2027-01-03T14:00:00Z,Cádiz,Albacete,,,False,False,False,SPA2
+20,20,,5868603,2027-01-03T14:00:00Z,Córdoba,FC Andorra,,,False,False,False,SPA2
+20,20,,5868604,2027-01-03T14:00:00Z,Eibar,Real Sociedad B,,,False,False,False,SPA2
+20,20,,5868605,2027-01-03T14:00:00Z,Eldense,AD Ceuta FC,,,False,False,False,SPA2
+20,20,,5868606,2027-01-03T14:00:00Z,Girona,Sabadell,,,False,False,False,SPA2
+20,20,,5868607,2027-01-03T14:00:00Z,Granada,Almería,,,False,False,False,SPA2
+20,20,,5868608,2027-01-03T14:00:00Z,Leganés,Celta Fortuna,,,False,False,False,SPA2
+20,20,,5868609,2027-01-03T14:00:00Z,Las Palmas,Tenerife,,,False,False,False,SPA2
+20,20,,5868610,2027-01-03T14:00:00Z,Mallorca,Sporting Gijón,,,False,False,False,SPA2
+20,20,,5868611,2027-01-03T14:00:00Z,Real Oviedo,Castellón,,,False,False,False,SPA2
+20,20,,5868612,2027-01-03T14:00:00Z,Real Valladolid,Burgos CF,,,False,False,False,SPA2
+21,21,,5868613,2027-01-10T14:00:00Z,Albacete,FC Andorra,,,False,False,False,SPA2
+21,21,,5868614,2027-01-10T14:00:00Z,Almería,Las Palmas,,,False,False,False,SPA2
+21,21,,5868615,2027-01-10T14:00:00Z,Castellón,Cádiz,,,False,False,False,SPA2
+21,21,,5868616,2027-01-10T14:00:00Z,Celta Fortuna,Granada,,,False,False,False,SPA2
+21,21,,5868617,2027-01-10T14:00:00Z,AD Ceuta FC,Girona,,,False,False,False,SPA2
+21,21,,5868618,2027-01-10T14:00:00Z,Leganés,Eibar,,,False,False,False,SPA2
+21,21,,5868619,2027-01-10T14:00:00Z,Mallorca,Real Oviedo,,,False,False,False,SPA2
+21,21,,5868620,2027-01-10T14:00:00Z,Real Sociedad B,Eldense,,,False,False,False,SPA2
+21,21,,5868621,2027-01-10T14:00:00Z,Sabadell,Real Valladolid,,,False,False,False,SPA2
+21,21,,5868622,2027-01-10T14:00:00Z,Sporting Gijón,Córdoba,,,False,False,False,SPA2
+21,21,,5868623,2027-01-10T14:00:00Z,Tenerife,Burgos CF,,,False,False,False,SPA2
+22,22,,5868624,2027-01-17T14:00:00Z,FC Andorra,Tenerife,,,False,False,False,SPA2
+22,22,,5868625,2027-01-17T14:00:00Z,Burgos CF,Sporting Gijón,,,False,False,False,SPA2
+22,22,,5868626,2027-01-17T14:00:00Z,Cádiz,Mallorca,,,False,False,False,SPA2
+22,22,,5868627,2027-01-17T14:00:00Z,Castellón,Leganés,,,False,False,False,SPA2
+22,22,,5868628,2027-01-17T14:00:00Z,Córdoba,Sabadell,,,False,False,False,SPA2
+22,22,,5868629,2027-01-17T14:00:00Z,Eibar,Celta Fortuna,,,False,False,False,SPA2
+22,22,,5868630,2027-01-17T14:00:00Z,Eldense,Albacete,,,False,False,False,SPA2
+22,22,,5868631,2027-01-17T14:00:00Z,Granada,Real Sociedad B,,,False,False,False,SPA2
+22,22,,5868632,2027-01-17T14:00:00Z,Las Palmas,Girona,,,False,False,False,SPA2
+22,22,,5868633,2027-01-17T14:00:00Z,Real Oviedo,Almería,,,False,False,False,SPA2
+22,22,,5868634,2027-01-17T14:00:00Z,Real Valladolid,AD Ceuta FC,,,False,False,False,SPA2
+23,23,,5868635,2027-01-24T14:00:00Z,Albacete,Granada,,,False,False,False,SPA2
+23,23,,5868636,2027-01-24T14:00:00Z,Almería,Córdoba,,,False,False,False,SPA2
+23,23,,5868637,2027-01-24T14:00:00Z,Cádiz,Eldense,,,False,False,False,SPA2
+23,23,,5868638,2027-01-24T14:00:00Z,Celta Fortuna,Burgos CF,,,False,False,False,SPA2
+23,23,,5868639,2027-01-24T14:00:00Z,Girona,Real Oviedo,,,False,False,False,SPA2
+23,23,,5868640,2027-01-24T14:00:00Z,Leganés,Real Valladolid,,,False,False,False,SPA2
+23,23,,5868641,2027-01-24T14:00:00Z,Mallorca,FC Andorra,,,False,False,False,SPA2
+23,23,,5868642,2027-01-24T14:00:00Z,Real Sociedad B,Las Palmas,,,False,False,False,SPA2
+23,23,,5868643,2027-01-24T14:00:00Z,Sabadell,AD Ceuta FC,,,False,False,False,SPA2
+23,23,,5868644,2027-01-24T14:00:00Z,Sporting Gijón,Castellón,,,False,False,False,SPA2
+23,23,,5868645,2027-01-24T14:00:00Z,Tenerife,Eibar,,,False,False,False,SPA2
+24,24,,5868646,2027-01-31T14:00:00Z,FC Andorra,Almería,,,False,False,False,SPA2
+24,24,,5868647,2027-01-31T14:00:00Z,Burgos CF,Leganés,,,False,False,False,SPA2
+24,24,,5868648,2027-01-31T14:00:00Z,AD Ceuta FC,Tenerife,,,False,False,False,SPA2
+24,24,,5868649,2027-01-31T14:00:00Z,Córdoba,Mallorca,,,False,False,False,SPA2
+24,24,,5868650,2027-01-31T14:00:00Z,Eibar,Albacete,,,False,False,False,SPA2
+24,24,,5868651,2027-01-31T14:00:00Z,Eldense,Castellón,,,False,False,False,SPA2
+24,24,,5868652,2027-01-31T14:00:00Z,Girona,Real Sociedad B,,,False,False,False,SPA2
+24,24,,5868653,2027-01-31T14:00:00Z,Granada,Sabadell,,,False,False,False,SPA2
+24,24,,5868654,2027-01-31T14:00:00Z,Las Palmas,Sporting Gijón,,,False,False,False,SPA2
+24,24,,5868655,2027-01-31T14:00:00Z,Real Oviedo,Cádiz,,,False,False,False,SPA2
+24,24,,5868656,2027-01-31T14:00:00Z,Real Valladolid,Celta Fortuna,,,False,False,False,SPA2
+25,25,,5868657,2027-02-07T14:00:00Z,Albacete,Real Valladolid,,,False,False,False,SPA2
+25,25,,5868658,2027-02-07T14:00:00Z,Almería,Eibar,,,False,False,False,SPA2
+25,25,,5868659,2027-02-07T14:00:00Z,Castellón,Las Palmas,,,False,False,False,SPA2
+25,25,,5868660,2027-02-07T14:00:00Z,Celta Fortuna,Girona,,,False,False,False,SPA2
+25,25,,5868661,2027-02-07T14:00:00Z,Córdoba,Cádiz,,,False,False,False,SPA2
+25,25,,5868662,2027-02-07T14:00:00Z,Leganés,Real Oviedo,,,False,False,False,SPA2
+25,25,,5868663,2027-02-07T14:00:00Z,Mallorca,Eldense,,,False,False,False,SPA2
+25,25,,5868664,2027-02-07T14:00:00Z,Real Sociedad B,FC Andorra,,,False,False,False,SPA2
+25,25,,5868665,2027-02-07T14:00:00Z,Sabadell,Burgos CF,,,False,False,False,SPA2
+25,25,,5868666,2027-02-07T14:00:00Z,Sporting Gijón,AD Ceuta FC,,,False,False,False,SPA2
+25,25,,5868667,2027-02-07T14:00:00Z,Tenerife,Granada,,,False,False,False,SPA2
+26,26,,5868668,2027-02-14T14:00:00Z,Albacete,Castellón,,,False,False,False,SPA2
+26,26,,5868669,2027-02-14T14:00:00Z,FC Andorra,Celta Fortuna,,,False,False,False,SPA2
+26,26,,5868670,2027-02-14T14:00:00Z,Burgos CF,Almería,,,False,False,False,SPA2
+26,26,,5868671,2027-02-14T14:00:00Z,Cádiz,Real Sociedad B,,,False,False,False,SPA2
+26,26,,5868672,2027-02-14T14:00:00Z,AD Ceuta FC,Mallorca,,,False,False,False,SPA2
+26,26,,5868673,2027-02-14T14:00:00Z,Eldense,Tenerife,,,False,False,False,SPA2
+26,26,,5868674,2027-02-14T14:00:00Z,Girona,Córdoba,,,False,False,False,SPA2
+26,26,,5868675,2027-02-14T14:00:00Z,Granada,Leganés,,,False,False,False,SPA2
+26,26,,5868676,2027-02-14T14:00:00Z,Las Palmas,Eibar,,,False,False,False,SPA2
+26,26,,5868677,2027-02-14T14:00:00Z,Real Oviedo,Sabadell,,,False,False,False,SPA2
+26,26,,5868678,2027-02-14T14:00:00Z,Real Valladolid,Sporting Gijón,,,False,False,False,SPA2
+27,27,,5868679,2027-02-21T14:00:00Z,Almería,AD Ceuta FC,,,False,False,False,SPA2
+27,27,,5868680,2027-02-21T14:00:00Z,Castellón,Girona,,,False,False,False,SPA2
+27,27,,5868681,2027-02-21T14:00:00Z,Celta Fortuna,Las Palmas,,,False,False,False,SPA2
+27,27,,5868682,2027-02-21T14:00:00Z,Córdoba,Burgos CF,,,False,False,False,SPA2
+27,27,,5868683,2027-02-21T14:00:00Z,Eibar,Real Oviedo,,,False,False,False,SPA2
+27,27,,5868684,2027-02-21T14:00:00Z,Leganés,Cádiz,,,False,False,False,SPA2
+27,27,,5868685,2027-02-21T14:00:00Z,Mallorca,Granada,,,False,False,False,SPA2
+27,27,,5868686,2027-02-21T14:00:00Z,Real Sociedad B,Real Valladolid,,,False,False,False,SPA2
+27,27,,5868687,2027-02-21T14:00:00Z,Sabadell,Eldense,,,False,False,False,SPA2
+27,27,,5868688,2027-02-21T14:00:00Z,Sporting Gijón,FC Andorra,,,False,False,False,SPA2
+27,27,,5868689,2027-02-21T14:00:00Z,Tenerife,Albacete,,,False,False,False,SPA2
+28,28,,5868690,2027-02-28T14:00:00Z,Albacete,Burgos CF,,,False,False,False,SPA2
+28,28,,5868691,2027-02-28T14:00:00Z,Cádiz,Almería,,,False,False,False,SPA2
+28,28,,5868692,2027-02-28T14:00:00Z,Castellón,FC Andorra,,,False,False,False,SPA2
+28,28,,5868693,2027-02-28T14:00:00Z,AD Ceuta FC,Leganés,,,False,False,False,SPA2
+28,28,,5868694,2027-02-28T14:00:00Z,Eldense,Celta Fortuna,,,False,False,False,SPA2
+28,28,,5868695,2027-02-28T14:00:00Z,Girona,Sporting Gijón,,,False,False,False,SPA2
+28,28,,5868696,2027-02-28T14:00:00Z,Granada,Córdoba,,,False,False,False,SPA2
+28,28,,5868697,2027-02-28T14:00:00Z,Las Palmas,Sabadell,,,False,False,False,SPA2
+28,28,,5868698,2027-02-28T14:00:00Z,Mallorca,Real Sociedad B,,,False,False,False,SPA2
+28,28,,5868699,2027-02-28T14:00:00Z,Real Oviedo,Tenerife,,,False,False,False,SPA2
+28,28,,5868700,2027-02-28T14:00:00Z,Real Valladolid,Eibar,,,False,False,False,SPA2
+29,29,,5868701,2027-03-07T14:00:00Z,Almería,Castellón,,,False,False,False,SPA2
+29,29,,5868702,2027-03-07T14:00:00Z,FC Andorra,Girona,,,False,False,False,SPA2
+29,29,,5868703,2027-03-07T14:00:00Z,Burgos CF,Mallorca,,,False,False,False,SPA2
+29,29,,5868704,2027-03-07T14:00:00Z,Celta Fortuna,Real Oviedo,,,False,False,False,SPA2
+29,29,,5868705,2027-03-07T14:00:00Z,Córdoba,Real Valladolid,,,False,False,False,SPA2
+29,29,,5868706,2027-03-07T14:00:00Z,Eibar,Eldense,,,False,False,False,SPA2
+29,29,,5868707,2027-03-07T14:00:00Z,Leganés,Tenerife,,,False,False,False,SPA2
+29,29,,5868708,2027-03-07T14:00:00Z,Las Palmas,Granada,,,False,False,False,SPA2
+29,29,,5868709,2027-03-07T14:00:00Z,Real Sociedad B,AD Ceuta FC,,,False,False,False,SPA2
+29,29,,5868710,2027-03-07T14:00:00Z,Sabadell,Albacete,,,False,False,False,SPA2
+29,29,,5868711,2027-03-07T14:00:00Z,Sporting Gijón,Cádiz,,,False,False,False,SPA2
+30,30,,5868712,2027-03-14T14:00:00Z,Albacete,Las Palmas,,,False,False,False,SPA2
+30,30,,5868713,2027-03-14T14:00:00Z,Cádiz,Granada,,,False,False,False,SPA2
+30,30,,5868714,2027-03-14T14:00:00Z,Castellón,Celta Fortuna,,,False,False,False,SPA2
+30,30,,5868715,2027-03-14T14:00:00Z,AD Ceuta FC,FC Andorra,,,False,False,False,SPA2
+30,30,,5868716,2027-03-14T14:00:00Z,Eldense,Sporting Gijón,,,False,False,False,SPA2
+30,30,,5868717,2027-03-14T14:00:00Z,Girona,Burgos CF,,,False,False,False,SPA2
+30,30,,5868718,2027-03-14T14:00:00Z,Mallorca,Leganés,,,False,False,False,SPA2
+30,30,,5868719,2027-03-14T14:00:00Z,Real Oviedo,Córdoba,,,False,False,False,SPA2
+30,30,,5868720,2027-03-14T14:00:00Z,Real Sociedad B,Eibar,,,False,False,False,SPA2
+30,30,,5868721,2027-03-14T14:00:00Z,Tenerife,Sabadell,,,False,False,False,SPA2
+30,30,,5868722,2027-03-14T14:00:00Z,Real Valladolid,Almería,,,False,False,False,SPA2
+31,31,,5868723,2027-03-21T14:00:00Z,Almería,Real Sociedad B,,,False,False,False,SPA2
+31,31,,5868724,2027-03-21T14:00:00Z,FC Andorra,Albacete,,,False,False,False,SPA2
+31,31,,5868725,2027-03-21T14:00:00Z,Burgos CF,Tenerife,,,False,False,False,SPA2
+31,31,,5868726,2027-03-21T14:00:00Z,Córdoba,Eldense,,,False,False,False,SPA2
+31,31,,5868727,2027-03-21T14:00:00Z,Eibar,AD Ceuta FC,,,False,False,False,SPA2
+31,31,,5868728,2027-03-21T14:00:00Z,Granada,Castellón,,,False,False,False,SPA2
+31,31,,5868729,2027-03-21T14:00:00Z,Leganés,Girona,,,False,False,False,SPA2
+31,31,,5868730,2027-03-21T14:00:00Z,Las Palmas,Real Oviedo,,,False,False,False,SPA2
+31,31,,5868731,2027-03-21T14:00:00Z,Sabadell,Celta Fortuna,,,False,False,False,SPA2
+31,31,,5868732,2027-03-21T14:00:00Z,Sporting Gijón,Mallorca,,,False,False,False,SPA2
+31,31,,5868733,2027-03-21T14:00:00Z,Real Valladolid,Cádiz,,,False,False,False,SPA2
+32,32,,5868734,2027-03-28T13:00:00Z,Albacete,Almería,,,False,False,False,SPA2
+32,32,,5868735,2027-03-28T13:00:00Z,Castellón,Córdoba,,,False,False,False,SPA2
+32,32,,5868736,2027-03-28T13:00:00Z,Celta Fortuna,Sporting Gijón,,,False,False,False,SPA2
+32,32,,5868737,2027-03-28T13:00:00Z,AD Ceuta FC,Granada,,,False,False,False,SPA2
+32,32,,5868738,2027-03-28T13:00:00Z,Eibar,FC Andorra,,,False,False,False,SPA2
+32,32,,5868739,2027-03-28T13:00:00Z,Eldense,Leganés,,,False,False,False,SPA2
+32,32,,5868740,2027-03-28T13:00:00Z,Girona,Cádiz,,,False,False,False,SPA2
+32,32,,5868741,2027-03-28T13:00:00Z,Real Oviedo,Real Valladolid,,,False,False,False,SPA2
+32,32,,5868742,2027-03-28T13:00:00Z,Real Sociedad B,Burgos CF,,,False,False,False,SPA2
+32,32,,5868743,2027-03-28T13:00:00Z,Sabadell,Mallorca,,,False,False,False,SPA2
+32,32,,5868744,2027-03-28T13:00:00Z,Tenerife,Las Palmas,,,False,False,False,SPA2
+33,33,,5868745,2027-04-04T13:00:00Z,FC Andorra,Eldense,,,False,False,False,SPA2
+33,33,,5868746,2027-04-04T13:00:00Z,Burgos CF,Real Oviedo,,,False,False,False,SPA2
+33,33,,5868747,2027-04-04T13:00:00Z,Cádiz,Castellón,,,False,False,False,SPA2
+33,33,,5868748,2027-04-04T13:00:00Z,Córdoba,Celta Fortuna,,,False,False,False,SPA2
+33,33,,5868749,2027-04-04T13:00:00Z,Granada,Eibar,,,False,False,False,SPA2
+33,33,,5868750,2027-04-04T13:00:00Z,Leganés,Almería,,,False,False,False,SPA2
+33,33,,5868751,2027-04-04T13:00:00Z,Las Palmas,AD Ceuta FC,,,False,False,False,SPA2
+33,33,,5868752,2027-04-04T13:00:00Z,Mallorca,Girona,,,False,False,False,SPA2
+33,33,,5868753,2027-04-04T13:00:00Z,Real Sociedad B,Albacete,,,False,False,False,SPA2
+33,33,,5868754,2027-04-04T13:00:00Z,Sporting Gijón,Tenerife,,,False,False,False,SPA2
+33,33,,5868755,2027-04-04T13:00:00Z,Real Valladolid,Sabadell,,,False,False,False,SPA2
+34,34,,5868756,2027-04-11T13:00:00Z,Albacete,AD Ceuta FC,,,False,False,False,SPA2
+34,34,,5868757,2027-04-11T13:00:00Z,Almería,Tenerife,,,False,False,False,SPA2
+34,34,,5868758,2027-04-11T13:00:00Z,FC Andorra,Real Valladolid,,,False,False,False,SPA2
+34,34,,5868759,2027-04-11T13:00:00Z,Castellón,Burgos CF,,,False,False,False,SPA2
+34,34,,5868760,2027-04-11T13:00:00Z,Celta Fortuna,Cádiz,,,False,False,False,SPA2
+34,34,,5868761,2027-04-11T13:00:00Z,Eibar,Córdoba,,,False,False,False,SPA2
+34,34,,5868762,2027-04-11T13:00:00Z,Girona,Granada,,,False,False,False,SPA2
+34,34,,5868763,2027-04-11T13:00:00Z,Las Palmas,Mallorca,,,False,False,False,SPA2
+34,34,,5868764,2027-04-11T13:00:00Z,Real Oviedo,Eldense,,,False,False,False,SPA2
+34,34,,5868765,2027-04-11T13:00:00Z,Sabadell,Leganés,,,False,False,False,SPA2
+34,34,,5868766,2027-04-11T13:00:00Z,Sporting Gijón,Real Sociedad B,,,False,False,False,SPA2
+35,35,,5868767,2027-04-18T13:00:00Z,Cádiz,FC Andorra,,,False,False,False,SPA2
+35,35,,5868768,2027-04-18T13:00:00Z,Celta Fortuna,Almería,,,False,False,False,SPA2
+35,35,,5868769,2027-04-18T13:00:00Z,AD Ceuta FC,Castellón,,,False,False,False,SPA2
+35,35,,5868770,2027-04-18T13:00:00Z,Córdoba,Albacete,,,False,False,False,SPA2
+35,35,,5868771,2027-04-18T13:00:00Z,Eldense,Burgos CF,,,False,False,False,SPA2
+35,35,,5868772,2027-04-18T13:00:00Z,Granada,Real Oviedo,,,False,False,False,SPA2
+35,35,,5868773,2027-04-18T13:00:00Z,Leganés,Las Palmas,,,False,False,False,SPA2
+35,35,,5868774,2027-04-18T13:00:00Z,Mallorca,Eibar,,,False,False,False,SPA2
+35,35,,5868775,2027-04-18T13:00:00Z,Sabadell,Sporting Gijón,,,False,False,False,SPA2
+35,35,,5868776,2027-04-18T13:00:00Z,Tenerife,Real Sociedad B,,,False,False,False,SPA2
+35,35,,5868777,2027-04-18T13:00:00Z,Real Valladolid,Girona,,,False,False,False,SPA2
+36,36,,5868778,2027-04-25T13:00:00Z,Albacete,Leganés,,,False,False,False,SPA2
+36,36,,5868779,2027-04-25T13:00:00Z,Almería,Granada,,,False,False,False,SPA2
+36,36,,5868780,2027-04-25T13:00:00Z,FC Andorra,Córdoba,,,False,False,False,SPA2
+36,36,,5868781,2027-04-25T13:00:00Z,Burgos CF,Real Valladolid,,,False,False,False,SPA2
+36,36,,5868782,2027-04-25T13:00:00Z,Castellón,Mallorca,,,False,False,False,SPA2
+36,36,,5868783,2027-04-25T13:00:00Z,AD Ceuta FC,Eldense,,,False,False,False,SPA2
+36,36,,5868784,2027-04-25T13:00:00Z,Eibar,Sabadell,,,False,False,False,SPA2
+36,36,,5868785,2027-04-25T13:00:00Z,Girona,Tenerife,,,False,False,False,SPA2
+36,36,,5868786,2027-04-25T13:00:00Z,Las Palmas,Cádiz,,,False,False,False,SPA2
+36,36,,5868787,2027-04-25T13:00:00Z,Real Sociedad B,Celta Fortuna,,,False,False,False,SPA2
+36,36,,5868788,2027-04-25T13:00:00Z,Sporting Gijón,Real Oviedo,,,False,False,False,SPA2
+37,37,,5868789,2027-05-02T13:00:00Z,FC Andorra,Las Palmas,,,False,False,False,SPA2
+37,37,,5868790,2027-05-02T13:00:00Z,Cádiz,Eibar,,,False,False,False,SPA2
+37,37,,5868791,2027-05-02T13:00:00Z,Celta Fortuna,AD Ceuta FC,,,False,False,False,SPA2
+37,37,,5868792,2027-05-02T13:00:00Z,Córdoba,Real Sociedad B,,,False,False,False,SPA2
+37,37,,5868793,2027-05-02T13:00:00Z,Eldense,Almería,,,False,False,False,SPA2
+37,37,,5868794,2027-05-02T13:00:00Z,Granada,Burgos CF,,,False,False,False,SPA2
+37,37,,5868795,2027-05-02T13:00:00Z,Leganés,Sporting Gijón,,,False,False,False,SPA2
+37,37,,5868796,2027-05-02T13:00:00Z,Real Oviedo,Albacete,,,False,False,False,SPA2
+37,37,,5868797,2027-05-02T13:00:00Z,Sabadell,Girona,,,False,False,False,SPA2
+37,37,,5868798,2027-05-02T13:00:00Z,Tenerife,Castellón,,,False,False,False,SPA2
+37,37,,5868799,2027-05-02T13:00:00Z,Real Valladolid,Mallorca,,,False,False,False,SPA2
+38,38,,5868800,2027-05-09T13:00:00Z,Albacete,Girona,,,False,False,False,SPA2
+38,38,,5868801,2027-05-09T13:00:00Z,Almería,Sabadell,,,False,False,False,SPA2
+38,38,,5868802,2027-05-09T13:00:00Z,Burgos CF,FC Andorra,,,False,False,False,SPA2
+38,38,,5868803,2027-05-09T13:00:00Z,Castellón,Real Valladolid,,,False,False,False,SPA2
+38,38,,5868804,2027-05-09T13:00:00Z,AD Ceuta FC,Cádiz,,,False,False,False,SPA2
+38,38,,5868805,2027-05-09T13:00:00Z,Eibar,Leganés,,,False,False,False,SPA2
+38,38,,5868806,2027-05-09T13:00:00Z,Eldense,Las Palmas,,,False,False,False,SPA2
+38,38,,5868807,2027-05-09T13:00:00Z,Granada,Sporting Gijón,,,False,False,False,SPA2
+38,38,,5868808,2027-05-09T13:00:00Z,Mallorca,Celta Fortuna,,,False,False,False,SPA2
+38,38,,5868809,2027-05-09T13:00:00Z,Real Sociedad B,Real Oviedo,,,False,False,False,SPA2
+38,38,,5868810,2027-05-09T13:00:00Z,Tenerife,Córdoba,,,False,False,False,SPA2
+39,39,,5868811,2027-05-16T13:00:00Z,FC Andorra,Sabadell,,,False,False,False,SPA2
+39,39,,5868812,2027-05-16T13:00:00Z,Cádiz,Burgos CF,,,False,False,False,SPA2
+39,39,,5868813,2027-05-16T13:00:00Z,Castellón,Real Sociedad B,,,False,False,False,SPA2
+39,39,,5868814,2027-05-16T13:00:00Z,Celta Fortuna,Albacete,,,False,False,False,SPA2
+39,39,,5868815,2027-05-16T13:00:00Z,Córdoba,Leganés,,,False,False,False,SPA2
+39,39,,5868816,2027-05-16T13:00:00Z,Girona,Eldense,,,False,False,False,SPA2
+39,39,,5868817,2027-05-16T13:00:00Z,Las Palmas,Almería,,,False,False,False,SPA2
+39,39,,5868818,2027-05-16T13:00:00Z,Mallorca,Tenerife,,,False,False,False,SPA2
+39,39,,5868819,2027-05-16T13:00:00Z,Real Oviedo,AD Ceuta FC,,,False,False,False,SPA2
+39,39,,5868820,2027-05-16T13:00:00Z,Sporting Gijón,Eibar,,,False,False,False,SPA2
+39,39,,5868821,2027-05-16T13:00:00Z,Real Valladolid,Granada,,,False,False,False,SPA2
+40,40,,5868822,2027-05-23T13:00:00Z,Albacete,Sporting Gijón,,,False,False,False,SPA2
+40,40,,5868823,2027-05-23T13:00:00Z,Almería,Girona,,,False,False,False,SPA2
+40,40,,5868824,2027-05-23T13:00:00Z,Burgos CF,Las Palmas,,,False,False,False,SPA2
+40,40,,5868825,2027-05-23T13:00:00Z,AD Ceuta FC,Córdoba,,,False,False,False,SPA2
+40,40,,5868826,2027-05-23T13:00:00Z,Eibar,Castellón,,,False,False,False,SPA2
+40,40,,5868827,2027-05-23T13:00:00Z,Eldense,Real Sociedad B,,,False,False,False,SPA2
+40,40,,5868828,2027-05-23T13:00:00Z,Granada,Celta Fortuna,,,False,False,False,SPA2
+40,40,,5868829,2027-05-23T13:00:00Z,Leganés,FC Andorra,,,False,False,False,SPA2
+40,40,,5868830,2027-05-23T13:00:00Z,Real Oviedo,Mallorca,,,False,False,False,SPA2
+40,40,,5868831,2027-05-23T13:00:00Z,Sabadell,Cádiz,,,False,False,False,SPA2
+40,40,,5868832,2027-05-23T13:00:00Z,Tenerife,Real Valladolid,,,False,False,False,SPA2
+41,41,,5868833,2027-05-30T13:00:00Z,FC Andorra,Granada,,,False,False,False,SPA2
+41,41,,5868834,2027-05-30T13:00:00Z,Burgos CF,Eibar,,,False,False,False,SPA2
+41,41,,5868835,2027-05-30T13:00:00Z,Cádiz,Tenerife,,,False,False,False,SPA2
+41,41,,5868836,2027-05-30T13:00:00Z,Castellón,Real Oviedo,,,False,False,False,SPA2
+41,41,,5868837,2027-05-30T13:00:00Z,Celta Fortuna,Leganés,,,False,False,False,SPA2
+41,41,,5868838,2027-05-30T13:00:00Z,Eldense,Real Valladolid,,,False,False,False,SPA2
+41,41,,5868839,2027-05-30T13:00:00Z,Girona,AD Ceuta FC,,,False,False,False,SPA2
+41,41,,5868840,2027-05-30T13:00:00Z,Las Palmas,Córdoba,,,False,False,False,SPA2
+41,41,,5868841,2027-05-30T13:00:00Z,Mallorca,Albacete,,,False,False,False,SPA2
+41,41,,5868842,2027-05-30T13:00:00Z,Real Sociedad B,Sabadell,,,False,False,False,SPA2
+41,41,,5868843,2027-05-30T13:00:00Z,Sporting Gijón,Almería,,,False,False,False,SPA2
+42,42,,5868844,2027-06-06T13:00:00Z,Albacete,Cádiz,,,False,False,False,SPA2
+42,42,,5868845,2027-06-06T13:00:00Z,Almería,Mallorca,,,False,False,False,SPA2
+42,42,,5868846,2027-06-06T13:00:00Z,AD Ceuta FC,Burgos CF,,,False,False,False,SPA2
+42,42,,5868847,2027-06-06T13:00:00Z,Córdoba,Sporting Gijón,,,False,False,False,SPA2
+42,42,,5868848,2027-06-06T13:00:00Z,Eibar,Girona,,,False,False,False,SPA2
+42,42,,5868849,2027-06-06T13:00:00Z,Granada,Eldense,,,False,False,False,SPA2
+42,42,,5868850,2027-06-06T13:00:00Z,Leganés,Real Sociedad B,,,False,False,False,SPA2
+42,42,,5868851,2027-06-06T13:00:00Z,Real Oviedo,FC Andorra,,,False,False,False,SPA2
+42,42,,5868852,2027-06-06T13:00:00Z,Sabadell,Castellón,,,False,False,False,SPA2
+42,42,,5868853,2027-06-06T13:00:00Z,Tenerife,Celta Fortuna,,,False,False,False,SPA2
+42,42,,5868854,2027-06-06T13:00:00Z,Real Valladolid,Las Palmas,,,False,False,False,SPA2
+6,6,,5868449,2026-09-20T16:30:00.000Z,Almería,Celta Fortuna,2 - 0,FT,True,True,False,SPA2
+6,6,,5868453,2026-09-20T14:15:00.000Z,AD Ceuta FC,Real Valladolid,1 - 1,FT,True,True,False,SPA2
+6,6,,5868455,2026-09-20T19:00:00.000Z,Leganés,Granada,2 - 2,,False,True,False,SPA2
+6,6,,5868456,2026-09-20T16:30:00.000Z,Las Palmas,Burgos CF,1 - 2,FT,True,True,False,SPA2
+6,6,,5868458,2026-09-20T12:00:00.000Z,Sabadell,Real Oviedo,3 - 1,FT,True,True,False,SPA2

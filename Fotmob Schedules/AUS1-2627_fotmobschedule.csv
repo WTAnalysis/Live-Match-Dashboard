@@ -1,0 +1,157 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,1000017557,2026-10-16T09:00:00Z,Sydney FC,Western Sydney Wanderers FC,,,False,False,False,AUS1
+1,1,,1000017558,2026-10-17T04:00:00Z,Auckland FC,Melbourne City FC,,,False,False,False,AUS1
+1,1,,1000017559,2026-10-17T06:00:00Z,Macarthur FC,Perth Glory,,,False,False,False,AUS1
+1,1,,1000017560,2026-10-17T08:40:00Z,Central Coast Mariners,Newcastle Jets,,,False,False,False,AUS1
+1,1,,1000017561,2026-10-18T02:00:00Z,Wellington Phoenix,Melbourne Victory,,,False,False,False,AUS1
+2,2,,1000017563,2026-10-23T09:00:00Z,Brisbane Roar FC,Perth Glory,,,False,False,False,AUS1
+2,2,,1000017564,2026-10-24T04:00:00Z,Newcastle Jets,Macarthur FC,,,False,False,False,AUS1
+2,2,,1000017565,2026-10-24T06:00:00Z,Western Sydney Wanderers FC,Auckland FC,,,False,False,False,AUS1
+2,2,,1000017566,2026-10-24T08:40:00Z,Melbourne Victory,Melbourne City FC,,,False,False,False,AUS1
+2,2,,1000017567,2026-10-25T02:00:00Z,Wellington Phoenix,Central Coast Mariners,,,False,False,False,AUS1
+2,2,,1000017568,2026-10-25T04:00:00Z,Sydney FC,Adelaide United,,,False,False,False,AUS1
+3,3,,1000017569,2026-10-30T09:00:00Z,Brisbane Roar FC,Auckland FC,,,False,False,False,AUS1
+3,3,,1000017570,2026-10-31T04:00:00Z,Newcastle Jets,Wellington Phoenix,,,False,False,False,AUS1
+3,3,,1000017571,2026-10-31T06:00:00Z,Melbourne City FC,Sydney FC,,,False,False,False,AUS1
+3,3,,1000017572,2026-10-31T08:40:00Z,Macarthur FC,Western Sydney Wanderers FC,,,False,False,False,AUS1
+3,3,,1000017573,2026-11-01T04:00:00Z,Melbourne Victory,Central Coast Mariners,,,False,False,False,AUS1
+3,3,,1000017574,2026-11-01T08:00:00Z,Perth Glory,Adelaide United,,,False,False,False,AUS1
+4,4,,1000017575,2026-11-06T08:40:00Z,Sydney FC,Central Coast Mariners,,,False,False,False,AUS1
+4,4,,1000017576,2026-11-07T04:00:00Z,Auckland FC,Wellington Phoenix,,,False,False,False,AUS1
+4,4,,1000017577,2026-11-07T08:40:00Z,Melbourne City FC,Western Sydney Wanderers FC,,,False,False,False,AUS1
+4,4,,1000017578,2026-11-07T10:45:00Z,Perth Glory,Newcastle Jets,,,False,False,False,AUS1
+4,4,,1000017579,2026-11-08T04:00:00Z,Macarthur FC,Brisbane Roar FC,,,False,False,False,AUS1
+4,4,,1000017580,2026-11-08T06:00:00Z,Adelaide United,Melbourne Victory,,,False,False,False,AUS1
+5,5,,1000017581,2026-11-20T08:40:00Z,Western Sydney Wanderers FC,Adelaide United,,,False,False,False,AUS1
+5,5,,1000017582,2026-11-21T04:00:00Z,Auckland FC,Melbourne Victory,,,False,False,False,AUS1
+5,5,,1000017583,2026-11-21T06:00:00Z,Central Coast Mariners,Perth Glory,,,False,False,False,AUS1
+5,5,,1000017584,2026-11-21T08:40:00Z,Brisbane Roar FC,Sydney FC,,,False,False,False,AUS1
+5,5,,1000017585,2026-11-22T02:00:00Z,Wellington Phoenix,Macarthur FC,,,False,False,False,AUS1
+6,6,,1000017586,2026-11-27T08:40:00Z,Macarthur FC,Melbourne City FC,,,False,False,False,AUS1
+6,6,,1000017587,2026-11-28T08:40:00Z,Central Coast Mariners,Auckland FC,,,False,False,False,AUS1
+7,7,,1000017589,2026-12-05T08:40:00Z,Western Sydney Wanderers FC,Perth Glory,,,False,False,False,AUS1
+7,7,,1000017588,2026-12-06T02:00:00Z,Wellington Phoenix,Adelaide United,,,False,False,False,AUS1
+7,7,,1000017590,2026-12-06T06:00:00Z,Sydney FC,Melbourne Victory,,,False,False,False,AUS1
+8,8,,1000017591,2026-12-11T08:40:00Z,Adelaide United,Macarthur FC,,,False,False,False,AUS1
+8,8,,1000017592,2026-12-11T10:45:00Z,Perth Glory,Melbourne City FC,,,False,False,False,AUS1
+8,8,,1000017593,2026-12-12T04:00:00Z,Auckland FC,Sydney FC,,,False,False,False,AUS1
+8,8,,1000017594,2026-12-12T06:00:00Z,Central Coast Mariners,Brisbane Roar FC,,,False,False,False,AUS1
+8,8,,1000017595,2026-12-12T08:40:00Z,Melbourne Victory,Newcastle Jets,,,False,False,False,AUS1
+8,8,,1000017596,2026-12-13T06:00:00Z,Western Sydney Wanderers FC,Wellington Phoenix,,,False,False,False,AUS1
+9,9,,1000017562,2026-12-15T08:30:00Z,Adelaide United,Brisbane Roar FC,,,False,False,False,AUS1
+9,9,,1000017597,2026-12-18T08:40:00Z,Sydney FC,Perth Glory,,,False,False,False,AUS1
+9,9,,1000017598,2026-12-19T04:00:00Z,Wellington Phoenix,Auckland FC,,,False,False,False,AUS1
+9,9,,1000017599,2026-12-19T06:00:00Z,Brisbane Roar FC,Western Sydney Wanderers FC,,,False,False,False,AUS1
+9,9,,1000017600,2026-12-19T08:40:00Z,Melbourne City FC,Melbourne Victory,,,False,False,False,AUS1
+9,9,,1000017601,2026-12-20T06:00:00Z,Adelaide United,Newcastle Jets,,,False,False,False,AUS1
+9,9,,1000017602,2026-12-21T08:00:00Z,Macarthur FC,Central Coast Mariners,,,False,False,False,AUS1
+10,10,,1000017603,2026-12-26T08:40:00Z,Western Sydney Wanderers FC,Newcastle Jets,,,False,False,False,AUS1
+10,10,,1000017604,2026-12-27T07:00:00Z,Melbourne City FC,Auckland FC,,,False,False,False,AUS1
+10,10,,1000017605,2026-12-27T09:00:00Z,Adelaide United,Central Coast Mariners,,,False,False,False,AUS1
+10,10,,1000017606,2026-12-28T08:00:00Z,Sydney FC,Macarthur FC,,,False,False,False,AUS1
+10,10,,1000017607,2026-12-29T08:00:00Z,Melbourne Victory,Wellington Phoenix,,,False,False,False,AUS1
+10,10,,1000017608,2026-12-30T08:40:00Z,Brisbane Roar FC,Perth Glory,,,False,False,False,AUS1
+11,11,,1000017609,2026-12-31T08:00:00Z,Central Coast Mariners,Melbourne City FC,,,False,False,False,AUS1
+11,11,,1000017610,2027-01-01T04:00:00Z,Auckland FC,Adelaide United,,,False,False,False,AUS1
+11,11,,1000017611,2027-01-01T08:00:00Z,Western Sydney Wanderers FC,Macarthur FC,,,False,False,False,AUS1
+11,11,,1000017612,2027-01-02T04:00:00Z,Wellington Phoenix,Newcastle Jets,,,False,False,False,AUS1
+11,11,,1000017613,2027-01-02T08:40:00Z,Sydney FC,Brisbane Roar FC,,,False,False,False,AUS1
+11,11,,1000017614,2027-01-03T06:00:00Z,Melbourne Victory,Perth Glory,,,False,False,False,AUS1
+12,12,,1000017615,2027-01-08T08:40:00Z,Central Coast Mariners,Western Sydney Wanderers FC,,,False,False,False,AUS1
+12,12,,1000017616,2027-01-08T10:45:00Z,Perth Glory,Macarthur FC,,,False,False,False,AUS1
+12,12,,1000017617,2027-01-09T06:00:00Z,Newcastle Jets,Auckland FC,,,False,False,False,AUS1
+12,12,,1000017618,2027-01-09T07:00:00Z,Brisbane Roar FC,Melbourne Victory,,,False,False,False,AUS1
+12,12,,1000017619,2027-01-09T08:40:00Z,Adelaide United,Sydney FC,,,False,False,False,AUS1
+12,12,,1000017620,2027-01-10T06:00:00Z,Melbourne City FC,Wellington Phoenix,,,False,False,False,AUS1
+13,13,,1000017621,2027-01-14T08:40:00Z,Macarthur FC,Wellington Phoenix,,,False,False,False,AUS1
+13,13,,1000017622,2027-01-15T08:40:00Z,Melbourne Victory,Auckland FC,,,False,False,False,AUS1
+13,13,,1000017623,2027-01-16T06:00:00Z,Melbourne City FC,Brisbane Roar FC,,,False,False,False,AUS1
+13,13,,1000017624,2027-01-16T08:40:00Z,Sydney FC,Newcastle Jets,,,False,False,False,AUS1
+13,13,,1000017625,2027-01-16T10:45:00Z,Perth Glory,Central Coast Mariners,,,False,False,False,AUS1
+13,13,,1000017626,2027-01-17T06:00:00Z,Adelaide United,Western Sydney Wanderers FC,,,False,False,False,AUS1
+13,13,,1000017627,2027-01-19T08:00:00Z,Newcastle Jets,Melbourne City FC,,,False,False,False,AUS1
+14,14,,1000017628,2027-01-22T08:40:00Z,Western Sydney Wanderers FC,Melbourne City FC,,,False,False,False,AUS1
+14,14,,1000017629,2027-01-23T06:00:00Z,Brisbane Roar FC,Wellington Phoenix,,,False,False,False,AUS1
+14,14,,1000017630,2027-01-23T08:40:00Z,Newcastle Jets,Central Coast Mariners,,,False,False,False,AUS1
+14,14,,1000017631,2027-01-24T02:00:00Z,Auckland FC,Perth Glory,,,False,False,False,AUS1
+14,14,,1000017632,2027-01-25T08:00:00Z,Macarthur FC,Adelaide United,,,False,False,False,AUS1
+14,14,,1000017633,2027-01-26T06:00:00Z,Melbourne Victory,Sydney FC,,,False,False,False,AUS1
+15,15,,1000017634,2027-01-29T08:40:00Z,Adelaide United,Melbourne City FC,,,False,False,False,AUS1
+15,15,,1000017635,2027-01-30T04:00:00Z,Wellington Phoenix,Perth Glory,,,False,False,False,AUS1
+15,15,,1000017636,2027-01-30T06:00:00Z,Newcastle Jets,Melbourne Victory,,,False,False,False,AUS1
+15,15,,1000017637,2027-01-30T08:40:00Z,Western Sydney Wanderers FC,Sydney FC,,,False,False,False,AUS1
+15,15,,1000017638,2027-01-31T02:00:00Z,Auckland FC,Brisbane Roar FC,,,False,False,False,AUS1
+15,15,,1000017639,2027-01-31T06:00:00Z,Central Coast Mariners,Macarthur FC,,,False,False,False,AUS1
+16,16,,1000017640,2027-02-05T08:40:00Z,Newcastle Jets,Perth Glory,,,False,False,False,AUS1
+16,16,,1000017641,2027-02-06T04:00:00Z,Wellington Phoenix,Western Sydney Wanderers FC,,,False,False,False,AUS1
+16,16,,1000017642,2027-02-06T06:00:00Z,Macarthur FC,Auckland FC,,,False,False,False,AUS1
+16,16,,1000017643,2027-02-06T08:40:00Z,Adelaide United,Melbourne Victory,,,False,False,False,AUS1
+16,16,,1000017644,2027-02-07T06:00:00Z,Sydney FC,Melbourne City FC,,,False,False,False,AUS1
+16,16,,1000017645,2027-02-07T07:00:00Z,Brisbane Roar FC,Central Coast Mariners,,,False,False,False,AUS1
+17,17,,1000017646,2027-02-13T04:00:00Z,Auckland FC,Wellington Phoenix,,,False,False,False,AUS1
+17,17,,1000017647,2027-02-13T06:00:00Z,Newcastle Jets,Brisbane Roar FC,,,False,False,False,AUS1
+17,17,,1000017648,2027-02-13T08:40:00Z,Melbourne City FC,Central Coast Mariners,,,False,False,False,AUS1
+17,17,,1000017649,2027-02-14T06:00:00Z,Melbourne Victory,Western Sydney Wanderers FC,,,False,False,False,AUS1
+18,18,,1000017650,2027-02-19T09:00:00Z,Brisbane Roar FC,Macarthur FC,,,False,False,False,AUS1
+18,18,,1000017651,2027-02-20T09:00:00Z,Perth Glory,Sydney FC,,,False,False,False,AUS1
+18,18,,1000017652,2027-02-21T06:00:00Z,Newcastle Jets,Adelaide United,,,False,False,False,AUS1
+19,19,,1000017653,2027-02-26T08:40:00Z,Newcastle Jets,Western Sydney Wanderers FC,,,False,False,False,AUS1
+19,19,,1000017654,2027-02-27T06:00:00Z,Sydney FC,Auckland FC,,,False,False,False,AUS1
+19,19,,1000017655,2027-02-27T08:40:00Z,Melbourne Victory,Macarthur FC,,,False,False,False,AUS1
+19,19,,1000017656,2027-02-27T10:45:00Z,Perth Glory,Brisbane Roar FC,,,False,False,False,AUS1
+19,19,,1000017657,2027-02-28T04:00:00Z,Central Coast Mariners,Adelaide United,,,False,False,False,AUS1
+19,19,,1000017658,2027-02-28T05:00:00Z,Melbourne City FC,Wellington Phoenix,,,False,False,False,AUS1
+20,20,,1000017659,2027-03-05T08:40:00Z,Adelaide United,Perth Glory,,,False,False,False,AUS1
+20,20,,1000017660,2027-03-06T04:00:00Z,Wellington Phoenix,Sydney FC,,,False,False,False,AUS1
+20,20,,1000017661,2027-03-06T06:00:00Z,Macarthur FC,Newcastle Jets,,,False,False,False,AUS1
+20,20,,1000017662,2027-03-06T08:40:00Z,Melbourne Victory,Melbourne City FC,,,False,False,False,AUS1
+20,20,,1000017663,2027-03-07T02:00:00Z,Auckland FC,Central Coast Mariners,,,False,False,False,AUS1
+20,20,,1000017664,2027-03-07T04:00:00Z,Western Sydney Wanderers FC,Brisbane Roar FC,,,False,False,False,AUS1
+21,21,,1000017665,2027-03-12T08:40:00Z,Western Sydney Wanderers FC,Melbourne City FC,,,False,False,False,AUS1
+21,21,,1000017666,2027-03-13T04:00:00Z,Auckland FC,Newcastle Jets,,,False,False,False,AUS1
+21,21,,1000017667,2027-03-13T06:00:00Z,Central Coast Mariners,Wellington Phoenix,,,False,False,False,AUS1
+21,21,,1000017668,2027-03-13T08:40:00Z,Macarthur FC,Sydney FC,,,False,False,False,AUS1
+21,21,,1000017669,2027-03-14T06:00:00Z,Brisbane Roar FC,Adelaide United,,,False,False,False,AUS1
+21,21,,1000017670,2027-03-14T08:00:00Z,Perth Glory,Melbourne Victory,,,False,False,False,AUS1
+22,22,,1000017671,2027-03-19T08:40:00Z,Central Coast Mariners,Perth Glory,,,False,False,False,AUS1
+22,22,,1000017672,2027-03-20T04:00:00Z,Wellington Phoenix,Macarthur FC,,,False,False,False,AUS1
+22,22,,1000017673,2027-03-20T06:00:00Z,Western Sydney Wanderers FC,Auckland FC,,,False,False,False,AUS1
+22,22,,1000017674,2027-03-20T08:40:00Z,Newcastle Jets,Sydney FC,,,False,False,False,AUS1
+22,22,,1000017675,2027-03-21T04:00:00Z,Melbourne City FC,Adelaide United,,,False,False,False,AUS1
+22,22,,1000017676,2027-03-21T06:00:00Z,Brisbane Roar FC,Melbourne Victory,,,False,False,False,AUS1
+23,23,,1000017677,2027-04-02T08:40:00Z,Adelaide United,Wellington Phoenix,,,False,False,False,AUS1
+23,23,,1000017678,2027-04-03T06:00:00Z,Brisbane Roar FC,Melbourne City FC,,,False,False,False,AUS1
+23,23,,1000017679,2027-04-03T08:40:00Z,Sydney FC,Western Sydney Wanderers FC,,,False,False,False,AUS1
+23,23,,1000017680,2027-04-03T10:45:00Z,Perth Glory,Newcastle Jets,,,False,False,False,AUS1
+23,23,,1000017681,2027-04-04T03:00:00Z,Auckland FC,Macarthur FC,,,False,False,False,AUS1
+23,23,,1000017682,2027-04-04T05:00:00Z,Central Coast Mariners,Melbourne Victory,,,False,False,False,AUS1
+24,24,,1000017683,2027-04-09T07:00:00Z,Wellington Phoenix,Brisbane Roar FC,,,False,False,False,AUS1
+24,24,,1000017684,2027-04-09T09:40:00Z,Melbourne City FC,Macarthur FC,,,False,False,False,AUS1
+24,24,,1000017685,2027-04-10T07:00:00Z,Newcastle Jets,Adelaide United,,,False,False,False,AUS1
+24,24,,1000017686,2027-04-10T09:40:00Z,Melbourne Victory,Sydney FC,,,False,False,False,AUS1
+24,24,,1000017687,2027-04-10T11:45:00Z,Perth Glory,Auckland FC,,,False,False,False,AUS1
+24,24,,1000017688,2027-04-11T05:00:00Z,Western Sydney Wanderers FC,Central Coast Mariners,,,False,False,False,AUS1
+25,25,,1000017689,2027-04-16T09:40:00Z,Melbourne City FC,Perth Glory,,,False,False,False,AUS1
+25,25,,1000017690,2027-04-17T05:00:00Z,Wellington Phoenix,Newcastle Jets,,,False,False,False,AUS1
+25,25,,1000017691,2027-04-17T07:00:00Z,Central Coast Mariners,Sydney FC,,,False,False,False,AUS1
+25,25,,1000017692,2027-04-17T09:40:00Z,Melbourne Victory,Adelaide United,,,False,False,False,AUS1
+25,25,,1000017693,2027-04-18T03:00:00Z,Auckland FC,Brisbane Roar FC,,,False,False,False,AUS1
+25,25,,1000017694,2027-04-18T05:00:00Z,Macarthur FC,Western Sydney Wanderers FC,,,False,False,False,AUS1
+26,26,,1000017695,2027-04-23T09:40:00Z,Sydney FC,Auckland FC,,,False,False,False,AUS1
+26,26,,1000017696,2027-04-24T05:00:00Z,Wellington Phoenix,Melbourne City FC,,,False,False,False,AUS1
+26,26,,1000017697,2027-04-24T09:40:00Z,Adelaide United,Brisbane Roar FC,,,False,False,False,AUS1
+26,26,,1000017698,2027-04-24T11:45:00Z,Perth Glory,Western Sydney Wanderers FC,,,False,False,False,AUS1
+26,26,,1000017699,2027-04-25T05:00:00Z,Newcastle Jets,Central Coast Mariners,,,False,False,False,AUS1
+26,26,,1000017700,2027-04-26T09:00:00Z,Macarthur FC,Melbourne Victory,,,False,False,False,AUS1
+27,27,,1000017701,2027-04-30T10:00:00Z,Brisbane Roar FC,Newcastle Jets,,,False,False,False,AUS1
+27,27,,1000017702,2027-04-30T11:45:00Z,Perth Glory,Wellington Phoenix,,,False,False,False,AUS1
+27,27,,1000017703,2027-05-01T05:00:00Z,Melbourne City FC,Central Coast Mariners,,,False,False,False,AUS1
+27,27,,1000017704,2027-05-01T07:00:00Z,Adelaide United,Auckland FC,,,False,False,False,AUS1
+27,27,,1000017705,2027-05-01T09:40:00Z,Macarthur FC,Sydney FC,,,False,False,False,AUS1
+27,27,,1000017706,2027-05-02T05:00:00Z,Western Sydney Wanderers FC,Melbourne Victory,,,False,False,False,AUS1
+28,28,,1000017707,2027-05-07T09:40:00Z,Sydney FC,Wellington Phoenix,,,False,False,False,AUS1
+28,28,,1000017708,2027-05-07T11:45:00Z,Perth Glory,Adelaide United,,,False,False,False,AUS1
+28,28,,1000017709,2027-05-08T05:00:00Z,Auckland FC,Western Sydney Wanderers FC,,,False,False,False,AUS1
+28,28,,1000017710,2027-05-08T07:00:00Z,Melbourne City FC,Newcastle Jets,,,False,False,False,AUS1
+28,28,,1000017711,2027-05-08T09:40:00Z,Central Coast Mariners,Macarthur FC,,,False,False,False,AUS1
+28,28,,1000017712,2027-05-09T05:00:00Z,Melbourne Victory,Brisbane Roar FC,,,False,False,False,AUS1

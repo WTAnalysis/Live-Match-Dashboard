@@ -1,0 +1,553 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5837859,2026-08-15T11:30:00Z,Newport County,Rochdale,3 - 0,FT,True,True,False,ENG4
+1,1,,5837860,2026-08-15T11:30:00Z,Oldham Athletic,Port Vale,2 - 0,FT,True,True,False,ENG4
+1,1,,5837861,2026-08-15T14:00:00Z,Accrington Stanley,Colchester United,2 - 2,FT,True,True,False,ENG4
+1,1,,5837862,2026-08-15T14:00:00Z,Barnet,Salford City,3 - 1,FT,True,True,False,ENG4
+1,1,,5837863,2026-08-15T14:00:00Z,Cheltenham Town,Rotherham United,2 - 1,FT,True,True,False,ENG4
+1,1,,5837864,2026-08-15T14:00:00Z,Chesterfield,Fleetwood Town,0 - 1,FT,True,True,False,ENG4
+1,1,,5837865,2026-08-15T14:00:00Z,Crawley Town,Crewe Alexandra,0 - 1,FT,True,True,False,ENG4
+1,1,,5837866,2026-08-15T14:00:00Z,Gillingham,Walsall,0 - 3,FT,True,True,False,ENG4
+1,1,,5837867,2026-08-15T14:00:00Z,Grimsby Town,Exeter City,1 - 0,FT,True,True,False,ENG4
+1,1,,5837868,2026-08-15T14:00:00Z,Northampton Town,Swindon Town,0 - 0,FT,True,True,False,ENG4
+1,1,,5837869,2026-08-15T14:00:00Z,Tranmere Rovers,Shrewsbury Town,2 - 0,FT,True,True,False,ENG4
+1,1,,5837870,2026-08-15T14:00:00Z,York City,Bristol Rovers,3 - 2,FT,True,True,False,ENG4
+2,2,,5837871,2026-08-22T11:30:00Z,Bristol Rovers,Newport County,5 - 3,FT,True,True,False,ENG4
+2,2,,5837879,2026-08-22T11:30:00Z,Salford City,Chesterfield,0 - 1,FT,True,True,False,ENG4
+2,2,,5837882,2026-08-22T11:30:00Z,Walsall,Grimsby Town,0 - 0,FT,True,True,False,ENG4
+2,2,,5837872,2026-08-22T14:00:00Z,Colchester United,Oldham Athletic,2 - 1,FT,True,True,False,ENG4
+2,2,,5837873,2026-08-22T14:00:00Z,Crewe Alexandra,Northampton Town,1 - 0,FT,True,True,False,ENG4
+2,2,,5837874,2026-08-22T14:00:00Z,Exeter City,Accrington Stanley,2 - 0,FT,True,True,False,ENG4
+2,2,,5837875,2026-08-22T14:00:00Z,Fleetwood Town,Gillingham,0 - 0,FT,True,True,False,ENG4
+2,2,,5837876,2026-08-22T14:00:00Z,Port Vale,Tranmere Rovers,1 - 1,FT,True,True,False,ENG4
+2,2,,5837877,2026-08-22T14:00:00Z,Rochdale,Crawley Town,1 - 2,FT,True,True,False,ENG4
+2,2,,5837878,2026-08-22T14:00:00Z,Rotherham United,York City,1 - 1,FT,True,True,False,ENG4
+2,2,,5837880,2026-08-22T14:00:00Z,Shrewsbury Town,Barnet,1 - 3,FT,True,True,False,ENG4
+2,2,,5837881,2026-08-22T14:00:00Z,Swindon Town,Cheltenham Town,2 - 1,FT,True,True,False,ENG4
+3,3,,5837883,2026-08-29T11:30:00Z,Barnet,Cheltenham Town,2 - 2,FT,True,True,False,ENG4
+3,3,,5837890,2026-08-29T11:30:00Z,Port Vale,Crewe Alexandra,0 - 0,FT,True,True,False,ENG4
+3,3,,5837891,2026-08-29T12:00:00Z,Rotherham United,Chesterfield,2 - 1,FT,True,True,False,ENG4
+3,3,,5837884,2026-08-29T14:00:00Z,Colchester United,Rochdale,1 - 0,FT,True,True,False,ENG4
+3,3,,5837885,2026-08-29T14:00:00Z,Crawley Town,Bristol Rovers,0 - 2,FT,True,True,False,ENG4
+3,3,,5837886,2026-08-29T14:00:00Z,Gillingham,Northampton Town,1 - 1,FT,True,True,False,ENG4
+3,3,,5837887,2026-08-29T14:00:00Z,Grimsby Town,Fleetwood Town,2 - 2,FT,True,True,False,ENG4
+3,3,,5837888,2026-08-29T14:00:00Z,Newport County,Tranmere Rovers,2 - 2,FT,True,True,False,ENG4
+3,3,,5837889,2026-08-29T14:00:00Z,Oldham Athletic,Swindon Town,3 - 0,FT,True,True,False,ENG4
+3,3,,5837892,2026-08-29T14:00:00Z,Shrewsbury Town,Salford City,1 - 0,FT,True,True,False,ENG4
+3,3,,5837893,2026-08-29T14:00:00Z,Walsall,Accrington Stanley,3 - 2,FT,True,True,False,ENG4
+3,3,,5837894,2026-08-29T14:00:00Z,York City,Exeter City,2 - 1,FT,True,True,False,ENG4
+4,4,,5837895,2026-09-01T18:45:00Z,Accrington Stanley,Grimsby Town,2 - 2,FT,True,True,False,ENG4
+4,4,,5837896,2026-09-01T18:45:00Z,Bristol Rovers,Colchester United,2 - 0,FT,True,True,False,ENG4
+4,4,,5837897,2026-09-01T18:45:00Z,Cheltenham Town,York City,3 - 2,FT,True,True,False,ENG4
+4,4,,5837898,2026-09-01T18:45:00Z,Chesterfield,Gillingham,1 - 1,FT,True,True,False,ENG4
+4,4,,5837899,2026-09-01T18:45:00Z,Crewe Alexandra,Walsall,2 - 2,FT,True,True,False,ENG4
+4,4,,5837900,2026-09-01T18:45:00Z,Exeter City,Barnet,1 - 1,FT,True,True,False,ENG4
+4,4,,5837901,2026-09-01T18:45:00Z,Fleetwood Town,Oldham Athletic,1 - 1,FT,True,True,False,ENG4
+4,4,,5837902,2026-09-01T18:45:00Z,Northampton Town,Crawley Town,1 - 1,FT,True,True,False,ENG4
+4,4,,5837903,2026-09-01T18:45:00Z,Rochdale,Shrewsbury Town,3 - 0,FT,True,True,False,ENG4
+4,4,,5837904,2026-09-01T18:45:00Z,Salford City,Newport County,2 - 1,FT,True,True,False,ENG4
+4,4,,5837905,2026-09-01T18:45:00Z,Swindon Town,Port Vale,3 - 1,FT,True,True,False,ENG4
+4,4,,5837906,2026-09-01T18:45:00Z,Tranmere Rovers,Rotherham United,2 - 2,FT,True,True,False,ENG4
+5,5,,5837913,2026-09-05T11:30:00Z,Fleetwood Town,Shrewsbury Town,2 - 0,FT,True,True,False,ENG4
+5,5,,5837916,2026-09-05T11:30:00Z,Salford City,Port Vale,1 - 0,FT,True,True,False,ENG4
+5,5,,5837907,2026-09-05T14:00:00Z,Accrington Stanley,Crawley Town,3 - 2,FT,True,True,False,ENG4
+5,5,,5837908,2026-09-05T14:00:00Z,Bristol Rovers,Rotherham United,1 - 0,FT,True,True,False,ENG4
+5,5,,5837909,2026-09-05T14:00:00Z,Cheltenham Town,Grimsby Town,2 - 2,FT,True,True,False,ENG4
+5,5,,5837910,2026-09-05T14:00:00Z,Chesterfield,Barnet,3 - 3,FT,True,True,False,ENG4
+5,5,,5837911,2026-09-05T14:00:00Z,Crewe Alexandra,York City,1 - 1,FT,True,True,False,ENG4
+5,5,,5837912,2026-09-05T14:00:00Z,Exeter City,Walsall,0 - 0,FT,True,True,False,ENG4
+5,5,,5837914,2026-09-05T14:00:00Z,Northampton Town,Newport County,1 - 0,FT,True,True,False,ENG4
+5,5,,5837915,2026-09-05T14:00:00Z,Rochdale,Gillingham,1 - 4,FT,True,True,False,ENG4
+5,5,,5837917,2026-09-05T14:00:00Z,Swindon Town,Colchester United,3 - 1,FT,True,True,False,ENG4
+5,5,,5837918,2026-09-05T14:00:00Z,Tranmere Rovers,Oldham Athletic,2 - 0,FT,True,True,False,ENG4
+6,6,,5837921,2026-09-12T11:30:00Z,Crawley Town,Cheltenham Town,1 - 3,FT,True,True,False,ENG4
+6,6,,5837923,2026-09-12T11:30:00Z,Grimsby Town,Bristol Rovers,2 - 0,FT,True,True,False,ENG4
+6,6,,5837919,2026-09-12T14:00:00Z,Barnet,Accrington Stanley,2 - 1,FT,True,True,False,ENG4
+6,6,,5837920,2026-09-12T14:00:00Z,Colchester United,Crewe Alexandra,1 - 1,FT,True,True,False,ENG4
+6,6,,5837922,2026-09-12T14:00:00Z,Gillingham,Tranmere Rovers,2 - 0,FT,True,True,False,ENG4
+6,6,,5837924,2026-09-12T14:00:00Z,Newport County,Fleetwood Town,1 - 1,FT,True,True,False,ENG4
+6,6,,5837925,2026-09-12T14:00:00Z,Oldham Athletic,Chesterfield,1 - 2,FT,True,True,False,ENG4
+6,6,,5837926,2026-09-12T14:00:00Z,Port Vale,Exeter City,1 - 0,FT,True,True,False,ENG4
+6,6,,5837927,2026-09-12T14:00:00Z,Rotherham United,Salford City,3 - 3,FT,True,True,False,ENG4
+6,6,,5837928,2026-09-12T14:00:00Z,Shrewsbury Town,Northampton Town,2 - 0,FT,True,True,False,ENG4
+6,6,,5837929,2026-09-12T14:00:00Z,Walsall,Rochdale,0 - 0,FT,True,True,False,ENG4
+6,6,,5837930,2026-09-12T14:00:00Z,York City,Swindon Town,4 - 0,FT,True,True,False,ENG4
+7,7,,5837940,2026-09-19T11:30:00Z,Rochdale,Oldham Athletic,2 - 0,FT,True,True,False,ENG4
+7,7,,5837942,2026-09-19T11:30:00Z,Walsall,Port Vale,2 - 0,FT,True,True,False,ENG4
+7,7,,5837931,2026-09-19T14:00:00Z,Accrington Stanley,Newport County,0 - 0,FT,True,True,False,ENG4
+7,7,,5837932,2026-09-19T14:00:00Z,Barnet,Fleetwood Town,3 - 1,FT,True,True,False,ENG4
+7,7,,5837933,2026-09-19T14:00:00Z,Chesterfield,York City,2 - 0,FT,True,True,False,ENG4
+7,7,,5837934,2026-09-19T14:00:00Z,Colchester United,Cheltenham Town,1 - 1,FT,True,True,False,ENG4
+7,7,,5837935,2026-09-19T14:00:00Z,Crewe Alexandra,Shrewsbury Town,1 - 1,FT,True,True,False,ENG4
+7,7,,5837936,2026-09-19T14:00:00Z,Exeter City,Tranmere Rovers,0 - 0,FT,True,True,False,ENG4
+7,7,,5837937,2026-09-19T14:00:00Z,Gillingham,Bristol Rovers,3 - 0,FT,True,True,False,ENG4
+7,7,,5837938,2026-09-19T14:00:00Z,Grimsby Town,Crawley Town,2 - 0,FT,True,True,False,ENG4
+7,7,,5837939,2026-09-19T14:00:00Z,Northampton Town,Rotherham United,0 - 1,FT,True,True,False,ENG4
+7,7,,5837941,2026-09-19T14:00:00Z,Salford City,Swindon Town,1 - 0,FT,True,True,False,ENG4
+8,8,,5837945,2026-09-26T11:30:00Z,Crawley Town,Barnet,,,False,False,False,ENG4
+8,8,,5837943,2026-09-26T14:00:00Z,Bristol Rovers,Exeter City,,,False,False,False,ENG4
+8,8,,5837944,2026-09-26T14:00:00Z,Cheltenham Town,Chesterfield,,,False,False,False,ENG4
+8,8,,5837946,2026-09-26T14:00:00Z,Fleetwood Town,Rochdale,,,False,False,False,ENG4
+8,8,,5837947,2026-09-26T14:00:00Z,Newport County,Grimsby Town,,,False,False,False,ENG4
+8,8,,5837949,2026-09-26T14:00:00Z,Port Vale,Northampton Town,,,False,False,False,ENG4
+8,8,,5837950,2026-09-26T14:00:00Z,Rotherham United,Crewe Alexandra,,,False,False,False,ENG4
+8,8,,5837951,2026-09-26T14:00:00Z,Shrewsbury Town,Colchester United,,,False,False,False,ENG4
+8,8,,5837952,2026-09-26T14:00:00Z,Swindon Town,Accrington Stanley,,,False,False,False,ENG4
+8,8,,5837953,2026-09-26T14:00:00Z,Tranmere Rovers,Walsall,,,False,False,False,ENG4
+8,8,,5837954,2026-09-26T14:00:00Z,York City,Gillingham,,,False,False,False,ENG4
+8,8,,5837948,2026-09-26T16:30:00Z,Oldham Athletic,Salford City,,,False,False,False,ENG4
+9,9,,5837957,2026-10-03T11:30:00Z,Chesterfield,Tranmere Rovers,,,False,False,False,ENG4
+9,9,,5837955,2026-10-03T14:00:00Z,Accrington Stanley,Cheltenham Town,,,False,False,False,ENG4
+9,9,,5837956,2026-10-03T14:00:00Z,Barnet,York City,,,False,False,False,ENG4
+9,9,,5837958,2026-10-03T14:00:00Z,Colchester United,Port Vale,,,False,False,False,ENG4
+9,9,,5837959,2026-10-03T14:00:00Z,Crewe Alexandra,Bristol Rovers,,,False,False,False,ENG4
+9,9,,5837960,2026-10-03T14:00:00Z,Exeter City,Rotherham United,,,False,False,False,ENG4
+9,9,,5837961,2026-10-03T14:00:00Z,Gillingham,Newport County,,,False,False,False,ENG4
+9,9,,5837962,2026-10-03T14:00:00Z,Grimsby Town,Shrewsbury Town,,,False,False,False,ENG4
+9,9,,5837963,2026-10-03T14:00:00Z,Northampton Town,Oldham Athletic,,,False,False,False,ENG4
+9,9,,5837964,2026-10-03T14:00:00Z,Rochdale,Swindon Town,,,False,False,False,ENG4
+9,9,,5837965,2026-10-03T14:00:00Z,Salford City,Fleetwood Town,,,False,False,False,ENG4
+9,9,,5837966,2026-10-03T14:00:00Z,Walsall,Crawley Town,,,False,False,False,ENG4
+10,10,,5837972,2026-10-10T11:30:00Z,Oldham Athletic,Accrington Stanley,,,False,False,False,ENG4
+10,10,,5837976,2026-10-10T11:30:00Z,Swindon Town,Crewe Alexandra,,,False,False,False,ENG4
+10,10,,5837967,2026-10-10T14:00:00Z,Bristol Rovers,Barnet,,,False,False,False,ENG4
+10,10,,5837968,2026-10-10T14:00:00Z,Cheltenham Town,Salford City,,,False,False,False,ENG4
+10,10,,5837969,2026-10-10T14:00:00Z,Crawley Town,Chesterfield,,,False,False,False,ENG4
+10,10,,5837970,2026-10-10T14:00:00Z,Fleetwood Town,Walsall,,,False,False,False,ENG4
+10,10,,5837971,2026-10-10T14:00:00Z,Newport County,Colchester United,,,False,False,False,ENG4
+10,10,,5837973,2026-10-10T14:00:00Z,Port Vale,Grimsby Town,,,False,False,False,ENG4
+10,10,,5837974,2026-10-10T14:00:00Z,Rotherham United,Gillingham,,,False,False,False,ENG4
+10,10,,5837975,2026-10-10T14:00:00Z,Shrewsbury Town,Exeter City,,,False,False,False,ENG4
+10,10,,5837977,2026-10-10T14:00:00Z,Tranmere Rovers,Rochdale,,,False,False,False,ENG4
+10,10,,5837978,2026-10-10T14:00:00Z,York City,Northampton Town,,,False,False,False,ENG4
+11,11,,5837982,2026-10-17T11:30:00Z,Fleetwood Town,Rotherham United,,,False,False,False,ENG4
+11,11,,5837988,2026-10-17T11:30:00Z,Shrewsbury Town,Bristol Rovers,,,False,False,False,ENG4
+11,11,,5837979,2026-10-17T14:00:00Z,Accrington Stanley,Gillingham,,,False,False,False,ENG4
+11,11,,5837980,2026-10-17T14:00:00Z,Colchester United,Exeter City,,,False,False,False,ENG4
+11,11,,5837981,2026-10-17T14:00:00Z,Crewe Alexandra,Rochdale,,,False,False,False,ENG4
+11,11,,5837983,2026-10-17T14:00:00Z,Grimsby Town,Northampton Town,,,False,False,False,ENG4
+11,11,,5837984,2026-10-17T14:00:00Z,Newport County,York City,,,False,False,False,ENG4
+11,11,,5837985,2026-10-17T14:00:00Z,Oldham Athletic,Cheltenham Town,,,False,False,False,ENG4
+11,11,,5837986,2026-10-17T14:00:00Z,Port Vale,Chesterfield,,,False,False,False,ENG4
+11,11,,5837987,2026-10-17T14:00:00Z,Salford City,Crawley Town,,,False,False,False,ENG4
+11,11,,5837989,2026-10-17T14:00:00Z,Swindon Town,Walsall,,,False,False,False,ENG4
+11,11,,5837990,2026-10-17T14:00:00Z,Tranmere Rovers,Barnet,,,False,False,False,ENG4
+12,12,,5837991,2026-10-20T18:45:00Z,Barnet,Swindon Town,,,False,False,False,ENG4
+12,12,,5837992,2026-10-20T18:45:00Z,Bristol Rovers,Salford City,,,False,False,False,ENG4
+12,12,,5837993,2026-10-20T18:45:00Z,Cheltenham Town,Fleetwood Town,,,False,False,False,ENG4
+12,12,,5837994,2026-10-20T18:45:00Z,Chesterfield,Colchester United,,,False,False,False,ENG4
+12,12,,5837995,2026-10-20T18:45:00Z,Crawley Town,Shrewsbury Town,,,False,False,False,ENG4
+12,12,,5837996,2026-10-20T18:45:00Z,Exeter City,Crewe Alexandra,,,False,False,False,ENG4
+12,12,,5837998,2026-10-20T18:45:00Z,Northampton Town,Tranmere Rovers,,,False,False,False,ENG4
+12,12,,5837999,2026-10-20T18:45:00Z,Rochdale,Grimsby Town,,,False,False,False,ENG4
+12,12,,5838000,2026-10-20T18:45:00Z,Rotherham United,Newport County,,,False,False,False,ENG4
+12,12,,5838001,2026-10-20T18:45:00Z,Walsall,Oldham Athletic,,,False,False,False,ENG4
+12,12,,5838002,2026-10-20T18:45:00Z,York City,Accrington Stanley,,,False,False,False,ENG4
+12,12,,5837997,2026-10-20T19:00:00Z,Gillingham,Port Vale,,,False,False,False,ENG4
+13,13,,5838004,2026-10-24T11:30:00Z,Bristol Rovers,Swindon Town,,,False,False,False,ENG4
+13,13,,5838005,2026-10-24T11:30:00Z,Cheltenham Town,Newport County,,,False,False,False,ENG4
+13,13,,5838010,2026-10-24T11:30:00Z,Northampton Town,Colchester United,,,False,False,False,ENG4
+13,13,,5838003,2026-10-24T14:00:00Z,Barnet,Oldham Athletic,,,False,False,False,ENG4
+13,13,,5838006,2026-10-24T14:00:00Z,Chesterfield,Crewe Alexandra,,,False,False,False,ENG4
+13,13,,5838007,2026-10-24T14:00:00Z,Crawley Town,Tranmere Rovers,,,False,False,False,ENG4
+13,13,,5838008,2026-10-24T14:00:00Z,Exeter City,Fleetwood Town,,,False,False,False,ENG4
+13,13,,5838009,2026-10-24T14:00:00Z,Gillingham,Grimsby Town,,,False,False,False,ENG4
+13,13,,5838011,2026-10-24T14:00:00Z,Rochdale,Accrington Stanley,,,False,False,False,ENG4
+13,13,,5838012,2026-10-24T14:00:00Z,Rotherham United,Shrewsbury Town,,,False,False,False,ENG4
+13,13,,5838014,2026-10-24T14:00:00Z,York City,Port Vale,,,False,False,False,ENG4
+13,13,,5838013,2026-10-26T20:00:00Z,Walsall,Salford City,,,False,False,False,ENG4
+14,14,,5838020,2026-10-30T19:45:00Z,Newport County,Chesterfield,,,False,False,False,ENG4
+14,14,,5838019,2026-10-31T12:30:00Z,Grimsby Town,York City,,,False,False,False,ENG4
+14,14,,5838022,2026-10-31T12:30:00Z,Port Vale,Rochdale,,,False,False,False,ENG4
+14,14,,5838015,2026-10-31T15:00:00Z,Accrington Stanley,Northampton Town,,,False,False,False,ENG4
+14,14,,5838016,2026-10-31T15:00:00Z,Colchester United,Walsall,,,False,False,False,ENG4
+14,14,,5838017,2026-10-31T15:00:00Z,Crewe Alexandra,Barnet,,,False,False,False,ENG4
+14,14,,5838018,2026-10-31T15:00:00Z,Fleetwood Town,Bristol Rovers,,,False,False,False,ENG4
+14,14,,5838021,2026-10-31T15:00:00Z,Oldham Athletic,Crawley Town,,,False,False,False,ENG4
+14,14,,5838023,2026-10-31T15:00:00Z,Salford City,Exeter City,,,False,False,False,ENG4
+14,14,,5838024,2026-10-31T15:00:00Z,Shrewsbury Town,Gillingham,,,False,False,False,ENG4
+14,14,,5838025,2026-10-31T15:00:00Z,Swindon Town,Rotherham United,,,False,False,False,ENG4
+14,14,,5838026,2026-10-31T15:00:00Z,Tranmere Rovers,Cheltenham Town,,,False,False,False,ENG4
+15,15,,5838030,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,,,False,False,False,ENG4
+15,15,,5838027,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield,,,False,False,False,ENG4
+15,15,,5838028,2026-11-14T15:00:00Z,Colchester United,Gillingham,,,False,False,False,ENG4
+15,15,,5838029,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,,,False,False,False,ENG4
+15,15,,5838032,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,,,False,False,False,ENG4
+15,15,,5838033,2026-11-14T15:00:00Z,Rochdale,York City,,,False,False,False,ENG4
+15,15,,5838034,2026-11-14T15:00:00Z,Rotherham United,Crawley Town,,,False,False,False,ENG4
+15,15,,5838035,2026-11-14T15:00:00Z,Salford City,Northampton Town,,,False,False,False,ENG4
+15,15,,5838036,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,,,False,False,False,ENG4
+15,15,,5838037,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,,,False,False,False,ENG4
+15,15,,5838038,2026-11-14T15:00:00Z,Walsall,Barnet,,,False,False,False,ENG4
+15,15,,5838031,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,,,False,False,False,ENG4
+16,16,,5838044,2026-11-21T12:30:00Z,Gillingham,Crewe Alexandra,,,False,False,False,ENG4
+16,16,,5838046,2026-11-21T12:30:00Z,Newport County,Swindon Town,,,False,False,False,ENG4
+16,16,,5838039,2026-11-21T15:00:00Z,Accrington Stanley,Salford City,,,False,False,False,ENG4
+16,16,,5838040,2026-11-21T15:00:00Z,Barnet,Port Vale,,,False,False,False,ENG4
+16,16,,5838041,2026-11-21T15:00:00Z,Cheltenham Town,Bristol Rovers,,,False,False,False,ENG4
+16,16,,5838042,2026-11-21T15:00:00Z,Chesterfield,Shrewsbury Town,,,False,False,False,ENG4
+16,16,,5838043,2026-11-21T15:00:00Z,Crawley Town,Fleetwood Town,,,False,False,False,ENG4
+16,16,,5838045,2026-11-21T15:00:00Z,Grimsby Town,Rotherham United,,,False,False,False,ENG4
+16,16,,5838047,2026-11-21T15:00:00Z,Northampton Town,Rochdale,,,False,False,False,ENG4
+16,16,,5838048,2026-11-21T15:00:00Z,Oldham Athletic,Exeter City,,,False,False,False,ENG4
+16,16,,5838049,2026-11-21T15:00:00Z,Tranmere Rovers,Colchester United,,,False,False,False,ENG4
+16,16,,5838050,2026-11-21T15:00:00Z,York City,Walsall,,,False,False,False,ENG4
+17,17,,5838051,2026-11-28T12:30:00Z,Bristol Rovers,Tranmere Rovers,,,False,False,False,ENG4
+17,17,,5838054,2026-11-28T12:30:00Z,Exeter City,Crawley Town,,,False,False,False,ENG4
+17,17,,5838052,2026-11-28T15:00:00Z,Colchester United,York City,,,False,False,False,ENG4
+17,17,,5838053,2026-11-28T15:00:00Z,Crewe Alexandra,Grimsby Town,,,False,False,False,ENG4
+17,17,,5838055,2026-11-28T15:00:00Z,Fleetwood Town,Accrington Stanley,,,False,False,False,ENG4
+17,17,,5838056,2026-11-28T15:00:00Z,Port Vale,Newport County,,,False,False,False,ENG4
+17,17,,5838057,2026-11-28T15:00:00Z,Rochdale,Barnet,,,False,False,False,ENG4
+17,17,,5838058,2026-11-28T15:00:00Z,Rotherham United,Oldham Athletic,,,False,False,False,ENG4
+17,17,,5838059,2026-11-28T15:00:00Z,Salford City,Gillingham,,,False,False,False,ENG4
+17,17,,5838060,2026-11-28T15:00:00Z,Shrewsbury Town,Cheltenham Town,,,False,False,False,ENG4
+17,17,,5838061,2026-11-28T15:00:00Z,Swindon Town,Chesterfield,,,False,False,False,ENG4
+17,17,,5838062,2026-11-28T15:00:00Z,Walsall,Northampton Town,,,False,False,False,ENG4
+18,18,,5838063,2026-12-01T19:45:00Z,Accrington Stanley,Crewe Alexandra,,,False,False,False,ENG4
+18,18,,5838064,2026-12-01T19:45:00Z,Barnet,Rotherham United,,,False,False,False,ENG4
+18,18,,5838065,2026-12-01T19:45:00Z,Cheltenham Town,Rochdale,,,False,False,False,ENG4
+18,18,,5838066,2026-12-01T19:45:00Z,Chesterfield,Exeter City,,,False,False,False,ENG4
+18,18,,5838067,2026-12-01T19:45:00Z,Crawley Town,Port Vale,,,False,False,False,ENG4
+18,18,,5838068,2026-12-01T19:45:00Z,Gillingham,Swindon Town,,,False,False,False,ENG4
+18,18,,5838069,2026-12-01T19:45:00Z,Grimsby Town,Colchester United,,,False,False,False,ENG4
+18,18,,5838070,2026-12-01T19:45:00Z,Newport County,Walsall,,,False,False,False,ENG4
+18,18,,5838071,2026-12-01T19:45:00Z,Northampton Town,Fleetwood Town,,,False,False,False,ENG4
+18,18,,5838072,2026-12-01T19:45:00Z,Oldham Athletic,Bristol Rovers,,,False,False,False,ENG4
+18,18,,5838073,2026-12-01T19:45:00Z,Tranmere Rovers,Salford City,,,False,False,False,ENG4
+18,18,,5838074,2026-12-01T19:45:00Z,York City,Shrewsbury Town,,,False,False,False,ENG4
+19,19,,5838078,2026-12-12T12:30:00Z,Chesterfield,Grimsby Town,,,False,False,False,ENG4
+19,19,,5838086,2026-12-12T12:30:00Z,Tranmere Rovers,York City,,,False,False,False,ENG4
+19,19,,5838075,2026-12-12T15:00:00Z,Barnet,Northampton Town,,,False,False,False,ENG4
+19,19,,5838076,2026-12-12T15:00:00Z,Bristol Rovers,Accrington Stanley,,,False,False,False,ENG4
+19,19,,5838077,2026-12-12T15:00:00Z,Cheltenham Town,Crewe Alexandra,,,False,False,False,ENG4
+19,19,,5838079,2026-12-12T15:00:00Z,Crawley Town,Newport County,,,False,False,False,ENG4
+19,19,,5838080,2026-12-12T15:00:00Z,Exeter City,Rochdale,,,False,False,False,ENG4
+19,19,,5838081,2026-12-12T15:00:00Z,Fleetwood Town,Swindon Town,,,False,False,False,ENG4
+19,19,,5838082,2026-12-12T15:00:00Z,Oldham Athletic,Gillingham,,,False,False,False,ENG4
+19,19,,5838083,2026-12-12T15:00:00Z,Rotherham United,Walsall,,,False,False,False,ENG4
+19,19,,5838084,2026-12-12T15:00:00Z,Salford City,Colchester United,,,False,False,False,ENG4
+19,19,,5838085,2026-12-12T15:00:00Z,Shrewsbury Town,Port Vale,,,False,False,False,ENG4
+20,20,,5838089,2026-12-17T20:00:00Z,Crewe Alexandra,Salford City,,,False,False,False,ENG4
+20,20,,5838088,2026-12-19T12:30:00Z,Colchester United,Fleetwood Town,,,False,False,False,ENG4
+20,20,,5838093,2026-12-19T12:30:00Z,Northampton Town,Exeter City,,,False,False,False,ENG4
+20,20,,5838087,2026-12-19T15:00:00Z,Accrington Stanley,Chesterfield,,,False,False,False,ENG4
+20,20,,5838090,2026-12-19T15:00:00Z,Gillingham,Cheltenham Town,,,False,False,False,ENG4
+20,20,,5838091,2026-12-19T15:00:00Z,Grimsby Town,Barnet,,,False,False,False,ENG4
+20,20,,5838092,2026-12-19T15:00:00Z,Newport County,Oldham Athletic,,,False,False,False,ENG4
+20,20,,5838094,2026-12-19T15:00:00Z,Port Vale,Rotherham United,,,False,False,False,ENG4
+20,20,,5838095,2026-12-19T15:00:00Z,Rochdale,Bristol Rovers,,,False,False,False,ENG4
+20,20,,5838096,2026-12-19T15:00:00Z,Swindon Town,Tranmere Rovers,,,False,False,False,ENG4
+20,20,,5838097,2026-12-19T15:00:00Z,Walsall,Shrewsbury Town,,,False,False,False,ENG4
+20,20,,5838098,2026-12-19T15:00:00Z,York City,Crawley Town,,,False,False,False,ENG4
+21,21,,5838099,2026-12-26T15:00:00Z,Barnet,Colchester United,,,False,False,False,ENG4
+21,21,,5838100,2026-12-26T15:00:00Z,Bristol Rovers,Walsall,,,False,False,False,ENG4
+21,21,,5838101,2026-12-26T15:00:00Z,Cheltenham Town,Port Vale,,,False,False,False,ENG4
+21,21,,5838102,2026-12-26T15:00:00Z,Chesterfield,Northampton Town,,,False,False,False,ENG4
+21,21,,5838103,2026-12-26T15:00:00Z,Crawley Town,Gillingham,,,False,False,False,ENG4
+21,21,,5838104,2026-12-26T15:00:00Z,Exeter City,Newport County,,,False,False,False,ENG4
+21,21,,5838105,2026-12-26T15:00:00Z,Fleetwood Town,Crewe Alexandra,,,False,False,False,ENG4
+21,21,,5838106,2026-12-26T15:00:00Z,Oldham Athletic,York City,,,False,False,False,ENG4
+21,21,,5838107,2026-12-26T15:00:00Z,Rotherham United,Rochdale,,,False,False,False,ENG4
+21,21,,5838108,2026-12-26T15:00:00Z,Salford City,Grimsby Town,,,False,False,False,ENG4
+21,21,,5838109,2026-12-26T15:00:00Z,Shrewsbury Town,Swindon Town,,,False,False,False,ENG4
+21,21,,5838110,2026-12-26T15:00:00Z,Tranmere Rovers,Accrington Stanley,,,False,False,False,ENG4
+22,22,,5838111,2026-12-29T19:45:00Z,Accrington Stanley,Rotherham United,,,False,False,False,ENG4
+22,22,,5838112,2026-12-29T19:45:00Z,Colchester United,Crawley Town,,,False,False,False,ENG4
+22,22,,5838113,2026-12-29T19:45:00Z,Crewe Alexandra,Tranmere Rovers,,,False,False,False,ENG4
+22,22,,5838114,2026-12-29T19:45:00Z,Gillingham,Barnet,,,False,False,False,ENG4
+22,22,,5838115,2026-12-29T19:45:00Z,Grimsby Town,Oldham Athletic,,,False,False,False,ENG4
+22,22,,5838116,2026-12-29T19:45:00Z,Newport County,Shrewsbury Town,,,False,False,False,ENG4
+22,22,,5838117,2026-12-29T19:45:00Z,Northampton Town,Cheltenham Town,,,False,False,False,ENG4
+22,22,,5838118,2026-12-29T19:45:00Z,Port Vale,Bristol Rovers,,,False,False,False,ENG4
+22,22,,5838119,2026-12-29T19:45:00Z,Rochdale,Salford City,,,False,False,False,ENG4
+22,22,,5838120,2026-12-29T19:45:00Z,Swindon Town,Exeter City,,,False,False,False,ENG4
+22,22,,5838121,2026-12-29T19:45:00Z,Walsall,Chesterfield,,,False,False,False,ENG4
+22,22,,5838122,2026-12-29T19:45:00Z,York City,Fleetwood Town,,,False,False,False,ENG4
+23,23,,5838123,2027-01-01T15:00:00Z,Accrington Stanley,Shrewsbury Town,,,False,False,False,ENG4
+23,23,,5838124,2027-01-01T15:00:00Z,Colchester United,Rotherham United,,,False,False,False,ENG4
+23,23,,5838125,2027-01-01T15:00:00Z,Crewe Alexandra,Oldham Athletic,,,False,False,False,ENG4
+23,23,,5838127,2027-01-01T15:00:00Z,Grimsby Town,Tranmere Rovers,,,False,False,False,ENG4
+23,23,,5838128,2027-01-01T15:00:00Z,Newport County,Barnet,,,False,False,False,ENG4
+23,23,,5838130,2027-01-01T15:00:00Z,Port Vale,Fleetwood Town,,,False,False,False,ENG4
+23,23,,5838131,2027-01-01T15:00:00Z,Rochdale,Chesterfield,,,False,False,False,ENG4
+23,23,,5838132,2027-01-01T15:00:00Z,Swindon Town,Crawley Town,,,False,False,False,ENG4
+23,23,,5838133,2027-01-01T15:00:00Z,Walsall,Cheltenham Town,,,False,False,False,ENG4
+23,23,,5838134,2027-01-01T15:00:00Z,York City,Salford City,,,False,False,False,ENG4
+23,23,,5838126,2027-01-02T15:00:00Z,Gillingham,Exeter City,,,False,False,False,ENG4
+23,23,,5838129,2027-01-02T15:00:00Z,Northampton Town,Bristol Rovers,,,False,False,False,ENG4
+24,24,,5838135,2027-01-09T12:30:00Z,Barnet,Grimsby Town,,,False,False,False,ENG4
+24,24,,5838138,2027-01-09T12:30:00Z,Chesterfield,Accrington Stanley,,,False,False,False,ENG4
+24,24,,5838145,2027-01-09T12:30:00Z,Shrewsbury Town,Walsall,,,False,False,False,ENG4
+24,24,,5838136,2027-01-09T15:00:00Z,Bristol Rovers,Rochdale,,,False,False,False,ENG4
+24,24,,5838137,2027-01-09T15:00:00Z,Cheltenham Town,Gillingham,,,False,False,False,ENG4
+24,24,,5838139,2027-01-09T15:00:00Z,Crawley Town,York City,,,False,False,False,ENG4
+24,24,,5838140,2027-01-09T15:00:00Z,Exeter City,Northampton Town,,,False,False,False,ENG4
+24,24,,5838141,2027-01-09T15:00:00Z,Fleetwood Town,Colchester United,,,False,False,False,ENG4
+24,24,,5838142,2027-01-09T15:00:00Z,Oldham Athletic,Newport County,,,False,False,False,ENG4
+24,24,,5838143,2027-01-09T15:00:00Z,Rotherham United,Port Vale,,,False,False,False,ENG4
+24,24,,5838144,2027-01-09T15:00:00Z,Salford City,Crewe Alexandra,,,False,False,False,ENG4
+24,24,,5838146,2027-01-09T15:00:00Z,Tranmere Rovers,Swindon Town,,,False,False,False,ENG4
+25,25,,5838147,2027-01-16T15:00:00Z,Barnet,Tranmere Rovers,,,False,False,False,ENG4
+25,25,,5838148,2027-01-16T15:00:00Z,Bristol Rovers,Shrewsbury Town,,,False,False,False,ENG4
+25,25,,5838149,2027-01-16T15:00:00Z,Cheltenham Town,Oldham Athletic,,,False,False,False,ENG4
+25,25,,5838150,2027-01-16T15:00:00Z,Chesterfield,Port Vale,,,False,False,False,ENG4
+25,25,,5838151,2027-01-16T15:00:00Z,Crawley Town,Salford City,,,False,False,False,ENG4
+25,25,,5838152,2027-01-16T15:00:00Z,Exeter City,Colchester United,,,False,False,False,ENG4
+25,25,,5838153,2027-01-16T15:00:00Z,Gillingham,Accrington Stanley,,,False,False,False,ENG4
+25,25,,5838154,2027-01-16T15:00:00Z,Northampton Town,Grimsby Town,,,False,False,False,ENG4
+25,25,,5838155,2027-01-16T15:00:00Z,Rochdale,Crewe Alexandra,,,False,False,False,ENG4
+25,25,,5838156,2027-01-16T15:00:00Z,Rotherham United,Fleetwood Town,,,False,False,False,ENG4
+25,25,,5838157,2027-01-16T15:00:00Z,Walsall,Swindon Town,,,False,False,False,ENG4
+25,25,,5838158,2027-01-16T15:00:00Z,York City,Newport County,,,False,False,False,ENG4
+26,26,,5838159,2027-01-19T19:45:00Z,Accrington Stanley,York City,,,False,False,False,ENG4
+26,26,,5838160,2027-01-19T19:45:00Z,Colchester United,Chesterfield,,,False,False,False,ENG4
+26,26,,5838161,2027-01-19T19:45:00Z,Crewe Alexandra,Exeter City,,,False,False,False,ENG4
+26,26,,5838162,2027-01-19T19:45:00Z,Fleetwood Town,Cheltenham Town,,,False,False,False,ENG4
+26,26,,5838163,2027-01-19T19:45:00Z,Grimsby Town,Rochdale,,,False,False,False,ENG4
+26,26,,5838164,2027-01-19T19:45:00Z,Newport County,Rotherham United,,,False,False,False,ENG4
+26,26,,5838165,2027-01-19T19:45:00Z,Oldham Athletic,Walsall,,,False,False,False,ENG4
+26,26,,5838166,2027-01-19T19:45:00Z,Port Vale,Gillingham,,,False,False,False,ENG4
+26,26,,5838167,2027-01-19T19:45:00Z,Salford City,Bristol Rovers,,,False,False,False,ENG4
+26,26,,5838168,2027-01-19T19:45:00Z,Shrewsbury Town,Crawley Town,,,False,False,False,ENG4
+26,26,,5838169,2027-01-19T19:45:00Z,Swindon Town,Barnet,,,False,False,False,ENG4
+26,26,,5838170,2027-01-19T19:45:00Z,Tranmere Rovers,Northampton Town,,,False,False,False,ENG4
+27,27,,5838171,2027-01-23T15:00:00Z,Accrington Stanley,Rochdale,,,False,False,False,ENG4
+27,27,,5838172,2027-01-23T15:00:00Z,Colchester United,Northampton Town,,,False,False,False,ENG4
+27,27,,5838173,2027-01-23T15:00:00Z,Crewe Alexandra,Chesterfield,,,False,False,False,ENG4
+27,27,,5838174,2027-01-23T15:00:00Z,Fleetwood Town,Exeter City,,,False,False,False,ENG4
+27,27,,5838175,2027-01-23T15:00:00Z,Grimsby Town,Gillingham,,,False,False,False,ENG4
+27,27,,5838176,2027-01-23T15:00:00Z,Newport County,Cheltenham Town,,,False,False,False,ENG4
+27,27,,5838177,2027-01-23T15:00:00Z,Oldham Athletic,Barnet,,,False,False,False,ENG4
+27,27,,5838178,2027-01-23T15:00:00Z,Port Vale,York City,,,False,False,False,ENG4
+27,27,,5838179,2027-01-23T15:00:00Z,Salford City,Walsall,,,False,False,False,ENG4
+27,27,,5838180,2027-01-23T15:00:00Z,Shrewsbury Town,Rotherham United,,,False,False,False,ENG4
+27,27,,5838181,2027-01-23T15:00:00Z,Swindon Town,Bristol Rovers,,,False,False,False,ENG4
+27,27,,5838182,2027-01-23T15:00:00Z,Tranmere Rovers,Crawley Town,,,False,False,False,ENG4
+28,28,,5838183,2027-01-30T15:00:00Z,Barnet,Crewe Alexandra,,,False,False,False,ENG4
+28,28,,5838184,2027-01-30T15:00:00Z,Bristol Rovers,Fleetwood Town,,,False,False,False,ENG4
+28,28,,5838185,2027-01-30T15:00:00Z,Cheltenham Town,Tranmere Rovers,,,False,False,False,ENG4
+28,28,,5838186,2027-01-30T15:00:00Z,Chesterfield,Newport County,,,False,False,False,ENG4
+28,28,,5838187,2027-01-30T15:00:00Z,Crawley Town,Oldham Athletic,,,False,False,False,ENG4
+28,28,,5838188,2027-01-30T15:00:00Z,Exeter City,Salford City,,,False,False,False,ENG4
+28,28,,5838189,2027-01-30T15:00:00Z,Gillingham,Shrewsbury Town,,,False,False,False,ENG4
+28,28,,5838190,2027-01-30T15:00:00Z,Northampton Town,Accrington Stanley,,,False,False,False,ENG4
+28,28,,5838191,2027-01-30T15:00:00Z,Rochdale,Port Vale,,,False,False,False,ENG4
+28,28,,5838192,2027-01-30T15:00:00Z,Rotherham United,Swindon Town,,,False,False,False,ENG4
+28,28,,5838193,2027-01-30T15:00:00Z,Walsall,Colchester United,,,False,False,False,ENG4
+28,28,,5838194,2027-01-30T15:00:00Z,York City,Grimsby Town,,,False,False,False,ENG4
+29,29,,5838195,2027-02-06T15:00:00Z,Accrington Stanley,Walsall,,,False,False,False,ENG4
+29,29,,5838196,2027-02-06T15:00:00Z,Bristol Rovers,Crawley Town,,,False,False,False,ENG4
+29,29,,5838197,2027-02-06T15:00:00Z,Cheltenham Town,Barnet,,,False,False,False,ENG4
+29,29,,5838198,2027-02-06T15:00:00Z,Chesterfield,Rotherham United,,,False,False,False,ENG4
+29,29,,5838199,2027-02-06T15:00:00Z,Crewe Alexandra,Port Vale,,,False,False,False,ENG4
+29,29,,5838200,2027-02-06T15:00:00Z,Exeter City,York City,,,False,False,False,ENG4
+29,29,,5838201,2027-02-06T15:00:00Z,Fleetwood Town,Grimsby Town,,,False,False,False,ENG4
+29,29,,5838202,2027-02-06T15:00:00Z,Northampton Town,Gillingham,,,False,False,False,ENG4
+29,29,,5838203,2027-02-06T15:00:00Z,Rochdale,Colchester United,,,False,False,False,ENG4
+29,29,,5838204,2027-02-06T15:00:00Z,Salford City,Shrewsbury Town,,,False,False,False,ENG4
+29,29,,5838205,2027-02-06T15:00:00Z,Swindon Town,Oldham Athletic,,,False,False,False,ENG4
+29,29,,5838206,2027-02-06T15:00:00Z,Tranmere Rovers,Newport County,,,False,False,False,ENG4
+30,30,,5838207,2027-02-09T19:45:00Z,Barnet,Exeter City,,,False,False,False,ENG4
+30,30,,5838208,2027-02-09T19:45:00Z,Colchester United,Bristol Rovers,,,False,False,False,ENG4
+30,30,,5838209,2027-02-09T19:45:00Z,Crawley Town,Northampton Town,,,False,False,False,ENG4
+30,30,,5838210,2027-02-09T19:45:00Z,Gillingham,Chesterfield,,,False,False,False,ENG4
+30,30,,5838211,2027-02-09T19:45:00Z,Grimsby Town,Accrington Stanley,,,False,False,False,ENG4
+30,30,,5838212,2027-02-09T19:45:00Z,Newport County,Salford City,,,False,False,False,ENG4
+30,30,,5838213,2027-02-09T19:45:00Z,Oldham Athletic,Fleetwood Town,,,False,False,False,ENG4
+30,30,,5838214,2027-02-09T19:45:00Z,Port Vale,Swindon Town,,,False,False,False,ENG4
+30,30,,5838215,2027-02-09T19:45:00Z,Rotherham United,Tranmere Rovers,,,False,False,False,ENG4
+30,30,,5838216,2027-02-09T19:45:00Z,Shrewsbury Town,Rochdale,,,False,False,False,ENG4
+30,30,,5838217,2027-02-09T19:45:00Z,Walsall,Crewe Alexandra,,,False,False,False,ENG4
+30,30,,5838218,2027-02-09T19:45:00Z,York City,Cheltenham Town,,,False,False,False,ENG4
+31,31,,5838219,2027-02-13T15:00:00Z,Barnet,Chesterfield,,,False,False,False,ENG4
+31,31,,5838220,2027-02-13T15:00:00Z,Colchester United,Swindon Town,,,False,False,False,ENG4
+31,31,,5838221,2027-02-13T15:00:00Z,Crawley Town,Accrington Stanley,,,False,False,False,ENG4
+31,31,,5838222,2027-02-13T15:00:00Z,Gillingham,Rochdale,,,False,False,False,ENG4
+31,31,,5838223,2027-02-13T15:00:00Z,Grimsby Town,Cheltenham Town,,,False,False,False,ENG4
+31,31,,5838224,2027-02-13T15:00:00Z,Newport County,Northampton Town,,,False,False,False,ENG4
+31,31,,5838225,2027-02-13T15:00:00Z,Oldham Athletic,Tranmere Rovers,,,False,False,False,ENG4
+31,31,,5838226,2027-02-13T15:00:00Z,Port Vale,Salford City,,,False,False,False,ENG4
+31,31,,5838227,2027-02-13T15:00:00Z,Rotherham United,Bristol Rovers,,,False,False,False,ENG4
+31,31,,5838228,2027-02-13T15:00:00Z,Shrewsbury Town,Fleetwood Town,,,False,False,False,ENG4
+31,31,,5838229,2027-02-13T15:00:00Z,Walsall,Exeter City,,,False,False,False,ENG4
+31,31,,5838230,2027-02-13T15:00:00Z,York City,Crewe Alexandra,,,False,False,False,ENG4
+32,32,,5838231,2027-02-20T15:00:00Z,Accrington Stanley,Barnet,,,False,False,False,ENG4
+32,32,,5838232,2027-02-20T15:00:00Z,Bristol Rovers,Grimsby Town,,,False,False,False,ENG4
+32,32,,5838233,2027-02-20T15:00:00Z,Cheltenham Town,Crawley Town,,,False,False,False,ENG4
+32,32,,5838234,2027-02-20T15:00:00Z,Chesterfield,Oldham Athletic,,,False,False,False,ENG4
+32,32,,5838235,2027-02-20T15:00:00Z,Crewe Alexandra,Colchester United,,,False,False,False,ENG4
+32,32,,5838236,2027-02-20T15:00:00Z,Exeter City,Port Vale,,,False,False,False,ENG4
+32,32,,5838237,2027-02-20T15:00:00Z,Fleetwood Town,Newport County,,,False,False,False,ENG4
+32,32,,5838238,2027-02-20T15:00:00Z,Northampton Town,Shrewsbury Town,,,False,False,False,ENG4
+32,32,,5838239,2027-02-20T15:00:00Z,Rochdale,Walsall,,,False,False,False,ENG4
+32,32,,5838240,2027-02-20T15:00:00Z,Salford City,Rotherham United,,,False,False,False,ENG4
+32,32,,5838241,2027-02-20T15:00:00Z,Swindon Town,York City,,,False,False,False,ENG4
+32,32,,5838242,2027-02-20T15:00:00Z,Tranmere Rovers,Gillingham,,,False,False,False,ENG4
+33,33,,5838243,2027-02-27T15:00:00Z,Accrington Stanley,Port Vale,,,False,False,False,ENG4
+33,33,,5838244,2027-02-27T15:00:00Z,Barnet,Walsall,,,False,False,False,ENG4
+33,33,,5838245,2027-02-27T15:00:00Z,Cheltenham Town,Exeter City,,,False,False,False,ENG4
+33,33,,5838246,2027-02-27T15:00:00Z,Chesterfield,Bristol Rovers,,,False,False,False,ENG4
+33,33,,5838247,2027-02-27T15:00:00Z,Crawley Town,Rotherham United,,,False,False,False,ENG4
+33,33,,5838248,2027-02-27T15:00:00Z,Gillingham,Colchester United,,,False,False,False,ENG4
+33,33,,5838249,2027-02-27T15:00:00Z,Grimsby Town,Swindon Town,,,False,False,False,ENG4
+33,33,,5838250,2027-02-27T15:00:00Z,Newport County,Crewe Alexandra,,,False,False,False,ENG4
+33,33,,5838251,2027-02-27T15:00:00Z,Northampton Town,Salford City,,,False,False,False,ENG4
+33,33,,5838252,2027-02-27T15:00:00Z,Oldham Athletic,Shrewsbury Town,,,False,False,False,ENG4
+33,33,,5838253,2027-02-27T15:00:00Z,Tranmere Rovers,Fleetwood Town,,,False,False,False,ENG4
+33,33,,5838254,2027-02-27T15:00:00Z,York City,Rochdale,,,False,False,False,ENG4
+34,34,,5838255,2027-03-06T15:00:00Z,Bristol Rovers,York City,,,False,False,False,ENG4
+34,34,,5838256,2027-03-06T15:00:00Z,Colchester United,Accrington Stanley,,,False,False,False,ENG4
+34,34,,5838257,2027-03-06T15:00:00Z,Crewe Alexandra,Crawley Town,,,False,False,False,ENG4
+34,34,,5838258,2027-03-06T15:00:00Z,Exeter City,Grimsby Town,,,False,False,False,ENG4
+34,34,,5838259,2027-03-06T15:00:00Z,Fleetwood Town,Chesterfield,,,False,False,False,ENG4
+34,34,,5838260,2027-03-06T15:00:00Z,Port Vale,Oldham Athletic,,,False,False,False,ENG4
+34,34,,5838261,2027-03-06T15:00:00Z,Rochdale,Newport County,,,False,False,False,ENG4
+34,34,,5838262,2027-03-06T15:00:00Z,Rotherham United,Cheltenham Town,,,False,False,False,ENG4
+34,34,,5838263,2027-03-06T15:00:00Z,Salford City,Barnet,,,False,False,False,ENG4
+34,34,,5838264,2027-03-06T15:00:00Z,Shrewsbury Town,Tranmere Rovers,,,False,False,False,ENG4
+34,34,,5838265,2027-03-06T15:00:00Z,Swindon Town,Northampton Town,,,False,False,False,ENG4
+34,34,,5838266,2027-03-06T15:00:00Z,Walsall,Gillingham,,,False,False,False,ENG4
+35,35,,5838267,2027-03-13T15:00:00Z,Accrington Stanley,Exeter City,,,False,False,False,ENG4
+35,35,,5838268,2027-03-13T15:00:00Z,Barnet,Shrewsbury Town,,,False,False,False,ENG4
+35,35,,5838269,2027-03-13T15:00:00Z,Cheltenham Town,Swindon Town,,,False,False,False,ENG4
+35,35,,5838270,2027-03-13T15:00:00Z,Chesterfield,Salford City,,,False,False,False,ENG4
+35,35,,5838271,2027-03-13T15:00:00Z,Crawley Town,Rochdale,,,False,False,False,ENG4
+35,35,,5838272,2027-03-13T15:00:00Z,Gillingham,Fleetwood Town,,,False,False,False,ENG4
+35,35,,5838273,2027-03-13T15:00:00Z,Grimsby Town,Walsall,,,False,False,False,ENG4
+35,35,,5838274,2027-03-13T15:00:00Z,Newport County,Bristol Rovers,,,False,False,False,ENG4
+35,35,,5838275,2027-03-13T15:00:00Z,Northampton Town,Crewe Alexandra,,,False,False,False,ENG4
+35,35,,5838276,2027-03-13T15:00:00Z,Oldham Athletic,Colchester United,,,False,False,False,ENG4
+35,35,,5838277,2027-03-13T15:00:00Z,Tranmere Rovers,Port Vale,,,False,False,False,ENG4
+35,35,,5838278,2027-03-13T15:00:00Z,York City,Rotherham United,,,False,False,False,ENG4
+36,36,,5838279,2027-03-20T15:00:00Z,Bristol Rovers,Cheltenham Town,,,False,False,False,ENG4
+36,36,,5838280,2027-03-20T15:00:00Z,Colchester United,Tranmere Rovers,,,False,False,False,ENG4
+36,36,,5838281,2027-03-20T15:00:00Z,Crewe Alexandra,Gillingham,,,False,False,False,ENG4
+36,36,,5838282,2027-03-20T15:00:00Z,Exeter City,Oldham Athletic,,,False,False,False,ENG4
+36,36,,5838283,2027-03-20T15:00:00Z,Fleetwood Town,Crawley Town,,,False,False,False,ENG4
+36,36,,5838284,2027-03-20T15:00:00Z,Port Vale,Barnet,,,False,False,False,ENG4
+36,36,,5838285,2027-03-20T15:00:00Z,Rochdale,Northampton Town,,,False,False,False,ENG4
+36,36,,5838286,2027-03-20T15:00:00Z,Rotherham United,Grimsby Town,,,False,False,False,ENG4
+36,36,,5838287,2027-03-20T15:00:00Z,Salford City,Accrington Stanley,,,False,False,False,ENG4
+36,36,,5838288,2027-03-20T15:00:00Z,Shrewsbury Town,Chesterfield,,,False,False,False,ENG4
+36,36,,5838289,2027-03-20T15:00:00Z,Swindon Town,Newport County,,,False,False,False,ENG4
+36,36,,5838290,2027-03-20T15:00:00Z,Walsall,York City,,,False,False,False,ENG4
+37,37,,5838291,2027-03-26T15:00:00Z,Barnet,Newport County,,,False,False,False,ENG4
+37,37,,5838292,2027-03-26T15:00:00Z,Bristol Rovers,Northampton Town,,,False,False,False,ENG4
+37,37,,5838293,2027-03-26T15:00:00Z,Cheltenham Town,Walsall,,,False,False,False,ENG4
+37,37,,5838294,2027-03-26T15:00:00Z,Chesterfield,Rochdale,,,False,False,False,ENG4
+37,37,,5838295,2027-03-26T15:00:00Z,Crawley Town,Swindon Town,,,False,False,False,ENG4
+37,37,,5838296,2027-03-26T15:00:00Z,Exeter City,Gillingham,,,False,False,False,ENG4
+37,37,,5838297,2027-03-26T15:00:00Z,Fleetwood Town,Port Vale,,,False,False,False,ENG4
+37,37,,5838298,2027-03-26T15:00:00Z,Oldham Athletic,Crewe Alexandra,,,False,False,False,ENG4
+37,37,,5838299,2027-03-26T15:00:00Z,Rotherham United,Colchester United,,,False,False,False,ENG4
+37,37,,5838300,2027-03-26T15:00:00Z,Salford City,York City,,,False,False,False,ENG4
+37,37,,5838301,2027-03-26T15:00:00Z,Shrewsbury Town,Accrington Stanley,,,False,False,False,ENG4
+37,37,,5838302,2027-03-26T15:00:00Z,Tranmere Rovers,Grimsby Town,,,False,False,False,ENG4
+38,38,,5838303,2027-03-29T14:00:00Z,Accrington Stanley,Tranmere Rovers,,,False,False,False,ENG4
+38,38,,5838304,2027-03-29T14:00:00Z,Colchester United,Barnet,,,False,False,False,ENG4
+38,38,,5838305,2027-03-29T14:00:00Z,Crewe Alexandra,Fleetwood Town,,,False,False,False,ENG4
+38,38,,5838306,2027-03-29T14:00:00Z,Gillingham,Crawley Town,,,False,False,False,ENG4
+38,38,,5838307,2027-03-29T14:00:00Z,Grimsby Town,Salford City,,,False,False,False,ENG4
+38,38,,5838308,2027-03-29T14:00:00Z,Newport County,Exeter City,,,False,False,False,ENG4
+38,38,,5838309,2027-03-29T14:00:00Z,Northampton Town,Chesterfield,,,False,False,False,ENG4
+38,38,,5838310,2027-03-29T14:00:00Z,Port Vale,Cheltenham Town,,,False,False,False,ENG4
+38,38,,5838311,2027-03-29T14:00:00Z,Rochdale,Rotherham United,,,False,False,False,ENG4
+38,38,,5838312,2027-03-29T14:00:00Z,Swindon Town,Shrewsbury Town,,,False,False,False,ENG4
+38,38,,5838313,2027-03-29T14:00:00Z,Walsall,Bristol Rovers,,,False,False,False,ENG4
+38,38,,5838314,2027-03-29T14:00:00Z,York City,Oldham Athletic,,,False,False,False,ENG4
+39,39,,5838315,2027-04-03T14:00:00Z,Barnet,Gillingham,,,False,False,False,ENG4
+39,39,,5838316,2027-04-03T14:00:00Z,Bristol Rovers,Port Vale,,,False,False,False,ENG4
+39,39,,5838317,2027-04-03T14:00:00Z,Cheltenham Town,Northampton Town,,,False,False,False,ENG4
+39,39,,5838318,2027-04-03T14:00:00Z,Chesterfield,Walsall,,,False,False,False,ENG4
+39,39,,5838319,2027-04-03T14:00:00Z,Crawley Town,Colchester United,,,False,False,False,ENG4
+39,39,,5838320,2027-04-03T14:00:00Z,Exeter City,Swindon Town,,,False,False,False,ENG4
+39,39,,5838321,2027-04-03T14:00:00Z,Fleetwood Town,York City,,,False,False,False,ENG4
+39,39,,5838322,2027-04-03T14:00:00Z,Oldham Athletic,Grimsby Town,,,False,False,False,ENG4
+39,39,,5838323,2027-04-03T14:00:00Z,Rotherham United,Accrington Stanley,,,False,False,False,ENG4
+39,39,,5838324,2027-04-03T14:00:00Z,Salford City,Rochdale,,,False,False,False,ENG4
+39,39,,5838325,2027-04-03T14:00:00Z,Shrewsbury Town,Newport County,,,False,False,False,ENG4
+39,39,,5838326,2027-04-03T14:00:00Z,Tranmere Rovers,Crewe Alexandra,,,False,False,False,ENG4
+40,40,,5838327,2027-04-10T14:00:00Z,Accrington Stanley,Bristol Rovers,,,False,False,False,ENG4
+40,40,,5838328,2027-04-10T14:00:00Z,Colchester United,Salford City,,,False,False,False,ENG4
+40,40,,5838329,2027-04-10T14:00:00Z,Crewe Alexandra,Cheltenham Town,,,False,False,False,ENG4
+40,40,,5838330,2027-04-10T14:00:00Z,Gillingham,Oldham Athletic,,,False,False,False,ENG4
+40,40,,5838331,2027-04-10T14:00:00Z,Grimsby Town,Chesterfield,,,False,False,False,ENG4
+40,40,,5838332,2027-04-10T14:00:00Z,Newport County,Crawley Town,,,False,False,False,ENG4
+40,40,,5838333,2027-04-10T14:00:00Z,Northampton Town,Barnet,,,False,False,False,ENG4
+40,40,,5838334,2027-04-10T14:00:00Z,Port Vale,Shrewsbury Town,,,False,False,False,ENG4
+40,40,,5838335,2027-04-10T14:00:00Z,Rochdale,Exeter City,,,False,False,False,ENG4
+40,40,,5838336,2027-04-10T14:00:00Z,Swindon Town,Fleetwood Town,,,False,False,False,ENG4
+40,40,,5838337,2027-04-10T14:00:00Z,Walsall,Rotherham United,,,False,False,False,ENG4
+40,40,,5838338,2027-04-10T14:00:00Z,York City,Tranmere Rovers,,,False,False,False,ENG4
+41,41,,5838339,2027-04-13T18:45:00Z,Accrington Stanley,Oldham Athletic,,,False,False,False,ENG4
+41,41,,5838340,2027-04-13T18:45:00Z,Barnet,Bristol Rovers,,,False,False,False,ENG4
+41,41,,5838341,2027-04-13T18:45:00Z,Chesterfield,Crawley Town,,,False,False,False,ENG4
+41,41,,5838342,2027-04-13T18:45:00Z,Colchester United,Newport County,,,False,False,False,ENG4
+41,41,,5838343,2027-04-13T18:45:00Z,Crewe Alexandra,Swindon Town,,,False,False,False,ENG4
+41,41,,5838344,2027-04-13T18:45:00Z,Exeter City,Shrewsbury Town,,,False,False,False,ENG4
+41,41,,5838345,2027-04-13T18:45:00Z,Gillingham,Rotherham United,,,False,False,False,ENG4
+41,41,,5838346,2027-04-13T18:45:00Z,Grimsby Town,Port Vale,,,False,False,False,ENG4
+41,41,,5838347,2027-04-13T18:45:00Z,Northampton Town,York City,,,False,False,False,ENG4
+41,41,,5838348,2027-04-13T18:45:00Z,Rochdale,Tranmere Rovers,,,False,False,False,ENG4
+41,41,,5838349,2027-04-13T18:45:00Z,Salford City,Cheltenham Town,,,False,False,False,ENG4
+41,41,,5838350,2027-04-13T18:45:00Z,Walsall,Fleetwood Town,,,False,False,False,ENG4
+42,42,,5838356,2027-04-17T11:30:00Z,Oldham Athletic,Rochdale,,,False,False,False,ENG4
+42,42,,5838351,2027-04-17T14:00:00Z,Bristol Rovers,Gillingham,,,False,False,False,ENG4
+42,42,,5838352,2027-04-17T14:00:00Z,Cheltenham Town,Colchester United,,,False,False,False,ENG4
+42,42,,5838353,2027-04-17T14:00:00Z,Crawley Town,Grimsby Town,,,False,False,False,ENG4
+42,42,,5838354,2027-04-17T14:00:00Z,Fleetwood Town,Barnet,,,False,False,False,ENG4
+42,42,,5838355,2027-04-17T14:00:00Z,Newport County,Accrington Stanley,,,False,False,False,ENG4
+42,42,,5838357,2027-04-17T14:00:00Z,Port Vale,Walsall,,,False,False,False,ENG4
+42,42,,5838358,2027-04-17T14:00:00Z,Rotherham United,Northampton Town,,,False,False,False,ENG4
+42,42,,5838359,2027-04-17T14:00:00Z,Shrewsbury Town,Crewe Alexandra,,,False,False,False,ENG4
+42,42,,5838360,2027-04-17T14:00:00Z,Swindon Town,Salford City,,,False,False,False,ENG4
+42,42,,5838361,2027-04-17T14:00:00Z,Tranmere Rovers,Exeter City,,,False,False,False,ENG4
+42,42,,5838362,2027-04-17T14:00:00Z,York City,Chesterfield,,,False,False,False,ENG4
+43,43,,5838363,2027-04-24T14:00:00Z,Accrington Stanley,Swindon Town,,,False,False,False,ENG4
+43,43,,5838364,2027-04-24T14:00:00Z,Barnet,Crawley Town,,,False,False,False,ENG4
+43,43,,5838365,2027-04-24T14:00:00Z,Chesterfield,Cheltenham Town,,,False,False,False,ENG4
+43,43,,5838366,2027-04-24T14:00:00Z,Colchester United,Shrewsbury Town,,,False,False,False,ENG4
+43,43,,5838367,2027-04-24T14:00:00Z,Crewe Alexandra,Rotherham United,,,False,False,False,ENG4
+43,43,,5838368,2027-04-24T14:00:00Z,Exeter City,Bristol Rovers,,,False,False,False,ENG4
+43,43,,5838369,2027-04-24T14:00:00Z,Gillingham,York City,,,False,False,False,ENG4
+43,43,,5838370,2027-04-24T14:00:00Z,Grimsby Town,Newport County,,,False,False,False,ENG4
+43,43,,5838371,2027-04-24T14:00:00Z,Northampton Town,Port Vale,,,False,False,False,ENG4
+43,43,,5838372,2027-04-24T14:00:00Z,Rochdale,Fleetwood Town,,,False,False,False,ENG4
+43,43,,5838373,2027-04-24T14:00:00Z,Salford City,Oldham Athletic,,,False,False,False,ENG4
+43,43,,5838374,2027-04-24T14:00:00Z,Walsall,Tranmere Rovers,,,False,False,False,ENG4
+44,44,,5838375,2027-04-27T18:45:00Z,Bristol Rovers,Crewe Alexandra,,,False,False,False,ENG4
+44,44,,5838376,2027-04-27T18:45:00Z,Cheltenham Town,Accrington Stanley,,,False,False,False,ENG4
+44,44,,5838377,2027-04-27T18:45:00Z,Crawley Town,Walsall,,,False,False,False,ENG4
+44,44,,5838378,2027-04-27T18:45:00Z,Fleetwood Town,Salford City,,,False,False,False,ENG4
+44,44,,5838379,2027-04-27T18:45:00Z,Newport County,Gillingham,,,False,False,False,ENG4
+44,44,,5838380,2027-04-27T18:45:00Z,Oldham Athletic,Northampton Town,,,False,False,False,ENG4
+44,44,,5838381,2027-04-27T18:45:00Z,Port Vale,Colchester United,,,False,False,False,ENG4
+44,44,,5838382,2027-04-27T18:45:00Z,Rotherham United,Exeter City,,,False,False,False,ENG4
+44,44,,5838383,2027-04-27T18:45:00Z,Shrewsbury Town,Grimsby Town,,,False,False,False,ENG4
+44,44,,5838384,2027-04-27T18:45:00Z,Swindon Town,Rochdale,,,False,False,False,ENG4
+44,44,,5838385,2027-04-27T18:45:00Z,Tranmere Rovers,Chesterfield,,,False,False,False,ENG4
+44,44,,5838386,2027-04-27T18:45:00Z,York City,Barnet,,,False,False,False,ENG4
+45,45,,5838387,2027-05-01T14:00:00Z,Accrington Stanley,Fleetwood Town,,,False,False,False,ENG4
+45,45,,5838388,2027-05-01T14:00:00Z,Barnet,Rochdale,,,False,False,False,ENG4
+45,45,,5838389,2027-05-01T14:00:00Z,Cheltenham Town,Shrewsbury Town,,,False,False,False,ENG4
+45,45,,5838390,2027-05-01T14:00:00Z,Chesterfield,Swindon Town,,,False,False,False,ENG4
+45,45,,5838391,2027-05-01T14:00:00Z,Crawley Town,Exeter City,,,False,False,False,ENG4
+45,45,,5838392,2027-05-01T14:00:00Z,Gillingham,Salford City,,,False,False,False,ENG4
+45,45,,5838393,2027-05-01T14:00:00Z,Grimsby Town,Crewe Alexandra,,,False,False,False,ENG4
+45,45,,5838394,2027-05-01T14:00:00Z,Newport County,Port Vale,,,False,False,False,ENG4
+45,45,,5838395,2027-05-01T14:00:00Z,Northampton Town,Walsall,,,False,False,False,ENG4
+45,45,,5838396,2027-05-01T14:00:00Z,Oldham Athletic,Rotherham United,,,False,False,False,ENG4
+45,45,,5838397,2027-05-01T14:00:00Z,Tranmere Rovers,Bristol Rovers,,,False,False,False,ENG4
+45,45,,5838398,2027-05-01T14:00:00Z,York City,Colchester United,,,False,False,False,ENG4
+46,46,,5838399,2027-05-08T14:00:00Z,Bristol Rovers,Oldham Athletic,,,False,False,False,ENG4
+46,46,,5838400,2027-05-08T14:00:00Z,Colchester United,Grimsby Town,,,False,False,False,ENG4
+46,46,,5838401,2027-05-08T14:00:00Z,Crewe Alexandra,Accrington Stanley,,,False,False,False,ENG4
+46,46,,5838402,2027-05-08T14:00:00Z,Exeter City,Chesterfield,,,False,False,False,ENG4
+46,46,,5838403,2027-05-08T14:00:00Z,Fleetwood Town,Northampton Town,,,False,False,False,ENG4
+46,46,,5838404,2027-05-08T14:00:00Z,Port Vale,Crawley Town,,,False,False,False,ENG4
+46,46,,5838405,2027-05-08T14:00:00Z,Rochdale,Cheltenham Town,,,False,False,False,ENG4
+46,46,,5838406,2027-05-08T14:00:00Z,Rotherham United,Barnet,,,False,False,False,ENG4
+46,46,,5838407,2027-05-08T14:00:00Z,Salford City,Tranmere Rovers,,,False,False,False,ENG4
+46,46,,5838408,2027-05-08T14:00:00Z,Shrewsbury Town,York City,,,False,False,False,ENG4
+46,46,,5838409,2027-05-08T14:00:00Z,Swindon Town,Gillingham,,,False,False,False,ENG4
+46,46,,5838410,2027-05-08T14:00:00Z,Walsall,Newport County,,,False,False,False,ENG4

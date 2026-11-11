@@ -1,0 +1,199 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5793898,2026-07-31T19:00:00Z,Dundee United,Rangers,1 - 1,FT,True,True,False,SCO1
+1,1,,5793899,2026-08-01T14:00:00Z,Falkirk,St. Mirren,0 - 2,FT,True,True,False,SCO1
+1,1,,5793900,2026-08-01T16:30:00Z,Aberdeen,Heart of Midlothian,2 - 1,FT,True,True,False,SCO1
+1,1,,5793901,2026-08-02T13:00:00Z,St. Johnstone,Kilmarnock,4 - 3,FT,True,True,False,SCO1
+1,1,,5793902,2026-08-02T15:30:00Z,Hibernian,Motherwell,1 - 2,FT,True,True,False,SCO1
+1,1,,5793903,2026-08-03T18:30:00Z,Celtic,Dundee FC,1 - 0,FT,True,True,False,SCO1
+2,2,,5793904,2026-08-08T14:00:00Z,Dundee FC,Aberdeen,2 - 0,FT,True,True,False,SCO1
+2,2,,5793907,2026-08-08T14:00:00Z,St. Mirren,St. Johnstone,1 - 0,FT,True,True,False,SCO1
+2,2,,5793908,2026-08-09T12:30:00Z,Kilmarnock,Celtic,1 - 5,FT,True,True,False,SCO1
+2,2,,5793905,2026-08-09T14:00:00Z,Heart of Midlothian,Dundee United,4 - 0,FT,True,True,False,SCO1
+2,2,,5793906,2026-08-09T14:00:00Z,Motherwell,Falkirk,0 - 0,FT,True,True,False,SCO1
+2,2,,5793909,2026-08-09T15:00:00Z,Rangers,Hibernian,1 - 2,FT,True,True,False,SCO1
+3,3,,5793910,2026-08-22T16:45:00Z,Dundee United,Dundee FC,0 - 2,FT,True,True,False,SCO1
+4,4,,5793917,2026-08-29T14:00:00Z,Celtic,Falkirk,2 - 1,FT,True,True,False,SCO1
+4,4,,5793919,2026-08-29T14:00:00Z,Heart of Midlothian,St. Johnstone,2 - 1,FT,True,True,False,SCO1
+4,4,,5793920,2026-08-29T14:00:00Z,Kilmarnock,Dundee United,0 - 4,FT,True,True,False,SCO1
+4,4,,5793916,2026-08-30T11:00:00Z,Aberdeen,Rangers,0 - 1,FT,True,True,False,SCO1
+4,4,,5793918,2026-08-30T14:00:00Z,Dundee FC,Hibernian,1 - 2,FT,True,True,False,SCO1
+4,4,,5793921,2026-08-30T14:00:00Z,St. Mirren,Motherwell,3 - 3,FT,True,True,False,SCO1
+5,5,,5793922,2026-09-02T18:45:00Z,Celtic,Aberdeen,3 - 0,FT,True,True,False,SCO1
+5,5,,5793923,2026-09-02T18:45:00Z,Dundee FC,St. Johnstone,1 - 1,FT,True,True,False,SCO1
+5,5,,5793926,2026-09-02T18:45:00Z,Kilmarnock,St. Mirren,0 - 1,FT,True,True,False,SCO1
+5,5,,5793927,2026-09-02T18:45:00Z,Motherwell,Dundee United,3 - 0,FT,True,True,False,SCO1
+5,5,,5793924,2026-09-02T19:00:00Z,Falkirk,Rangers,1 - 2,FT,True,True,False,SCO1
+5,5,,5793925,2026-09-03T18:45:00Z,Hibernian,Heart of Midlothian,1 - 3,FT,True,True,False,SCO1
+6,6,,5793928,2026-09-05T14:00:00Z,Aberdeen,Kilmarnock,0 - 0,FT,True,True,False,SCO1
+6,6,,5793929,2026-09-05T14:00:00Z,Dundee United,Falkirk,1 - 1,FT,True,True,False,SCO1
+6,6,,5793931,2026-09-05T14:00:00Z,Rangers,Motherwell,1 - 0,FT,True,True,False,SCO1
+6,6,,5793933,2026-09-05T19:00:00Z,St. Mirren,Celtic,1 - 2,FT,True,True,False,SCO1
+6,6,,5793930,2026-09-06T14:00:00Z,Heart of Midlothian,Dundee FC,2 - 1,FT,True,True,False,SCO1
+6,6,,5793932,2026-09-06T14:00:00Z,St. Johnstone,Hibernian,2 - 1,FT,True,True,False,SCO1
+3,3,,5793914,2026-09-09T18:45:00Z,Rangers,St. Mirren,1 - 0,FT,True,True,False,SCO1
+3,3,,5793915,2026-09-09T19:00:00Z,St. Johnstone,Celtic,0 - 1,FT,True,True,False,SCO1
+3,3,,5793911,2026-09-15T18:45:00Z,Falkirk,Heart of Midlothian,2 - 1,FT,True,True,False,SCO1
+3,3,,5793912,2026-09-15T18:45:00Z,Hibernian,Kilmarnock,0 - 1,FT,True,True,False,SCO1
+3,3,,5793913,2026-09-15T18:45:00Z,Motherwell,Aberdeen,0 - 4,FT,True,True,False,SCO1
+7,7,,5793934,2026-09-19T14:00:00Z,Dundee FC,Motherwell,2 - 1,FT,True,True,False,SCO1
+7,7,,5793935,2026-09-19T14:00:00Z,Hibernian,Aberdeen,1 - 1,FT,True,True,False,SCO1
+7,7,,5793937,2026-09-19T14:00:00Z,St. Johnstone,Falkirk,1 - 1,FT,True,True,False,SCO1
+7,7,,5793938,2026-09-19T14:00:00Z,St. Mirren,Dundee United,0 - 3,FT,True,True,False,SCO1
+7,7,,5793936,2026-09-19T16:45:00Z,Kilmarnock,Heart of Midlothian,1 - 1,FT,True,True,False,SCO1
+8,8,,5793941,2026-10-10T14:00:00Z,Dundee United,Hibernian,,,False,False,False,SCO1
+8,8,,5793942,2026-10-10T14:00:00Z,Falkirk,Dundee FC,,,False,False,False,SCO1
+8,8,,5793943,2026-10-10T14:00:00Z,Heart of Midlothian,St. Mirren,,,False,False,False,SCO1
+8,8,,5793945,2026-10-10T14:00:00Z,Rangers,Kilmarnock,,,False,False,False,SCO1
+8,8,,5793944,2026-10-11T11:00:00Z,Motherwell,Celtic,,,False,False,False,SCO1
+8,8,,5793940,2026-10-11T13:00:00Z,Aberdeen,St. Johnstone,,,False,False,False,SCO1
+9,9,,5793946,2026-10-17T14:00:00Z,Aberdeen,St. Mirren,,,False,False,False,SCO1
+9,9,,5793949,2026-10-17T14:00:00Z,Hibernian,Falkirk,,,False,False,False,SCO1
+9,9,,5793950,2026-10-17T14:00:00Z,Kilmarnock,Motherwell,,,False,False,False,SCO1
+9,9,,5793951,2026-10-17T14:00:00Z,St. Johnstone,Dundee United,,,False,False,False,SCO1
+9,9,,5793948,2026-10-17T19:00:00Z,Dundee FC,Rangers,,,False,False,False,SCO1
+9,9,,5793947,2026-10-18T14:00:00Z,Celtic,Heart of Midlothian,,,False,False,False,SCO1
+10,10,,5793952,2026-10-24T14:00:00Z,Dundee United,Aberdeen,,,False,False,False,SCO1
+10,10,,5793953,2026-10-24T14:00:00Z,Falkirk,Kilmarnock,,,False,False,False,SCO1
+10,10,,5793956,2026-10-24T14:00:00Z,Rangers,St. Johnstone,,,False,False,False,SCO1
+10,10,,5793957,2026-10-24T14:00:00Z,St. Mirren,Dundee FC,,,False,False,False,SCO1
+10,10,,5793954,2026-10-25T12:00:00Z,Hibernian,Celtic,,,False,False,False,SCO1
+10,10,,5793955,2026-10-25T14:00:00Z,Motherwell,Heart of Midlothian,,,False,False,False,SCO1
+11,11,,5793958,2026-10-28T19:45:00Z,Aberdeen,Falkirk,,,False,False,False,SCO1
+11,11,,5793959,2026-10-28T19:45:00Z,Celtic,Dundee United,,,False,False,False,SCO1
+11,11,,5793960,2026-10-28T19:45:00Z,Dundee FC,Kilmarnock,,,False,False,False,SCO1
+11,11,,5793962,2026-10-28T19:45:00Z,St. Johnstone,Motherwell,,,False,False,False,SCO1
+11,11,,5793963,2026-10-28T19:45:00Z,St. Mirren,Hibernian,,,False,False,False,SCO1
+11,11,,5793961,2026-10-28T20:00:00Z,Heart of Midlothian,Rangers,,,False,False,False,SCO1
+12,12,,5793964,2026-10-31T15:00:00Z,Dundee United,Heart of Midlothian,,PP,False,False,True,SCO1
+12,12,,5793966,2026-10-31T15:00:00Z,Hibernian,Dundee FC,,PP,False,False,True,SCO1
+12,12,,5793967,2026-10-31T15:00:00Z,Kilmarnock,St. Johnstone,,,False,False,False,SCO1
+12,12,,5793968,2026-10-31T15:00:00Z,Motherwell,St. Mirren,,,False,False,False,SCO1
+12,12,,5793969,2026-10-31T15:00:00Z,Rangers,Aberdeen,,PP,False,False,True,SCO1
+12,12,,5793965,2026-11-01T13:00:00Z,Falkirk,Celtic,,,False,False,False,SCO1
+13,13,,5793970,2026-11-07T15:00:00Z,Aberdeen,Hibernian,,,False,False,False,SCO1
+13,13,,5793972,2026-11-07T15:00:00Z,Dundee United,Motherwell,,,False,False,False,SCO1
+13,13,,5793973,2026-11-07T15:00:00Z,St. Johnstone,Dundee FC,,,False,False,False,SCO1
+13,13,,5793974,2026-11-07T15:00:00Z,St. Mirren,Rangers,,,False,False,False,SCO1
+13,13,,5793975,2026-11-08T15:00:00Z,Heart of Midlothian,Falkirk,,,False,False,False,SCO1
+13,13,,5793971,2026-11-08T16:00:00Z,Celtic,Kilmarnock,,,False,False,False,SCO1
+14,14,,5793976,2026-11-21T15:00:00Z,Celtic,St. Mirren,,,False,False,False,SCO1
+14,14,,5793977,2026-11-21T15:00:00Z,Dundee FC,Heart of Midlothian,,,False,False,False,SCO1
+14,14,,5793978,2026-11-21T15:00:00Z,Falkirk,St. Johnstone,,,False,False,False,SCO1
+14,14,,5793979,2026-11-21T15:00:00Z,Hibernian,Dundee United,,,False,False,False,SCO1
+14,14,,5793980,2026-11-21T15:00:00Z,Kilmarnock,Aberdeen,,,False,False,False,SCO1
+14,14,,5793981,2026-11-21T15:00:00Z,Motherwell,Rangers,,,False,False,False,SCO1
+15,15,,5793982,2026-11-28T15:00:00Z,Aberdeen,Dundee FC,,,False,False,False,SCO1
+15,15,,5793983,2026-11-28T15:00:00Z,Dundee United,St. Johnstone,,,False,False,False,SCO1
+15,15,,5793985,2026-11-28T15:00:00Z,Motherwell,Hibernian,,,False,False,False,SCO1
+15,15,,5793986,2026-11-28T15:00:00Z,Rangers,Falkirk,,,False,False,False,SCO1
+15,15,,5793987,2026-11-28T15:00:00Z,St. Mirren,Kilmarnock,,,False,False,False,SCO1
+15,15,,5793984,2026-11-29T15:00:00Z,Heart of Midlothian,Celtic,,,False,False,False,SCO1
+16,16,,5793988,2026-12-02T19:45:00Z,Dundee FC,Celtic,,,False,False,False,SCO1
+16,16,,5793989,2026-12-02T19:45:00Z,Falkirk,Motherwell,,,False,False,False,SCO1
+16,16,,5793990,2026-12-02T19:45:00Z,Heart of Midlothian,Aberdeen,,,False,False,False,SCO1
+16,16,,5793991,2026-12-02T19:45:00Z,Kilmarnock,Hibernian,,,False,False,False,SCO1
+16,16,,5793992,2026-12-02T19:45:00Z,Rangers,Dundee United,,,False,False,False,SCO1
+16,16,,5793993,2026-12-02T19:45:00Z,St. Johnstone,St. Mirren,,,False,False,False,SCO1
+17,17,,5793994,2026-12-05T15:00:00Z,Aberdeen,Dundee United,,,False,False,False,SCO1
+17,17,,5793995,2026-12-05T15:00:00Z,Celtic,St. Johnstone,,,False,False,False,SCO1
+17,17,,5793996,2026-12-05T15:00:00Z,Dundee FC,Falkirk,,,False,False,False,SCO1
+17,17,,5793997,2026-12-05T15:00:00Z,Hibernian,Rangers,,,False,False,False,SCO1
+17,17,,5793998,2026-12-05T15:00:00Z,Motherwell,Kilmarnock,,,False,False,False,SCO1
+17,17,,5793999,2026-12-05T15:00:00Z,St. Mirren,Heart of Midlothian,,,False,False,False,SCO1
+18,18,,5794001,2026-12-12T15:00:00Z,Dundee United,St. Mirren,,,False,False,False,SCO1
+18,18,,5794002,2026-12-12T15:00:00Z,Falkirk,Aberdeen,,,False,False,False,SCO1
+18,18,,5794004,2026-12-12T15:00:00Z,Kilmarnock,Dundee FC,,,False,False,False,SCO1
+18,18,,5794005,2026-12-12T15:00:00Z,St. Johnstone,Rangers,,,False,False,False,SCO1
+18,18,,5794000,2026-12-13T15:00:00Z,Celtic,Hibernian,,,False,False,False,SCO1
+18,18,,5794003,2026-12-13T15:00:00Z,Heart of Midlothian,Motherwell,,,False,False,False,SCO1
+19,19,,5794006,2026-12-19T15:00:00Z,Aberdeen,Celtic,,,False,False,False,SCO1
+19,19,,5794007,2026-12-19T15:00:00Z,Dundee United,Kilmarnock,,,False,False,False,SCO1
+19,19,,5794008,2026-12-19T15:00:00Z,Hibernian,St. Johnstone,,,False,False,False,SCO1
+19,19,,5794009,2026-12-19T15:00:00Z,Motherwell,Dundee FC,,,False,False,False,SCO1
+19,19,,5794011,2026-12-19T15:00:00Z,St. Mirren,Falkirk,,,False,False,False,SCO1
+19,19,,5794010,2026-12-20T15:00:00Z,Rangers,Heart of Midlothian,,,False,False,False,SCO1
+20,20,,5794012,2026-12-26T15:00:00Z,Celtic,Motherwell,,,False,False,False,SCO1
+20,20,,5794013,2026-12-26T15:00:00Z,Dundee FC,St. Mirren,,,False,False,False,SCO1
+20,20,,5794014,2026-12-26T15:00:00Z,Falkirk,Dundee United,,,False,False,False,SCO1
+20,20,,5794017,2026-12-26T15:00:00Z,St. Johnstone,Aberdeen,,,False,False,False,SCO1
+20,20,,5794016,2026-12-26T17:45:00Z,Kilmarnock,Rangers,,,False,False,False,SCO1
+20,20,,5794015,2026-12-27T12:00:00Z,Heart of Midlothian,Hibernian,,,False,False,False,SCO1
+21,21,,5794018,2026-12-30T19:45:00Z,Aberdeen,Motherwell,,,False,False,False,SCO1
+21,21,,5794019,2026-12-30T19:45:00Z,Dundee United,Celtic,,,False,False,False,SCO1
+21,21,,5794020,2026-12-30T19:45:00Z,Hibernian,St. Mirren,,,False,False,False,SCO1
+21,21,,5794021,2026-12-30T19:45:00Z,Kilmarnock,Falkirk,,,False,False,False,SCO1
+21,21,,5794022,2026-12-30T19:45:00Z,Rangers,Dundee FC,,,False,False,False,SCO1
+21,21,,5794023,2026-12-30T19:45:00Z,St. Johnstone,Heart of Midlothian,,,False,False,False,SCO1
+22,22,,5794024,2027-01-02T12:30:00Z,Dundee FC,Dundee United,,,False,False,False,SCO1
+22,22,,5794025,2027-01-02T15:00:00Z,Falkirk,Hibernian,,,False,False,False,SCO1
+22,22,,5794026,2027-01-02T15:00:00Z,Heart of Midlothian,Kilmarnock,,,False,False,False,SCO1
+22,22,,5794027,2027-01-02T15:00:00Z,Motherwell,St. Johnstone,,,False,False,False,SCO1
+22,22,,5794028,2027-01-03T12:00:00Z,Rangers,Celtic,,,False,False,False,SCO1
+22,22,,5794029,2027-01-03T14:30:00Z,St. Mirren,Aberdeen,,,False,False,False,SCO1
+23,23,,5794030,2027-01-09T15:00:00Z,Aberdeen,Heart of Midlothian,,,False,False,False,SCO1
+23,23,,5794031,2027-01-09T15:00:00Z,Celtic,Dundee FC,,,False,False,False,SCO1
+23,23,,5794032,2027-01-09T15:00:00Z,Dundee United,Rangers,,,False,False,False,SCO1
+23,23,,5794033,2027-01-09T15:00:00Z,Hibernian,Motherwell,,,False,False,False,SCO1
+23,23,,5794034,2027-01-09T15:00:00Z,Kilmarnock,St. Mirren,,,False,False,False,SCO1
+23,23,,5794035,2027-01-09T15:00:00Z,St. Johnstone,Falkirk,,,False,False,False,SCO1
+24,24,,5794036,2027-01-23T15:00:00Z,Dundee FC,Aberdeen,,,False,False,False,SCO1
+24,24,,5794037,2027-01-23T15:00:00Z,Falkirk,Heart of Midlothian,,,False,False,False,SCO1
+24,24,,5794038,2027-01-23T15:00:00Z,Hibernian,Kilmarnock,,,False,False,False,SCO1
+24,24,,5794039,2027-01-23T15:00:00Z,Motherwell,Dundee United,,,False,False,False,SCO1
+24,24,,5794040,2027-01-23T15:00:00Z,Rangers,St. Johnstone,,,False,False,False,SCO1
+24,24,,5794041,2027-01-24T15:00:00Z,St. Mirren,Celtic,,,False,False,False,SCO1
+25,25,,5794042,2027-01-30T15:00:00Z,Aberdeen,Rangers,,,False,False,False,SCO1
+25,25,,5794044,2027-01-30T15:00:00Z,Dundee FC,Hibernian,,,False,False,False,SCO1
+25,25,,5794045,2027-01-30T15:00:00Z,Heart of Midlothian,St. Mirren,,,False,False,False,SCO1
+25,25,,5794046,2027-01-30T15:00:00Z,Kilmarnock,Motherwell,,,False,False,False,SCO1
+25,25,,5794047,2027-01-30T15:00:00Z,St. Johnstone,Dundee United,,,False,False,False,SCO1
+25,25,,5794043,2027-01-31T15:00:00Z,Celtic,Falkirk,,,False,False,False,SCO1
+26,26,,5794048,2027-02-03T19:45:00Z,Aberdeen,Falkirk,,,False,False,False,SCO1
+26,26,,5794049,2027-02-03T19:45:00Z,Dundee United,Hibernian,,,False,False,False,SCO1
+26,26,,5794050,2027-02-03T19:45:00Z,Heart of Midlothian,Dundee FC,,,False,False,False,SCO1
+26,26,,5794051,2027-02-03T19:45:00Z,Motherwell,Celtic,,,False,False,False,SCO1
+26,26,,5794052,2027-02-03T19:45:00Z,Rangers,Kilmarnock,,,False,False,False,SCO1
+26,26,,5794053,2027-02-03T19:45:00Z,St. Mirren,St. Johnstone,,,False,False,False,SCO1
+27,27,,5794054,2027-02-13T15:00:00Z,Celtic,Heart of Midlothian,,,False,False,False,SCO1
+27,27,,5794055,2027-02-13T15:00:00Z,Dundee FC,St. Johnstone,,,False,False,False,SCO1
+27,27,,5794056,2027-02-13T15:00:00Z,Falkirk,Rangers,,,False,False,False,SCO1
+27,27,,5794057,2027-02-13T15:00:00Z,Hibernian,Aberdeen,,,False,False,False,SCO1
+27,27,,5794058,2027-02-13T15:00:00Z,Kilmarnock,Dundee United,,,False,False,False,SCO1
+27,27,,5794059,2027-02-13T15:00:00Z,St. Mirren,Motherwell,,,False,False,False,SCO1
+28,28,,5794060,2027-02-20T15:00:00Z,Dundee United,Aberdeen,,,False,False,False,SCO1
+28,28,,5794061,2027-02-20T15:00:00Z,Falkirk,Dundee FC,,,False,False,False,SCO1
+28,28,,5794062,2027-02-20T15:00:00Z,Hibernian,Celtic,,,False,False,False,SCO1
+28,28,,5794063,2027-02-20T15:00:00Z,Motherwell,Heart of Midlothian,,,False,False,False,SCO1
+28,28,,5794064,2027-02-20T15:00:00Z,Rangers,St. Mirren,,,False,False,False,SCO1
+28,28,,5794065,2027-02-20T15:00:00Z,St. Johnstone,Kilmarnock,,,False,False,False,SCO1
+29,29,,5794066,2027-02-27T15:00:00Z,Aberdeen,St. Johnstone,,,False,False,False,SCO1
+29,29,,5794067,2027-02-27T15:00:00Z,Celtic,Rangers,,,False,False,False,SCO1
+29,29,,5794068,2027-02-27T15:00:00Z,Dundee FC,Kilmarnock,,,False,False,False,SCO1
+29,29,,5794069,2027-02-27T15:00:00Z,Heart of Midlothian,Dundee United,,,False,False,False,SCO1
+29,29,,5794070,2027-02-27T15:00:00Z,Motherwell,Falkirk,,,False,False,False,SCO1
+29,29,,5794071,2027-02-27T15:00:00Z,St. Mirren,Hibernian,,,False,False,False,SCO1
+30,30,,5794072,2027-03-13T15:00:00Z,Aberdeen,St. Mirren,,,False,False,False,SCO1
+30,30,,5794073,2027-03-13T15:00:00Z,Dundee United,Dundee FC,,,False,False,False,SCO1
+30,30,,5794074,2027-03-13T15:00:00Z,Hibernian,Falkirk,,,False,False,False,SCO1
+30,30,,5794075,2027-03-13T15:00:00Z,Kilmarnock,Heart of Midlothian,,,False,False,False,SCO1
+30,30,,5794076,2027-03-13T15:00:00Z,Rangers,Motherwell,,,False,False,False,SCO1
+30,30,,5794077,2027-03-13T15:00:00Z,St. Johnstone,Celtic,,,False,False,False,SCO1
+31,31,,5794078,2027-03-20T15:00:00Z,Celtic,Aberdeen,,,False,False,False,SCO1
+31,31,,5794079,2027-03-20T15:00:00Z,Dundee FC,Motherwell,,,False,False,False,SCO1
+31,31,,5794080,2027-03-20T15:00:00Z,Falkirk,Kilmarnock,,,False,False,False,SCO1
+31,31,,5794081,2027-03-20T15:00:00Z,Heart of Midlothian,Rangers,,,False,False,False,SCO1
+31,31,,5794082,2027-03-20T15:00:00Z,St. Johnstone,Hibernian,,,False,False,False,SCO1
+31,31,,5794083,2027-03-20T15:00:00Z,St. Mirren,Dundee United,,,False,False,False,SCO1
+32,32,,5794084,2027-04-03T14:00:00Z,Dundee United,Falkirk,,,False,False,False,SCO1
+32,32,,5794085,2027-04-03T14:00:00Z,Heart of Midlothian,St. Johnstone,,,False,False,False,SCO1
+32,32,,5794086,2027-04-03T14:00:00Z,Kilmarnock,Celtic,,,False,False,False,SCO1
+32,32,,5794087,2027-04-03T14:00:00Z,Motherwell,Aberdeen,,,False,False,False,SCO1
+32,32,,5794088,2027-04-03T14:00:00Z,Rangers,Hibernian,,,False,False,False,SCO1
+32,32,,5794089,2027-04-03T14:00:00Z,St. Mirren,Dundee FC,,,False,False,False,SCO1
+33,33,,5794090,2027-04-10T14:00:00Z,Aberdeen,Kilmarnock,,,False,False,False,SCO1
+33,33,,5794091,2027-04-10T14:00:00Z,Celtic,Dundee United,,,False,False,False,SCO1
+33,33,,5794092,2027-04-10T14:00:00Z,Dundee FC,Rangers,,,False,False,False,SCO1
+33,33,,5794093,2027-04-10T14:00:00Z,Falkirk,St. Mirren,,,False,False,False,SCO1
+33,33,,5794094,2027-04-10T14:00:00Z,Hibernian,Heart of Midlothian,,,False,False,False,SCO1
+33,33,,5794095,2027-04-10T14:00:00Z,St. Johnstone,Motherwell,,,False,False,False,SCO1
+7,7,,5793939,2026-09-20T11:00:00.000Z,Celtic,Rangers,0 - 1,FT,True,True,False,SCO1

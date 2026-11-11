@@ -1,0 +1,307 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5781701,2026-08-07T18:00:00Z,Cambuur,Excelsior,0 - 4,FT,True,True,False,NED1
+1,1,,5781698,2026-08-08T14:30:00Z,NEC Nijmegen,Telstar,1 - 2,FT,True,True,False,NED1
+1,1,,5781702,2026-08-08T16:45:00Z,Go Ahead Eagles,Willem II,4 - 1,FT,True,True,False,NED1
+1,1,,5781700,2026-08-08T18:00:00Z,PSV Eindhoven,Fortuna Sittard,2 - 2,FT,True,True,False,NED1
+1,1,,5781699,2026-08-08T19:00:00Z,AZ Alkmaar,ADO Den Haag,2 - 0,FT,True,True,False,NED1
+1,1,,5781696,2026-08-09T10:15:00Z,Sparta Rotterdam,Feyenoord,0 - 1,FT,True,True,False,NED1
+1,1,,5781697,2026-08-09T12:30:00Z,PEC Zwolle,Ajax,0 - 2,FT,True,True,False,NED1
+1,1,,5781704,2026-08-09T12:30:00Z,FC Groningen,FC Utrecht,2 - 1,FT,True,True,False,NED1
+1,1,,5781703,2026-08-09T14:45:00Z,SC Heerenveen,FC Twente,1 - 0,FT,True,True,False,NED1
+2,2,,5781710,2026-08-14T18:00:00Z,Telstar,Sparta Rotterdam,1 - 3,FT,True,True,False,NED1
+2,2,,5781706,2026-08-15T14:30:00Z,Willem II,NEC Nijmegen,1 - 4,FT,True,True,False,NED1
+2,2,,5781707,2026-08-15T16:45:00Z,FC Utrecht,AZ Alkmaar,1 - 4,FT,True,True,False,NED1
+2,2,,5781711,2026-08-15T18:00:00Z,Excelsior,PSV Eindhoven,1 - 2,FT,True,True,False,NED1
+2,2,,5781713,2026-08-15T19:00:00Z,Fortuna Sittard,Cambuur,3 - 1,FT,True,True,False,NED1
+2,2,,5781712,2026-08-16T10:15:00Z,ADO Den Haag,FC Groningen,1 - 4,FT,True,True,False,NED1
+2,2,,5781705,2026-08-16T12:30:00Z,FC Twente,PEC Zwolle,3 - 1,FT,True,True,False,NED1
+2,2,,5781708,2026-08-16T12:30:00Z,Feyenoord,Go Ahead Eagles,2 - 2,FT,True,True,False,NED1
+2,2,,5781709,2026-08-16T14:45:00Z,Ajax,SC Heerenveen,2 - 2,FT,True,True,False,NED1
+3,3,,5781716,2026-08-22T14:30:00Z,Fortuna Sittard,AZ Alkmaar,0 - 2,FT,True,True,False,NED1
+3,3,,5781715,2026-08-22T16:45:00Z,Sparta Rotterdam,FC Utrecht,3 - 3,FT,True,True,False,NED1
+3,3,,5781719,2026-08-22T19:00:00Z,SC Heerenveen,PEC Zwolle,0 - 2,FT,True,True,False,NED1
+3,3,,5781717,2026-08-23T10:15:00Z,Go Ahead Eagles,ADO Den Haag,3 - 1,FT,True,True,False,NED1
+3,3,,5781714,2026-08-23T12:30:00Z,PSV Eindhoven,FC Groningen,5 - 1,FT,True,True,False,NED1
+3,3,,5781721,2026-08-23T14:45:00Z,Cambuur,Feyenoord,2 - 5,FT,True,True,False,NED1
+4,4,,5781729,2026-08-28T18:00:00Z,FC Groningen,Fortuna Sittard,2 - 3,FT,True,True,False,NED1
+4,4,,5781723,2026-08-29T14:30:00Z,Excelsior,Sparta Rotterdam,2 - 1,FT,True,True,False,NED1
+4,4,,5781724,2026-08-29T16:45:00Z,AZ Alkmaar,Go Ahead Eagles,5 - 2,FT,True,True,False,NED1
+4,4,,5781725,2026-08-29T19:00:00Z,PEC Zwolle,NEC Nijmegen,1 - 3,FT,True,True,False,NED1
+4,4,,5781726,2026-08-30T10:15:00Z,FC Utrecht,PSV Eindhoven,1 - 6,FT,True,True,False,NED1
+4,4,,5781727,2026-08-30T12:30:00Z,Feyenoord,ADO Den Haag,2 - 2,FT,True,True,False,NED1
+4,4,,5781728,2026-08-30T12:30:00Z,Willem II,SC Heerenveen,2 - 2,FT,True,True,False,NED1
+4,4,,5781730,2026-08-30T14:45:00Z,Telstar,Ajax,0 - 4,FT,True,True,False,NED1
+4,4,,5781731,2026-08-30T18:00:00Z,Cambuur,FC Twente,1 - 4,FT,True,True,False,NED1
+5,5,,5781738,2026-09-04T18:00:00Z,Sparta Rotterdam,PEC Zwolle,2 - 2,FT,True,True,False,NED1
+5,5,,5781737,2026-09-05T14:30:00Z,NEC Nijmegen,Feyenoord,1 - 3,FT,True,True,False,NED1
+5,5,,5781735,2026-09-05T18:00:00Z,Ajax,PSV Eindhoven,1 - 3,FT,True,True,False,NED1
+5,5,,5781739,2026-09-05T19:00:00Z,Willem II,Excelsior,0 - 3,FT,True,True,False,NED1
+5,5,,5781732,2026-09-06T10:15:00Z,FC Groningen,FC Twente,2 - 2,FT,True,True,False,NED1
+5,5,,5781734,2026-09-06T12:30:00Z,Telstar,Cambuur,2 - 2,FT,True,True,False,NED1
+5,5,,5781736,2026-09-06T12:30:00Z,SC Heerenveen,AZ Alkmaar,2 - 3,FT,True,True,False,NED1
+5,5,,5781740,2026-09-06T14:45:00Z,ADO Den Haag,Fortuna Sittard,2 - 3,FT,True,True,False,NED1
+5,5,,5781733,2026-09-08T12:00:00Z,FC Utrecht,Go Ahead Eagles,3 - 3,FT,True,True,False,NED1
+3,3,,5781720,2026-09-08T16:45:00Z,NEC Nijmegen,Excelsior,2 - 2,FT,True,True,False,NED1
+3,3,,5781722,2026-09-09T16:45:00Z,FC Twente,Telstar,1 - 0,FT,True,True,False,NED1
+6,6,,5781742,2026-09-11T18:00:00Z,AZ Alkmaar,Willem II,1 - 1,FT,True,True,False,NED1
+6,6,,5781746,2026-09-12T14:30:00Z,FC Twente,ADO Den Haag,2 - 0,FT,True,True,False,NED1
+6,6,,5781748,2026-09-12T16:45:00Z,Go Ahead Eagles,FC Groningen,1 - 1,FT,True,True,False,NED1
+6,6,,5781747,2026-09-12T18:00:00Z,Fortuna Sittard,Ajax,1 - 5,FT,True,True,False,NED1
+6,6,,5781741,2026-09-12T19:00:00Z,Cambuur,NEC Nijmegen,3 - 0,FT,True,True,False,NED1
+6,6,,5781745,2026-09-13T10:15:00Z,Excelsior,FC Utrecht,1 - 2,FT,True,True,False,NED1
+6,6,,5781744,2026-09-13T12:30:00Z,SC Heerenveen,Telstar,0 - 0,FT,True,True,False,NED1
+6,6,,5781749,2026-09-13T14:45:00Z,PEC Zwolle,Feyenoord,0 - 7,FT,True,True,False,NED1
+6,6,,5781743,2026-09-13T18:00:00Z,PSV Eindhoven,Sparta Rotterdam,4 - 1,FT,True,True,False,NED1
+3,3,,5781718,2026-09-15T18:00:00Z,Ajax,Willem II,5 - 1,FT,True,True,False,NED1
+7,7,,5781754,2026-09-18T18:00:00Z,FC Groningen,PEC Zwolle,3 - 0,FT,True,True,False,NED1
+7,7,,5781755,2026-09-19T14:30:00Z,ADO Den Haag,Cambuur,1 - 1,FT,True,True,False,NED1
+7,7,,5781756,2026-09-19T16:45:00Z,Sparta Rotterdam,SC Heerenveen,0 - 4,FT,True,True,False,NED1
+7,7,,5781757,2026-09-19T18:00:00Z,Ajax,Excelsior,2 - 2,FT,True,True,False,NED1
+7,7,,5781758,2026-09-19T19:00:00Z,Willem II,Fortuna Sittard,0 - 1,FT,True,True,False,NED1
+8,8,,5781762,2026-10-09T18:00:00Z,PSV Eindhoven,SC Heerenveen,,,False,False,False,NED1
+8,8,,5781765,2026-10-10T14:30:00Z,Go Ahead Eagles,Sparta Rotterdam,,,False,False,False,NED1
+8,8,,5781759,2026-10-10T16:45:00Z,Feyenoord,AZ Alkmaar,,,False,False,False,NED1
+8,8,,5781767,2026-10-10T18:00:00Z,Fortuna Sittard,FC Twente,,,False,False,False,NED1
+8,8,,5781764,2026-10-10T19:00:00Z,Ajax,NEC Nijmegen,,,False,False,False,NED1
+8,8,,5781761,2026-10-11T10:15:00Z,FC Utrecht,Willem II,,,False,False,False,NED1
+8,8,,5781763,2026-10-11T12:30:00Z,PEC Zwolle,Cambuur,,,False,False,False,NED1
+8,8,,5781766,2026-10-11T12:30:00Z,Telstar,ADO Den Haag,,,False,False,False,NED1
+8,8,,5781760,2026-10-11T14:45:00Z,Excelsior,FC Groningen,,,False,False,False,NED1
+9,9,,5781769,2026-10-16T18:00:00Z,SC Heerenveen,Excelsior,,,False,False,False,NED1
+9,9,,5781776,2026-10-17T14:30:00Z,ADO Den Haag,PSV Eindhoven,,,False,False,False,NED1
+9,9,,5781774,2026-10-17T18:00:00Z,Telstar,Feyenoord,,,False,False,False,NED1
+9,9,,5781768,2026-10-17T19:00:00Z,Sparta Rotterdam,Willem II,,,False,False,False,NED1
+9,9,,5781775,2026-10-18T10:15:00Z,PEC Zwolle,Go Ahead Eagles,,,False,False,False,NED1
+9,9,,5781771,2026-10-18T12:30:00Z,Cambuur,AZ Alkmaar,,,False,False,False,NED1
+9,9,,5781772,2026-10-18T14:45:00Z,FC Groningen,Ajax,,,False,False,False,NED1
+9,9,,5781770,2026-10-18T18:00:00Z,NEC Nijmegen,Fortuna Sittard,,,False,False,False,NED1
+9,9,,5781773,2026-10-18T18:00:00Z,FC Twente,FC Utrecht,,,False,False,False,NED1
+10,10,,5781781,2026-10-23T18:00:00Z,Go Ahead Eagles,Telstar,,,False,False,False,NED1
+10,10,,5781784,2026-10-24T14:30:00Z,FC Utrecht,PEC Zwolle,,,False,False,False,NED1
+10,10,,5781785,2026-10-24T16:45:00Z,Willem II,Cambuur,,,False,False,False,NED1
+10,10,,5781779,2026-10-24T19:00:00Z,ADO Den Haag,SC Heerenveen,,,False,False,False,NED1
+10,10,,5781780,2026-10-25T11:15:00Z,Fortuna Sittard,Excelsior,,,False,False,False,NED1
+10,10,,5781777,2026-10-25T13:30:00Z,NEC Nijmegen,FC Groningen,,,False,False,False,NED1
+10,10,,5781783,2026-10-25T13:30:00Z,PSV Eindhoven,Feyenoord,,,False,False,False,NED1
+10,10,,5781778,2026-10-25T15:45:00Z,Sparta Rotterdam,Ajax,,,False,False,False,NED1
+10,10,,5781782,2026-10-25T19:00:00Z,AZ Alkmaar,FC Twente,,,False,False,False,NED1
+11,11,,5781787,2026-10-31T15:30:00Z,Feyenoord,Fortuna Sittard,,,False,False,False,NED1
+11,11,,5781791,2026-10-31T17:45:00Z,SC Heerenveen,NEC Nijmegen,,,False,False,False,NED1
+11,11,,5781793,2026-10-31T17:45:00Z,PSV Eindhoven,Willem II,,,False,False,False,NED1
+11,11,,5781786,2026-10-31T20:00:00Z,Ajax,AZ Alkmaar,,,False,False,False,NED1
+11,11,,5781788,2026-10-31T20:00:00Z,Cambuur,Go Ahead Eagles,,,False,False,False,NED1
+11,11,,5781792,2026-11-01T11:15:00Z,PEC Zwolle,ADO Den Haag,,,False,False,False,NED1
+11,11,,5781790,2026-11-01T13:30:00Z,Telstar,FC Utrecht,,,False,False,False,NED1
+11,11,,5781794,2026-11-01T13:30:00Z,Excelsior,FC Twente,,,False,False,False,NED1
+11,11,,5781789,2026-11-01T15:45:00Z,FC Groningen,Sparta Rotterdam,,,False,False,False,NED1
+12,12,,5781802,2026-11-06T19:00:00Z,Willem II,PEC Zwolle,,,False,False,False,NED1
+12,12,,5781801,2026-11-07T15:30:00Z,Fortuna Sittard,Telstar,,,False,False,False,NED1
+12,12,,5781799,2026-11-07T17:45:00Z,ADO Den Haag,Sparta Rotterdam,,,False,False,False,NED1
+12,12,,5781800,2026-11-07T20:00:00Z,Excelsior,Go Ahead Eagles,,,False,False,False,NED1
+12,12,,5781797,2026-11-08T11:15:00Z,SC Heerenveen,Feyenoord,,,False,False,False,NED1
+12,12,,5781803,2026-11-08T13:30:00Z,FC Twente,Ajax,,,False,False,False,NED1
+12,12,,5781796,2026-11-08T15:45:00Z,Cambuur,PSV Eindhoven,,,False,False,False,NED1
+12,12,,5781798,2026-11-08T15:45:00Z,AZ Alkmaar,FC Groningen,,,False,False,False,NED1
+12,12,,5781795,2026-11-08T19:00:00Z,FC Utrecht,NEC Nijmegen,,,False,False,False,NED1
+13,13,,5781805,2026-11-21T15:30:00Z,NEC Nijmegen,PSV Eindhoven,,,False,False,False,NED1
+13,13,,5781806,2026-11-21T17:45:00Z,Feyenoord,Excelsior,,,False,False,False,NED1
+13,13,,5781811,2026-11-21T17:45:00Z,FC Utrecht,Cambuur,,,False,False,False,NED1
+13,13,,5781807,2026-11-21T20:00:00Z,Telstar,PEC Zwolle,,,False,False,False,NED1
+13,13,,5781808,2026-11-21T20:00:00Z,FC Groningen,SC Heerenveen,,,False,False,False,NED1
+13,13,,5781812,2026-11-22T11:15:00Z,FC Twente,Willem II,,,False,False,False,NED1
+13,13,,5781804,2026-11-22T13:30:00Z,Ajax,ADO Den Haag,,,False,False,False,NED1
+13,13,,5781810,2026-11-22T13:30:00Z,Sparta Rotterdam,AZ Alkmaar,,,False,False,False,NED1
+13,13,,5781809,2026-11-22T15:45:00Z,Go Ahead Eagles,Fortuna Sittard,,,False,False,False,NED1
+14,14,,5781815,2026-11-27T19:00:00Z,FC Groningen,Willem II,,,False,False,False,NED1
+14,14,,5781816,2026-11-28T15:30:00Z,Excelsior,Telstar,,,False,False,False,NED1
+14,14,,5781820,2026-11-28T17:45:00Z,PSV Eindhoven,Go Ahead Eagles,,,False,False,False,NED1
+14,14,,5781819,2026-11-28T20:00:00Z,Cambuur,Sparta Rotterdam,,,False,False,False,NED1
+14,14,,5781821,2026-11-29T11:15:00Z,ADO Den Haag,FC Utrecht,,,False,False,False,NED1
+14,14,,5781814,2026-11-29T13:30:00Z,Fortuna Sittard,SC Heerenveen,,,False,False,False,NED1
+14,14,,5781817,2026-11-29T13:30:00Z,Feyenoord,Ajax,,,False,False,False,NED1
+14,14,,5781813,2026-11-29T15:45:00Z,PEC Zwolle,AZ Alkmaar,,,False,False,False,NED1
+14,14,,5781818,2026-11-29T19:00:00Z,NEC Nijmegen,FC Twente,,,False,False,False,NED1
+15,15,,5781826,2026-12-04T19:00:00Z,Telstar,FC Groningen,,,False,False,False,NED1
+15,15,,5781823,2026-12-05T15:30:00Z,Willem II,Feyenoord,,,False,False,False,NED1
+15,15,,5781830,2026-12-05T17:45:00Z,Sparta Rotterdam,NEC Nijmegen,,,False,False,False,NED1
+15,15,,5781824,2026-12-05T19:00:00Z,AZ Alkmaar,PSV Eindhoven,,,False,False,False,NED1
+15,15,,5781829,2026-12-05T20:00:00Z,Fortuna Sittard,PEC Zwolle,,,False,False,False,NED1
+15,15,,5781827,2026-12-06T11:15:00Z,SC Heerenveen,Cambuur,,,False,False,False,NED1
+15,15,,5781822,2026-12-06T13:30:00Z,Ajax,FC Utrecht,,,False,False,False,NED1
+15,15,,5781828,2026-12-06T13:30:00Z,Go Ahead Eagles,FC Twente,,,False,False,False,NED1
+15,15,,5781825,2026-12-06T15:45:00Z,ADO Den Haag,Excelsior,,,False,False,False,NED1
+16,16,,5781835,2026-12-12T15:30:00Z,FC Utrecht,Fortuna Sittard,,,False,False,False,NED1
+16,16,,5781837,2026-12-12T17:45:00Z,SC Heerenveen,Go Ahead Eagles,,,False,False,False,NED1
+16,16,,5781838,2026-12-12T19:00:00Z,FC Twente,Sparta Rotterdam,,,False,False,False,NED1
+16,16,,5781836,2026-12-12T20:00:00Z,PEC Zwolle,Excelsior,,,False,False,False,NED1
+16,16,,5781834,2026-12-13T11:15:00Z,PSV Eindhoven,Telstar,,,False,False,False,NED1
+16,16,,5781833,2026-12-13T13:30:00Z,Willem II,ADO Den Haag,,,False,False,False,NED1
+16,16,,5781839,2026-12-13T13:30:00Z,FC Groningen,Feyenoord,,,False,False,False,NED1
+16,16,,5781831,2026-12-13T15:45:00Z,AZ Alkmaar,NEC Nijmegen,,,False,False,False,NED1
+16,16,,5781832,2026-12-13T19:00:00Z,Ajax,Cambuur,,,False,False,False,NED1
+17,17,,5781846,2026-12-18T19:00:00Z,Telstar,Willem II,,,False,False,False,NED1
+17,17,,5781848,2026-12-19T15:30:00Z,Excelsior,AZ Alkmaar,,,False,False,False,NED1
+17,17,,5781840,2026-12-19T17:45:00Z,Fortuna Sittard,Sparta Rotterdam,,,False,False,False,NED1
+17,17,,5781844,2026-12-19T20:00:00Z,FC Utrecht,SC Heerenveen,,,False,False,False,NED1
+17,17,,5781847,2026-12-20T11:15:00Z,NEC Nijmegen,ADO Den Haag,,,False,False,False,NED1
+17,17,,5781842,2026-12-20T13:30:00Z,Cambuur,FC Groningen,,,False,False,False,NED1
+17,17,,5781843,2026-12-20T13:30:00Z,Feyenoord,FC Twente,,,False,False,False,NED1
+17,17,,5781841,2026-12-20T15:45:00Z,Go Ahead Eagles,Ajax,,,False,False,False,NED1
+17,17,,5781845,2026-12-20T19:00:00Z,PSV Eindhoven,PEC Zwolle,,,False,False,False,NED1
+18,18,,5781850,2027-01-08T19:00:00Z,FC Twente,Fortuna Sittard,,,False,False,False,NED1
+18,18,,5781855,2027-01-09T15:30:00Z,Sparta Rotterdam,Excelsior,,,False,False,False,NED1
+18,18,,5781857,2027-01-09T17:45:00Z,PEC Zwolle,FC Utrecht,,,False,False,False,NED1
+18,18,,5781851,2027-01-09T19:00:00Z,Willem II,Ajax,,,False,False,False,NED1
+18,18,,5781852,2027-01-09T20:00:00Z,AZ Alkmaar,SC Heerenveen,,,False,False,False,NED1
+18,18,,5781856,2027-01-10T11:15:00Z,NEC Nijmegen,Cambuur,,,False,False,False,NED1
+18,18,,5781849,2027-01-10T13:30:00Z,ADO Den Haag,Telstar,,,False,False,False,NED1
+18,18,,5781854,2027-01-10T13:30:00Z,Feyenoord,PSV Eindhoven,,,False,False,False,NED1
+18,18,,5781853,2027-01-10T15:45:00Z,FC Groningen,Go Ahead Eagles,,,False,False,False,NED1
+19,19,,5781864,2027-01-15T19:00:00Z,SC Heerenveen,Sparta Rotterdam,,,False,False,False,NED1
+19,19,,5781865,2027-01-16T15:30:00Z,Telstar,NEC Nijmegen,,,False,False,False,NED1
+19,19,,5781860,2027-01-16T17:45:00Z,Excelsior,Feyenoord,,,False,False,False,NED1
+19,19,,5781862,2027-01-16T19:00:00Z,ADO Den Haag,PEC Zwolle,,,False,False,False,NED1
+19,19,,5781858,2027-01-16T20:00:00Z,Fortuna Sittard,PSV Eindhoven,,,False,False,False,NED1
+19,19,,5781859,2027-01-17T11:15:00Z,FC Utrecht,FC Twente,,,False,False,False,NED1
+19,19,,5781861,2027-01-17T13:30:00Z,Ajax,FC Groningen,,,False,False,False,NED1
+19,19,,5781863,2027-01-17T13:30:00Z,Go Ahead Eagles,AZ Alkmaar,,,False,False,False,NED1
+19,19,,5781866,2027-01-17T15:45:00Z,Cambuur,Willem II,,,False,False,False,NED1
+20,20,,5781870,2027-01-22T19:00:00Z,Excelsior,Fortuna Sittard,,,False,False,False,NED1
+20,20,,5781872,2027-01-23T15:30:00Z,Ajax,Telstar,,,False,False,False,NED1
+20,20,,5781867,2027-01-23T17:45:00Z,Feyenoord,PEC Zwolle,,,False,False,False,NED1
+20,20,,5781875,2027-01-23T19:00:00Z,FC Twente,SC Heerenveen,,,False,False,False,NED1
+20,20,,5781871,2027-01-23T20:00:00Z,PSV Eindhoven,ADO Den Haag,,,False,False,False,NED1
+20,20,,5781868,2027-01-24T11:15:00Z,Go Ahead Eagles,Cambuur,,,False,False,False,NED1
+20,20,,5781869,2027-01-24T13:30:00Z,Sparta Rotterdam,FC Groningen,,,False,False,False,NED1
+20,20,,5781873,2027-01-24T13:30:00Z,NEC Nijmegen,Willem II,,,False,False,False,NED1
+20,20,,5781874,2027-01-24T15:45:00Z,AZ Alkmaar,FC Utrecht,,,False,False,False,NED1
+21,21,,5781884,2027-01-29T19:00:00Z,FC Utrecht,Excelsior,,,False,False,False,NED1
+21,21,,5781878,2027-01-30T15:30:00Z,Sparta Rotterdam,Telstar,,,False,False,False,NED1
+21,21,,5781877,2027-01-30T17:45:00Z,ADO Den Haag,Go Ahead Eagles,,,False,False,False,NED1
+21,21,,5781882,2027-01-30T19:00:00Z,Willem II,PSV Eindhoven,,,False,False,False,NED1
+21,21,,5781881,2027-01-30T20:00:00Z,PEC Zwolle,Fortuna Sittard,,,False,False,False,NED1
+21,21,,5781883,2027-01-31T11:15:00Z,SC Heerenveen,Ajax,,,False,False,False,NED1
+21,21,,5781879,2027-01-31T13:30:00Z,FC Twente,Cambuur,,,False,False,False,NED1
+21,21,,5781880,2027-01-31T13:30:00Z,AZ Alkmaar,Feyenoord,,,False,False,False,NED1
+21,21,,5781876,2027-01-31T15:45:00Z,FC Groningen,NEC Nijmegen,,,False,False,False,NED1
+22,22,,5781885,2027-02-13T19:00:00Z,Cambuur,FC Utrecht,,,False,False,False,NED1
+22,22,,5781886,2027-02-13T19:00:00Z,Telstar,SC Heerenveen,,,False,False,False,NED1
+22,22,,5781887,2027-02-13T19:00:00Z,PSV Eindhoven,FC Twente,,,False,False,False,NED1
+22,22,,5781888,2027-02-13T19:00:00Z,Feyenoord,NEC Nijmegen,,,False,False,False,NED1
+22,22,,5781889,2027-02-13T19:00:00Z,Willem II,Sparta Rotterdam,,,False,False,False,NED1
+22,22,,5781890,2027-02-13T19:00:00Z,Fortuna Sittard,ADO Den Haag,,,False,False,False,NED1
+22,22,,5781891,2027-02-13T19:00:00Z,FC Groningen,AZ Alkmaar,,,False,False,False,NED1
+22,22,,5781892,2027-02-13T19:00:00Z,Go Ahead Eagles,PEC Zwolle,,,False,False,False,NED1
+22,22,,5781893,2027-02-13T19:00:00Z,Excelsior,Ajax,,,False,False,False,NED1
+23,23,,5781894,2027-02-20T19:00:00Z,Feyenoord,Telstar,,,False,False,False,NED1
+23,23,,5781895,2027-02-20T19:00:00Z,FC Utrecht,ADO Den Haag,,,False,False,False,NED1
+23,23,,5781896,2027-02-20T19:00:00Z,Ajax,Go Ahead Eagles,,,False,False,False,NED1
+23,23,,5781897,2027-02-20T19:00:00Z,PSV Eindhoven,Cambuur,,,False,False,False,NED1
+23,23,,5781898,2027-02-20T19:00:00Z,SC Heerenveen,Willem II,,,False,False,False,NED1
+23,23,,5781899,2027-02-20T19:00:00Z,NEC Nijmegen,Sparta Rotterdam,,,False,False,False,NED1
+23,23,,5781900,2027-02-20T19:00:00Z,FC Twente,Excelsior,,,False,False,False,NED1
+23,23,,5781901,2027-02-20T19:00:00Z,AZ Alkmaar,Fortuna Sittard,,,False,False,False,NED1
+23,23,,5781902,2027-02-20T19:00:00Z,PEC Zwolle,FC Groningen,,,False,False,False,NED1
+24,24,,5781903,2027-02-27T19:00:00Z,Ajax,Feyenoord,,,False,False,False,NED1
+24,24,,5781904,2027-02-27T19:00:00Z,Telstar,Go Ahead Eagles,,,False,False,False,NED1
+24,24,,5781905,2027-02-27T19:00:00Z,Sparta Rotterdam,PSV Eindhoven,,,False,False,False,NED1
+24,24,,5781906,2027-02-27T19:00:00Z,Cambuur,PEC Zwolle,,,False,False,False,NED1
+24,24,,5781907,2027-02-27T19:00:00Z,Excelsior,SC Heerenveen,,,False,False,False,NED1
+24,24,,5781908,2027-02-27T19:00:00Z,ADO Den Haag,FC Twente,,,False,False,False,NED1
+24,24,,5781909,2027-02-27T19:00:00Z,Willem II,FC Groningen,,,False,False,False,NED1
+24,24,,5781910,2027-02-27T19:00:00Z,NEC Nijmegen,AZ Alkmaar,,,False,False,False,NED1
+24,24,,5781911,2027-02-27T19:00:00Z,Fortuna Sittard,FC Utrecht,,,False,False,False,NED1
+25,25,,5781912,2027-03-06T19:00:00Z,PSV Eindhoven,FC Utrecht,,,False,False,False,NED1
+25,25,,5781913,2027-03-06T19:00:00Z,FC Groningen,Telstar,,,False,False,False,NED1
+25,25,,5781914,2027-03-06T19:00:00Z,ADO Den Haag,Ajax,,,False,False,False,NED1
+25,25,,5781915,2027-03-06T19:00:00Z,PEC Zwolle,Willem II,,,False,False,False,NED1
+25,25,,5781916,2027-03-06T19:00:00Z,Go Ahead Eagles,Excelsior,,,False,False,False,NED1
+25,25,,5781917,2027-03-06T19:00:00Z,Feyenoord,SC Heerenveen,,,False,False,False,NED1
+25,25,,5781918,2027-03-06T19:00:00Z,Sparta Rotterdam,Cambuur,,,False,False,False,NED1
+25,25,,5781919,2027-03-06T19:00:00Z,FC Twente,AZ Alkmaar,,,False,False,False,NED1
+25,25,,5781920,2027-03-06T19:00:00Z,Fortuna Sittard,NEC Nijmegen,,,False,False,False,NED1
+26,26,,5781921,2027-03-13T19:00:00Z,Go Ahead Eagles,Feyenoord,,,False,False,False,NED1
+26,26,,5781922,2027-03-13T19:00:00Z,Ajax,PEC Zwolle,,,False,False,False,NED1
+26,26,,5781923,2027-03-13T19:00:00Z,FC Utrecht,FC Groningen,,,False,False,False,NED1
+26,26,,5781924,2027-03-13T19:00:00Z,Cambuur,ADO Den Haag,,,False,False,False,NED1
+26,26,,5781925,2027-03-13T19:00:00Z,Telstar,PSV Eindhoven,,,False,False,False,NED1
+26,26,,5781926,2027-03-13T19:00:00Z,Excelsior,NEC Nijmegen,,,False,False,False,NED1
+26,26,,5781927,2027-03-13T19:00:00Z,SC Heerenveen,Fortuna Sittard,,,False,False,False,NED1
+26,26,,5781928,2027-03-13T19:00:00Z,Willem II,FC Twente,,,False,False,False,NED1
+26,26,,5781929,2027-03-13T19:00:00Z,AZ Alkmaar,Sparta Rotterdam,,,False,False,False,NED1
+27,27,,5781930,2027-03-20T19:00:00Z,FC Utrecht,Sparta Rotterdam,,,False,False,False,NED1
+27,27,,5781931,2027-03-20T19:00:00Z,NEC Nijmegen,Ajax,,,False,False,False,NED1
+27,27,,5781932,2027-03-20T19:00:00Z,AZ Alkmaar,Excelsior,,,False,False,False,NED1
+27,27,,5781933,2027-03-20T19:00:00Z,ADO Den Haag,Willem II,,,False,False,False,NED1
+27,27,,5781934,2027-03-20T19:00:00Z,FC Groningen,PSV Eindhoven,,,False,False,False,NED1
+27,27,,5781935,2027-03-20T19:00:00Z,Telstar,Fortuna Sittard,,,False,False,False,NED1
+27,27,,5781936,2027-03-20T19:00:00Z,FC Twente,Go Ahead Eagles,,,False,False,False,NED1
+27,27,,5781937,2027-03-20T19:00:00Z,PEC Zwolle,SC Heerenveen,,,False,False,False,NED1
+27,27,,5781938,2027-03-20T19:00:00Z,Feyenoord,Cambuur,,,False,False,False,NED1
+28,28,,5781939,2027-04-03T18:00:00Z,Willem II,FC Utrecht,,,False,False,False,NED1
+28,28,,5781940,2027-04-03T18:00:00Z,Sparta Rotterdam,ADO Den Haag,,,False,False,False,NED1
+28,28,,5781941,2027-04-03T18:00:00Z,Excelsior,PEC Zwolle,,,False,False,False,NED1
+28,28,,5781942,2027-04-03T18:00:00Z,Ajax,FC Twente,,,False,False,False,NED1
+28,28,,5781943,2027-04-03T18:00:00Z,PSV Eindhoven,AZ Alkmaar,,,False,False,False,NED1
+28,28,,5781944,2027-04-03T18:00:00Z,SC Heerenveen,FC Groningen,,,False,False,False,NED1
+28,28,,5781945,2027-04-03T18:00:00Z,Go Ahead Eagles,NEC Nijmegen,,,False,False,False,NED1
+28,28,,5781946,2027-04-03T18:00:00Z,Cambuur,Telstar,,,False,False,False,NED1
+28,28,,5781947,2027-04-03T18:00:00Z,Fortuna Sittard,Feyenoord,,,False,False,False,NED1
+29,29,,5781948,2027-04-10T18:00:00Z,FC Groningen,Excelsior,,,False,False,False,NED1
+29,29,,5781949,2027-04-10T18:00:00Z,NEC Nijmegen,SC Heerenveen,,,False,False,False,NED1
+29,29,,5781950,2027-04-10T18:00:00Z,Telstar,FC Twente,,,False,False,False,NED1
+29,29,,5781951,2027-04-10T18:00:00Z,PEC Zwolle,PSV Eindhoven,,,False,False,False,NED1
+29,29,,5781952,2027-04-10T18:00:00Z,Sparta Rotterdam,Go Ahead Eagles,,,False,False,False,NED1
+29,29,,5781953,2027-04-10T18:00:00Z,Willem II,AZ Alkmaar,,,False,False,False,NED1
+29,29,,5781954,2027-04-10T18:00:00Z,Cambuur,Fortuna Sittard,,,False,False,False,NED1
+29,29,,5781955,2027-04-10T18:00:00Z,ADO Den Haag,Feyenoord,,,False,False,False,NED1
+29,29,,5781956,2027-04-10T18:00:00Z,FC Utrecht,Ajax,,,False,False,False,NED1
+30,30,,5781957,2027-04-24T18:00:00Z,AZ Alkmaar,Cambuur,,,False,False,False,NED1
+30,30,,5781958,2027-04-24T18:00:00Z,FC Twente,NEC Nijmegen,,,False,False,False,NED1
+30,30,,5781959,2027-04-24T18:00:00Z,Excelsior,Willem II,,,False,False,False,NED1
+30,30,,5781960,2027-04-24T18:00:00Z,Go Ahead Eagles,FC Utrecht,,,False,False,False,NED1
+30,30,,5781961,2027-04-24T18:00:00Z,SC Heerenveen,ADO Den Haag,,,False,False,False,NED1
+30,30,,5781962,2027-04-24T18:00:00Z,PSV Eindhoven,Ajax,,,False,False,False,NED1
+30,30,,5781963,2027-04-24T18:00:00Z,PEC Zwolle,Telstar,,,False,False,False,NED1
+30,30,,5781964,2027-04-24T18:00:00Z,Feyenoord,Sparta Rotterdam,,,False,False,False,NED1
+30,30,,5781965,2027-04-24T18:00:00Z,Fortuna Sittard,FC Groningen,,,False,False,False,NED1
+31,31,,5781966,2027-05-01T18:00:00Z,SC Heerenveen,FC Utrecht,,,False,False,False,NED1
+31,31,,5781967,2027-05-01T18:00:00Z,Ajax,Fortuna Sittard,,,False,False,False,NED1
+31,31,,5781968,2027-05-01T18:00:00Z,Sparta Rotterdam,FC Twente,,,False,False,False,NED1
+31,31,,5781969,2027-05-01T18:00:00Z,Telstar,AZ Alkmaar,,,False,False,False,NED1
+31,31,,5781970,2027-05-01T18:00:00Z,FC Groningen,ADO Den Haag,,,False,False,False,NED1
+31,31,,5781971,2027-05-01T18:00:00Z,Feyenoord,Willem II,,,False,False,False,NED1
+31,31,,5781972,2027-05-01T18:00:00Z,NEC Nijmegen,PEC Zwolle,,,False,False,False,NED1
+31,31,,5781973,2027-05-01T18:00:00Z,Go Ahead Eagles,PSV Eindhoven,,,False,False,False,NED1
+31,31,,5781974,2027-05-01T18:00:00Z,Excelsior,Cambuur,,,False,False,False,NED1
+32,32,,5781975,2027-05-08T18:00:00Z,AZ Alkmaar,Ajax,,,False,False,False,NED1
+32,32,,5781976,2027-05-08T18:00:00Z,ADO Den Haag,NEC Nijmegen,,,False,False,False,NED1
+32,32,,5781977,2027-05-08T18:00:00Z,PEC Zwolle,Sparta Rotterdam,,,False,False,False,NED1
+32,32,,5781978,2027-05-08T18:00:00Z,FC Twente,FC Groningen,,,False,False,False,NED1
+32,32,,5781979,2027-05-08T18:00:00Z,Willem II,Telstar,,,False,False,False,NED1
+32,32,,5781980,2027-05-08T18:00:00Z,Fortuna Sittard,Go Ahead Eagles,,,False,False,False,NED1
+32,32,,5781981,2027-05-08T18:00:00Z,FC Utrecht,Feyenoord,,,False,False,False,NED1
+32,32,,5781982,2027-05-08T18:00:00Z,Cambuur,SC Heerenveen,,,False,False,False,NED1
+32,32,,5781983,2027-05-08T18:00:00Z,PSV Eindhoven,Excelsior,,,False,False,False,NED1
+33,33,,5781984,2027-05-16T12:30:00Z,FC Groningen,Cambuur,,,False,False,False,NED1
+33,33,,5781985,2027-05-16T12:30:00Z,FC Utrecht,Telstar,,,False,False,False,NED1
+33,33,,5781986,2027-05-16T12:30:00Z,Excelsior,ADO Den Haag,,,False,False,False,NED1
+33,33,,5781987,2027-05-16T12:30:00Z,Go Ahead Eagles,SC Heerenveen,,,False,False,False,NED1
+33,33,,5781988,2027-05-16T12:30:00Z,FC Twente,Feyenoord,,,False,False,False,NED1
+33,33,,5781989,2027-05-16T12:30:00Z,Ajax,Sparta Rotterdam,,,False,False,False,NED1
+33,33,,5781990,2027-05-16T12:30:00Z,AZ Alkmaar,PEC Zwolle,,,False,False,False,NED1
+33,33,,5781991,2027-05-16T12:30:00Z,PSV Eindhoven,NEC Nijmegen,,,False,False,False,NED1
+33,33,,5781992,2027-05-16T12:30:00Z,Fortuna Sittard,Willem II,,,False,False,False,NED1
+34,34,,5781993,2027-05-23T12:30:00Z,Cambuur,Ajax,,,False,False,False,NED1
+34,34,,5781994,2027-05-23T12:30:00Z,NEC Nijmegen,FC Utrecht,,,False,False,False,NED1
+34,34,,5781995,2027-05-23T12:30:00Z,Willem II,Go Ahead Eagles,,,False,False,False,NED1
+34,34,,5781996,2027-05-23T12:30:00Z,Telstar,Excelsior,,,False,False,False,NED1
+34,34,,5781997,2027-05-23T12:30:00Z,SC Heerenveen,PSV Eindhoven,,,False,False,False,NED1
+34,34,,5781998,2027-05-23T12:30:00Z,Sparta Rotterdam,Fortuna Sittard,,,False,False,False,NED1
+34,34,,5781999,2027-05-23T12:30:00Z,PEC Zwolle,FC Twente,,,False,False,False,NED1
+34,34,,5782000,2027-05-23T12:30:00Z,Feyenoord,FC Groningen,,,False,False,False,NED1
+34,34,,5782001,2027-05-23T12:30:00Z,ADO Den Haag,AZ Alkmaar,,,False,False,False,NED1
+7,7,,5781750,2026-09-20T10:15:00.000Z,Feyenoord,FC Utrecht,5 - 0,FT,True,True,False,NED1
+7,7,,5781751,2026-09-20T14:45:00.000Z,NEC Nijmegen,Go Ahead Eagles,1 - 1,FT,True,True,False,NED1
+7,7,,5781752,2026-09-20T12:30:00.000Z,AZ Alkmaar,Telstar,1 - 0,FT,True,True,False,NED1
+7,7,,5781753,2026-09-20T12:30:00.000Z,FC Twente,PSV Eindhoven,3 - 2,FT,True,True,False,NED1

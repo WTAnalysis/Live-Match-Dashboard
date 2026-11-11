@@ -1,0 +1,553 @@
+﻿round,roundName,group,id,status.utcTime,home_team,away_team,score,result_type,finished,started,cancelled,league
+1,1,,5836754,2026-08-14T19:00:00Z,Wolverhampton Wanderers,Blackburn Rovers,2 - 2,FT,True,True,False,ENG2
+1,1,,5836755,2026-08-15T11:30:00Z,Bolton Wanderers,Preston North End,2 - 1,FT,True,True,False,ENG2
+1,1,,5836756,2026-08-15T14:00:00Z,Bristol City,Millwall,0 - 2,FT,True,True,False,ENG2
+1,1,,5836757,2026-08-15T14:00:00Z,Charlton Athletic,Derby County,2 - 1,FT,True,True,False,ENG2
+1,1,,5836758,2026-08-15T14:00:00Z,Middlesbrough,Lincoln City,2 - 1,FT,True,True,False,ENG2
+1,1,,5836759,2026-08-15T14:00:00Z,Norwich City,West Bromwich Albion,1 - 2,FT,True,True,False,ENG2
+1,1,,5836760,2026-08-15T14:00:00Z,Portsmouth,Queens Park Rangers,1 - 3,FT,True,True,False,ENG2
+1,1,,5836761,2026-08-15T14:00:00Z,Stoke City,Swansea City,1 - 2,FT,True,True,False,ENG2
+1,1,,5836762,2026-08-15T16:30:00Z,Sheffield United,Birmingham City,0 - 0,FT,True,True,False,ENG2
+1,1,,5836763,2026-08-16T12:30:00Z,Watford,Southampton,2 - 1,FT,True,True,False,ENG2
+1,1,,5836764,2026-08-16T15:00:00Z,Burnley,West Ham United,2 - 2,FT,True,True,False,ENG2
+1,1,,5836765,2026-08-17T19:00:00Z,Cardiff City,Wrexham,1 - 1,FT,True,True,False,ENG2
+2,2,,5836766,2026-08-22T11:30:00Z,Birmingham City,Bristol City,2 - 2,FT,True,True,False,ENG2
+2,2,,5836769,2026-08-22T11:30:00Z,Lincoln City,Portsmouth,1 - 3,FT,True,True,False,ENG2
+2,2,,5836770,2026-08-22T11:30:00Z,Millwall,Norwich City,3 - 0,FT,True,True,False,ENG2
+2,2,,5836767,2026-08-22T14:00:00Z,Blackburn Rovers,Middlesbrough,2 - 1,FT,True,True,False,ENG2
+2,2,,5836768,2026-08-22T14:00:00Z,Derby County,Cardiff City,2 - 2,FT,True,True,False,ENG2
+2,2,,5836771,2026-08-22T14:00:00Z,Preston North End,Wolverhampton Wanderers,1 - 3,FT,True,True,False,ENG2
+2,2,,5836772,2026-08-22T14:00:00Z,Queens Park Rangers,Bolton Wanderers,0 - 0,FT,True,True,False,ENG2
+2,2,,5836773,2026-08-22T14:00:00Z,Southampton,Stoke City,3 - 1,FT,True,True,False,ENG2
+2,2,,5836774,2026-08-22T14:00:00Z,Swansea City,Sheffield United,0 - 0,FT,True,True,False,ENG2
+2,2,,5836776,2026-08-22T14:00:00Z,West Ham United,Charlton Athletic,1 - 2,FT,True,True,False,ENG2
+2,2,,5836777,2026-08-22T14:00:00Z,Wrexham,Watford,1 - 1,FT,True,True,False,ENG2
+2,2,,5836775,2026-08-23T11:00:00Z,West Bromwich Albion,Burnley,3 - 1,FT,True,True,False,ENG2
+3,3,,5836789,2026-08-28T19:00:00Z,Wrexham,Birmingham City,1 - 2,FT,True,True,False,ENG2
+3,3,,5836783,2026-08-29T11:30:00Z,Derby County,Swansea City,0 - 3,FT,True,True,False,ENG2
+3,3,,5836784,2026-08-29T11:30:00Z,Middlesbrough,West Bromwich Albion,3 - 1,FT,True,True,False,ENG2
+3,3,,5836788,2026-08-29T11:30:00Z,Wolverhampton Wanderers,Stoke City,4 - 1,FT,True,True,False,ENG2
+3,3,,5836778,2026-08-29T14:00:00Z,Blackburn Rovers,Queens Park Rangers,1 - 2,FT,True,True,False,ENG2
+3,3,,5836779,2026-08-29T14:00:00Z,Bolton Wanderers,Lincoln City,0 - 1,FT,True,True,False,ENG2
+3,3,,5836780,2026-08-29T14:00:00Z,Bristol City,Portsmouth,2 - 1,FT,True,True,False,ENG2
+3,3,,5836781,2026-08-29T14:00:00Z,Cardiff City,Sheffield United,2 - 2,FT,True,True,False,ENG2
+3,3,,5836782,2026-08-29T14:00:00Z,Charlton Athletic,Preston North End,1 - 0,FT,True,True,False,ENG2
+3,3,,5836785,2026-08-29T14:00:00Z,Norwich City,Burnley,4 - 1,FT,True,True,False,ENG2
+3,3,,5836786,2026-08-29T14:00:00Z,Southampton,Millwall,5 - 1,FT,True,True,False,ENG2
+3,3,,5836787,2026-08-29T14:00:00Z,Watford,West Ham United,1 - 1,FT,True,True,False,ENG2
+4,4,,5836791,2026-09-01T18:45:00Z,Lincoln City,Blackburn Rovers,0 - 0,FT,True,True,False,ENG2
+4,4,,5836792,2026-09-01T18:45:00Z,Portsmouth,Derby County,0 - 2,FT,True,True,False,ENG2
+4,4,,5836793,2026-09-01T18:45:00Z,Preston North End,Bristol City,1 - 3,FT,True,True,False,ENG2
+4,4,,5836794,2026-09-01T18:45:00Z,Sheffield United,Bolton Wanderers,3 - 2,FT,True,True,False,ENG2
+4,4,,5836796,2026-09-01T18:45:00Z,Swansea City,Watford,2 - 0,FT,True,True,False,ENG2
+4,4,,5836797,2026-09-01T18:45:00Z,West Ham United,Wolverhampton Wanderers,4 - 2,FT,True,True,False,ENG2
+4,4,,5836790,2026-09-01T19:00:00Z,Birmingham City,Southampton,1 - 1,FT,True,True,False,ENG2
+4,4,,5836795,2026-09-01T19:00:00Z,Stoke City,Norwich City,1 - 0,FT,True,True,False,ENG2
+4,4,,5836799,2026-09-02T18:45:00Z,Millwall,Wrexham,0 - 3,FT,True,True,False,ENG2
+4,4,,5836800,2026-09-02T18:45:00Z,Queens Park Rangers,Cardiff City,2 - 1,FT,True,True,False,ENG2
+4,4,,5836801,2026-09-02T18:45:00Z,West Bromwich Albion,Charlton Athletic,1 - 1,FT,True,True,False,ENG2
+4,4,,5836798,2026-09-02T19:00:00Z,Burnley,Middlesbrough,1 - 1,FT,True,True,False,ENG2
+5,5,,5836804,2026-09-05T11:30:00Z,Lincoln City,Southampton,1 - 1,FT,True,True,False,ENG2
+5,5,,5836807,2026-09-05T11:30:00Z,Preston North End,Blackburn Rovers,2 - 1,FT,True,True,False,ENG2
+5,5,,5836810,2026-09-05T11:30:00Z,Stoke City,Charlton Athletic,4 - 0,FT,True,True,False,ENG2
+5,5,,5836803,2026-09-05T14:00:00Z,Burnley,Bristol City,1 - 2,FT,True,True,False,ENG2
+5,5,,5836805,2026-09-05T14:00:00Z,Millwall,Bolton Wanderers,4 - 0,FT,True,True,False,ENG2
+5,5,,5836806,2026-09-05T14:00:00Z,Portsmouth,Cardiff City,2 - 0,FT,True,True,False,ENG2
+5,5,,5836808,2026-09-05T14:00:00Z,Queens Park Rangers,Middlesbrough,0 - 1,FT,True,True,False,ENG2
+5,5,,5836809,2026-09-05T14:00:00Z,Sheffield United,Norwich City,1 - 3,FT,True,True,False,ENG2
+5,5,,5836812,2026-09-05T14:00:00Z,West Bromwich Albion,Watford,1 - 0,FT,True,True,False,ENG2
+5,5,,5836813,2026-09-05T14:00:00Z,West Ham United,Derby County,3 - 0,FT,True,True,False,ENG2
+5,5,,5836811,2026-09-05T19:00:00Z,Swansea City,Wrexham,0 - 0,FT,True,True,False,ENG2
+5,5,,5836802,2026-09-06T11:00:00Z,Birmingham City,Wolverhampton Wanderers,2 - 2,FT,True,True,False,ENG2
+6,6,,5836814,2026-09-08T18:45:00Z,Blackburn Rovers,Sheffield United,1 - 2,FT,True,True,False,ENG2
+6,6,,5836817,2026-09-08T18:45:00Z,Cardiff City,Stoke City,1 - 1,FT,True,True,False,ENG2
+6,6,,5836819,2026-09-08T18:45:00Z,Southampton,Swansea City,3 - 1,FT,True,True,False,ENG2
+6,6,,5836820,2026-09-08T18:45:00Z,Watford,Preston North End,2 - 1,FT,True,True,False,ENG2
+6,6,,5836825,2026-09-08T18:45:00Z,Wrexham,Burnley,1 - 1,FT,True,True,False,ENG2
+6,6,,5836815,2026-09-08T19:00:00Z,Bolton Wanderers,West Ham United,2 - 3,FT,True,True,False,ENG2
+6,6,,5836823,2026-09-09T18:45:00Z,Derby County,West Bromwich Albion,0 - 1,FT,True,True,False,ENG2
+6,6,,5836824,2026-09-09T18:45:00Z,Norwich City,Birmingham City,2 - 1,FT,True,True,False,ENG2
+6,6,,5836822,2026-09-09T19:00:00Z,Charlton Athletic,Queens Park Rangers,0 - 0,FT,True,True,False,ENG2
+7,7,,5836837,2026-09-11T19:00:00Z,West Ham United,Wrexham,6 - 0,FT,True,True,False,ENG2
+7,7,,5836827,2026-09-12T11:30:00Z,Bolton Wanderers,Cardiff City,1 - 0,FT,True,True,False,ENG2
+7,7,,5836829,2026-09-12T11:30:00Z,Derby County,Birmingham City,1 - 2,FT,True,True,False,ENG2
+7,7,,5836836,2026-09-12T11:30:00Z,West Bromwich Albion,Queens Park Rangers,1 - 1,FT,True,True,False,ENG2
+7,7,,5836826,2026-09-12T14:00:00Z,Blackburn Rovers,Millwall,3 - 1,FT,True,True,False,ENG2
+7,7,,5836828,2026-09-12T14:00:00Z,Charlton Athletic,Portsmouth,0 - 0,FT,True,True,False,ENG2
+7,7,,5836830,2026-09-12T14:00:00Z,Middlesbrough,Norwich City,4 - 3,FT,True,True,False,ENG2
+7,7,,5836831,2026-09-12T14:00:00Z,Preston North End,Lincoln City,0 - 1,FT,True,True,False,ENG2
+7,7,,5836833,2026-09-12T14:00:00Z,Southampton,Bristol City,4 - 1,FT,True,True,False,ENG2
+7,7,,5836834,2026-09-12T14:00:00Z,Swansea City,Burnley,3 - 1,FT,True,True,False,ENG2
+7,7,,5836835,2026-09-12T14:00:00Z,Watford,Stoke City,1 - 2,FT,True,True,False,ENG2
+7,7,,5836832,2026-09-13T11:00:00Z,Sheffield United,Wolverhampton Wanderers,0 - 1,FT,True,True,False,ENG2
+6,6,,5836816,2026-09-15T18:45:00Z,Bristol City,Lincoln City,0 - 1,FT,True,True,False,ENG2
+6,6,,5836818,2026-09-15T18:45:00Z,Middlesbrough,Millwall,2 - 2,FT,True,True,False,ENG2
+8,8,,5836839,2026-09-18T19:00:00Z,Bristol City,Watford,1 - 0,FT,True,True,False,ENG2
+8,8,,5836841,2026-09-19T11:30:00Z,Cardiff City,Charlton Athletic,3 - 1,FT,True,True,False,ENG2
+8,8,,5836843,2026-09-19T11:30:00Z,Millwall,West Ham United,2 - 2,FT,True,True,False,ENG2
+8,8,,5836847,2026-09-19T11:30:00Z,Stoke City,Sheffield United,2 - 1,FT,True,True,False,ENG2
+8,8,,5836838,2026-09-19T14:00:00Z,Birmingham City,Middlesbrough,2 - 2,FT,True,True,False,ENG2
+8,8,,5836840,2026-09-19T14:00:00Z,Burnley,Derby County,1 - 1,FT,True,True,False,ENG2
+8,8,,5836842,2026-09-19T14:00:00Z,Lincoln City,Swansea City,1 - 2,FT,True,True,False,ENG2
+8,8,,5836845,2026-09-19T14:00:00Z,Portsmouth,Blackburn Rovers,2 - 2,FT,True,True,False,ENG2
+8,8,,5836846,2026-09-19T14:00:00Z,Queens Park Rangers,Preston North End,2 - 2,FT,True,True,False,ENG2
+8,8,,5836849,2026-09-19T14:00:00Z,Wrexham,Southampton,2 - 1,FT,True,True,False,ENG2
+9,9,,5836861,2026-10-09T19:00:00Z,West Ham United,Queens Park Rangers,,,False,False,False,ENG2
+9,9,,5836852,2026-10-10T11:30:00Z,Charlton Athletic,Bristol City,,,False,False,False,ENG2
+9,9,,5836858,2026-10-10T11:30:00Z,Swansea City,Norwich City,,,False,False,False,ENG2
+9,9,,5836860,2026-10-10T11:30:00Z,West Bromwich Albion,Birmingham City,,,False,False,False,ENG2
+9,9,,5836850,2026-10-10T14:00:00Z,Blackburn Rovers,Cardiff City,,,False,False,False,ENG2
+9,9,,5836851,2026-10-10T14:00:00Z,Bolton Wanderers,Stoke City,,,False,False,False,ENG2
+9,9,,5836853,2026-10-10T14:00:00Z,Derby County,Wrexham,,,False,False,False,ENG2
+9,9,,5836854,2026-10-10T14:00:00Z,Middlesbrough,Wolverhampton Wanderers,,,False,False,False,ENG2
+9,9,,5836855,2026-10-10T14:00:00Z,Preston North End,Millwall,,,False,False,False,ENG2
+9,9,,5836856,2026-10-10T14:00:00Z,Sheffield United,Lincoln City,,,False,False,False,ENG2
+9,9,,5836859,2026-10-10T14:00:00Z,Watford,Burnley,,,False,False,False,ENG2
+9,9,,5836857,2026-10-11T11:00:00Z,Southampton,Portsmouth,,,False,False,False,ENG2
+10,10,,5836863,2026-10-13T18:45:00Z,Bristol City,Blackburn Rovers,,,False,False,False,ENG2
+10,10,,5836864,2026-10-13T18:45:00Z,Burnley,Charlton Athletic,,,False,False,False,ENG2
+10,10,,5836865,2026-10-13T18:45:00Z,Cardiff City,Watford,,,False,False,False,ENG2
+10,10,,5836866,2026-10-13T18:45:00Z,Millwall,Swansea City,,,False,False,False,ENG2
+10,10,,5836868,2026-10-13T18:45:00Z,Wolverhampton Wanderers,Bolton Wanderers,,,False,False,False,ENG2
+10,10,,5836869,2026-10-13T18:45:00Z,Wrexham,West Bromwich Albion,,,False,False,False,ENG2
+10,10,,5836862,2026-10-13T19:00:00Z,Birmingham City,Preston North End,,,False,False,False,ENG2
+10,10,,5836867,2026-10-13T19:00:00Z,Stoke City,Middlesbrough,,,False,False,False,ENG2
+10,10,,5836871,2026-10-14T18:45:00Z,Norwich City,Southampton,,,False,False,False,ENG2
+10,10,,5836872,2026-10-14T18:45:00Z,Portsmouth,Sheffield United,,,False,False,False,ENG2
+10,10,,5836873,2026-10-14T18:45:00Z,Queens Park Rangers,Derby County,,,False,False,False,ENG2
+10,10,,5836870,2026-10-14T19:00:00Z,Lincoln City,West Ham United,,,False,False,False,ENG2
+11,11,,5836876,2026-10-16T19:00:00Z,Burnley,Wolverhampton Wanderers,,,False,False,False,ENG2
+11,11,,5836878,2026-10-17T11:30:00Z,Middlesbrough,Cardiff City,,,False,False,False,ENG2
+11,11,,5836879,2026-10-17T11:30:00Z,Millwall,Lincoln City,,,False,False,False,ENG2
+11,11,,5836883,2026-10-17T11:30:00Z,Watford,Charlton Athletic,,,False,False,False,ENG2
+11,11,,5836874,2026-10-17T14:00:00Z,Birmingham City,Queens Park Rangers,,,False,False,False,ENG2
+11,11,,5836875,2026-10-17T14:00:00Z,Bristol City,Sheffield United,,,False,False,False,ENG2
+11,11,,5836877,2026-10-17T14:00:00Z,Derby County,Stoke City,,,False,False,False,ENG2
+11,11,,5836880,2026-10-17T14:00:00Z,Norwich City,Portsmouth,,,False,False,False,ENG2
+11,11,,5836881,2026-10-17T14:00:00Z,Southampton,Bolton Wanderers,,,False,False,False,ENG2
+11,11,,5836882,2026-10-17T14:00:00Z,Swansea City,West Ham United,,,False,False,False,ENG2
+11,11,,5836884,2026-10-17T14:00:00Z,West Bromwich Albion,Blackburn Rovers,,,False,False,False,ENG2
+11,11,,5836885,2026-10-17T14:00:00Z,Wrexham,Preston North End,,,False,False,False,ENG2
+6,6,,5836821,2026-10-20T18:45:00Z,Wolverhampton Wanderers,Portsmouth,,,False,False,False,ENG2
+12,12,,5836887,2026-10-23T19:00:00Z,Bolton Wanderers,Middlesbrough,,,False,False,False,ENG2
+12,12,,5836889,2026-10-24T11:30:00Z,Charlton Athletic,Norwich City,,,False,False,False,ENG2
+12,12,,5836891,2026-10-24T11:30:00Z,Portsmouth,Millwall,,,False,False,False,ENG2
+12,12,,5836894,2026-10-24T11:30:00Z,Sheffield United,Derby County,,,False,False,False,ENG2
+12,12,,5836886,2026-10-24T14:00:00Z,Blackburn Rovers,Wrexham,,,False,False,False,ENG2
+12,12,,5836888,2026-10-24T14:00:00Z,Cardiff City,Birmingham City,,,False,False,False,ENG2
+12,12,,5836890,2026-10-24T14:00:00Z,Lincoln City,Burnley,,,False,False,False,ENG2
+12,12,,5836892,2026-10-24T14:00:00Z,Preston North End,West Bromwich Albion,,,False,False,False,ENG2
+12,12,,5836893,2026-10-24T14:00:00Z,Queens Park Rangers,Swansea City,,,False,False,False,ENG2
+12,12,,5836895,2026-10-24T14:00:00Z,Stoke City,Bristol City,,,False,False,False,ENG2
+12,12,,5836896,2026-10-24T14:00:00Z,West Ham United,Southampton,,,False,False,False,ENG2
+12,12,,5836897,2026-10-24T14:00:00Z,Wolverhampton Wanderers,Watford,,,False,False,False,ENG2
+13,13,,5836904,2026-10-30T20:00:00Z,Sheffield United,Wrexham,,,False,False,False,ENG2
+13,13,,5836900,2026-10-31T12:30:00Z,Lincoln City,Birmingham City,,,False,False,False,ENG2
+13,13,,5836903,2026-10-31T12:30:00Z,Norwich City,Watford,,,False,False,False,ENG2
+13,13,,5836906,2026-10-31T12:30:00Z,Stoke City,Preston North End,,,False,False,False,ENG2
+13,13,,5836898,2026-10-31T15:00:00Z,Bolton Wanderers,Bristol City,,,False,False,False,ENG2
+13,13,,5836899,2026-10-31T15:00:00Z,Burnley,Portsmouth,,,False,False,False,ENG2
+13,13,,5836901,2026-10-31T15:00:00Z,Middlesbrough,Charlton Athletic,,,False,False,False,ENG2
+13,13,,5836902,2026-10-31T15:00:00Z,Millwall,Derby County,,,False,False,False,ENG2
+13,13,,5836905,2026-10-31T15:00:00Z,Southampton,Queens Park Rangers,,,False,False,False,ENG2
+13,13,,5836907,2026-10-31T15:00:00Z,Swansea City,Blackburn Rovers,,,False,False,False,ENG2
+13,13,,5836908,2026-10-31T15:00:00Z,West Ham United,West Bromwich Albion,,,False,False,False,ENG2
+13,13,,5836909,2026-10-31T15:00:00Z,Wolverhampton Wanderers,Cardiff City,,,False,False,False,ENG2
+14,14,,5836911,2026-11-03T19:45:00Z,Blackburn Rovers,Stoke City,,,False,False,False,ENG2
+14,14,,5836912,2026-11-03T19:45:00Z,Derby County,Norwich City,,,False,False,False,ENG2
+14,14,,5836913,2026-11-03T19:45:00Z,Portsmouth,Swansea City,,,False,False,False,ENG2
+14,14,,5836914,2026-11-03T19:45:00Z,Preston North End,Sheffield United,,,False,False,False,ENG2
+14,14,,5836915,2026-11-03T19:45:00Z,Queens Park Rangers,Burnley,,,False,False,False,ENG2
+14,14,,5836916,2026-11-03T19:45:00Z,Watford,Lincoln City,,,False,False,False,ENG2
+14,14,,5836920,2026-11-03T19:45:00Z,Charlton Athletic,Bolton Wanderers,,,False,False,False,ENG2
+14,14,,5836910,2026-11-03T20:00:00Z,Birmingham City,Millwall,,,False,False,False,ENG2
+14,14,,5836917,2026-11-03T20:00:00Z,West Bromwich Albion,Southampton,,,False,False,False,ENG2
+14,14,,5836919,2026-11-04T19:45:00Z,Cardiff City,West Ham United,,,False,False,False,ENG2
+14,14,,5836921,2026-11-04T19:45:00Z,Wrexham,Middlesbrough,,,False,False,False,ENG2
+14,14,,5836918,2026-11-04T20:00:00Z,Bristol City,Wolverhampton Wanderers,,,False,False,False,ENG2
+15,15,,5836927,2026-11-06T20:00:00Z,Derby County,Bolton Wanderers,,,False,False,False,ENG2
+15,15,,5836924,2026-11-07T12:30:00Z,Bristol City,Norwich City,,,False,False,False,ENG2
+15,15,,5836928,2026-11-07T12:30:00Z,Portsmouth,Stoke City,,,False,False,False,ENG2
+15,15,,5836933,2026-11-07T12:30:00Z,Wrexham,Wolverhampton Wanderers,,,False,False,False,ENG2
+15,15,,5836922,2026-11-07T15:00:00Z,Birmingham City,Swansea City,,,False,False,False,ENG2
+15,15,,5836923,2026-11-07T15:00:00Z,Blackburn Rovers,West Ham United,,,False,False,False,ENG2
+15,15,,5836925,2026-11-07T15:00:00Z,Cardiff City,Burnley,,,False,False,False,ENG2
+15,15,,5836926,2026-11-07T15:00:00Z,Charlton Athletic,Sheffield United,,,False,False,False,ENG2
+15,15,,5836929,2026-11-07T15:00:00Z,Preston North End,Southampton,,,False,False,False,ENG2
+15,15,,5836930,2026-11-07T15:00:00Z,Queens Park Rangers,Lincoln City,,,False,False,False,ENG2
+15,15,,5836931,2026-11-07T15:00:00Z,Watford,Middlesbrough,,,False,False,False,ENG2
+15,15,,5836932,2026-11-07T15:00:00Z,West Bromwich Albion,Millwall,,,False,False,False,ENG2
+16,16,,5836938,2026-11-21T12:30:00Z,Millwall,Queens Park Rangers,,,False,False,False,ENG2
+16,16,,5836939,2026-11-21T12:30:00Z,Norwich City,Cardiff City,,,False,False,False,ENG2
+16,16,,5836941,2026-11-21T12:30:00Z,Southampton,Derby County,,,False,False,False,ENG2
+16,16,,5836934,2026-11-21T15:00:00Z,Bolton Wanderers,Portsmouth,,,False,False,False,ENG2
+16,16,,5836936,2026-11-21T15:00:00Z,Lincoln City,Wrexham,,,False,False,False,ENG2
+16,16,,5836937,2026-11-21T15:00:00Z,Middlesbrough,Bristol City,,,False,False,False,ENG2
+16,16,,5836940,2026-11-21T15:00:00Z,Sheffield United,Watford,,,False,False,False,ENG2
+16,16,,5836942,2026-11-21T15:00:00Z,Stoke City,Birmingham City,,,False,False,False,ENG2
+16,16,,5836943,2026-11-21T15:00:00Z,Swansea City,West Bromwich Albion,,,False,False,False,ENG2
+16,16,,5836944,2026-11-21T15:00:00Z,West Ham United,Preston North End,,,False,False,False,ENG2
+16,16,,5836945,2026-11-21T15:00:00Z,Wolverhampton Wanderers,Charlton Athletic,,,False,False,False,ENG2
+16,16,,5836935,2026-11-22T12:00:00Z,Burnley,Blackburn Rovers,,,False,False,False,ENG2
+17,17,,5836946,2026-11-24T19:45:00Z,Bristol City,Wrexham,,,False,False,False,ENG2
+17,17,,5836947,2026-11-24T19:45:00Z,Cardiff City,Preston North End,,,False,False,False,ENG2
+17,17,,5836948,2026-11-24T19:45:00Z,Charlton Athletic,Lincoln City,,,False,False,False,ENG2
+17,17,,5836949,2026-11-24T19:45:00Z,Middlesbrough,Swansea City,,,False,False,False,ENG2
+17,17,,5836950,2026-11-24T19:45:00Z,Norwich City,Queens Park Rangers,,,False,False,False,ENG2
+17,17,,5836951,2026-11-24T19:45:00Z,Portsmouth,West Ham United,,,False,False,False,ENG2
+17,17,,5836952,2026-11-24T19:45:00Z,Sheffield United,Southampton,,,False,False,False,ENG2
+17,17,,5836953,2026-11-24T20:00:00Z,Wolverhampton Wanderers,Derby County,,,False,False,False,ENG2
+17,17,,5836954,2026-11-25T19:45:00Z,Bolton Wanderers,West Bromwich Albion,,,False,False,False,ENG2
+17,17,,5836955,2026-11-25T19:45:00Z,Burnley,Birmingham City,,,False,False,False,ENG2
+17,17,,5836957,2026-11-25T19:45:00Z,Watford,Blackburn Rovers,,,False,False,False,ENG2
+17,17,,5836956,2026-11-25T20:00:00Z,Stoke City,Millwall,,,False,False,False,ENG2
+18,18,,5836965,2026-11-27T20:00:00Z,Southampton,Middlesbrough,,,False,False,False,ENG2
+18,18,,5836959,2026-11-28T12:30:00Z,Blackburn Rovers,Charlton Athletic,,,False,False,False,ENG2
+18,18,,5836961,2026-11-28T12:30:00Z,Lincoln City,Wolverhampton Wanderers,,,False,False,False,ENG2
+18,18,,5836963,2026-11-28T12:30:00Z,Preston North End,Norwich City,,,False,False,False,ENG2
+18,18,,5836958,2026-11-28T15:00:00Z,Birmingham City,Bolton Wanderers,,,False,False,False,ENG2
+18,18,,5836960,2026-11-28T15:00:00Z,Derby County,Watford,,,False,False,False,ENG2
+18,18,,5836962,2026-11-28T15:00:00Z,Millwall,Burnley,,,False,False,False,ENG2
+18,18,,5836964,2026-11-28T15:00:00Z,Queens Park Rangers,Sheffield United,,,False,False,False,ENG2
+18,18,,5836967,2026-11-28T15:00:00Z,West Bromwich Albion,Bristol City,,,False,False,False,ENG2
+18,18,,5836968,2026-11-28T15:00:00Z,West Ham United,Stoke City,,,False,False,False,ENG2
+18,18,,5836969,2026-11-28T15:00:00Z,Wrexham,Portsmouth,,,False,False,False,ENG2
+18,18,,5836966,2026-11-29T12:00:00Z,Swansea City,Cardiff City,,,False,False,False,ENG2
+19,19,,5836978,2026-12-04T20:00:00Z,Sheffield United,West Ham United,,,False,False,False,ENG2
+19,19,,5836970,2026-12-05T12:30:00Z,Bolton Wanderers,Blackburn Rovers,,,False,False,False,ENG2
+19,19,,5836971,2026-12-05T12:30:00Z,Bristol City,Swansea City,,,False,False,False,ENG2
+19,19,,5836975,2026-12-05T12:30:00Z,Middlesbrough,Derby County,,,False,False,False,ENG2
+19,19,,5836980,2026-12-05T12:30:00Z,Watford,Millwall,,,False,False,False,ENG2
+19,19,,5836973,2026-12-05T15:00:00Z,Cardiff City,Lincoln City,,,False,False,False,ENG2
+19,19,,5836974,2026-12-05T15:00:00Z,Charlton Athletic,Birmingham City,,,False,False,False,ENG2
+19,19,,5836976,2026-12-05T15:00:00Z,Norwich City,Wrexham,,,False,False,False,ENG2
+19,19,,5836977,2026-12-05T15:00:00Z,Portsmouth,West Bromwich Albion,,,False,False,False,ENG2
+19,19,,5836979,2026-12-05T15:00:00Z,Stoke City,Queens Park Rangers,,,False,False,False,ENG2
+19,19,,5836981,2026-12-05T15:00:00Z,Wolverhampton Wanderers,Southampton,,,False,False,False,ENG2
+19,19,,5836972,2026-12-06T12:00:00Z,Burnley,Preston North End,,,False,False,False,ENG2
+20,20,,5836983,2026-12-08T19:45:00Z,Blackburn Rovers,Norwich City,,,False,False,False,ENG2
+20,20,,5836984,2026-12-08T19:45:00Z,Millwall,Sheffield United,,,False,False,False,ENG2
+20,20,,5836985,2026-12-08T19:45:00Z,Queens Park Rangers,Wolverhampton Wanderers,,,False,False,False,ENG2
+20,20,,5836986,2026-12-08T19:45:00Z,Swansea City,Bolton Wanderers,,,False,False,False,ENG2
+20,20,,5836987,2026-12-08T19:45:00Z,West Bromwich Albion,Cardiff City,,,False,False,False,ENG2
+20,20,,5836989,2026-12-08T19:45:00Z,Wrexham,Charlton Athletic,,,False,False,False,ENG2
+20,20,,5836982,2026-12-08T20:00:00Z,Birmingham City,Watford,,,False,False,False,ENG2
+20,20,,5836988,2026-12-08T20:00:00Z,West Ham United,Middlesbrough,,,False,False,False,ENG2
+20,20,,5836990,2026-12-09T19:45:00Z,Derby County,Bristol City,,,False,False,False,ENG2
+20,20,,5836991,2026-12-09T19:45:00Z,Lincoln City,Stoke City,,,False,False,False,ENG2
+20,20,,5836992,2026-12-09T19:45:00Z,Preston North End,Portsmouth,,,False,False,False,ENG2
+20,20,,5836993,2026-12-09T20:00:00Z,Southampton,Burnley,,,False,False,False,ENG2
+21,21,,5836995,2026-12-11T20:00:00Z,Bolton Wanderers,Wrexham,,,False,False,False,ENG2
+21,21,,5837000,2026-12-12T12:30:00Z,Preston North End,Middlesbrough,,,False,False,False,ENG2
+21,21,,5837001,2026-12-12T12:30:00Z,Queens Park Rangers,Watford,,,False,False,False,ENG2
+21,21,,5837003,2026-12-12T12:30:00Z,Stoke City,West Bromwich Albion,,,False,False,False,ENG2
+21,21,,5836994,2026-12-12T15:00:00Z,Blackburn Rovers,Derby County,,,False,False,False,ENG2
+21,21,,5836996,2026-12-12T15:00:00Z,Cardiff City,Southampton,,,False,False,False,ENG2
+21,21,,5836997,2026-12-12T15:00:00Z,Charlton Athletic,Swansea City,,,False,False,False,ENG2
+21,21,,5836999,2026-12-12T15:00:00Z,Portsmouth,Birmingham City,,,False,False,False,ENG2
+21,21,,5837002,2026-12-12T15:00:00Z,Sheffield United,Burnley,,,False,False,False,ENG2
+21,21,,5837004,2026-12-12T15:00:00Z,West Ham United,Bristol City,,,False,False,False,ENG2
+21,21,,5837005,2026-12-12T15:00:00Z,Wolverhampton Wanderers,Millwall,,,False,False,False,ENG2
+21,21,,5836998,2026-12-13T14:00:00Z,Lincoln City,Norwich City,,,False,False,False,ENG2
+22,22,,5837016,2026-12-18T20:00:00Z,West Bromwich Albion,Sheffield United,,,False,False,False,ENG2
+22,22,,5837006,2026-12-19T12:30:00Z,Birmingham City,West Ham United,,,False,False,False,ENG2
+22,22,,5837007,2026-12-19T12:30:00Z,Bristol City,Cardiff City,,,False,False,False,ENG2
+22,22,,5837011,2026-12-19T12:30:00Z,Millwall,Charlton Athletic,,,False,False,False,ENG2
+22,22,,5837014,2026-12-19T12:30:00Z,Swansea City,Preston North End,,,False,False,False,ENG2
+22,22,,5837015,2026-12-19T12:30:00Z,Watford,Bolton Wanderers,,,False,False,False,ENG2
+22,22,,5837008,2026-12-19T15:00:00Z,Burnley,Stoke City,,,False,False,False,ENG2
+22,22,,5837009,2026-12-19T15:00:00Z,Derby County,Lincoln City,,,False,False,False,ENG2
+22,22,,5837010,2026-12-19T15:00:00Z,Middlesbrough,Portsmouth,,,False,False,False,ENG2
+22,22,,5837012,2026-12-19T15:00:00Z,Norwich City,Wolverhampton Wanderers,,,False,False,False,ENG2
+22,22,,5837013,2026-12-19T15:00:00Z,Southampton,Blackburn Rovers,,,False,False,False,ENG2
+22,22,,5837017,2026-12-19T15:00:00Z,Wrexham,Queens Park Rangers,,,False,False,False,ENG2
+23,23,,5837019,2026-12-26T12:30:00Z,Bolton Wanderers,Burnley,,,False,False,False,ENG2
+23,23,,5837026,2026-12-26T12:30:00Z,Sheffield United,Middlesbrough,,,False,False,False,ENG2
+23,23,,5837018,2026-12-26T15:00:00Z,Blackburn Rovers,Birmingham City,,,False,False,False,ENG2
+23,23,,5837020,2026-12-26T15:00:00Z,Cardiff City,Millwall,,,False,False,False,ENG2
+23,23,,5837021,2026-12-26T15:00:00Z,Charlton Athletic,Southampton,,,False,False,False,ENG2
+23,23,,5837022,2026-12-26T15:00:00Z,Lincoln City,West Bromwich Albion,,,False,False,False,ENG2
+23,23,,5837023,2026-12-26T15:00:00Z,Portsmouth,Watford,,,False,False,False,ENG2
+23,23,,5837024,2026-12-26T15:00:00Z,Preston North End,Derby County,,,False,False,False,ENG2
+23,23,,5837025,2026-12-26T15:00:00Z,Queens Park Rangers,Bristol City,,,False,False,False,ENG2
+23,23,,5837027,2026-12-26T15:00:00Z,Stoke City,Wrexham,,,False,False,False,ENG2
+23,23,,5837028,2026-12-26T15:00:00Z,West Ham United,Norwich City,,,False,False,False,ENG2
+23,23,,5837029,2026-12-26T15:00:00Z,Wolverhampton Wanderers,Swansea City,,,False,False,False,ENG2
+24,24,,5837041,2026-12-29T18:00:00Z,Wrexham,Blackburn Rovers,,,False,False,False,ENG2
+24,24,,5837031,2026-12-29T19:45:00Z,Bristol City,Stoke City,,,False,False,False,ENG2
+24,24,,5837032,2026-12-29T19:45:00Z,Burnley,Lincoln City,,,False,False,False,ENG2
+24,24,,5837033,2026-12-29T19:45:00Z,Derby County,Sheffield United,,,False,False,False,ENG2
+24,24,,5837034,2026-12-29T19:45:00Z,Middlesbrough,Bolton Wanderers,,,False,False,False,ENG2
+24,24,,5837035,2026-12-29T19:45:00Z,Millwall,Portsmouth,,,False,False,False,ENG2
+24,24,,5837036,2026-12-29T19:45:00Z,Norwich City,Charlton Athletic,,,False,False,False,ENG2
+24,24,,5837038,2026-12-29T19:45:00Z,Swansea City,Queens Park Rangers,,,False,False,False,ENG2
+24,24,,5837039,2026-12-29T19:45:00Z,Watford,Wolverhampton Wanderers,,,False,False,False,ENG2
+24,24,,5837040,2026-12-29T19:45:00Z,West Bromwich Albion,Preston North End,,,False,False,False,ENG2
+24,24,,5837030,2026-12-29T20:00:00Z,Birmingham City,Cardiff City,,,False,False,False,ENG2
+24,24,,5837037,2026-12-29T20:15:00Z,Southampton,West Ham United,,,False,False,False,ENG2
+25,25,,5837047,2027-01-01T12:30:00Z,Millwall,Wolverhampton Wanderers,,,False,False,False,ENG2
+25,25,,5837042,2027-01-01T15:00:00Z,Birmingham City,Portsmouth,,,False,False,False,ENG2
+25,25,,5837043,2027-01-01T15:00:00Z,Bristol City,West Ham United,,,False,False,False,ENG2
+25,25,,5837045,2027-01-01T15:00:00Z,Derby County,Blackburn Rovers,,,False,False,False,ENG2
+25,25,,5837046,2027-01-01T15:00:00Z,Middlesbrough,Preston North End,,,False,False,False,ENG2
+25,25,,5837048,2027-01-01T15:00:00Z,Norwich City,Lincoln City,,,False,False,False,ENG2
+25,25,,5837049,2027-01-01T15:00:00Z,Southampton,Cardiff City,,,False,False,False,ENG2
+25,25,,5837050,2027-01-01T15:00:00Z,Swansea City,Charlton Athletic,,,False,False,False,ENG2
+25,25,,5837051,2027-01-01T15:00:00Z,Watford,Queens Park Rangers,,,False,False,False,ENG2
+25,25,,5837052,2027-01-01T15:00:00Z,West Bromwich Albion,Stoke City,,,False,False,False,ENG2
+25,25,,5837053,2027-01-01T15:00:00Z,Wrexham,Bolton Wanderers,,,False,False,False,ENG2
+25,25,,5837044,2027-01-01T17:30:00Z,Burnley,Sheffield United,,,False,False,False,ENG2
+26,26,,5837054,2027-01-16T15:00:00Z,Blackburn Rovers,West Bromwich Albion,,,False,False,False,ENG2
+26,26,,5837055,2027-01-16T15:00:00Z,Bolton Wanderers,Southampton,,,False,False,False,ENG2
+26,26,,5837056,2027-01-16T15:00:00Z,Cardiff City,Middlesbrough,,,False,False,False,ENG2
+26,26,,5837057,2027-01-16T15:00:00Z,Charlton Athletic,Watford,,,False,False,False,ENG2
+26,26,,5837058,2027-01-16T15:00:00Z,Lincoln City,Millwall,,,False,False,False,ENG2
+26,26,,5837059,2027-01-16T15:00:00Z,Portsmouth,Norwich City,,,False,False,False,ENG2
+26,26,,5837060,2027-01-16T15:00:00Z,Preston North End,Wrexham,,,False,False,False,ENG2
+26,26,,5837061,2027-01-16T15:00:00Z,Queens Park Rangers,Birmingham City,,,False,False,False,ENG2
+26,26,,5837062,2027-01-16T15:00:00Z,Sheffield United,Bristol City,,,False,False,False,ENG2
+26,26,,5837063,2027-01-16T15:00:00Z,Stoke City,Derby County,,,False,False,False,ENG2
+26,26,,5837064,2027-01-16T15:00:00Z,West Ham United,Swansea City,,,False,False,False,ENG2
+26,26,,5837065,2027-01-16T15:00:00Z,Wolverhampton Wanderers,Burnley,,,False,False,False,ENG2
+27,27,,5837066,2027-01-23T15:00:00Z,Birmingham City,Lincoln City,,,False,False,False,ENG2
+27,27,,5837067,2027-01-23T15:00:00Z,Blackburn Rovers,Swansea City,,,False,False,False,ENG2
+27,27,,5837068,2027-01-23T15:00:00Z,Bristol City,Bolton Wanderers,,,False,False,False,ENG2
+27,27,,5837069,2027-01-23T15:00:00Z,Cardiff City,Wolverhampton Wanderers,,,False,False,False,ENG2
+27,27,,5837070,2027-01-23T15:00:00Z,Charlton Athletic,Middlesbrough,,,False,False,False,ENG2
+27,27,,5837071,2027-01-23T15:00:00Z,Derby County,Millwall,,,False,False,False,ENG2
+27,27,,5837072,2027-01-23T15:00:00Z,Portsmouth,Burnley,,,False,False,False,ENG2
+27,27,,5837073,2027-01-23T15:00:00Z,Preston North End,Stoke City,,,False,False,False,ENG2
+27,27,,5837074,2027-01-23T15:00:00Z,Queens Park Rangers,Southampton,,,False,False,False,ENG2
+27,27,,5837075,2027-01-23T15:00:00Z,Watford,Norwich City,,,False,False,False,ENG2
+27,27,,5837076,2027-01-23T15:00:00Z,West Bromwich Albion,West Ham United,,,False,False,False,ENG2
+27,27,,5837077,2027-01-23T15:00:00Z,Wrexham,Sheffield United,,,False,False,False,ENG2
+28,28,,5837078,2027-01-26T19:45:00Z,Bolton Wanderers,Charlton Athletic,,,False,False,False,ENG2
+28,28,,5837079,2027-01-26T19:45:00Z,Burnley,Queens Park Rangers,,,False,False,False,ENG2
+28,28,,5837080,2027-01-26T19:45:00Z,Lincoln City,Watford,,,False,False,False,ENG2
+28,28,,5837081,2027-01-26T19:45:00Z,Millwall,Birmingham City,,,False,False,False,ENG2
+28,28,,5837082,2027-01-26T19:45:00Z,Norwich City,Derby County,,,False,False,False,ENG2
+28,28,,5837083,2027-01-26T19:45:00Z,Sheffield United,Preston North End,,,False,False,False,ENG2
+28,28,,5837084,2027-01-26T19:45:00Z,Southampton,West Bromwich Albion,,,False,False,False,ENG2
+28,28,,5837085,2027-01-26T19:45:00Z,Stoke City,Blackburn Rovers,,,False,False,False,ENG2
+28,28,,5837086,2027-01-27T19:45:00Z,Middlesbrough,Wrexham,,,False,False,False,ENG2
+28,28,,5837421,2027-01-27T19:45:00Z,Swansea City,Portsmouth,,,False,False,False,ENG2
+28,28,,5837422,2027-01-27T19:45:00Z,West Ham United,Cardiff City,,,False,False,False,ENG2
+28,28,,5837423,2027-01-27T19:45:00Z,Wolverhampton Wanderers,Bristol City,,,False,False,False,ENG2
+29,29,,5837424,2027-01-30T15:00:00Z,Bolton Wanderers,Derby County,,,False,False,False,ENG2
+29,29,,5837425,2027-01-30T15:00:00Z,Burnley,Cardiff City,,,False,False,False,ENG2
+29,29,,5837426,2027-01-30T15:00:00Z,Lincoln City,Queens Park Rangers,,,False,False,False,ENG2
+29,29,,5837427,2027-01-30T15:00:00Z,Middlesbrough,Watford,,,False,False,False,ENG2
+29,29,,5837428,2027-01-30T15:00:00Z,Millwall,West Bromwich Albion,,,False,False,False,ENG2
+29,29,,5837429,2027-01-30T15:00:00Z,Norwich City,Bristol City,,,False,False,False,ENG2
+29,29,,5837430,2027-01-30T15:00:00Z,Sheffield United,Charlton Athletic,,,False,False,False,ENG2
+29,29,,5837431,2027-01-30T15:00:00Z,Southampton,Preston North End,,,False,False,False,ENG2
+29,29,,5837432,2027-01-30T15:00:00Z,Stoke City,Portsmouth,,,False,False,False,ENG2
+29,29,,5837433,2027-01-30T15:00:00Z,Swansea City,Birmingham City,,,False,False,False,ENG2
+29,29,,5837434,2027-01-30T15:00:00Z,West Ham United,Blackburn Rovers,,,False,False,False,ENG2
+29,29,,5837435,2027-01-30T15:00:00Z,Wolverhampton Wanderers,Wrexham,,,False,False,False,ENG2
+30,30,,5837436,2027-02-06T15:00:00Z,Birmingham City,Stoke City,,,False,False,False,ENG2
+30,30,,5837437,2027-02-06T15:00:00Z,Blackburn Rovers,Burnley,,,False,False,False,ENG2
+30,30,,5837438,2027-02-06T15:00:00Z,Bristol City,Middlesbrough,,,False,False,False,ENG2
+30,30,,5837439,2027-02-06T15:00:00Z,Cardiff City,Norwich City,,,False,False,False,ENG2
+30,30,,5837440,2027-02-06T15:00:00Z,Charlton Athletic,Wolverhampton Wanderers,,,False,False,False,ENG2
+30,30,,5837441,2027-02-06T15:00:00Z,Derby County,Southampton,,,False,False,False,ENG2
+30,30,,5837442,2027-02-06T15:00:00Z,Portsmouth,Bolton Wanderers,,,False,False,False,ENG2
+30,30,,5837443,2027-02-06T15:00:00Z,Preston North End,West Ham United,,,False,False,False,ENG2
+30,30,,5837444,2027-02-06T15:00:00Z,Queens Park Rangers,Millwall,,,False,False,False,ENG2
+30,30,,5837445,2027-02-06T15:00:00Z,Watford,Sheffield United,,,False,False,False,ENG2
+30,30,,5837446,2027-02-06T15:00:00Z,West Bromwich Albion,Swansea City,,,False,False,False,ENG2
+30,30,,5837447,2027-02-06T15:00:00Z,Wrexham,Lincoln City,,,False,False,False,ENG2
+31,31,,5837448,2027-02-13T15:00:00Z,Birmingham City,Derby County,,,False,False,False,ENG2
+31,31,,5837449,2027-02-13T15:00:00Z,Bristol City,Southampton,,,False,False,False,ENG2
+31,31,,5837450,2027-02-13T15:00:00Z,Burnley,Swansea City,,,False,False,False,ENG2
+31,31,,5837451,2027-02-13T15:00:00Z,Cardiff City,Bolton Wanderers,,,False,False,False,ENG2
+31,31,,5837452,2027-02-13T15:00:00Z,Lincoln City,Preston North End,,,False,False,False,ENG2
+31,31,,5837453,2027-02-13T15:00:00Z,Millwall,Blackburn Rovers,,,False,False,False,ENG2
+31,31,,5837454,2027-02-13T15:00:00Z,Norwich City,Middlesbrough,,,False,False,False,ENG2
+31,31,,5837455,2027-02-13T15:00:00Z,Portsmouth,Charlton Athletic,,,False,False,False,ENG2
+31,31,,5837456,2027-02-13T15:00:00Z,Queens Park Rangers,West Bromwich Albion,,,False,False,False,ENG2
+31,31,,5837457,2027-02-13T15:00:00Z,Stoke City,Watford,,,False,False,False,ENG2
+31,31,,5837458,2027-02-13T15:00:00Z,Wolverhampton Wanderers,Sheffield United,,,False,False,False,ENG2
+31,31,,5837459,2027-02-13T15:00:00Z,Wrexham,West Ham United,,,False,False,False,ENG2
+32,32,,5837460,2027-02-16T19:45:00Z,Blackburn Rovers,Bristol City,,,False,False,False,ENG2
+32,32,,5837461,2027-02-16T19:45:00Z,Charlton Athletic,Burnley,,,False,False,False,ENG2
+32,32,,5837462,2027-02-16T19:45:00Z,Derby County,Queens Park Rangers,,,False,False,False,ENG2
+32,32,,5837463,2027-02-16T19:45:00Z,Preston North End,Birmingham City,,,False,False,False,ENG2
+32,32,,5837464,2027-02-16T19:45:00Z,Sheffield United,Portsmouth,,,False,False,False,ENG2
+32,32,,5837465,2027-02-16T19:45:00Z,Watford,Cardiff City,,,False,False,False,ENG2
+32,32,,5837466,2027-02-16T19:45:00Z,West Bromwich Albion,Wrexham,,,False,False,False,ENG2
+32,32,,5837467,2027-02-16T19:45:00Z,West Ham United,Lincoln City,,,False,False,False,ENG2
+32,32,,5837468,2027-02-17T19:45:00Z,Bolton Wanderers,Wolverhampton Wanderers,,,False,False,False,ENG2
+32,32,,5837469,2027-02-17T19:45:00Z,Middlesbrough,Stoke City,,,False,False,False,ENG2
+32,32,,5837470,2027-02-17T19:45:00Z,Southampton,Norwich City,,,False,False,False,ENG2
+32,32,,5837471,2027-02-17T19:45:00Z,Swansea City,Millwall,,,False,False,False,ENG2
+33,33,,5837472,2027-02-20T15:00:00Z,Blackburn Rovers,Portsmouth,,,False,False,False,ENG2
+33,33,,5837473,2027-02-20T15:00:00Z,Bolton Wanderers,Norwich City,,,False,False,False,ENG2
+33,33,,5837474,2027-02-20T15:00:00Z,Charlton Athletic,Cardiff City,,,False,False,False,ENG2
+33,33,,5837475,2027-02-20T15:00:00Z,Derby County,Burnley,,,False,False,False,ENG2
+33,33,,5837476,2027-02-20T15:00:00Z,Middlesbrough,Birmingham City,,,False,False,False,ENG2
+33,33,,5837477,2027-02-20T15:00:00Z,Preston North End,Queens Park Rangers,,,False,False,False,ENG2
+33,33,,5837478,2027-02-20T15:00:00Z,Sheffield United,Stoke City,,,False,False,False,ENG2
+33,33,,5837479,2027-02-20T15:00:00Z,Southampton,Wrexham,,,False,False,False,ENG2
+33,33,,5837480,2027-02-20T15:00:00Z,Swansea City,Lincoln City,,,False,False,False,ENG2
+33,33,,5837481,2027-02-20T15:00:00Z,Watford,Bristol City,,,False,False,False,ENG2
+33,33,,5837482,2027-02-20T15:00:00Z,West Bromwich Albion,Wolverhampton Wanderers,,,False,False,False,ENG2
+33,33,,5837483,2027-02-21T12:00:00Z,West Ham United,Millwall,,,False,False,False,ENG2
+34,34,,5837484,2027-02-27T15:00:00Z,Birmingham City,West Bromwich Albion,,,False,False,False,ENG2
+34,34,,5837485,2027-02-27T15:00:00Z,Bristol City,Charlton Athletic,,,False,False,False,ENG2
+34,34,,5837486,2027-02-27T15:00:00Z,Burnley,Watford,,,False,False,False,ENG2
+34,34,,5837487,2027-02-27T15:00:00Z,Cardiff City,Blackburn Rovers,,,False,False,False,ENG2
+34,34,,5837488,2027-02-27T15:00:00Z,Lincoln City,Sheffield United,,,False,False,False,ENG2
+34,34,,5837489,2027-02-27T15:00:00Z,Millwall,Preston North End,,,False,False,False,ENG2
+34,34,,5837490,2027-02-27T15:00:00Z,Norwich City,Swansea City,,,False,False,False,ENG2
+34,34,,5837492,2027-02-27T15:00:00Z,Queens Park Rangers,West Ham United,,,False,False,False,ENG2
+34,34,,5837493,2027-02-27T15:00:00Z,Stoke City,Bolton Wanderers,,,False,False,False,ENG2
+34,34,,5837494,2027-02-27T15:00:00Z,Wolverhampton Wanderers,Middlesbrough,,,False,False,False,ENG2
+34,34,,5837495,2027-02-27T15:00:00Z,Wrexham,Derby County,,,False,False,False,ENG2
+34,34,,5837491,2027-02-28T12:00:00Z,Portsmouth,Southampton,,,False,False,False,ENG2
+35,35,,5837496,2027-03-02T19:45:00Z,Bolton Wanderers,Queens Park Rangers,,,False,False,False,ENG2
+35,35,,5837497,2027-03-02T19:45:00Z,Bristol City,Birmingham City,,,False,False,False,ENG2
+35,35,,5837498,2027-03-02T19:45:00Z,Burnley,West Bromwich Albion,,,False,False,False,ENG2
+35,35,,5837499,2027-03-02T19:45:00Z,Cardiff City,Derby County,,,False,False,False,ENG2
+35,35,,5837500,2027-03-02T19:45:00Z,Charlton Athletic,West Ham United,,,False,False,False,ENG2
+35,35,,5837501,2027-03-02T19:45:00Z,Middlesbrough,Blackburn Rovers,,,False,False,False,ENG2
+35,35,,5837502,2027-03-02T19:45:00Z,Norwich City,Millwall,,,False,False,False,ENG2
+35,35,,5837503,2027-03-02T19:45:00Z,Watford,Wrexham,,,False,False,False,ENG2
+35,35,,5837504,2027-03-03T19:45:00Z,Portsmouth,Lincoln City,,,False,False,False,ENG2
+35,35,,5837505,2027-03-03T19:45:00Z,Sheffield United,Swansea City,,,False,False,False,ENG2
+35,35,,5837506,2027-03-03T19:45:00Z,Stoke City,Southampton,,,False,False,False,ENG2
+35,35,,5837507,2027-03-03T19:45:00Z,Wolverhampton Wanderers,Preston North End,,,False,False,False,ENG2
+36,36,,5837508,2027-03-06T15:00:00Z,Birmingham City,Sheffield United,,,False,False,False,ENG2
+36,36,,5837509,2027-03-06T15:00:00Z,Blackburn Rovers,Wolverhampton Wanderers,,,False,False,False,ENG2
+36,36,,5837510,2027-03-06T15:00:00Z,Derby County,Charlton Athletic,,,False,False,False,ENG2
+36,36,,5837511,2027-03-06T15:00:00Z,Lincoln City,Middlesbrough,,,False,False,False,ENG2
+36,36,,5837512,2027-03-06T15:00:00Z,Millwall,Bristol City,,,False,False,False,ENG2
+36,36,,5837513,2027-03-06T15:00:00Z,Preston North End,Bolton Wanderers,,,False,False,False,ENG2
+36,36,,5837514,2027-03-06T15:00:00Z,Queens Park Rangers,Portsmouth,,,False,False,False,ENG2
+36,36,,5837515,2027-03-06T15:00:00Z,Southampton,Watford,,,False,False,False,ENG2
+36,36,,5837516,2027-03-06T15:00:00Z,Swansea City,Stoke City,,,False,False,False,ENG2
+36,36,,5837517,2027-03-06T15:00:00Z,West Bromwich Albion,Norwich City,,,False,False,False,ENG2
+36,36,,5837518,2027-03-06T15:00:00Z,West Ham United,Burnley,,,False,False,False,ENG2
+36,36,,5837519,2027-03-06T15:00:00Z,Wrexham,Cardiff City,,,False,False,False,ENG2
+37,37,,5837520,2027-03-13T15:00:00Z,Bolton Wanderers,Birmingham City,,,False,False,False,ENG2
+37,37,,5837521,2027-03-13T15:00:00Z,Bristol City,West Bromwich Albion,,,False,False,False,ENG2
+37,37,,5837522,2027-03-13T15:00:00Z,Burnley,Millwall,,,False,False,False,ENG2
+37,37,,5837523,2027-03-13T15:00:00Z,Cardiff City,Swansea City,,,False,False,False,ENG2
+37,37,,5837524,2027-03-13T15:00:00Z,Charlton Athletic,Blackburn Rovers,,,False,False,False,ENG2
+37,37,,5837525,2027-03-13T15:00:00Z,Middlesbrough,Southampton,,,False,False,False,ENG2
+37,37,,5837526,2027-03-13T15:00:00Z,Norwich City,Preston North End,,,False,False,False,ENG2
+37,37,,5837527,2027-03-13T15:00:00Z,Portsmouth,Wrexham,,,False,False,False,ENG2
+37,37,,5837528,2027-03-13T15:00:00Z,Sheffield United,Queens Park Rangers,,,False,False,False,ENG2
+37,37,,5837529,2027-03-13T15:00:00Z,Stoke City,West Ham United,,,False,False,False,ENG2
+37,37,,5837530,2027-03-13T15:00:00Z,Watford,Derby County,,,False,False,False,ENG2
+37,37,,5837531,2027-03-13T15:00:00Z,Wolverhampton Wanderers,Lincoln City,,,False,False,False,ENG2
+38,38,,5837532,2027-03-16T19:45:00Z,Derby County,Middlesbrough,,,False,False,False,ENG2
+38,38,,5837533,2027-03-16T19:45:00Z,Lincoln City,Cardiff City,,,False,False,False,ENG2
+38,38,,5837534,2027-03-16T19:45:00Z,Preston North End,Burnley,,,False,False,False,ENG2
+38,38,,5837535,2027-03-16T19:45:00Z,Queens Park Rangers,Stoke City,,,False,False,False,ENG2
+38,38,,5837536,2027-03-16T19:45:00Z,Southampton,Wolverhampton Wanderers,,,False,False,False,ENG2
+38,38,,5837537,2027-03-16T19:45:00Z,Swansea City,Bristol City,,,False,False,False,ENG2
+38,38,,5837538,2027-03-16T19:45:00Z,West Bromwich Albion,Portsmouth,,,False,False,False,ENG2
+38,38,,5837539,2027-03-16T19:45:00Z,Wrexham,Norwich City,,,False,False,False,ENG2
+38,38,,5837541,2027-03-17T19:45:00Z,Blackburn Rovers,Bolton Wanderers,,,False,False,False,ENG2
+38,38,,5837542,2027-03-17T19:45:00Z,Millwall,Watford,,,False,False,False,ENG2
+38,38,,5837543,2027-03-17T19:45:00Z,West Ham United,Sheffield United,,,False,False,False,ENG2
+38,38,,5837540,2027-03-17T20:00:00Z,Birmingham City,Charlton Athletic,,,False,False,False,ENG2
+39,39,,5837544,2027-03-20T15:00:00Z,Birmingham City,Blackburn Rovers,,,False,False,False,ENG2
+39,39,,5837545,2027-03-20T15:00:00Z,Bristol City,Queens Park Rangers,,,False,False,False,ENG2
+39,39,,5837546,2027-03-20T15:00:00Z,Burnley,Bolton Wanderers,,,False,False,False,ENG2
+39,39,,5837547,2027-03-20T15:00:00Z,Derby County,Preston North End,,,False,False,False,ENG2
+39,39,,5837548,2027-03-20T15:00:00Z,Middlesbrough,Sheffield United,,,False,False,False,ENG2
+39,39,,5837549,2027-03-20T15:00:00Z,Millwall,Cardiff City,,,False,False,False,ENG2
+39,39,,5837550,2027-03-20T15:00:00Z,Norwich City,West Ham United,,,False,False,False,ENG2
+39,39,,5837551,2027-03-20T15:00:00Z,Southampton,Charlton Athletic,,,False,False,False,ENG2
+39,39,,5837552,2027-03-20T15:00:00Z,Swansea City,Wolverhampton Wanderers,,,False,False,False,ENG2
+39,39,,5837553,2027-03-20T15:00:00Z,Watford,Portsmouth,,,False,False,False,ENG2
+39,39,,5837554,2027-03-20T15:00:00Z,West Bromwich Albion,Lincoln City,,,False,False,False,ENG2
+39,39,,5837555,2027-03-20T15:00:00Z,Wrexham,Stoke City,,,False,False,False,ENG2
+40,40,,5837559,2027-04-03T11:30:00Z,Charlton Athletic,Millwall,,,False,False,False,ENG2
+40,40,,5837556,2027-04-03T14:00:00Z,Blackburn Rovers,Southampton,,,False,False,False,ENG2
+40,40,,5837557,2027-04-03T14:00:00Z,Bolton Wanderers,Watford,,,False,False,False,ENG2
+40,40,,5837558,2027-04-03T14:00:00Z,Cardiff City,Bristol City,,,False,False,False,ENG2
+40,40,,5837560,2027-04-03T14:00:00Z,Lincoln City,Derby County,,,False,False,False,ENG2
+40,40,,5837561,2027-04-03T14:00:00Z,Portsmouth,Middlesbrough,,,False,False,False,ENG2
+40,40,,5837562,2027-04-03T14:00:00Z,Preston North End,Swansea City,,,False,False,False,ENG2
+40,40,,5837563,2027-04-03T14:00:00Z,Queens Park Rangers,Wrexham,,,False,False,False,ENG2
+40,40,,5837564,2027-04-03T14:00:00Z,Sheffield United,West Bromwich Albion,,,False,False,False,ENG2
+40,40,,5837565,2027-04-03T14:00:00Z,Stoke City,Burnley,,,False,False,False,ENG2
+40,40,,5837566,2027-04-03T14:00:00Z,West Ham United,Birmingham City,,,False,False,False,ENG2
+40,40,,5837567,2027-04-03T14:00:00Z,Wolverhampton Wanderers,Norwich City,,,False,False,False,ENG2
+41,41,,5837568,2027-04-06T18:45:00Z,Burnley,Wrexham,,,False,False,False,ENG2
+41,41,,5837569,2027-04-06T18:45:00Z,Lincoln City,Bristol City,,,False,False,False,ENG2
+41,41,,5837570,2027-04-06T18:45:00Z,Millwall,Middlesbrough,,,False,False,False,ENG2
+41,41,,5837571,2027-04-06T18:45:00Z,Portsmouth,Wolverhampton Wanderers,,,False,False,False,ENG2
+41,41,,5837572,2027-04-06T18:45:00Z,Queens Park Rangers,Charlton Athletic,,,False,False,False,ENG2
+41,41,,5837573,2027-04-06T18:45:00Z,Stoke City,Cardiff City,,,False,False,False,ENG2
+41,41,,5837574,2027-04-06T18:45:00Z,Swansea City,Southampton,,,False,False,False,ENG2
+41,41,,5837575,2027-04-06T18:45:00Z,West Ham United,Bolton Wanderers,,,False,False,False,ENG2
+41,41,,5837577,2027-04-07T18:45:00Z,Preston North End,Watford,,,False,False,False,ENG2
+41,41,,5837578,2027-04-07T18:45:00Z,Sheffield United,Blackburn Rovers,,,False,False,False,ENG2
+41,41,,5837579,2027-04-07T18:45:00Z,West Bromwich Albion,Derby County,,,False,False,False,ENG2
+41,41,,5837576,2027-04-07T19:00:00Z,Birmingham City,Norwich City,,,False,False,False,ENG2
+42,42,,5837580,2027-04-10T14:00:00Z,Blackburn Rovers,Preston North End,,,False,False,False,ENG2
+42,42,,5837581,2027-04-10T14:00:00Z,Bolton Wanderers,Millwall,,,False,False,False,ENG2
+42,42,,5837582,2027-04-10T14:00:00Z,Bristol City,Burnley,,,False,False,False,ENG2
+42,42,,5837583,2027-04-10T14:00:00Z,Cardiff City,Portsmouth,,,False,False,False,ENG2
+42,42,,5837584,2027-04-10T14:00:00Z,Charlton Athletic,Stoke City,,,False,False,False,ENG2
+42,42,,5837585,2027-04-10T14:00:00Z,Derby County,West Ham United,,,False,False,False,ENG2
+42,42,,5837586,2027-04-10T14:00:00Z,Middlesbrough,Queens Park Rangers,,,False,False,False,ENG2
+42,42,,5837587,2027-04-10T14:00:00Z,Norwich City,Sheffield United,,,False,False,False,ENG2
+42,42,,5837588,2027-04-10T14:00:00Z,Southampton,Lincoln City,,,False,False,False,ENG2
+42,42,,5837589,2027-04-10T14:00:00Z,Watford,West Bromwich Albion,,,False,False,False,ENG2
+42,42,,5837590,2027-04-10T14:00:00Z,Wolverhampton Wanderers,Birmingham City,,,False,False,False,ENG2
+42,42,,5837591,2027-04-10T14:00:00Z,Wrexham,Swansea City,,,False,False,False,ENG2
+43,43,,5837592,2027-04-17T14:00:00Z,Birmingham City,Wrexham,,,False,False,False,ENG2
+43,43,,5837593,2027-04-17T14:00:00Z,Burnley,Norwich City,,,False,False,False,ENG2
+43,43,,5837594,2027-04-17T14:00:00Z,Lincoln City,Bolton Wanderers,,,False,False,False,ENG2
+43,43,,5837595,2027-04-17T14:00:00Z,Millwall,Southampton,,,False,False,False,ENG2
+43,43,,5837596,2027-04-17T14:00:00Z,Portsmouth,Bristol City,,,False,False,False,ENG2
+43,43,,5837597,2027-04-17T14:00:00Z,Preston North End,Charlton Athletic,,,False,False,False,ENG2
+43,43,,5837598,2027-04-17T14:00:00Z,Queens Park Rangers,Blackburn Rovers,,,False,False,False,ENG2
+43,43,,5837599,2027-04-17T14:00:00Z,Sheffield United,Cardiff City,,,False,False,False,ENG2
+43,43,,5837600,2027-04-17T14:00:00Z,Stoke City,Wolverhampton Wanderers,,,False,False,False,ENG2
+43,43,,5837601,2027-04-17T14:00:00Z,Swansea City,Derby County,,,False,False,False,ENG2
+43,43,,5837602,2027-04-17T14:00:00Z,West Bromwich Albion,Middlesbrough,,,False,False,False,ENG2
+43,43,,5837603,2027-04-17T14:00:00Z,West Ham United,Watford,,,False,False,False,ENG2
+44,44,,5837604,2027-04-20T18:45:00Z,Bolton Wanderers,Sheffield United,,,False,False,False,ENG2
+44,44,,5837605,2027-04-20T18:45:00Z,Charlton Athletic,West Bromwich Albion,,,False,False,False,ENG2
+44,44,,5837606,2027-04-20T18:45:00Z,Derby County,Portsmouth,,,False,False,False,ENG2
+44,44,,5837607,2027-04-20T18:45:00Z,Middlesbrough,Burnley,,,False,False,False,ENG2
+44,44,,5837608,2027-04-20T18:45:00Z,Norwich City,Stoke City,,,False,False,False,ENG2
+44,44,,5837609,2027-04-20T18:45:00Z,Southampton,Birmingham City,,,False,False,False,ENG2
+44,44,,5837610,2027-04-20T18:45:00Z,Wolverhampton Wanderers,West Ham United,,,False,False,False,ENG2
+44,44,,5837611,2027-04-20T18:45:00Z,Wrexham,Millwall,,,False,False,False,ENG2
+44,44,,5837612,2027-04-21T18:45:00Z,Blackburn Rovers,Lincoln City,,,False,False,False,ENG2
+44,44,,5837613,2027-04-21T18:45:00Z,Bristol City,Preston North End,,,False,False,False,ENG2
+44,44,,5837614,2027-04-21T18:45:00Z,Cardiff City,Queens Park Rangers,,,False,False,False,ENG2
+44,44,,5837615,2027-04-21T18:45:00Z,Watford,Swansea City,,,False,False,False,ENG2
+45,45,,5837616,2027-04-24T14:00:00Z,Bolton Wanderers,Swansea City,,,False,False,False,ENG2
+45,45,,5837617,2027-04-24T14:00:00Z,Bristol City,Derby County,,,False,False,False,ENG2
+45,45,,5837618,2027-04-24T14:00:00Z,Burnley,Southampton,,,False,False,False,ENG2
+45,45,,5837619,2027-04-24T14:00:00Z,Cardiff City,West Bromwich Albion,,,False,False,False,ENG2
+45,45,,5837620,2027-04-24T14:00:00Z,Charlton Athletic,Wrexham,,,False,False,False,ENG2
+45,45,,5837621,2027-04-24T14:00:00Z,Middlesbrough,West Ham United,,,False,False,False,ENG2
+45,45,,5837622,2027-04-24T14:00:00Z,Norwich City,Blackburn Rovers,,,False,False,False,ENG2
+45,45,,5837623,2027-04-24T14:00:00Z,Portsmouth,Preston North End,,,False,False,False,ENG2
+45,45,,5837624,2027-04-24T14:00:00Z,Sheffield United,Millwall,,,False,False,False,ENG2
+45,45,,5837625,2027-04-24T14:00:00Z,Stoke City,Lincoln City,,,False,False,False,ENG2
+45,45,,5837626,2027-04-24T14:00:00Z,Watford,Birmingham City,,,False,False,False,ENG2
+45,45,,5837627,2027-04-24T14:00:00Z,Wolverhampton Wanderers,Queens Park Rangers,,,False,False,False,ENG2
+46,46,,5837628,2027-05-01T11:30:00Z,Birmingham City,Burnley,,,False,False,False,ENG2
+46,46,,5837629,2027-05-01T11:30:00Z,Blackburn Rovers,Watford,,,False,False,False,ENG2
+46,46,,5837630,2027-05-01T11:30:00Z,Derby County,Wolverhampton Wanderers,,,False,False,False,ENG2
+46,46,,5837631,2027-05-01T11:30:00Z,Lincoln City,Charlton Athletic,,,False,False,False,ENG2
+46,46,,5837632,2027-05-01T11:30:00Z,Millwall,Stoke City,,,False,False,False,ENG2
+46,46,,5837633,2027-05-01T11:30:00Z,Preston North End,Cardiff City,,,False,False,False,ENG2
+46,46,,5837634,2027-05-01T11:30:00Z,Queens Park Rangers,Norwich City,,,False,False,False,ENG2
+46,46,,5837635,2027-05-01T11:30:00Z,Southampton,Sheffield United,,,False,False,False,ENG2
+46,46,,5837636,2027-05-01T11:30:00Z,Swansea City,Middlesbrough,,,False,False,False,ENG2
+46,46,,5837637,2027-05-01T11:30:00Z,West Bromwich Albion,Bolton Wanderers,,,False,False,False,ENG2
+46,46,,5837638,2027-05-01T11:30:00Z,West Ham United,Portsmouth,,,False,False,False,ENG2
+46,46,,5837639,2027-05-01T11:30:00Z,Wrexham,Bristol City,,,False,False,False,ENG2
+8,8,,5836844,2026-09-20T12:30:00.000Z,Norwich City,Bolton Wanderers,3 - 4,FT,True,True,False,ENG2
+8,8,,5836848,2026-09-20T11:00:00.000Z,Wolverhampton Wanderers,West Bromwich Albion,1 - 0,FT,True,True,False,ENG2
